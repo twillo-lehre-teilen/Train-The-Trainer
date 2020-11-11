@@ -3,7 +3,7 @@
 
 * [HOME](./)
 
-* [TESTS](/Tests)
+* [Function Tests](/tests/index)
 
 * [About](/about/index)
 
