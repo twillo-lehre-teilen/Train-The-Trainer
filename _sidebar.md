@@ -3,7 +3,7 @@
 
 * [HOME](./)
 
-* [About](./about/index.md)
+* [About](./about/index)
 
 * [Quellen]()
 
