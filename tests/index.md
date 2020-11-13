@@ -119,6 +119,7 @@ $`\frac{m}{s^2}`$
   <summary markdown="span">Erklärung</summary>
 
     [Erklärung ...]
+</details>
 
 
 ### Footnote:
