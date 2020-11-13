@@ -4,6 +4,7 @@
   <summary markdown="span">Solution down here.</summary>
 
     Great, you found the solution!
+</details>
 
 
 ## Pictures
