@@ -123,9 +123,15 @@ $`\frac{m}{s^2}`$
 
 ### Footnote:
 
-Sample footnote: [^1]
+Some text[^1].
 
-[^1]: This is how a footnote looks like.
+Some other text[^2].
+
+The identifier in the square brackets does not have to be numeric[^my_footnote].
+
+[^1]: Some footnote.
+[^2]: Other footnote.
+[^my_footnote]: This also works fine.
 
 
 ### Backgorund coloring:
