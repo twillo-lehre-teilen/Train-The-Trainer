@@ -23,7 +23,7 @@
 
 ![GitLab sample audio](./../images/markdown_audio.mp3)
 
-<iframe src="../images/markdown_audio.mp3" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe src="https://soundcloud.com/marthavanstraaten/martha-aufm-sonnendeck-fusion-festival-2016" frameborder="0" allowfullscreen="true"> </iframe>
 
 <figure>
   <audio controls title="GitLab test audio.>
