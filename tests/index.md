@@ -27,7 +27,7 @@
 
 <figure>
   <audio controls title="GitLab test audio.>
-      <source src="./../images/markdown_audio.mp3" type="audio/mpeg">
+      <source src="../images/markdown_audio.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
   </audio>
 </figure>
