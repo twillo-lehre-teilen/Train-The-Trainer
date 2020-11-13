@@ -25,6 +25,14 @@
 
 <iframe src="../images/markdown_audio.mp3" frameborder="0" allowfullscreen="true"> </iframe>
 
+<figure>
+  <audio controls title="GitLab test audio.>
+      <source src="./../images/markdown_audio.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+  </audio>
+</figure>
+
+
 ## Table:
 
 | Features | GitLab | GitHub | Moodle |
@@ -74,12 +82,6 @@ lines
 
 Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
 
-## Schriftgröße
-
- Dieser Text ist riesig
-
-####  Dieser Text ist winzig und geht über mehrere Zeile
-
 ## Formeln
 
 x^2
@@ -116,14 +118,21 @@ Sample footnote: [^1]
 [^1]: This is how a footnote looks like.
 
 
-{% tabs %}
-{% tab title="Question" %}
-content 1
-{% endtab %}
+### Backgorund coloring:
 
-{% tab title="Solution" %}
-content 2
-{% endtab %}
-{% endtabs %}
+<span style="background-color: #FFFF00">This text is highlighted in yellow.</span>
+
+Here is an example of <mark>highlighted text</mark> using the &lt;mark&gt; tag.
+
+### Schriftgröße
+
+<h1> Dieser Text ist riesig</h1>
+
+<h3> Dieser Text ist mittelgroß</h3>
+
+<h6> Dieser Text ist winzig
+  <br>und geht über mehrere Zeilen
+</h6>
+
 
 <script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
