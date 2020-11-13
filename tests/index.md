@@ -118,11 +118,16 @@ The identifier in the square brackets does not have to be numeric[^my_footnote].
 [^my_footnote]: This also works fine.
 
 
-### Backgorund coloring:
+### Coloring:
 
 <span style="background-color: #FFFF00">This text is highlighted in yellow.</span>
 
 Here is an example of <mark>highlighted text</mark> using the &lt;mark&gt; tag.
+
+<h2 style="color:green;">
+  coloured text
+</h2>
+
 
 ### Schriftgröße
 
