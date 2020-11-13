@@ -109,7 +109,17 @@ x^2
    * sub-list
 5. Last one
 
-## Fußnoten
+### Input Box
+
+<label for="uinput">$`g_Planet =`$</label>
+<input type="text" id="uinput" name="uinput">
+$`\frac{m}{s^2}`$
+
+<details>
+  <summary markdown="span">Erklärung</summary>
+
+    [Erklärung ...]
+
 
 ### Footnote:
 
