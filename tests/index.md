@@ -14,8 +14,6 @@ Solution down here. Great, you found the solution!
 
 [![Video mit Bild](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
 
-[![Markdown Logo](.gitbook/assets/markdown_logo%20%281%29.png)](https://github.com/pilotta314/GitHubTestOER/tree/d8b2ca62e46f80d399374f95dd39d733b89b14a1/media/markdown_video.mp4)
-
 <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 
 ### Audio:
