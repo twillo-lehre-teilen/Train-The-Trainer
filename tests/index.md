@@ -1,8 +1,10 @@
 # Tests:
 
-Collapse:
+<details>
+  <summary markdown="span">Solution down here.</summary>
 
-Solution down here. Great, you found the solution!
+    Great, you found the solution!
+
 
 ## Pictures
 
