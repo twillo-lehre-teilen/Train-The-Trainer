@@ -18,7 +18,7 @@ Solution down here. Great, you found the solution!
 
 ### Audio:
 
-![GitLab sample audio](../images/markdown_audio.mp3)
+![GitLab sample audio](./../images/markdown_audio.mp3)
 
 <iframe src="../images/markdown_audio.mp3" frameborder="0" allowfullscreen="true"> </iframe>
 
