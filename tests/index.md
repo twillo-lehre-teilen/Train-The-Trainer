@@ -107,6 +107,15 @@ x^2
    * sub-list
 5. Last one
 
+## Fußnoten
+
+### Footnote:
+
+Sample footnote: [^1]
+
+[^1]: This is how a footnote looks like.
+
+
 {% tabs %}
 {% tab title="Question" %}
 content 1
