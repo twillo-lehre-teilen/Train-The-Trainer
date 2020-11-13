@@ -18,7 +18,7 @@ Solution down here. Great, you found the solution!
 
 ### Audio:
 
-![GitLab sample audio](.gitbook/assets/markdown_audio.mp3)
+![GitLab sample audio](../images/markdown_audio.mp3)
 
 ## Table:
 
