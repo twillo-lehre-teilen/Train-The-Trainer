@@ -53,23 +53,6 @@ def hello
 end
 ```
 
-## Backgorund coloring:
-
- Sample Info-Panel
-
- **Achtung, wichtig!**
-
-`only in one line possible`
-
-```text
-multi
-lines
-```
-
-\[+green=correct+\]
-
-\[-red=false-\]
-
 ## Checkbox:
 
 * [x] Completed task
