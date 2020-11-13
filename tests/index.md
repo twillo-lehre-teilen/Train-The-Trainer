@@ -124,8 +124,8 @@ The identifier in the square brackets does not have to be numeric[^my_footnote].
 
 Here is an example of <mark>highlighted text</mark> using the &lt;mark&gt; tag.
 
-<h2 style="color:green;">
-  coloured text
+<h2 style="color:red;">
+coloured text
 </h2>
 
 
