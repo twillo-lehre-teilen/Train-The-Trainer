@@ -6,7 +6,7 @@ Solution down here. Great, you found the solution!
 
 ## Pictures
 
-![Markdown Logo](.gitbook/assets/markdown_logo.png)
+![Markdown Logo](./../images/markdown_logo.png)
 
 ![Definition der Kraft](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)
 
