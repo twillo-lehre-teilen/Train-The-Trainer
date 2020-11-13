@@ -117,6 +117,19 @@ The identifier in the square brackets does not have to be numeric[^my_footnote].
 [^2]: Other footnote.
 [^my_footnote]: This also works fine.
 
+<sup>
+	<a id="anker1" title="Zur Erläuterung" href="#fn1">[1]</a>
+</sup>
+
+
+
+<ol>
+	<li id="fn1"><a href="#anker1">[1]</a> Der Fußnotentext …</li>
+	<li>…</li>
+</ol>
+
+
+
 
 ### Coloring:
 
