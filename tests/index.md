@@ -1,5 +1,9 @@
 # Tests:
 
+## LiaScript Preview
+
+[preview-lia](https://github.com/pilotta314/GitHubTestOER/blob/master/courseLiaScript.md)
+
 <details>
   <summary markdown="span">Solution down here.</summary>
 
