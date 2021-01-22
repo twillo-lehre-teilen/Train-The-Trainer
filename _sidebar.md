@@ -1,9 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
-
-* [Function Tests](/tests/index)
+* [Übersicht](./)
 
 * [About](/about/index)
 
