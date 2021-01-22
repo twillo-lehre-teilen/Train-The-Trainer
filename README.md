@@ -1,6 +1,8 @@
-# Willkommen beim Online-Brückenkurs Physik 
-## Kapitel 3.1.1 Definition und Messung der Kraft
+# Willkommen beim Crashkurs OER-Materialien 
+## alles was du wissen musst
 
+[Variante 1]
+[variante 2]
 1. [Basiswissen](1.Basiswissen.md)
 2. [Übungsaufgaben_1](2.Aufgaben1.md)
 3. [Definition und Messung der Kraft](3.DefinitionUndMessung.md)
