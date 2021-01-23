@@ -1,8 +1,6 @@
 <center>
 
-# Willkommen beim Crashkurs OER-Materialien 
-
-Herzlich Willkommen
+# Herzlich Willkommen beim Crashkurs für OER-Materialien 
 
 Dieser Leitfaden soll Ihnen als Hilfestellung bei der Entwicklung und/oder Bereitstellung von OER dienen. Hier finden Sie alle relevanten Grundlagen und Informationen, um die Herausforderungen im Umgang mit OER zu meistern.
 
@@ -13,14 +11,4 @@ Im <font color="blue">ersten Kapitel "Lessons Learned"</font> werden die Informa
 Viel Erfolg!
 
 </center>
-
-# Lessons Learned
-
-# Umsetzungsleitfaden
-
-## - alles was du wissen musst
-
-[Variante A](variante1.md)
-
-[Variante B](variante2.md)
 
