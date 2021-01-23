@@ -1,1 +1,0 @@
-anleitung für Aufgabe A
