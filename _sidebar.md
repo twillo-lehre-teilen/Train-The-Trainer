@@ -5,7 +5,7 @@
 
 * [Lessons Learned](lessons_learned.md)
 
-* [Umsetzungsleitfäden:]
+* Umsetzungsleitfäden:
 
   * [Ein OER finden und hochladen](variante1.md)
   
