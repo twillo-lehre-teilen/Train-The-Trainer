@@ -7,9 +7,9 @@
 
 * [Umsetzungsleitfäden:]
 
-  * [Ein OER finden und hochladen](task1.md)
+  * [Ein OER finden und hochladen](variante1.md)
   
-  * [Ein eigenes OER erstellen](task2.md)
+  * [Ein eigenes OER erstellen](variante2.md)
 
 * [About](/about/index)
 
