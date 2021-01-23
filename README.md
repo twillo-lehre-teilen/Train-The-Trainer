@@ -7,7 +7,7 @@ Dieser Leitfaden soll Ihnen als Hilfestellung bei der Entwicklung und/oder Berei
 
 Im <font color="blue">[ersten Kapitel "Lessons Learned"](lessons_learned.md)</font> werden die Informationen aus dem Webinar "XXX" in aller Kürze zusammengefasst. Das <font color="blue">[zweite Kapitel "Umsetzungsleitfaden"](task_overview.md)</font> führt Sie Schritt für Schritt durch die Aufgabenstellung.
 
-![Welcome](images/imgWelcome.png)
+<img src="images/imgWelcome.png" height=300>
 
 Viel Erfolg!
 
