@@ -5,7 +5,7 @@
 <font size="4">Nachdem Sie nun noch mal die wesentlichen Informationen und Hinweise erhalten haben, können Sie nun im Folgenden eine der Aufgaben wählen.</font>
 
 <a href="task1.md">
-  <img src="images/aufgabe1.png" height="100" titel="Aufgabe 1: Finden Sie ein OER im Internet und stellen es im OER-Portal ein. Die Bearbeitungszeit beträgt ca. 30 Minuten."/>
+  <img src="/images/aufgabe1.png" height="100" alt="Aufgabe 1: Finden Sie ein OER im Internet und stellen es im OER-Portal ein. Die Bearbeitungszeit beträgt ca. 30 Minuten." titel="Aufgabe 1: Finden Sie ein OER im Internet und stellen es im OER-Portal ein. Die Bearbeitungszeit beträgt ca. 30 Minuten."/>
 </a>
 
 <font size="4">**Aufgabe 1:** Finden Sie ein OER im Internet und stellen es im OER-Portal ein. Die Bearbeitungszeit beträgt ca. 30 Minuten.</font>
