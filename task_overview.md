@@ -1,4 +1,4 @@
-# Umsetzungsleitfäden:#
+# Umsetzungsleitfäden:
 
 <font size="4">
 Nachdem Sie nun noch mal die wesentlichen Informationen und Hinweise erhalten haben, können Sie nun im Folgenden eine der Aufgaben wählen.
