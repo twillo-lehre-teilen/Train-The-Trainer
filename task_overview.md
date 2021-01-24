@@ -9,7 +9,7 @@ Nachdem Sie nun noch mal die wesentlichen Informationen und Hinweise erhalten ha
 
 **Aufgabe 2:** Wählen Sie ein selbsterstelltes Lehr-/Lernmaterial aus Ihrem Materialfundus aus und stellen es im OER-Portal ein. Die Bearbeitungszeit beträgt ca. 30 Minuten.
 
-<div style="float:left">
+<div style="float:center">
   <a href="#/task1">
     <img src="images/aufgabe1.png" height="100" 
       alt="Aufgabe 12: Finden Sie ein OER im Internet und stellen es im OER-Portal ein. Die Bearbeitungszeit beträgt ca. 30 Minuten." 
