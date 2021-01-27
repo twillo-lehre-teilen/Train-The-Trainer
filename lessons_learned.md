@@ -37,7 +37,7 @@ Die Nutzung von OER (z.B. CC-Lizenzen) erfolgt also nicht im „rechtsfreien Rau
 Ein weiteres zentrales Merkmal von OER ist, dass die Verwendung und Bearbeitung (je nach Lizenztext) möglichst einfach und ohne hohen Kostenaufwand für andere ermöglicht wird. Daher ist der Rückgriff auf weitverbreitete Werkzeuge und Open Source Anwendungen sowie die Speicherung der Materialien in möglichst offene Dateiformate von Vorteil und ein Kennzeichen von OER.
 
 <figure style="position:relative;">
-  <img src="images/merkmale.png" height="100" style="text-align:center;" alt="Kriterien für Dateiformate" titel="Kriterien für Dateiformate"/>
+  <img src="images/merkmale.png" height="300" style="text-align:center;" alt="Kriterien für Dateiformate" titel="Kriterien für Dateiformate"/>
   <figcaption>Kriterien für Dateiformate. Abbildung von Twillo unter CC BY 4.0</figcaption>
 </figure>
 
