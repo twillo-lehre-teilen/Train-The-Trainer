@@ -18,7 +18,7 @@ Bei der Erstellung und Veröffentlichung von OER gibt es einige Merkmale die bea
 Im Folgenden werden die jeweiligen Merkmale erläutert.
 
 <figure>
-  <img src="images/merkmale.png" height="200" style="text-align:center;" alt="Merkmale von OER" titel="Merkmale von OER"/>
+  <img src="images/merkmale.png" height="200" width="100%" style="text-align:center;" alt="Merkmale von OER" titel="Merkmale von OER"/>
   <figcaption style="text-align:center;">Merkmale von OER. Abbildung von Twillo unter CC BY 4.0 (SVG)</figcaption>
 </figure>
 
