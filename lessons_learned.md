@@ -1,3 +1,5 @@
+<font style="font-size:18px">
+
 # Lessons Learned
 
 Wir fassen die wichtigsten Informationen zum Thema OER hier in Kürze noch einmal für Sie zusammen:
@@ -68,6 +70,8 @@ Twillo unterstützt bei der Angabe der Metadaten und begleitet die Veröffentlic
 [Platzhalter]
 
 
+---
 <footer>
   Diese Seite von Twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
 </footer>
+</font>
