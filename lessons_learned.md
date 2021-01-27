@@ -24,7 +24,7 @@ Im Folgenden werden die jeweiligen Merkmale erläutert.
 
 <img src="images/merkmal_lizenz.png" height="100" style="text-align:center" alt="OER sind offen lizenziert" titel="OER sind offen lizenziert"/>
 
-OER sind freie Bildungsmaterialien, die dadurch gekennzeichnet sind, dass sie mit einer <b>offenen Lizenz<b> versehen sind, die Dritten explizit <b>Nutzungsrechte<b> einräumt. Gerade das Lizenzsystem Creative Commons bieten im Bildungskontext viele Vorteile, da die Urheber\*innen durch die entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte Sie Dritten am Bildungsmaterial einräumen möchten. 
+OER sind freie Bildungsmaterialien, die dadurch gekennzeichnet sind, dass sie mit einer <b>offenen Lizenz</b> versehen sind, die Dritten explizit <b>Nutzungsrechte</b> einräumt. Gerade das Lizenzsystem Creative Commons bieten im Bildungskontext viele Vorteile, da die Urheber\*innen durch die entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte Sie Dritten am Bildungsmaterial einräumen möchten. 
 
 <img src="images/lizenzen.png" height="100" style="text-align:center" alt="Lizenz Typen" titel="Lizenz Typen"/>
 
@@ -42,9 +42,9 @@ Ein weiteres zentrales Merkmal von OER ist, dass die Verwendung und Bearbeitung 
 </figure>
 
 3 Kriterien für offene Dateiformate sind:
-<b>Offene Standards:<b> Einfache <font style="color:#00ced1">Weiterverarbeitung</font> durch Open Source Software
-<b>Editierbarkeit:<b> Möglichkeit zur <font style="color:#00ced1">Anpassung</font> der Materialien
-<b>Versionierbarkeit<b> <font style="color:#00ced1">Dokumentation</font> von Änderungen und der Möglichkeit zur <font color="blue">Wiederherstellung</font> von Vorgängerversionen
+<b>Offene Standards:</b> Einfache <font style="color:#00ced1">Weiterverarbeitung</font> durch Open Source Software
+<b>Editierbarkeit:</b> Möglichkeit zur <font style="color:#00ced1">Anpassung</font> der Materialien
+<b>Versionierbarkeit</b> <font style="color:#00ced1">Dokumentation</font> von Änderungen und der Möglichkeit zur <font color="blue">Wiederherstellung</font> von Vorgängerversionen
   
 In der Praxis kann das bedeuten, dass das Bildungsmaterial bei Dokumenten etwa eher im docx- Dateiformat gespeichert ist, als im Dateiformat PDF. Bei der Speicherung das Dateiformat odt dem Dateiformat doc vorzuziehen ist. Eine weitere Möglichkeit besteht auch, das Bildungsmaterial in mehreren Dateiformaten bereitzustellen. Am Beispiel von Dokumenten bietet sich z.B. bei einen Arbeitsblatt an eine PDF-Version für den Lehreinsatz und eine Version im odt-Format für Weiterbearbeitungen bereitzustellen.
 
