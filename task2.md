@@ -30,7 +30,7 @@ hochladen
 
 Sie sind Expert*in Ihres Materials. Daher können Sie ...
 
-<img src="images/Metadaten.png" height="200" alt="Metadaten" titel="Metadaten"/>
+<img src="images/Metadaten.png" height="250" alt="Metadaten" titel="Metadaten"/>
 
 ### Allgemeine Informationen
 
