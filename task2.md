@@ -5,7 +5,7 @@
 
 ## Urheberrechtliche Aspekte & Lizenz
 
-1. Klärung: ausschließlich eigene Materialien oder sind fremde Inhalte integriert? Ja: hat fremde Materialien: / Nein: →
+1. Klärung: ausschließlich eigene Materialien oder sind fremde Inhalte integriert? <br>Ja: hat fremde Materialien: / Nein: →
 2. Lizenzwahl: Welches Lizenzmodul von Creative Commons passt zu Ihrem Material? Für welche Lizenz entscheiden Sie sich? <B>Je offener die Lizenz, desto einfacher ist es in der Nachnutzung.</B>
         a. CC-0 = vollständige Freigabe
         b. CC-BY = Namensnennung erforderlich
