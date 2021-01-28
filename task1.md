@@ -9,3 +9,14 @@
 * Google und YouTube (Lizenz beachten)
 * BETA: OERSI (http://oersi.de/, deutschlandweiter OER-Index)
 * BETA: X5GON (http://discovery.x5gon.org/, europaweiter OER-Index)
+
+## Urheberrechtliche Aspekte und Lizenz
+
+Welche Lizenz liegt vor?
+
+Bei OER-Materialien sollten Sie eindeutig Lizenzhinweise finden. Diese sollten direkt am Material platziert oder als Information gespeichert sein. In der Regel handel es sich um Lizenzmodule von Creative Commons.
+
+Lizenzicons
+Materialien, die mit CC lizenziert sind, dürfen Sie ins OER-Portal stellen. Wir empfehlen allerdings möglichst freie Bildungsmaterialien einzustellen:
+
+<center><img src="images/CCLizenzen.png" height="200" alt="CCLizenzen"/></center>
