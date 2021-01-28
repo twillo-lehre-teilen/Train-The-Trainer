@@ -36,6 +36,7 @@ Sie sind Expert*in Ihres Materials. Daher können Sie ...
 
 <B>Lizenz:</B>
 Geben Sie bei der Urheberangabe ...
+
 <img src="images/MetadatenLizenz.png" height="200" alt="MetadatenLizenz" titel="MetadatenLizenz"/>
 
 <B>Klassifikation:</B> Inhaltstyp & Materialart
