@@ -46,3 +46,4 @@ Verlinken oder lokal herunterladen & wieder im Portal hochladen
 
 <B>Lizenz:</B>
 Übernehmen Sie genau die Lizenz, die das  Material aufweist. Geben Sie bei der Urheberangabe auch die Autor*innen
+<img src="images/MetadatenLizenzen.png" height="350" alt="MetadatenLizenzen" titel="MetadatenLizenzen"/>
