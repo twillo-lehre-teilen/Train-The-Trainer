@@ -40,7 +40,7 @@ Verlinken oder lokal herunterladen & wieder im Portal hochladen
 
 Übernehmen Sie möglichst die Informationen, die Sie am Material auch finden in die Beschreibung.
 
-<img src="images/Metadaten.png" height="200" alt="Metadaten" titel="Metadaten"/>
+<img src="images/Metadaten.png" height="250" alt="Metadaten" titel="Metadaten"/>
 
 ### Allgemeine Informationen
 
