@@ -20,3 +20,5 @@
 
 ## Dateiformate
 In welchem Dateiformat liegt ihr Material vor? Kann beispielsweise eine PDF möglicherweise auch als odt oder docx umgewandelt werden? Damit ermöglichen Sie es anderen ihr Material herunterzuladen und es direkt lokal zu bearbeiten.
+
+## Optionen im OER-Portal
