@@ -19,4 +19,4 @@
 <img src="images/Lizenzangaben.png" height="200" alt="Lizenzangaben" titel:"Lizenzangaben"/>
 
 ## Dateiformate
-In welchem Dateiformat liegt ihr Material vor? Kann beispielsweise eine PDF möglicherweise auch als odt oder docx umgewandelt werden? Damit rmöglichen Sie es anderen ihr Material herunterzuladen und es direkt lokal zu bearbeiten.
+In welchem Dateiformat liegt ihr Material vor? Kann beispielsweise eine PDF möglicherweise auch als odt oder docx umgewandelt werden? Damit ermöglichen Sie es anderen ihr Material herunterzuladen und es direkt lokal zu bearbeiten.
