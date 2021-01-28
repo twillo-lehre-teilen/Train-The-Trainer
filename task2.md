@@ -16,3 +16,6 @@
 3. Positionieren Sie ihren Lizenzhinweis auf Ihrem Bildungsmaterial:
    <br>Video "Lizenzangaben an eigenen Materialien" einbinden/einbette
 <img src="images/Lizenzangaben.png" height="150" alt="Lizenzangaben" titel:"Lizenzangaben"/>
+
+## Dateiformate
+In welchem Dateiformat liegt ihr Material vor? Kann beispielsweise eine PDF möglicherweise auch als odt oder docx umgewandelt werden? Damit rmöglichen Sie es anderen ihr Material herunterzuladen und es direkt lokal zu bearbeiten.
