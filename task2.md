@@ -35,7 +35,7 @@ Sie sind Expert*in Ihres Materials. Daher können Sie ...
 ### Allgemeine Informationen
 
 <B>Lizenz:</B>
-Übernehmen Sie genau die Lizenz, die das  Material aufweist. Geben Sie bei der Urheberangabe auch die Autor*innen
+Geben Sie bei der Urheberangabe ...
 <img src="images/MetadatenLizenz.png" height="200" alt="MetadatenLizenz" titel="MetadatenLizenz"/>
 
 <B>Klassifikation:</B> Inhaltstyp & Materialart
