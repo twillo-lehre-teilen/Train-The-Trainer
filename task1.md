@@ -54,3 +54,15 @@ Inhaltstyp: *Kleinteiliges Lehrmaterial* sind typische Lehrmaterialien wie etwa 
 <B>Didaktische Informationen:</B>
 
 <B>Technische Informationen:</B>
+
+## Freigabe
+
+[Platzhalter]
+
+## OER: Selbstcheck-Tool
+
+[Platzhalter]
+
+## OER Planungshilfe
+
+[Platzhalter]
