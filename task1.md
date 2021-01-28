@@ -35,3 +35,9 @@ Verlinken oder lokal herunterladen & wieder im Portal hochladen
 * **Verlinken** Problem wenn Link ungültig wird
 
 * **Hochladen** wenn OER!
+
+## Metadaten
+
+Übernehmen Sie möglichst die Informationen, die Sie am Material auch finden in die Beschreibung.
+
+<img src="images/Metadaten.png" height="350" alt="Metadaten" titel="Metadaten"/>
