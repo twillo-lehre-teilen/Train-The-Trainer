@@ -74,8 +74,9 @@ Twillo unterstützt bei der Angabe der Metadaten und begleitet die Veröffentlic
 [Platzhalter]
 
 </font>
+
 ---
+
 <footer style="font-size:14px;">
   Diese Seite von Twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
 </footer>
-
