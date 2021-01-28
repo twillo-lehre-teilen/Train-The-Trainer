@@ -20,3 +20,19 @@ Lizenzicons
 Materialien, die mit CC lizenziert sind, dürfen Sie ins OER-Portal stellen. Wir empfehlen allerdings möglichst freie Bildungsmaterialien einzustellen:
 
 <img src="images/CCLizenzen.png" height="300" alt="CCLizenzen"/>
+
+## Dateiformate
+
+[Platzhalter]
+
+## Optionen im OER-Portal
+
+### Material ins OER-Portal einstellen
+
+<img src="images/OEREinstellen.png" height="300" alt="CCLizenzen" title="Anmelden: DFN"/>
+
+Verlinken oder lokal herunterladen & wieder im Portal hochladen
+
+Verlinken (Haken) Problem: wenn link ungültig wird
+
+Hochladen (Haken) wenn OER!
