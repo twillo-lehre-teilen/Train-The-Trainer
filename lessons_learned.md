@@ -67,7 +67,7 @@ Twillo unterstützt bei der Angabe der Metadaten und begleitet die Veröffentlic
 
 [Platzhalter]
 
-<center><img src="images/PlatzhalterInhalttypen.png" height="200" alt="OER sind didaktisch kontextualisiert und strukturiert"/></center>
+<center><img src="images/Platzhalter_Inhalttypen.png" height="200" alt="OER sind didaktisch kontextualisiert und strukturiert"/></center>
 ## CC Lizenzen
 
 [Platzhalter]
