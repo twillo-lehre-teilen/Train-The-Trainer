@@ -40,6 +40,7 @@ Geben Sie bei der Urheberangabe ...
 <img src="images/MetadatenLizenz.png" height="200" alt="MetadatenLizenz" titel="MetadatenLizenz"/>
 
 <B>Klassifikation:</B> Inhaltstyp & Materialart
+
 Inhaltstyp: *Kleinteiliges Lehrmaterial* sind typische Lehrmaterialien wie etwa Abbildungen, Videos, Audio oder Dokumente, die aufbereitete Lehrinhalte beinhalten. Auch Informationsmaterialien wie etwa Handreichungen zählen zu den kleinteiligen Materialien.
 
 <B>Didaktische Informationen:</B>
