@@ -14,4 +14,5 @@
         d. CC-ND (no derivatives) = keine Veränderungen
         e. CC-NC (non commercial) = keine kommerzielle Nutzung
 3. Positionieren Sie ihren Lizenzhinweis auf Ihrem Bildungsmaterial:
-   <br>Video "Lizenzangaben an eigenen Materialien" einbinden/einbetten
+   <br>Video "Lizenzangaben an eigenen Materialien" einbinden/einbette
+<img src="images/Lizenzangaben.png" height="150" alt="Lizenzangaben" titel:"Lizenzangaben"/>
