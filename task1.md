@@ -1,3 +1,5 @@
+<font style="font-size:18px;">
+
 # Finden Sie ein OER im Internet und stellen Sie es ins OER-Portal ein
 
 ## Wo finde ich OER?
@@ -67,3 +69,7 @@ Inhaltstyp: *Kleinteiliges Lehrmaterial* sind typische Lehrmaterialien wie etwa 
 ## OER Planungshilfe
 
 [Platzhalter]
+
+
+
+</font>
