@@ -19,4 +19,4 @@ Bei OER-Materialien sollten Sie eindeutig Lizenzhinweise finden. Diese sollten d
 Lizenzicons
 Materialien, die mit CC lizenziert sind, dürfen Sie ins OER-Portal stellen. Wir empfehlen allerdings möglichst freie Bildungsmaterialien einzustellen:
 
-<center><img src="images/CCLizenzen.png" height="200" alt="CCLizenzen"/></center>
+<img src="images/CCLizenzen.png" height="300" alt="CCLizenzen"/>
