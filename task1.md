@@ -41,3 +41,8 @@ Verlinken oder lokal herunterladen & wieder im Portal hochladen
 Übernehmen Sie möglichst die Informationen, die Sie am Material auch finden in die Beschreibung.
 
 <img src="images/Metadaten.png" height="350" alt="Metadaten" titel="Metadaten"/>
+
+### Allgemeine Informationen
+
+<B>Lizenz:</B>
+Übernehmen Sie genau die Lizenz, die das  Material aufweist. Geben Sie bei der Urheberangabe auch die Autor*innen
