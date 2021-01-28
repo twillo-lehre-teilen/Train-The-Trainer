@@ -27,7 +27,7 @@ Materialien, die mit CC lizenziert sind, dürfen Sie ins OER-Portal stellen. Wir
 
 ## Optionen im OER-Portal
 
-<center><img src="images/OEREinstellen.png" height="350" alt="Anmelden: DNF" titel="Anmelden: DFN"/><B>Material ins OER-Portal einstellen</B></center>
+<center><img src="images/OEREinstellen.png" height="350" alt="Anmelden: DNF" titel="Anmelden: DFN"/><br><B>Material ins OER-Portal einstellen</B></center>
 
 Verlinken oder lokal herunterladen & wieder im Portal hochladen
 
