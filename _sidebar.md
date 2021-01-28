@@ -11,8 +11,4 @@
   
   * [Ein eigenes OER erstellen](task2.md)
 
-* [About](/about/index)
-
-* [Lizenzen](/licenses/index)
-
 * [Quellen](/contact/index)
