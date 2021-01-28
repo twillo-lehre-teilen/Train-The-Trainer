@@ -48,9 +48,9 @@ Verlinken oder lokal herunterladen & wieder im Portal hochladen
 Übernehmen Sie genau die Lizenz, die das  Material aufweist. Geben Sie bei der Urheberangabe auch die Autor*innen
 <img src="images/MetadatenLizenz.png" height="200" alt="MetadatenLizenz" titel="MetadatenLizenz"/>
 
-Klassifikation: Inhaltstyp & Materialart
-Inhaltstyp: Kleinteiliges Lehrmaterial sind typische Lehrmaterialien wie etwa Abbildungen, Videos, Audio oder Dokumente, die aufbereitete Lehrinhalte beinhalten. Auch Informationsmaterialien wie etwa Handreichungen zählen zu den kleinteiligen Materialien.
+<B>Klassifikation:</B> Inhaltstyp & Materialart
+Inhaltstyp: *Kleinteiliges Lehrmaterial* sind typische Lehrmaterialien wie etwa Abbildungen, Videos, Audio oder Dokumente, die aufbereitete Lehrinhalte beinhalten. Auch Informationsmaterialien wie etwa Handreichungen zählen zu den kleinteiligen Materialien.
 
-Didaktische Informationen:
+<B>Didaktische Informationen:</B>
 
-Technische Informationen:
+<B>Technische Informationen:</B>
