@@ -33,6 +33,6 @@ Materialien, die mit CC lizenziert sind, dürfen Sie ins OER-Portal stellen. Wir
 
 Verlinken oder lokal herunterladen & wieder im Portal hochladen
 
-Verlinken (Haken) Problem: wenn link ungültig wird
+* **Verlinken** Problem: wenn link ungültig wird
 
-Hochladen (Haken) wenn OER!
+* **Hochladen** wenn OER!
