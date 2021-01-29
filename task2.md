@@ -23,8 +23,9 @@
 In welchem Dateiformat liegt ihr Material vor? Kann beispielsweise eine PDF möglicherweise auch als odt oder docx umgewandelt werden? Damit ermöglichen Sie es anderen ihr Material herunterzuladen und es direkt lokal zu bearbeiten.
 
 ## Optionen im OER-Portal
+<div class="flex-container">
 <center><img src="images/OEREinstellen.png" height="350" alt="Anmelden: DNF" titel="Anmelden: DFN"/><br><B>Material ins OER-Portal einstellen</B></center>
-
+</div>
 hochladen
 
 ## Metadaten
