@@ -11,8 +11,7 @@
 2. Lizenzwahl: Welches Lizenzmodul von Creative Commons passt zu Ihrem Material? Für welche Lizenz entscheiden Sie sich? <br> <B>Je offener die Lizenz, desto einfacher ist es in der Nachnutzung.</B>
         a. CC-0 = vollständige Freigabe
         b. CC-BY = Namensnennung erforderlich
-        c. CC-SA (share alike) = „viral“ abstammende Werke
-                     müssen dieselbe Lizenz haben
+        c. CC-SA (share alike) = „viral“ abstammende Werke müssen dieselbe Lizenz haben
         d. CC-ND (no derivatives) = keine Veränderungen
         e. CC-NC (non commercial) = keine kommerzielle Nutzung
 3. Positionieren Sie ihren Lizenzhinweis auf Ihrem Bildungsmaterial:
@@ -42,7 +41,7 @@ Geben Sie bei der Urheberangabe ...
 <img src="images/MetadatenLizenz.png" height="200" alt="MetadatenLizenz" titel="MetadatenLizenz"/>
 
 <B>Klassifikation:</B> Inhaltstyp & Materialart
-
+<br>
 Inhaltstyp: *Kleinteiliges Lehrmaterial* sind typische Lehrmaterialien wie etwa Abbildungen, Videos, Audio oder Dokumente, die aufbereitete Lehrinhalte beinhalten. Auch Informationsmaterialien wie etwa Handreichungen zählen zu den kleinteiligen Materialien.
 
 <B>Didaktische Informationen:</B>
