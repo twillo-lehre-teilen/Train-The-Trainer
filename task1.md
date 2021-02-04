@@ -1,3 +1,5 @@
+<font style="font-size:18px;">
+
 # Finden Sie ein OER im Internet und stellen Sie es ins OER-Portal ein
 
 ## Wo finde ich OER?
@@ -27,8 +29,7 @@ Materialien, die mit CC lizenziert sind, dürfen Sie ins OER-Portal stellen. Wir
 
 ## Optionen im OER-Portal
 
-<center><img src="images/OEREinstellen.png" height="350" alt="Anmelden: DNF" titel="Anmelden: DFN"/><br><B>Material ins OER-Portal einstellen</B></center>
-
+<center><img src="images/OEREinstellen.png" max-width: 100%; height: auto; alt="Anmelden: DNF" titel="Anmelden: DFN"/><br><B>Material ins OER-Portal einstellen</B></center>
 
 Verlinken oder lokal herunterladen & wieder im Portal hochladen
 
@@ -49,7 +50,7 @@ Verlinken oder lokal herunterladen & wieder im Portal hochladen
 <img src="images/MetadatenLizenz.png" height="200" alt="MetadatenLizenz" titel="MetadatenLizenz"/>
 
 <B>Klassifikation:</B> Inhaltstyp & Materialart
-
+<br>
 Inhaltstyp: *Kleinteiliges Lehrmaterial* sind typische Lehrmaterialien wie etwa Abbildungen, Videos, Audio oder Dokumente, die aufbereitete Lehrinhalte beinhalten. Auch Informationsmaterialien wie etwa Handreichungen zählen zu den kleinteiligen Materialien.
 
 <B>Didaktische Informationen:</B>
@@ -67,3 +68,7 @@ Inhaltstyp: *Kleinteiliges Lehrmaterial* sind typische Lehrmaterialien wie etwa 
 ## OER Planungshilfe
 
 [Platzhalter]
+
+
+
+</font>
