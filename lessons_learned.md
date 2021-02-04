@@ -71,7 +71,7 @@ Twillo unterstützt bei der Angabe der Metadaten und begleitet die Veröffentlic
 
 ## CC Lizenzen
 
-[Platzhalter]
+[Platzhalter] 
 
 </font>
 
