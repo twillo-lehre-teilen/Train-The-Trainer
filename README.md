@@ -11,6 +11,17 @@ Im <font color="blue">[ersten Kapitel "Lessons Learned"](lessons_learned.md)</fo
 
 Viel Erfolg!
 
+<style type="text/css">
+.btbutton { 
+	width:100%;
+	height:400px;	
+	background:src="images/imgWelcome.png";
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+}
+</style>
+
 </font>
 </center>
 
