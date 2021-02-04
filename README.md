@@ -9,6 +9,8 @@ Im <font color="blue">[ersten Kapitel "Lessons Learned"](lessons_learned.md)</fo
 
 <img src="images/imgWelcome.png" height=300>
 
+<img src="images/OEREinstellen.png" height=300>
+
 Viel Erfolg!
 
 </font>
