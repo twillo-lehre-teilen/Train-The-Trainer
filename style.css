@@ -271,7 +271,7 @@ main.hidden {
 /* sidebar-toggle == Button zum ein-/ausklappen*/
 .sidebar-toggle {
   background-color: transparent;
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(255,100,255,0.8);
   border: 0;
   outline: none;
   padding: 10px;
@@ -280,7 +280,7 @@ main.hidden {
   left: 0;
   text-align: center;
   transition: opacity 0.3s;
-  width: 20px;
+  width: 50px;
   z-index: 30;
   cursor: pointer;
 }
