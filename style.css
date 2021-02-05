@@ -558,12 +558,12 @@ section.cover ul {
   padding: 0;
 }
 section.cover .cover-main > p:last-child a {
-  border-color: var(--theme-color, #42b983);
+  border-color: var(--theme-color, #54B6B5);
   border-radius: 2rem;
   border-style: solid;
   border-width: 1px;
   box-sizing: border-box;
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #54B6B5);
   display: inline-block;
   font-size: 1.05rem;
   letter-spacing: 0.1rem;
@@ -573,7 +573,7 @@ section.cover .cover-main > p:last-child a {
   transition: all 0.15s ease;
 }
 section.cover .cover-main > p:last-child a:last-child {
-  background-color: var(--theme-color, #42b983);
+  background-color: var(--theme-color, #54B6B5);
   color: #fff;
 }
 section.cover .cover-main > p:last-child a:last-child:hover {
@@ -584,11 +584,11 @@ section.cover .cover-main > p:last-child a:hover {
   color: inherit;
 }
 section.cover blockquote > p > a {
-  border-bottom: 2px solid var(--theme-color, #42b983);
+  border-bottom: 2px solid var(--theme-color, #54B6B5);
   transition: color 0.3s;
 }
 section.cover blockquote > p > a:hover {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #54B6B5);
 }
 body {
   background-color: #fff;
@@ -603,8 +603,8 @@ body {
 }
 .sidebar ul li a {
   color: #0A1F40;
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 18px;
+  font-weight: 600;
   overflow: hidden;
   text-decoration: none;
   text-overflow: ellipsis;
@@ -618,7 +618,7 @@ body {
 }
 .sidebar ul li.active > a {
   border-right: 2px solid;
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #54B6B5);
   font-weight: 600;
 }
 .app-sub-sidebar li::before {
@@ -636,7 +636,7 @@ body {
   font-weight: 600;
 }
 .markdown-section a {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #54B6B5);
   font-weight: 600;
 }
 .markdown-section h1 {
@@ -676,7 +676,7 @@ body {
   padding-left: 1.5rem;
 }
 .markdown-section blockquote {
-  border-left: 4px solid var(--theme-color, #42b983);
+  border-left: 4px solid var(--theme-color, #54B6B5);
   color: #858585;
   margin: 2em 0;
   padding-left: 20px;
@@ -737,7 +737,7 @@ body {
   color: #2973b7;
 }
 .token.string {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #54B6B5);
 }
 .token.selector {
   color: #6679cc;
@@ -755,7 +755,7 @@ body {
 .token.control,
 .token.directive,
 .token.unit {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #54B6B5);
 }
 .token.keyword,
 .token.function {
