@@ -204,7 +204,7 @@ main.hidden {
 }
 /*-- sidebar (unten gibts nochmal sidebar sachen (glaube hier sturktur/rahmen/button etc. und unten inhalt)--*/
 .sidebar {
-  border-right: 2px solid #D1D8E1;
+  border-right: 2px solid #F0F2F6;
   overflow-y: auto;
   padding: 40px 0 0;
   position: absolute;
@@ -230,8 +230,8 @@ main.hidden {
   position: static;
 }
 .sidebar .sidebar-nav {
-  line-height: 1.5em; /*Sidebar Zeilenabstand*/
-  padding-bottom: 40px;
+  line-height: 2em; /*Sidebar Zeilenabstand*/
+  padding-bottom: 20px;
 }
 .sidebar li.collapse .app-sub-sidebar {
   display: none;
@@ -271,7 +271,7 @@ main.hidden {
 /* sidebar-toggle == Button zum ein-/ausklappen*/
 .sidebar-toggle {
   background-color: transparent;
-  background-color: rgba(255,255,255,0.8);
+  background-color: #F0F2F6;
   border: 0;
   outline: none;
   padding: 10px;
@@ -604,7 +604,8 @@ body {
 .sidebar ul li a {
   color: #505d6b;
   font-size: 20px;
-  font-weight: normal;
+  font-weight: 500;
+  font-color: #0A1F40;
   overflow: hidden;
   text-decoration: none;
   text-overflow: ellipsis;
