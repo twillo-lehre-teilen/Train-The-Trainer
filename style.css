@@ -17,7 +17,7 @@ body:not(.ready) > nav {
 }
 div#app {
   font-size: 30px;
-  font-weight: normal;
+  font-weight: lighter;
   margin: 40vh auto;
   text-align: center;
 }
@@ -397,7 +397,7 @@ body.close .sidebar {
   transform: translateX(-300px);
 }
 body.close .sidebar-toggle {
-  background-color: #fff;
+  background-color: transparent;
   width: auto;
 }
 body.close .content {
