@@ -202,14 +202,12 @@ main.hidden {
 .anchor:hover {
   text-decoration: underline;
 }
-/*-- sidebar --*/
+/*-- sidebar (unten gibts nochmal sidebar sachen (glaube hier sturktur/rahmen/button etc. und unten inhalt)--*/
 .sidebar {
   border-right: 2px solid #D1D8E1;
   overflow-y: auto;
   padding: 40px 0 0;
   position: absolute;
-  font-size: 22px;
-  color: #0A1F40;
   top: 0;
   bottom: 0;
   left: 0;
@@ -273,7 +271,7 @@ main.hidden {
 /* sidebar-toggle == Button zum ein-/ausklappen*/
 .sidebar-toggle {
   background-color: transparent;
-  background-color: rgba(255,100,255,0.8);
+  background-color: rgba(255,255,255,0.8);
   border: 0;
   outline: none;
   padding: 10px;
@@ -597,15 +595,15 @@ body {
 }
 /* sidebar */
 .sidebar {
-  background-color: #fff;
-  color: #364149;
+  color: #0A1F40;
+  background-color: #F0F2F6;
 }
 .sidebar li {
   margin: 6px 0 6px 0;
 }
 .sidebar ul li a {
   color: #505d6b;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: normal;
   overflow: hidden;
   text-decoration: none;
