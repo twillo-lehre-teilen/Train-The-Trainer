@@ -54,10 +54,9 @@ body {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  /*color: #34495e;*/
-  color: #F0F2F6;
+  color: #0A1F40; /*Standard Schriftfarbe*/
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
-  font-size: 15px;
+  font-size: 22px; /*Standard Schriftgröße*/
   letter-spacing: 0;
   margin: 0;
   overflow-x: hidden;
