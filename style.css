@@ -230,7 +230,7 @@ main.hidden {
   position: static;
 }
 .sidebar .sidebar-nav {
-  line-height: 2em; /*Sidebar Zeilenabstand*/
+  line-height: 26px; /*Sidebar Zeilenabstand*/
   padding-bottom: 20px;
 }
 .sidebar li.collapse .app-sub-sidebar {
@@ -288,7 +288,7 @@ main.hidden {
   opacity: 0.4;
 }
 .sidebar-toggle span {
-  background-color: var(--theme-color, #A6D492);
+  background-color: var(--theme-color, #0A1F40);
   display: block;
   margin-bottom: 4px;
   width: 16px;
@@ -602,10 +602,9 @@ body {
   margin: 6px 0 6px 0;
 }
 .sidebar ul li a {
-  color: #505d6b;
+  color: #0A1F40;
   font-size: 20px;
   font-weight: 500;
-  font-color: #0A1F40;
   overflow: hidden;
   text-decoration: none;
   text-overflow: ellipsis;
