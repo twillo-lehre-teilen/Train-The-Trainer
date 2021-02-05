@@ -29,7 +29,7 @@ div#app:empty::before {
   vertical-align: middle;
 }
 .progress {
-  background-color: var(--theme-color, #42b983);
+  background-color: var(--theme-color, #54B6B5);
   height: 2px;
   left: 0px;
   position: fixed;
@@ -40,10 +40,10 @@ div#app:empty::before {
   z-index: 999999;
 }
 .search a:hover {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #54B6B5);
 }
 .search .search-keyword {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #54B6B5);
   font-style: normal;
   font-weight: bold;
 }
@@ -114,11 +114,11 @@ li input[type='checkbox'] {
   transition: color 0.3s;
 }
 .app-nav a:hover {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #54B6B5);
 }
 .app-nav a.active {
-  border-bottom: 2px solid var(--theme-color, #42b983);
-  color: var(--theme-color, #42b983);
+  border-bottom: 2px solid var(--theme-color, #54B6B5);
+  color: var(--theme-color, #54B6B5);
 }
 .app-nav li {
   display: inline-block;
@@ -177,7 +177,7 @@ li input[type='checkbox'] {
 }
 .github-corner svg {
   color: #fff;
-  fill: var(--theme-color, #42b983);
+  fill: var(--theme-color, #54B6B5);
   height: 80px;
   width: 80px;
 }
