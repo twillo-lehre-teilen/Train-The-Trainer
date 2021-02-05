@@ -61,14 +61,18 @@ body {
   margin: 0;
   overflow-x: hidden;
 }
+/*-- bold settings --*/
 b {
   color: #000;
   font-weight: 1000;
 }
+/*-- images --*/
 img {
+  /*center alignement*/
   display: block;
   margin-left: auto;
   margin-right: auto;
+  /*max sizes*/
   max-height: 400px;
   max-width: 100%;
 }
