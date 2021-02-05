@@ -271,7 +271,7 @@ main.hidden {
 /* sidebar-toggle == Button zum ein-/ausklappen*/
 .sidebar-toggle {
   background-color: transparent;
-  background-color: rgba(255,200,255,100);
+  background-color: rgba(255,255,255,0.8);
   border: 0;
   outline: none;
   padding: 10px;
@@ -279,19 +279,19 @@ main.hidden {
   bottom: 0;
   left: 0;
   text-align: center;
-  transition: opacity 0.2s;
+  transition: opacity 0.3s;
   width: 284px;
   z-index: 30;
   cursor: pointer;
 }
 .sidebar-toggle:hover .sidebar-toggle-button {
-  opacity: 0.3;
+  opacity: 0.4;
 }
 .sidebar-toggle span {
   background-color: var(--theme-color, #A6D492);
   display: block;
   margin-bottom: 4px;
-  width: 16px;
+  width: 18px;
   height: 2px;
 }
 body.sticky .sidebar,
