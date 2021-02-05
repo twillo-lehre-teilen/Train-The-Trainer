@@ -217,7 +217,7 @@ main.hidden {
 }
 .sidebar > h1 {
   margin: 0 auto 1rem;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 300;
   text-align: center;
 }
@@ -230,7 +230,9 @@ main.hidden {
   position: static;
 }
 .sidebar .sidebar-nav {
-  line-height: 1em;
+  font-size: 22px;
+  color: #0A1F40;
+  line-height: 1.5em;
   padding-bottom: 40px;
 }
 .sidebar li.collapse .app-sub-sidebar {
