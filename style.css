@@ -288,7 +288,7 @@ main.hidden {
   opacity: 0.4;
 }
 .sidebar-toggle span {
-  background-color: var(--theme-color, #0A1F40);
+  background-color: var(--theme-color, #54B6B5);
   display: block;
   margin-bottom: 4px;
   width: 16px;
@@ -604,7 +604,7 @@ body {
 .sidebar ul li a {
   color: #0A1F40;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   overflow: hidden;
   text-decoration: none;
   text-overflow: ellipsis;
