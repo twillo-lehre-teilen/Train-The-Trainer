@@ -62,10 +62,10 @@ body {
   overflow-x: hidden;
 }
 b {
-  font-weight: 100;
-  color: #fff;
+  font-weight: 1000;
 }
 img {
+  max-height: 100%;
   max-width: 100%;
 }
 a[disabled] {
