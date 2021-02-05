@@ -82,6 +82,7 @@ li input[type='checkbox'] {
   margin: 0 0.2em 0.25em 0;
   vertical-align: middle;
 }
+/*app-nav == sidebar/navbar*/
 .app-nav {
   margin: 25px 60px 0 0;
   position: absolute;
@@ -127,9 +128,9 @@ li input[type='checkbox'] {
   cursor: pointer;
 }
 .app-nav li ul {
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-bottom-color: #ccc;
+  background-color: #F0F2F6;
+  border: 1px solid #D1D8E1;
+  border-bottom-color: #D1D8E1;
   border-radius: 4px;
   box-sizing: border-box;
   display: none;
