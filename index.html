@@ -18,6 +18,15 @@
       //repo: 'https://github.com/pilotta314/OERTestDocsify',
       loadSidebar: true,
       search: 'auto',
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: 'auto',
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+        // Headline depth, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      },
       auto2top: true,
       noEmoji: true,
       logo: '/images/twillo_logo.svg',
