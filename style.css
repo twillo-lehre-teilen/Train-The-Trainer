@@ -62,7 +62,7 @@ body {
   overflow-x: hidden;
 }
 b {
-  font-weight: 700 
+  font-weight: 100 
 }
 img {
   max-width: 100%;
@@ -274,7 +274,6 @@ main.hidden {
 /* sidebar-toggle == Button zum ein-/ausklappen*/
 .sidebar-toggle {
   background-color: transparent;
-  background-color: #F0F2F6;
   border: 0;
   outline: none;
   padding: 10px;
