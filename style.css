@@ -17,7 +17,7 @@ body:not(.ready) > nav {
 }
 div#app {
   font-size: 30px;
-  font-weight: lighter;
+  font-weight: normal;
   margin: 40vh auto;
   text-align: center;
 }
@@ -397,7 +397,7 @@ body.close .sidebar {
   transform: translateX(-300px);
 }
 body.close .sidebar-toggle {
-  background-color: #F25B68;
+  background-color: #fff;
   width: auto;
 }
 body.close .content {
@@ -634,7 +634,7 @@ body {
 .markdown-section h4,
 .markdown-section strong {
   color: #2c3e50;
-  font-weight: 650;
+  font-weight: 700;
 }
 .markdown-section a {
   color: var(--theme-color, #54B6B5);
