@@ -21,7 +21,7 @@ Bei OER-Materialien sollten Sie eindeutig Lizenzhinweise finden. Diese sollten d
 Lizenzicons
 Materialien, die mit CC lizenziert sind, dürfen Sie ins OER-Portal stellen. Wir empfehlen allerdings möglichst freie Bildungsmaterialien einzustellen:
 
-<img src="images/CCLizenzen.png" height="300" alt="CCLizenzen"/>
+<img src="images/oer_skala.svg" alt="CCLizenzen"/>
 
 ## Dateiformate
 
@@ -29,7 +29,7 @@ Materialien, die mit CC lizenziert sind, dürfen Sie ins OER-Portal stellen. Wir
 
 ## Optionen im OER-Portal
 
-<center><img src="images/OEREinstellen.png" max-width="150" alt="Anmelden: DNF" titel="Anmelden: DFN"/><br><B>Material ins OER-Portal einstellen</B></center>
+<center><img src="images/OER-Portal_Workflow_Grafik.svg" max-width="150" alt="Anmelden: DNF" titel="Anmelden: DFN"/><br><B>Material ins OER-Portal einstellen</B></center>
 
 Verlinken oder lokal herunterladen & wieder im Portal hochladen
 
@@ -41,13 +41,13 @@ Verlinken oder lokal herunterladen & wieder im Portal hochladen
 
 Übernehmen Sie möglichst die Informationen, die Sie am Material auch finden in die Beschreibung.
 
-<img src="images/Metadaten.png" height="250" alt="Metadaten" titel="Metadaten"/>
+<img src="images/general_structure.svg" alt="Metadaten" titel="Metadaten"/>
 
 ### Allgemeine Informationen
 
 <B>Lizenz:</B>
 Übernehmen Sie genau die Lizenz, die das  Material aufweist. Geben Sie bei der Urheberangabe auch die Autor*innen
-<img src="images/MetadatenLizenz.png" height="200" alt="MetadatenLizenz" titel="MetadatenLizenz"/>
+<img src="images/urheber.svg" alt="MetadatenLizenz" titel="MetadatenLizenz"/>
 
 <B>Klassifikation:</B> Inhaltstyp & Materialart
 <br>
