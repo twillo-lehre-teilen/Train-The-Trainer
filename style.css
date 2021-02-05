@@ -62,7 +62,8 @@ body {
   overflow-x: hidden;
 }
 b {
-  font-weight: 100 
+  font-weight: 100;
+  color: #fff;
 }
 img {
   max-width: 100%;
