@@ -70,20 +70,24 @@ Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“ (s. Kapitel CC
 
 Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiformaten. Diese ermöglichen (unter Berücksichtigung des Lizenztextes) die Nachnutzung und Bearbeitung der Materialien. Daher ist der Rückgriff auf weitverbreitete Werkzeuge und Open Source Anwendungen bei der Erstellung sowie die Speicherung der Materialien in möglichst offenen Dateiformaten von Vorteil.
 
+<center>
 
 ### 3 Kriterien für offene Dateiformate sind:
-
 
 <figure>
   <img src="images/oernds_oer_gardening_text.svg" alt="Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" titel="Kriterien für Dateiformate"/>
   <figcaption style="text-align:center;font-size:14px;">Kriterien für Dateiformate. Abbildung von Twillo unter CC BY 4.0</figcaption>
 </figure>
 
-
-<b>Offene Standards:</b>  Einfache Weiterverarbeitung durch Open Source Software \
-<b>Editierbarkeit:</b>    Möglichkeit zur Anpassung der Materialien \
-<b>Versionierbarkeit:</b> Dokumentation von Änderungen und der Möglichkeit zur Wiederherstellung von Vorgängerversionen
-  
+<b>Offene Standards:</b> \
+Einfache Weiterverarbeitung durch Open Source Software \
+<b>Editierbarkeit:</b> \
+Möglichkeit zur Anpassung der Materialien \
+<b>Versionierbarkeit:</b> \
+Dokumentation von Änderungen und der Möglichkeit zur Wiederherstellung von Vorgängerversionen
+ 
+</center> 
+ 
 Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format docx dem Format PDF vorzuziehen ist (Editierbarkeit), während das Format odt Vorteile gegenüber dem Format doc besitzt (Offener Standard). Möglich ist es auch Bildungsmaterialien in mehreren Dateiformaten bereitzustellen. Dies bietet sich auch an, wenn Kopatibilitätsprobleme zu befürchten sind. So etwa kann ein Arbeitsblatt im odt Format bereitgestellt werden und die Editierbarkeit zugewährleisten und zusätzlich im PDF Format, um das Layout auch in verschiedenen Systemen oder Anwendungen zu erhalten.
 
 
