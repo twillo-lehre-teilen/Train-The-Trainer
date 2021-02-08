@@ -1,9 +1,15 @@
-# Lessons Learned
+# Kapitel 1: Lessons Learned
 
 Wir fassen die wichtigsten Informationen zum Thema OER hier in Kürze noch einmal für Sie zusammen:
 
-> **Definition** \
-Open Educational Resources (kurz OER) sind „Lehr-, Lern- und Forschungsressourcen in Form jeden Mediums, digital oder anderweitig, die gemeinfrei sind oder unter einer offenen Lizenz veröffentlicht wurden, welche den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Andere ohne oder mit geringfügigen Einschränkungen erlaubt. Das Prinzip der offenen Lizenzierung bewegt sich innerhalb des bestehenden Rahmens des Urheberrechts, wie er durch einschlägige internationale Abkommen festgelegt ist, und respektiert die Urheberschaft an einem Werk.“ (UNESCO 2012)
+## Definition
+
+"Open Educational Resources (OER) are teaching, learning and research materials in any medium – digital or otherwise – that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions. OER form part of ‘Open Solutions’, alongside Free and Open Source software (FOSS), Open Access (OA), Open Data (OD) and crowdsourcing platforms" (UNESCO 2019).
+
+Open Educational Resources sind demnach Materialien in jedweder Form (z.B. Skripte, Aufgaben, Videos) und jedwedem Medium (digital oder analog), die
+
+   1. mit einer freien Lizenz bereitgestellt werden und ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können und
+   2. einen expliziten Bildungsbezug aufweisen (vgl. Muuß-Merholz 2015).
 
 
 ## Mehrwerte
