@@ -160,7 +160,6 @@ Alle o.g. Informationen können Sie im Bereich Rechtliches auf twillo nachlesen.
 
 
 ---
-
 <footer style="font-size:14px;">
   Diese Seite von twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
 </footer>
