@@ -8,8 +8,8 @@ Wir fassen die wichtigsten Informationen zum Thema OER hier in Kürze noch einma
 
 Open Educational Resources sind demnach Materialien in jedweder Form (z.B. Skripte, Aufgaben, Videos) und jedwedem Medium (digital oder analog), die
 
-   1. mit einer freien Lizenz bereitgestellt werden und ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können und
-   2. einen expliziten Bildungsbezug aufweisen (vgl. Muuß-Merholz 2015).
+      1. mit einer freien Lizenz bereitgestellt werden und ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können und
+      2. einen expliziten Bildungsbezug aufweisen (vgl. Muuß-Merholz 2015).
 
 
 ## Mehrwerte
