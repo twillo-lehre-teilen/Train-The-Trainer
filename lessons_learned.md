@@ -33,16 +33,6 @@ Um die Etablierung von OER in der Hochschullehre zu stärken, wurde im Rahmen de
 
 Folgende Funktionen des Portals sind hervorzuheben:
 
-<ul>
-   <li>individueller Workspace: langfristige Ablage von Materialien (z.B. über Stellenwechsel hinaus)</li>
-   <li>Upload- und Verlinkung: Bereitstellung von OER direkt im Portal oder über die Originalseite</li>
-   <li>Serien- und Sammlungsfunktion: Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte</li>
-   <li>Suchfunktion: Vereinfachte Auffindbarkeit von Materialien</li>
-   <li>Metadaten: vorkonfigurierte Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. OER</li>
-   <li>Support: Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo</li>
-   <li>Vernetzung: Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution</li>
-</ul>
-
 - individueller Workspace: langfristige Ablage von Materialien (z.B. über Stellenwechsel hinaus)
 - Upload- und Verlinkung: Bereitstellung von OER direkt im Portal oder über die Originalseite
 - Serien- und Sammlungsfunktion: Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte
@@ -50,6 +40,7 @@ Folgende Funktionen des Portals sind hervorzuheben:
 - Metadaten: vorkonfigurierte Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. OER
 - Support: Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
 - Vernetzung: Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
+
 
 <img src="images/Logo_twillo_with_claim_dark.svg" alt="Twillo Logo"/>
 
@@ -82,14 +73,16 @@ Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiforma
 
 ### 3 Kriterien für offene Dateiformate sind:
 
+
 <figure>
   <img src="images/oernds_oer_gardening_text.svg" alt="Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" titel="Kriterien für Dateiformate"/>
   <figcaption style="text-align:center;font-size:14px;">Kriterien für Dateiformate. Abbildung von Twillo unter CC BY 4.0</figcaption>
 </figure>
 
-<b>Offene Standards:</b>  <dd>Einfache Weiterverarbeitung durch Open Source Software</dd> \
-<b>Editierbarkeit:</b>    <dd>Möglichkeit zur Anpassung der Materialien</dd> \
-<b>Versionierbarkeit:</b> <dd>Dokumentation von Änderungen und der Möglichkeit zur Wiederherstellung von Vorgängerversionen</dd>
+
+<b>Offene Standards:</b>  Einfache Weiterverarbeitung durch Open Source Software \
+<b>Editierbarkeit:</b>    Möglichkeit zur Anpassung der Materialien \
+<b>Versionierbarkeit:</b> Dokumentation von Änderungen und der Möglichkeit zur Wiederherstellung von Vorgängerversionen
   
 Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format docx dem Format PDF vorzuziehen ist (Editierbarkeit), während das Format odt Vorteile gegenüber dem Format doc besitzt (Offener Standard). Möglich ist es auch Bildungsmaterialien in mehreren Dateiformaten bereitzustellen. Dies bietet sich auch an, wenn Kopatibilitätsprobleme zu befürchten sind. So etwa kann ein Arbeitsblatt im odt Format bereitgestellt werden und die Editierbarkeit zugewährleisten und zusätzlich im PDF Format, um das Layout auch in verschiedenen Systemen oder Anwendungen zu erhalten.
 
@@ -162,7 +155,7 @@ Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich von
 
 Alle o.g. Informationen können Sie im Bereich Rechtliches auf twillo nachlesen. Die wichtigsten Aspekte von Urheberrecht und offenen Lizenzierung von Materialien finden Sie in dem u.s. Video "Urheberrecht für Nicht-Jurist:innen" (Hirsch 2020). CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg (o.J.): [Link](https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf).
 
-<iframe src="https://www.youtube.com/watch?v=E955up7vtCk&ab_channel=NeleHirsch" name="Urheberrecht von und für Nicht-Jurist*innen" allowfullscreen=True>
+<iframe src="https://www.youtube.com/watch?v=E955up7vtCk&ab_channel=NeleHirsch?controls=1" name="Urheberrecht von und für Nicht-Jurist*innen" allowfullscreen=True>
 
 
 ---
