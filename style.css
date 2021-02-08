@@ -647,7 +647,7 @@ body {
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
-  color: #000;
+  color: #fff;
   font-weight: 800;
 }
 .markdown-section a {
@@ -801,6 +801,7 @@ body {
   text-decoration: none;
 }
 .token.italic {
+  color: #fff;
   font-style: italic;
 }
 .token.important,
