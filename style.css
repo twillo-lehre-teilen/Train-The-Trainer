@@ -639,6 +639,8 @@ body {
   float: left;
 }
 /* markdown content found on pages */
+/* ul == unordered list */
+/* ol == ordered list */
 .markdown-section h1,
 .markdown-section h2,
 .markdown-section h3,
@@ -657,24 +659,24 @@ body {
 }
 .markdown-section h2 {
   font-size: 32px;
-  margin: 60px 0 0.8rem;
+  margin: 100px 0 0.8rem;
 }
 .markdown-section h3 {
   font-size: 28px;
-  margin: 50px 0 0.6rem;
+  margin: 80px 0 0.6rem;
 }
 .markdown-section h4 {
   font-size: 24px;
-  margin: 40px 0 0.4rem;
+  margin: 60px 0 0.4rem;
 }
 .markdown-section h5 {
   font-size: 23px;
-  margin: 40px 0 0.4rem;
+  margin: 60px 0 0.4rem;
 }
 .markdown-section h6 {
   color: #777;
   font-size: 22px;
-  margin: 40px 0 0.4rem;
+  margin: 60px 0 0.4rem;
 }
 .markdown-section figure,
 .markdown-section p {
