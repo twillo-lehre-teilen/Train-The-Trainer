@@ -11,7 +11,6 @@ Open Educational Resources sind demnach Materialien in jedweder Form (z.B. Skrip
    1. mit einer freien Lizenz bereitgestellt werden und ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können und
    2. einen expliziten Bildungsbezug aufweisen (vgl. Muuß-Merholz 2015).
 
-
 ## Chancen von OER in der Hochschullehre
 
 Die Erstellung aktivierender Materialien für digitale Lehr-Lernsettings stellt einen hohen Aufwand dar. OER können hier als Unterstützung dienen, da sie flexibel an spezifische Lehr-/Lernkontexte sowie individuelle Bedarfe von Lerngruppen angepasst werden können. Der Aufbau einer Lehr-/Lerneinheit auf bereits vorhandenen erprobten Strukturen bedeutet eine deutliche Zeitersparnis bei deren Konzeption.
@@ -25,7 +24,6 @@ OER stellen einen freien Zugang zu Bildung und Wissen dar. Da ihre Nutzung allen
 Den Chancen von OER stehen auch einige Herausforderungen gegenüber. So bestehen bspw. oftmals Unsicherheiten bzgl. rechtlicher Aspekte bei der Erstellung, Verbreitung und Nutzung von OER. Besonders bei Lehrenden ist die Sorge, unbeabsichtigt eine Urheberrechtsverletzung zu begehen meist groß. Fähigkeiten und Fertigkeiten im Umgang mit OER und freier Software sowie Wissensbestände zu Lizenzierungen scheinennoch immer als Fachkompetenzen zu gelten (vgl. Grimm/Rödel 2018).
 
 Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etablierung im hochschulischen Kontext ein erklärtes bildungspolitisches Ziel. In zahlreichen Förderinitiativen auf interationaler und nationaler Ebene werden Strukturen entwickelt, um die Erstellung und Bereitstellung von OER zu fördern und diesbezügliche Hemmnisse abzubauen (vgl. u. a. DIPF o. J.)
-
 
 ## twillo - Lehre teilen
 
@@ -41,9 +39,7 @@ Folgende Funktionen des Portals sind hervorzuheben:
 - <b>Support:</b> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
 - <b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
 
-
 <img src="images/Logo_twillo_with_claim_dark.svg" alt="Twillo Logo"/>
-
 
 # Merkmale von OER
 
@@ -51,7 +47,6 @@ Folgende Funktionen des Portals sind hervorzuheben:
 
 Es gibt bei der Erstellung und Veröffentlichung von freien Bildungsmaterialien einige Aspekte zu beachten. Diese Aspekte stehen eng mit den vier grundlegenden Merkmale von OER in Verbindung. Die Beachtung dieser Merkmale bei der Erstellung und Bereitstellung können zu hochwertigen Bildungsmaterialien führen und gewährleisten einen OER-Standard.
 Im Folgenden werden diese Merkmale erläutert.
-
 
 ## 1. OER sind offen lizenziert
 
@@ -62,7 +57,6 @@ OER sind freie Bildungsmaterialien, die mit einer <b>offenen Lizenz</b> versehen
 <img src="images/Nutzungsbedingungen_design.svg" alt="Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" titel="Lizenz Typen"/>
 
 Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“ (s. Kapitel CC-Lizenzen). Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
-
 
 ## 2. OER liegen in einem möglichst offenen Dateiformat vor
 
@@ -90,7 +84,6 @@ Dokumentation von Änderungen und der Möglichkeit zur Wiederherstellung von Vor
  
 Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format docx dem Format PDF vorzuziehen ist (Editierbarkeit), während das Format odt Vorteile gegenüber dem Format doc besitzt (Offener Standard). Möglich ist es auch Bildungsmaterialien in mehreren Dateiformaten bereitzustellen. Dies bietet sich auch an, wenn Kopatibilitätsprobleme zu befürchten sind. So etwa kann ein Arbeitsblatt im odt Format bereitgestellt werden und die Editierbarkeit zugewährleisten und zusätzlich im PDF Format, um das Layout auch in verschiedenen Systemen oder Anwendungen zu erhalten.
 
-
 ## 3. OER sind umfassend beschrieben und automatisch auffindbar
 
 <img src="images/Merkmal_auffindbar machen.svg" alt="Metadaten" titel="Metadaten"/>
@@ -99,13 +92,11 @@ Freie Bildungsmaterialien sollten möglichst einfach und mit wenig Rechercheaufw
 
 Twillo unterstützt bei der Angabe der Metadaten und begleitet die Veröffentlichung durch standardisierte Informations- und Beschreibungsabfragen.
 
-
 ## 4. OER sind didaktisch strukturiert und kontextualisiert
 
 <img src="images/Merkmal_didaktisch kontextualisieren.svg" alt="Symbolbild OER" titel="OER sind didaktisch kontextualisiert und strukturiert"/>
 
 Materialien, die für den Bildungskontext erstellt werden, sind für spezifische Zielgruppen und Lehrkontexte konzipiert. Diese Informationen sind häufig nur implizit in den Bildungsmaterialien enthalten, sind aber wichtig für eine erste Einschätzung des Materials von Seiten der Lehrenden, die sie nachnutzen möchten. Das Explizieren von Kontextinformationen für den Lehreinsatz erleichtert die Einschätzung der Passung der Bildungsmaterialien für den jeweiligen Lehrkontext. Damit erhalten Hochschullehrende einen Überblick über den didaktischen Gerhalt der Bildungsmaterialien und können davon ausgehend die Verwendung in den eigenen Lehrkontext planen.
-
 
 ### Didaktische Strukturierung
 
@@ -115,18 +106,15 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 
 [Platzhalter]
 
-
 ### Didaktische Kontextualisierung 
 
 Auch Hinweise (a) zur Dauer des Einsatzes, (b) für welches Veranstaltungsformat sich das Material eignet oder auch (c) die Angabe über die didaktische Intention des Materials oder Erfahrungsberichte aus der Lehrpraxis sind zentrale Informationen. Sie fördern die Einschätzbarkeit des Bildungsmaterials und die Passung in den eigenen Lehrkontext.
-
 
 #### Weiterführende Informationen
 
 Definiton: [Link]()
 
 Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de/oer/oer-create.html) auf twillo nachlesen.
-
 
 ## Urheberrecht und offene Lizenzen
 
@@ -138,13 +126,11 @@ Auch das Urheberrechts-Wissensgesellschafts-Gesetz eröffnet keine Nutzungsmögl
 
 Im Gegensatz dazu ermöglichen offene Lizenzen die rechtskonforme, aber unkomplizierte Einräumung von Nutzungsrechten innerhalb des geltenden Urheberrechts, insbesondere für die Weiterlizenzierung von Inhalten, und zwar auch im Hochschulkontext (vgl. u. a. [DUK 2015](https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf), [OER Portal Niedersachsen 2021](https://www.oernds.de/oer/legal.html)).
 
-
 #### Die Mehrwerte offener Lizenzen
 
 Offene Lizenzen wurden entwickelt, um die Rechte von Urheber\*innen zu schützen und gleichzeitig Dritten die (Weiter-)Verwendung und zum Teil sogar Anpassung und Änderung ihrer Inhalte und Materialien zu ermöglichen. Die Wahl einer bestimmten offenen Lizenz (und damit verbunden bestimmte Möglichkeiten der Nachnutzung Ihrer Inhalte) liegt hierbei bei den Urheber\*innen selbst. Auf diese Weise werden die Einschränkungen des Urheberrechts überwunden; Urheber\*innen bleiben aber gleichzeitig als solche anerkannt. Dies ist im Bereich von Wissenschaft und Forschung von besonderer Relevanz.
 
 OER sind offen lizensiert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf der Plattform twillo wird für eine offene Lizenzierung das standardisierte <b>Creative Commons - Lizenzsystem empfohlen</b> (vgl. u. a. [DUK 2015](https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf), [OER Portal Niedersachsen 2021](https://www.oernds.de/oer/legal.html)).
-
 
 #### Die Bedingungen von Creative Commons-Lizenzen
 
@@ -154,13 +140,11 @@ Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich von
 
 [Tabelle: Platzhalter]
 
-
 #### Weiterführende Informationen
 
 Alle o.g. Informationen können Sie im Bereich Rechtliches auf twillo nachlesen. Die wichtigsten Aspekte von Urheberrecht und offenen Lizenzierung von Materialien finden Sie in dem u.s. Video "Urheberrecht für Nicht-Jurist:innen" (Hirsch 2020). CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg (o.J.): [Link](https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
-
 
 
 ---
