@@ -155,7 +155,8 @@ Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich von
 
 Alle o.g. Informationen können Sie im Bereich Rechtliches auf twillo nachlesen. Die wichtigsten Aspekte von Urheberrecht und offenen Lizenzierung von Materialien finden Sie in dem u.s. Video "Urheberrecht für Nicht-Jurist:innen" (Hirsch 2020). CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg (o.J.): [Link](https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf).
 
-<iframe src="https://www.youtube.com/watch?v=E955up7vtCk&ab_channel=NeleHirsch?controls=1" name="Urheberrecht von und für Nicht-Jurist*innen" allowfullscreen=True>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
+
 
 
 ---
