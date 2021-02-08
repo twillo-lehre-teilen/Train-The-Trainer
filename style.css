@@ -715,7 +715,7 @@ body {
   margin: 1em 0;
 }
 .markdown-section em {
-  color: inherit;
+  color: #D1D8E1;
 }
 .markdown-section code {
   background-color: #f8f8f8;
