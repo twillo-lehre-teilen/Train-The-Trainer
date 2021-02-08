@@ -73,17 +73,18 @@ Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiforma
   <figcaption style="text-align:center;font-size:14px;">Kriterien für Dateiformate. Abbildung von Twillo unter CC BY 4.0</figcaption>
 </figure>
 
-##### <b>Offene Standards:</b> \
+<b>Offene Standards:</b> \
+<br>
 Einfache Weiterverarbeitung durch Open Source Software \
-
+<br>
 <b>Editierbarkeit:</b> \
-
+<br>
 Möglichkeit zur Anpassung der Materialien \
-
+<br>
 <b>Versionierbarkeit:</b> \
-
+<br>
 Dokumentation von Änderungen und der Möglichkeit zur Wiederherstellung von Vorgängerversionen
- 
+
 </center> 
  
 Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format docx dem Format PDF vorzuziehen ist (Editierbarkeit), während das Format odt Vorteile gegenüber dem Format doc besitzt (Offener Standard). Möglich ist es auch Bildungsmaterialien in mehreren Dateiformaten bereitzustellen. Dies bietet sich auch an, wenn Kopatibilitätsprobleme zu befürchten sind. So etwa kann ein Arbeitsblatt im odt Format bereitgestellt werden und die Editierbarkeit zugewährleisten und zusätzlich im PDF Format, um das Layout auch in verschiedenen Systemen oder Anwendungen zu erhalten.
