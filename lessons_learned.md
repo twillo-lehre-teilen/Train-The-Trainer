@@ -17,7 +17,7 @@ Bei der Erstellung und Veröffentlichung von OER gibt es einige Merkmale die bea
 Im Folgenden werden die jeweiligen Merkmale erläutert.
 
 <figure>
-  <center><img src="images/Merkmale_OER.svg" alt="Merkmale von OER" titel="Merkmale von OER"/></center>
+  <center><img src="images/Merkmale_OER.svg" alt="Merkmale von OER: offene Lizenz, offenes Dateiformat, automatische Auffindbarkeit, didaktische Kontextualisierung. Das macht hochwertige OER-Materialien aus" titel="Merkmale von OER"/></center>
   <figcaption style="text-align:center;font-size:14px;">Merkmale von OER. Abbildung von Twillo unter CC BY 4.0 (SVG)</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Im Folgenden werden die jeweiligen Merkmale erläutert.
 
 OER sind freie Bildungsmaterialien, die dadurch gekennzeichnet sind, dass sie mit einer <b>offenen Lizenz</b> versehen sind, die Dritten explizit <b>Nutzungsrechte</b> einräumt. Gerade das Lizenzsystem Creative Commons bieten im Bildungskontext viele Vorteile, da die Urheber\*innen durch die entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte Sie Dritten am Bildungsmaterial einräumen möchten. 
 
-<center><img src="images/Nutzungsbedingungen_design.svg" alt="Lizenz Typen" titel="Lizenz Typen"/></center>
+<center><img src="images/Nutzungsbedingungen_design.svg" alt="Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" titel="Lizenz Typen"/></center>
 
 Die Nutzung von OER (z.B. CC-Lizenzen) erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung in Form der Open-Content-Lizenz verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
 
@@ -38,7 +38,7 @@ Die Nutzung von OER (z.B. CC-Lizenzen) erfolgt also nicht im „rechtsfreien Rau
 Ein weiteres zentrales Merkmal von OER ist, dass die Verwendung und Bearbeitung (je nach Lizenztext) möglichst einfach und ohne hohen Kostenaufwand für andere ermöglicht wird. Daher ist der Rückgriff auf weitverbreitete Werkzeuge und Open Source Anwendungen sowie die Speicherung der Materialien in möglichst offene Dateiformate von Vorteil und ein Kennzeichen von OER.
 
 <figure>
-  <center><img src="images/oernds_oer_gardening_text.svg" alt="Kriterien für Dateiformate" titel="Kriterien für Dateiformate"/></center>
+  <center><img src="images/oernds_oer_gardening_text.svg" alt="Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" titel="Kriterien für Dateiformate"/></center>
   <figcaption style="text-align:center;font-size:14px;">Kriterien für Dateiformate. Abbildung von Twillo unter CC BY 4.0</figcaption>
 </figure>
 
@@ -61,11 +61,11 @@ Twillo unterstützt bei der Angabe der Metadaten und begleitet die Veröffentlic
 
 ### OER sind didaktisch kontextualisiert und strukturiert
 
-<center><img src="images/Merkmal_didaktisch kontextualisieren.svg" alt="OER sind didaktisch kontextualisiert und strukturiert" titel="OER sind didaktisch kontextualisiert und strukturiert"/></center>
+<center><img src="images/Merkmal_didaktisch kontextualisieren.svg" alt="Symbolbild OER" titel="OER sind didaktisch kontextualisiert und strukturiert"/></center>
 
 [Platzhalter]
 
-<center><img src="images/inhaltstypen.svg" alt="OER sind didaktisch kontextualisiert und strukturiert"/></center>
+<center><img src="images/inhaltstypen.svg" alt="OER verschiedene Materialien - Kleinteilige Lehrmaterialien, Aufgabenorientierte Materialien, Lektion, Kurs, Werkzeuge"/></center>
 
 ## CC Lizenzen
 
