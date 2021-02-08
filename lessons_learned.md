@@ -9,21 +9,21 @@ Wir fassen die wichtigsten Informationen zum Thema OER hier in Kürze noch einma
 Open Educational Resources sind demnach Materialien in jedweder Form (z.B. Skripte, Aufgaben, Videos) und jedwedem Medium (digital oder analog), die
 
    1. mit einer freien Lizenz bereitgestellt werden und ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können und
-   2. einen expliziten Bildungsbezug aufweisen (vgl. Muuß-Merholz 2015).
+   2. einen expliziten Bildungsbezug aufweisen (vgl. [Muuß-Merholz 2015](https://open-educational-resources.de/unesco-definition-zu-oer-deutsch/)).
 
 ## Chancen von OER in der Hochschullehre
 
 Die Erstellung aktivierender Materialien für digitale Lehr-Lernsettings stellt einen hohen Aufwand dar. OER können hier als Unterstützung dienen, da sie flexibel an spezifische Lehr-/Lernkontexte sowie individuelle Bedarfe von Lerngruppen angepasst werden können. Der Aufbau einer Lehr-/Lerneinheit auf bereits vorhandenen erprobten Strukturen bedeutet eine deutliche Zeitersparnis bei deren Konzeption.
 
-Durch das Erstellen und Teilen von OER können Lehrende ihre Lehrexpertise öffentlich sichtbar machen, was sich positiv auf ihre Reputation in der wissenschaftlichen Community auswirken kann. Auf diese Weise leisten OER einen Beitrag zum Abbau der bestehenden Reputationsasymmetrie zwischen Forschungs- und Lehrtätigkeiten.
+Durch das Erstellen und Teilen von OER können Lehrende ihre Lehrexpertise öffentlich sichtbar machen, was sich positiv auf ihre Reputation in der wissenschaftlichen Community auswirken kann. Auf diese Weise leisten OER einen Beitrag zum Abbau der bestehenden *Reputationsasymmetrie* zwischen Forschungs- und Lehrtätigkeiten.
 
 Durch die Möglichkeit einer (kollaborativen) Weiterentwicklung von OER, wird die Vernetzung von Lehrenden gefördert. Ein langfristiger Austausch über OER bestimmter Disziplinen und Fachbereiche begünstigt die Entwicklung von Netzwerkstrukturen zwischen Lehrenden und Lernenden unterschiedlicher Institutionen. Die stete, gemeinschaftliche Begutachtung, Korrektur und Anpassung von Bildungsmaterialien hält sie stets aktuell und sichert ihre Qualität.
 
-OER stellen einen freien Zugang zu Bildung und Wissen dar. Da ihre Nutzung allen Lehrenden und Lernenden (auch außerhalb der Hochschule) offen steht, leisten sie einen. besonderen Beitrag zum lebenslanges Lernen. Zudem begünstigen sie die Entstehung neuer Bildungsmodelle und Lernkulturen nach dem Prinzip der Offenheit und des Teilens (vgl. u. a. DUK 2015, Grimm/Rödel 2018).
+OER stellen einen freien Zugang zu Bildung und Wissen dar. Da ihre Nutzung allen Lehrenden und Lernenden (auch außerhalb der Hochschule) offen steht, leisten sie einen. besonderen Beitrag zum lebenslanges Lernen. Zudem begünstigen sie die Entstehung neuer Bildungsmodelle und Lernkulturen nach dem Prinzip der Offenheit und des Teilens (vgl. u. a. [DUK 2015](https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf), Grimm/Rödel 2018).
 
 Den Chancen von OER stehen auch einige Herausforderungen gegenüber. So bestehen bspw. oftmals Unsicherheiten bzgl. rechtlicher Aspekte bei der Erstellung, Verbreitung und Nutzung von OER. Besonders bei Lehrenden ist die Sorge, unbeabsichtigt eine Urheberrechtsverletzung zu begehen meist groß. Fähigkeiten und Fertigkeiten im Umgang mit OER und freier Software sowie Wissensbestände zu Lizenzierungen scheinennoch immer als Fachkompetenzen zu gelten (vgl. Grimm/Rödel 2018).
 
-Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etablierung im hochschulischen Kontext ein erklärtes bildungspolitisches Ziel. In zahlreichen Förderinitiativen auf interationaler und nationaler Ebene werden Strukturen entwickelt, um die Erstellung und Bereitstellung von OER zu fördern und diesbezügliche Hemmnisse abzubauen (vgl. u. a. DIPF o. J.)
+Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etablierung im hochschulischen Kontext ein erklärtes bildungspolitisches Ziel. In zahlreichen Förderinitiativen auf interationaler und nationaler Ebene werden Strukturen entwickelt, um die Erstellung und Bereitstellung von OER zu fördern und diesbezügliche Hemmnisse abzubauen (vgl. u. a. [DIPF o. J.](https://open-educational-resources.de/))
 
 ## twillo - Lehre teilen
 
