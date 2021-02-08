@@ -117,7 +117,7 @@ Auch Hinweise (a) zur Dauer des Einsatzes, (b) für welches Veranstaltungsformat
 <font size="16px">
    
    Definiton: [Link]()
-   
+   <br>
    Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de/oer/oer-create.html) auf twillo nachlesen.
    
 </font>
