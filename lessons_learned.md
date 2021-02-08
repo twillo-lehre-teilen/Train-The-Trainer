@@ -1,3 +1,5 @@
+<img src="Logo_twillo_with_claim_dark.svg" alt="Logo Twillo" titel="Logo Twillo"/>
+
 # Lessons Learned
 
 Wir fassen die wichtigsten Informationen zum Thema OER hier in Kürze noch einmal für Sie zusammen:
