@@ -642,6 +642,9 @@ body {
 /* markdown content found on pages */
 /* ul == unordered list */
 /* ol == ordered list */
+/* em == italic (kursiv) */
+/* p == paragraph */
+/* a == link */
 .markdown-section h1,
 .markdown-section h2,
 .markdown-section h3,
@@ -712,7 +715,7 @@ body {
   margin: 1em 0;
 }
 .markdown-section em {
-  color: #7f8c8d;
+  color: inherit;
 }
 .markdown-section code {
   background-color: #f8f8f8;
@@ -801,7 +804,6 @@ body {
   text-decoration: none;
 }
 .token.italic {
-  color: #fff;
   font-style: italic;
 }
 .token.important,
