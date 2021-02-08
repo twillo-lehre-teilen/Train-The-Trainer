@@ -116,6 +116,7 @@ Auch Hinweise (a) zur Dauer des Einsatzes, (b) für welches Veranstaltungsformat
 
 <font size="16px">
    
+
 Definiton: [Link]()
 
 
@@ -123,8 +124,8 @@ Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de
    
 </font>
 
-
-## Urheberrecht und offene Lizenzen
+---
+# Urheberrecht und offene Lizenzen
 
 #### Starre Regularien des Urheberrechts
 
