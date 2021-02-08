@@ -115,9 +115,10 @@ Auch Hinweise (a) zur Dauer des Einsatzes, (b) für welches Veranstaltungsformat
 ##### Weiterführende Informationen
 
 <font size="18px">
-Definiton: [Link]()
-
-Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de/oer/oer-create.html) auf twillo nachlesen.
+   
+   Definiton: [Link]()
+   Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de/oer/oer-create.html) auf twillo nachlesen.
+   
 </font>
 
 
