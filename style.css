@@ -655,32 +655,32 @@ body {
   font-weight: 600;
 }
 .markdown-section h1 {
-  color: #000;
+  color: #fff;
   font-size: 36px;
   margin: 100 0 1rem;
 }
 .markdown-section h2 {
-  color: #000;
+  color: #fff;
   font-size: 32px;
   margin: 60px 0 0.8rem;
 }
 .markdown-section h3 {
-  color: #000;
+  color: #fff;
   font-size: 28px;
   margin: 40px 0 0.6rem;
 }
 .markdown-section h4 {
-  color: #000;
+  color: #fff;
   font-size: 24px;
   margin: 20px 0 0.4rem;
 }
 .markdown-section h5 {
-  color: #000;
+  color: #fff;
   font-size: 23px;
   margin: 20px 0 0.4rem;
 }
 .markdown-section h6 {
-  color: #000;
+  color: #fff;
   font-size: 22px;
   margin: 20px 0 0.4rem;
 }
