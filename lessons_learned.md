@@ -33,13 +33,13 @@ Um die Etablierung von OER in der Hochschullehre zu stärken, wurde im Rahmen de
 
 Folgende Funktionen des Portals sind hervorzuheben:
 
-- individueller Workspace: langfristige Ablage von Materialien (z.B. über Stellenwechsel hinaus)
-- Upload- und Verlinkung: Bereitstellung von OER direkt im Portal oder über die Originalseite
-- Serien- und Sammlungsfunktion: Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte
-- Suchfunktion: Vereinfachte Auffindbarkeit von Materialien
-- Metadaten: vorkonfigurierte Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. OER
-- Support: Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
-- Vernetzung: Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
+- <b>individueller Workspace:</b> langfristige Ablage von Materialien (z.B. über Stellenwechsel hinaus)
+- <b>Upload- und Verlinkung:</b> Bereitstellung von OER direkt im Portal oder über die Originalseite
+- <b>Serien- und Sammlungsfunktion:</b> Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte
+- <b>Suchfunktion:</b> Vereinfachte Auffindbarkeit von Materialien
+- <b>Metadaten:</b> vorkonfigurierte Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. OER
+- <b>Support:</b> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
+- <b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
 
 
 <img src="images/Logo_twillo_with_claim_dark.svg" alt="Twillo Logo"/>
@@ -139,14 +139,14 @@ Im Gegensatz dazu ermöglichen offene Lizenzen die rechtskonforme, aber unkompli
 
 Offene Lizenzen wurden entwickelt, um die Rechte von Urheber\*innen zu schützen und gleichzeitig Dritten die (Weiter-)Verwendung und zum Teil sogar Anpassung und Änderung ihrer Inhalte und Materialien zu ermöglichen. Die Wahl einer bestimmten offenen Lizenz (und damit verbunden bestimmte Möglichkeiten der Nachnutzung Ihrer Inhalte) liegt hierbei bei den Urheber\*innen selbst. Auf diese Weise werden die Einschränkungen des Urheberrechts überwunden; Urheber\*innen bleiben aber gleichzeitig als solche anerkannt. Dies ist im Bereich von Wissenschaft und Forschung von besonderer Relevanz.
 
-OER sind offen lizensiert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf der Plattform twillo wird für eine offene Lizenzierung das standardisierte Creative Commons - Lizenzsystem empfohlen (vgl. u. a. [DUK 2015](https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf), [OER Portal Niedersachsen 2021](https://www.oernds.de/oer/legal.html)).
+OER sind offen lizensiert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf der Plattform twillo wird für eine offene Lizenzierung das standardisierte <b>Creative Commons - Lizenzsystem empfohlen</b> (vgl. u. a. [DUK 2015](https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf), [OER Portal Niedersachsen 2021](https://www.oernds.de/oer/legal.html)).
 
 
 #### Die Bedingungen von Creative Commons-Lizenzen
 
 Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich voneinander unterscheiden. So können Urheber\*innen mit Ihrer Wahl einer CC-Lizenz die Nutzung ihrer Inhalte entweder relativ stark einschränken oder umfassend ermöglichen. Die u.s. Tabelle gibt Ihnen einen Überblick über gängige CC-Lizenzen.
 
-(Warnung) Wichtig: Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA, weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen ([OER Portal Niedersachsen 2021](https://www.oernds.de/oer/legal.html))
+&#9888;&#65039; Wichtig: Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA, weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen ([OER Portal Niedersachsen 2021](https://www.oernds.de/oer/legal.html))
 
 [Tabelle: Platzhalter]
 
