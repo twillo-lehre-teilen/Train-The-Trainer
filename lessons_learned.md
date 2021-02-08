@@ -73,15 +73,15 @@ Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiforma
   <figcaption style="text-align:center;font-size:14px;">Kriterien für Dateiformate. Abbildung von Twillo unter CC BY 4.0</figcaption>
 </figure>
 
-<b>Offene Standards:</b> \
+<b>Offene Standards</b>
 <br>
-Einfache Weiterverarbeitung durch Open Source Software \
+einfache Weiterverarbeitung durch Open Source Software
 <br>
-<b>Editierbarkeit:</b> \
+<b>Editierbarkeit</b>
 <br>
-Möglichkeit zur Anpassung der Materialien \
+Möglichkeit zur Anpassung der Materialien
 <br>
-<b>Versionierbarkeit:</b> \
+<b>Versionierbarkeit</b>
 <br>
 Dokumentation von Änderungen und der Möglichkeit zur Wiederherstellung von Vorgängerversionen
 
