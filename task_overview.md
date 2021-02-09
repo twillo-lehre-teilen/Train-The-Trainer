@@ -1,13 +1,13 @@
 # Umsetzungsleitfäden:
   
-Nachdem Sie nun noch mal die wesentlichen Informationen und Hinweise erhalten haben, können Sie nun im Folgenden eine der Aufgaben wählen.
+Nachdem Sie die wesentlichen Informationen und Hinweise des Webinars noch einmal wiederholt haben, können Sie im Folgenden eine der u.s. Aufgaben wählen.  Die Bearbeitung nimmt jeweils etwa 30 Minuten in Anspruch.  
 <br>
 <br>
 <br>
-<b>Aufgabe A:</b> Finden Sie ein OER im Internet und stellen es auf twillo ein. Die Bearbeitungszeit beträgt ca. 30 Minuten.
+<b>Aufgabe A:</b> Finden Sie ein OER im Internet und stellen es auf twillo ein.
 <br>
 <br>
-<b>Aufgabe B:</b> Wählen Sie ein selbsterstelltes Lehr-/Lernmaterial aus Ihrem Materialfundus aus und stellen es auf twillo ein. Die Bearbeitungszeit beträgt ca. 30 Minuten.
+<b>Aufgabe B:</b> Wählen Sie ein selbsterstelltes Lehr-/Lernmaterial aus Ihrem Materialfundus aus und stellen es auf twillo ein. 
 
 <br>
 
