@@ -17,7 +17,7 @@ Nachdem Sie die wesentlichen Informationen und Hinweise des Webinars noch einmal
       titel="Aufgabe 12: Finden Sie ein OER im Internet und stellen es im OER-Portal ein. Die Bearbeitungszeit beträgt ca. 30 Minuten."/>
   </a>
   <a href="#/task2">
-    <img src="images/aufgabeB.svg" style="margin:40px"
+    <img src="images/AufgabeB.svg" style="margin:40px"
       alt="Aufgabe 2: Wählen Sie ein selbsterstelltes Lehr-/Lernmaterial aus Ihrem Materialfundus aus und stellen es im OER-Portal ein. Die Bearbeitungszeit beträgt ca. 30 Minuten." titel="Aufgabe 2: Wählen Sie ein selbsterstelltes Lehr-/Lernmaterial aus Ihrem Materialfundus aus und stellen es im OER-Portal ein. Die Bearbeitungszeit beträgt ca. 30 Minuten."/>
   </a>
 </div>
