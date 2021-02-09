@@ -7,7 +7,7 @@ Nachdem Sie die wesentlichen Informationen und Hinweise des Webinars noch einmal
 <b>Aufgabe A:</b> Finden Sie ein OER im Internet und stellen es auf twillo ein.
 <br>
 <br>
-<b>Aufgabe B:</b> Wählen Sie ein selbsterstelltes Lehr-/Lernmaterial aus Ihrem Materialfundus aus und stellen es auf twillo ein. 
+<b>Aufgabe B:</b>  Wählen Sie ein selbsterstelltes Lehr-/Lernmaterial aus Ihrem Materialfundus aus und stellen Sie es auf twillo ein. 
 
 <br>
 
