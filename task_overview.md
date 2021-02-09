@@ -3,7 +3,6 @@
 Nachdem Sie die wesentlichen Informationen und Hinweise des Webinars noch einmal wiederholt haben, können Sie im Folgenden eine der u.s. Aufgaben wählen.  Die Bearbeitung nimmt jeweils etwa 30 Minuten in Anspruch.  
 <br>
 <br>
-<br>
 <b>Aufgabe A:</b> Finden Sie ein OER im Internet und stellen es auf twillo ein.
 <br>
 <br>
