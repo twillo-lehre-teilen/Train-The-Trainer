@@ -149,8 +149,25 @@ Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich von
 
 <table>
   <tr>
-    <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td><td>CC 0 = Ohne Bedingungen
-Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</td>
+    <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
+     <td> **CC 0 = Ohne Bedingungen** <br> Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</td>
+  </tr>
+  <tr>
+    <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
+     <td> **CC BY = Namensnennung** 
+Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.</td>
+  </tr>
+  <tr>
+    <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
+     <td> **CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen**
+
+Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Inhalts/Werks unter derselben Lizenz zu veröffentlichen. Dies stellt sicher, dass die Inhalte auch weiterhin frei zugänglich bleiben.</td>
+  </tr>
+  <tr>
+    <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
+     <td> **C BY NC = Namensnennung und nicht kommerziell**
+
+Der Name der urhebenden Person muss genannt werden.  Kopien und bearbeitete Versionen des Inhalts/Werks dürfen nicht kommerziell genutzt werden</td>
   </tr>
 </table>
 
