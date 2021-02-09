@@ -150,7 +150,8 @@ Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich von
 <table>
   <tr>
     <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
-     <td> <B>CC 0 = Ohne Bedingungen</B> <br> Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</td>
+     <td> <B>CC 0 = Ohne Bedingungen</B> 
+        <br> Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</td>
   </tr>
   <tr>
     <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
@@ -159,15 +160,33 @@ Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versi
   </tr>
   <tr>
     <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
-     <td> **CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen**
+     <td> <B>CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen</B>
 
 Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Inhalts/Werks unter derselben Lizenz zu veröffentlichen. Dies stellt sicher, dass die Inhalte auch weiterhin frei zugänglich bleiben.</td>
   </tr>
   <tr>
     <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
-     <td> **C BY NC = Namensnennung und nicht kommerziell**
+   <td> <B>C BY NC = Namensnennung und nicht kommerziell</B>
 
 Der Name der urhebenden Person muss genannt werden.  Kopien und bearbeitete Versionen des Inhalts/Werks dürfen nicht kommerziell genutzt werden</td>
+  </tr>
+  <tr>
+    <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
+    <td> <B>CC BY ND = Namensnennung und keine Bearbeitung</B>
+
+Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden.</td>
+  </tr>
+  <tr>
+    <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
+     <td> <B>CC BY NC SA = Namensnennung, nicht kommerziell und Weitergabe unter gleichen Bedingungen </B>
+
+Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Materials unter derselben Lizenz zu veröffentlichen. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</td>
+  </tr>
+  <tr>
+    <td><img src="images/placeholder-small-file.png" alt="Symbolbild kleine Datei"/></td>
+   <td> <B>CC BY NC ND = Namensnennung, nicht kommerziell und keine Bearbeitung </B>
+
+Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</td>
   </tr>
 </table>
 
