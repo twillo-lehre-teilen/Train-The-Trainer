@@ -123,9 +123,8 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 </script>
-<br>
 
-
+//Test
 
 <button class="accordion">Kleinteiliges Lehrmaterial</button>
 <div class="panel">
