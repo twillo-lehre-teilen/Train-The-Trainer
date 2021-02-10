@@ -106,15 +106,16 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 
 <img src="images/inhaltstypen.svg" alt="OER verschiedene Materialien - Kleinteilige Lehrmaterialien, Aufgabenorientierte Materialien, Lektion, Kurs, Werkzeuge"/>
 
+---
 
 <button class="accordion">Kleinteiliges Lehrmaterial</button>
 <div class="panel">
-  <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte</p>
+  <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte.</p>
 </div>
 <button class="accordion">Aufgabenorientiertes Material</button>
 <div class="panel">
   <p>Aufgabenorientierte Materialien sind Aufgaben, Übungen oder Arbeitsaufträge für Studierende und können sich auf Lehrmaterialien beziehen oder auf solche aufbauen. Sie zielen auf spezifisch definierte Lernhandlungen, etwa das Vertiefen von Wissen, Lösen eines Problems, Festigen von Wissen, Generieren von Wissen
-bzw. Reflexion von Lernprozessen<br><br>Beispiele:<br>interaktives Video, Arbeitsblatt, Webquest, Lernquiz, Test, Probeklausur, Portfolioaufgaben</p>
+bzw. Reflexion von Lernprozessen.<br><br>Beispiele:<br>interaktives Video, Arbeitsblatt, Webquest, Lernquiz, Test, Probeklausur, Portfolioaufgaben</p>
 </div>
 <button class="accordion">Lektion</button>
 <div class="panel">
@@ -126,7 +127,7 @@ bzw. Reflexion von Lernprozessen<br><br>Beispiele:<br>interaktives Video, Arbeit
 </div>
 <button class="accordion">Werkzeug</button>
 <div class="panel">
-  <p>Werkzeuge stehen für jede Form und Größe von Anwedungssoftware, die für die Erstellung der offenen Bildungsmaterialien und für ihren Einsatz in Lehr-Lern-Kontexten besonders geeignet sind.<br><br>Werkzeuge, die eine kostenpflichtige Registrierung verlangen, sind ausgeschlossen.<br><br>Beispiele: befüllbarer Vokabeltrainer, Mindmap Anwendugen, digitale Leinwände etc.</p>
+  <p>Werkzeuge stehen für jede Form und Größe von Anwedungssoftware, die für die Erstellung der offenen Bildungsmaterialien und für ihren Einsatz in Lehr-Lern-Kontexten besonders geeignet sind.<br><br>Werkzeuge, die eine kostenpflichtige Registrierung verlangen, sind ausgeschlossen.<br><br>Beispiele:<br> befüllbarer Vokabeltrainer, Mindmap Anwendugen, digitale Leinwände etc.</p>
 </div>
 
 <script>
