@@ -123,6 +123,7 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 </div>
 
 <script>
+var acc = document.getElementsByClassName("accordion");
 var i;
 
 for (i = 0; i < acc.length; i++) {
