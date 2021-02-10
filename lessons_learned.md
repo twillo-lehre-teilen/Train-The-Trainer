@@ -146,17 +146,17 @@ Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich von
       <br> Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</td>
   </tr>
   <tr>
-    <td style="cursor:pointer" onclick="window.open('https://creativecommons.org/publicdomain/by/1.0/deed.de','Fenster')"><img src="images/creative-commons_cc-by.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="window.open('https://creativecommons.org/publicdomain/by/1.0/deed.de','Fenster')"><img src="images/creative-commons_cc-by.svg" width="100%" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY = Namensnennung</B>
       <br> Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.</td>
   </tr>
   <tr>
-    <td style="cursor:pointer" onclick="window.open('https://creativecommons.org/publicdomain/by-sa/1.0/deed.de','Fenster')"><img src="images/creative-commons_cc-by-sa.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="window.open('https://creativecommons.org/publicdomain/by-sa/1.0/deed.de','Fenster')"><img src="images/creative-commons_cc-by-sa.svg" height="100%" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen</B>
       <br> Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Inhalts/Werks unter derselben Lizenz zu veröffentlichen. Dies stellt sicher, dass die Inhalte auch weiterhin frei zugänglich bleiben.</td>
   </tr>
   <tr>
-    <td style="cursor:pointer" onclick="window.open('https://creativecommons.org/publicdomain/by-nc/1.0/deed.de','Fenster')"><img src="images/creative-commons_cc-by-nc.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="window.open('https://creativecommons.org/publicdomain/by-nc/1.0/deed.de','Fenster')"><img src="images/creative-commons_cc-by-nc.svg" width="100%" height="100%" alt="Symbolbild kleine Datei"/></td>
     <td> <B>C BY NC = Namensnennung und nicht kommerziell</B>
       <br>Der Name der urhebenden Person muss genannt werden.  Kopien und bearbeitete Versionen des Inhalts/Werks dürfen nicht kommerziell genutzt werden</td>
   </tr>
