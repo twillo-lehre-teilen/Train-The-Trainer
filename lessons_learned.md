@@ -120,6 +120,23 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
   <p>Lorem ipsum...</p>
 </div>
 
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+
 ### Didaktische Kontextualisierung 
 
 Auch Hinweise (a) zur Dauer des Einsatzes, (b) für welches Veranstaltungsformat sich das Material eignet oder auch (c) die Angabe über die didaktische Intention des Materials oder Erfahrungsberichte aus der Lehrpraxis sind zentrale Informationen. Sie fördern die Einschätzbarkeit des Bildungsmaterials und die Passung in den eigenen Lehrkontext.
