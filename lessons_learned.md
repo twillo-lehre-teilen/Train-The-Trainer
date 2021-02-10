@@ -106,6 +106,7 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 
 <img src="images/inhaltstypen.svg" alt="OER verschiedene Materialien - Kleinteilige Lehrmaterialien, Aufgabenorientierte Materialien, Lektion, Kurs, Werkzeuge"/>
 
+
 <button class="accordion">Section 1</button>
 <div class="panel">
   <p>Lorem ipsum...</p>
@@ -118,6 +119,7 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 <div class="panel">
   <p>Lorem ipsum...</p>
 </div>
+
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
