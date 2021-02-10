@@ -122,6 +122,25 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
   <p>Lorem ipsum...</p>
 </div>
 
+<script>
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.toggle("active");
+
+    /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
 
 ### Didaktische Kontextualisierung 
 
