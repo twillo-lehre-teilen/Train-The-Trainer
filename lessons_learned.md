@@ -124,11 +124,10 @@ for (i = 0; i < acc.length; i++) {
 }
 </script>
 
-//Test
-
+<button class="accordion">Test</button>
 <button class="accordion">Kleinteiliges Lehrmaterial</button>
 <div class="panel">
-  <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte.</p>
+   <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte.</p>
 </div>
 <button class="accordion">Aufgabenorientiertes Material</button>
 <div class="panel">
