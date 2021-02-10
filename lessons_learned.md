@@ -106,12 +106,23 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 
 <img src="images/inhaltstypen.svg" alt="OER verschiedene Materialien - Kleinteilige Lehrmaterialien, Aufgabenorientierte Materialien, Lektion, Kurs, Werkzeuge"/>
 
----
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
 
-<button class="accordion">Kleinteiliges Lehrmaterial</button>
-<div class="panel">
-  <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte.</p>
-</div>
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("activeA");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
 <button class="accordion">Aufgabenorientiertes Material</button>
 <div class="panel">
   <p>Aufgabenorientierte Materialien sind Aufgaben, Übungen oder Arbeitsaufträge für Studierende und können sich auf Lehrmaterialien beziehen oder auf solche aufbauen. Sie zielen auf spezifisch definierte Lernhandlungen, etwa das Vertiefen von Wissen, Lösen eines Problems, Festigen von Wissen, Generieren von Wissen
@@ -129,23 +140,6 @@ bzw. Reflexion von Lernprozessen.<br><br>Beispiele:<br>interaktives Video, Arbei
 <div class="panel">
   <p>Werkzeuge stehen für jede Form und Größe von Anwedungssoftware, die für die Erstellung der offenen Bildungsmaterialien und für ihren Einsatz in Lehr-Lern-Kontexten besonders geeignet sind.<br><br>Werkzeuge, die eine kostenpflichtige Registrierung verlangen, sind ausgeschlossen.<br><br>Beispiele:<br> befüllbarer Vokabeltrainer, Mindmap Anwendugen, digitale Leinwände etc.</p>
 </div>
-
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("activeA");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    }
-  });
-}
-</script>
 
 ### Didaktische Kontextualisierung 
 
