@@ -132,6 +132,19 @@ for (i = 0; i < acc.length; i++) {
 <div class="panel">
    <p>Test B</p>
 </div>
+<button class="accordion">Lektion</button>
+<div class="panel">
+   <p>Test C</p>
+</div>
+<button class="accordion">Kurs</button>
+<div class="panel">
+   <p>Test D</p>
+</div>
+<button class="accordion">Werkzeug</button>
+<div class="panel">
+   <p>Test E</p>
+</div>
+
 
 
 
