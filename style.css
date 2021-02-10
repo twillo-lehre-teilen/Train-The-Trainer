@@ -868,8 +868,8 @@ pre::after {
   outline: none;
   transition: 0.4s;
 }
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .accordion:hover {
+/* Add a background color to the button if it is clicked on (add the .activeA class with JS), and when you move the mouse over it (hover) */
+.activeA, .accordion:hover {
   background-color: #D1D8E1;
 }
 /* Style the accordion panel. Note: hidden by default */
@@ -887,7 +887,6 @@ pre::after {
   float: right;
   margin-left: 5px;
 }
-
-.active:after {
+.activeA:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
