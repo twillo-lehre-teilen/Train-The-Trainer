@@ -875,7 +875,7 @@ pre::after {
 }
 /* Style the accordion panel. Note: hidden by default */
 .panel {
-  font-size: 18px;
+  font-size: 8px;
   padding: 0 18px;
   background-color: #FAFAFC;
   overflow: hidden;
