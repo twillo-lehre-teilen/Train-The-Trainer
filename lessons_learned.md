@@ -113,7 +113,7 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 Auch Hinweise (a) zur Dauer des Einsatzes, (b) für welches Veranstaltungsformat sich das Material eignet oder auch (c) die Angabe über die didaktische Intention des Materials oder Erfahrungsberichte aus der Lehrpraxis sind zentrale Informationen. Sie fördern die Einschätzbarkeit des Bildungsmaterials und die Passung in den eigenen Lehrkontext.
 
 
-<div style="font-size:16px;">Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de/oer/oer-create.html) auf twillo nachlesen.</div>
+<div style="font-size:16px;">Alle o.g. Informationen können Sie im Bereich <a href="https://www.oernds.de/oer/oer-create.html">Erstellen</a> auf twillo nachlesen.</div>
 
 
 ---
@@ -141,37 +141,37 @@ Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich von
 
 <table>
   <tr>
-    <td><img src="images/creative-commons_cc-zero.png" alt="Symbolbild kleine Datei"/></td>
+    <td><img src="images/creative-commons_cc-zero.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC 0 = Ohne Bedingungen</B> 
       <br> Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</td>
   </tr>
   <tr>
-    <td><img src="images/creative-commons_cc-by.png" alt="Symbolbild kleine Datei"/></td>
+    <td><img src="images/creative-commons_cc-by.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY = Namensnennung</B>
       <br> Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.</td>
   </tr>
   <tr>
-    <td><img src="images/creative-commons_cc-by-sa.png" alt="Symbolbild kleine Datei"/></td>
+    <td><img src="images/creative-commons_cc-by-sa.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen</B>
       <br> Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Inhalts/Werks unter derselben Lizenz zu veröffentlichen. Dies stellt sicher, dass die Inhalte auch weiterhin frei zugänglich bleiben.</td>
   </tr>
   <tr>
-    <td><img src="images/creative-commons_cc-by-nc.png" alt="Symbolbild kleine Datei"/></td>
+    <td><img src="images/creative-commons_cc-by-nc.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>C BY NC = Namensnennung und nicht kommerziell</B>
       <br>Der Name der urhebenden Person muss genannt werden.  Kopien und bearbeitete Versionen des Inhalts/Werks dürfen nicht kommerziell genutzt werden</td>
   </tr>
   <tr>
-    <td><img src="images/creative-commons_cc-by-nd.png" alt="Symbolbild kleine Datei"/></td>
+    <td><img src="images/creative-commons_cc-by-nd.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY ND = Namensnennung und keine Bearbeitung</B>
       <br> Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden.</td>
   </tr>
   <tr>
-    <td><img src="images/creative-commons_cc-by-nc-sa.png" alt="Symbolbild kleine Datei"/></td>
+    <td><img src="images/creative-commons_cc-by-nc-sa.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY NC SA = Namensnennung, nicht kommerziell und Weitergabe unter gleichen Bedingungen </B>
       <br> Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Materials unter derselben Lizenz zu veröffentlichen. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</td>
   </tr>
   <tr>
-    <td><img src="images/creative-commons_cc-by-nc-nd.vg.png" alt="Symbolbild kleine Datei"/></td>
+    <td><img src="images/creative-commons_cc-by-nc-nd.vg.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY NC ND = Namensnennung, nicht kommerziell und keine Bearbeitung </B>
       <br> Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</td>
   </tr>
@@ -188,7 +188,7 @@ CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-L
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
-  <figcaption style="text-align:center;font-size:14px;">Dieses Video von [Nele Hirsch](https://ebildungslabor.de/) ist lizensiert unter [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Dieses Video von <a href="https://ebildungslabor.de/">Nele Hirsch</a> ist lizensiert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a></figcaption>
 </figure>
 
 
