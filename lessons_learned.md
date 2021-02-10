@@ -113,7 +113,8 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 Auch Hinweise (a) zur Dauer des Einsatzes, (b) für welches Veranstaltungsformat sich das Material eignet oder auch (c) die Angabe über die didaktische Intention des Materials oder Erfahrungsberichte aus der Lehrpraxis sind zentrale Informationen. Sie fördern die Einschätzbarkeit des Bildungsmaterials und die Passung in den eigenen Lehrkontext.
 
 
-<font size="16px">Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de/oer/oer-create.html) auf twillo nachlesen.</font>
+<div style="font-size:16px;">Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de/oer/oer-create.html) auf twillo nachlesen.</div>
+
 
 ---
 # Urheberrecht und offene Lizenzen
