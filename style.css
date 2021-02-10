@@ -878,4 +878,6 @@ pre::after {
   background-color: #FAFAFC;
   display: none;
   overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.2s ease-out;
 }
