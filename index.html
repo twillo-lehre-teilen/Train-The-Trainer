@@ -22,38 +22,12 @@
       logo: '/images/twillo_logo.svg height="50"',
       auto2top: true,
       noEmoji: true,
+      executeScript: true,
       pagination: {
         previousText: 'ZURÜCK',
         nextText: 'VOR',
         crossChapter: true
         },
-    }
-  </script>
-  <script>
-    window.$docsify = {
-      collapse: [
-        function(hook, vm) {
-          hook.ready(function () {
-            document
-              .addEventListener('click', handleMenuClick)
-          })
-        }
-        function handleMenuClick(e) {
-          var acc = document.getElementsByClassName("accordion");
-          var i;
-          for (i = 0; i < acc.length; i++) {
-            acc[i].addEventListener("click", function() {
-              this.classList.toggle("active");
-              var panel = this.nextElementSibling;
-              if (panel.style.display === "block") {
-                panel.style.display = "none";
-              } else {
-                panel.style.display = "block";
-              }
-            });
-          }
-        }
-      ]  
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
