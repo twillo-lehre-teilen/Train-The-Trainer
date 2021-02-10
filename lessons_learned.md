@@ -107,17 +107,44 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 <img src="images/inhaltstypen.svg" alt="OER verschiedene Materialien - Kleinteilige Lehrmaterialien, Aufgabenorientierte Materialien, Lektion, Kurs, Werkzeuge"/>
 
 
-<button class="accordion">Section 1</button>
+<button class="accordion">Kleinteiliges Lehrmaterial</button>
 <div class="panel">
-  <p>Lorem ipsum...</p>
+  <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele: Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte</p>
 </div>
-<button class="accordion">Section 2</button>
+
+<button class="accordion">Aufgabenorientiertes Material</button>
 <div class="panel">
-  <p>Lorem ipsum...</p>
+  <p>Aufgabenorientierte Materialien sind Aufgaben, Übungen oder Arbeitsaufträge für Studierende und können sich auf Lehrmaterialien beziehen oder auf solche aufbauen. Sie zielen auf spezifisch definierte Lernhandlungen, etwa das Vertiefen von Wissen, Lösen eines Problems, Festigen von Wissen, Generieren von Wissen
+bzw. Reflexion von Lernprozessen
+
+Beispiele:
+interaktives Video, Arbeitsblatt, Webquest, Lernquiz, Test, Probeklausur, Portfolioaufgaben</p>
 </div>
-<button class="accordion">Section 3</button>
+
+<button class="accordion">Lektion</button>
 <div class="panel">
-  <p>Lorem ipsum...</p>
+  <p>Eine Lektion umfasst in der Regel mehrere kleinteilige Lehrmaterialien und aufgabenorientierte Materialien. Sie enthält Lernziele und ist in sich abgeschlossen, modular aufgebaut und die einzelnen Elemente sind sequenziell miteinander verbunden. Die Struktur einer Lektion wird durch mehrere Materialtypen abgebildet und enthält auch mindestens ein interaktives Element.
+
+Beispiele:
+Lehrplanung, Lernnuggets, Lehr-Lerneinheiten aus LMS oder anderen Software-Anwendungen</p>
+</div>
+
+<button class="accordion">Kurs</button>
+<div class="panel">
+  <p>Ein Kurs besteht aus mehreren Lektionen bzw. kleinteiligen Lehrmaterialien und aufgabenorientierten Materialien. Der Aufbau und die Inhalte des Kurses sind auf ein übergeordneten Lehr- oder Lernziel hin ausgerichtet.
+
+Beispiele:
+LMS Kurse, im html-Format abgebildete Kurse, Lehrplanung</p>
+</div>
+
+<button class="accordion">Werkzeug</button>
+<div class="panel">
+  <p>Werkzeuge stehen für jede Form und Größe von Anwedungssoftware, die für die Erstellung der offenen Bildungsmaterialien und für ihren Einsatz in Lehr-Lern-Kontexten besonders geeignet sind.
+
+Werkzeuge, die eine kostenpflichtige Registrierung verlangen, sind ausgeschlossen.
+
+Beispiele:
+befüllbarer Vokabeltrainer, Mindmap Anwendugen, digitale Leinwände etc.</p>
 </div>
 
 <script>
