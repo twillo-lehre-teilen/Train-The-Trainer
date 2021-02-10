@@ -141,7 +141,7 @@ Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich von
 
 <table>
   <tr>
-    <td><img src="images/creative-commons_cc-zero.svg" alt="Symbolbild kleine Datei"/></td>
+    <td onclick="javascript:window.location.href='https://creativecommons.org/publicdomain/zero/1.0/deed.de'"><img src="images/creative-commons_cc-zero.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC 0 = Ohne Bedingungen</B> 
       <br> Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</td>
   </tr>
