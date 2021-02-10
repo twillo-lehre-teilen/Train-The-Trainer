@@ -71,7 +71,7 @@ Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiforma
 
 <figure>
   <img src="images/oernds_oer_gardening_text.svg" alt="Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" titel="Kriterien für Dateiformate"/>
-  <figcaption style="text-align:center;font-size:14px;">Kriterien für Dateiformate. Abbildung von Twillo unter CC BY 4.0</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Bild von Twillo unter CC BY 4.0</figcaption>
 </figure>
 
 <b>Offene Standards</b><br>einfache Weiterverarbeitung durch Open Source Software
@@ -112,17 +112,8 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 
 Auch Hinweise (a) zur Dauer des Einsatzes, (b) für welches Veranstaltungsformat sich das Material eignet oder auch (c) die Angabe über die didaktische Intention des Materials oder Erfahrungsberichte aus der Lehrpraxis sind zentrale Informationen. Sie fördern die Einschätzbarkeit des Bildungsmaterials und die Passung in den eigenen Lehrkontext.
 
-##### Weiterführende Informationen
 
-<font size="16px">
-   
-
-Definiton: [Link]()
-
-
-Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de/oer/oer-create.html) auf twillo nachlesen.
-   
-</font>
+<font size="16px">Alle o.g. Informationen können Sie im Bereich [Erstellen](https://www.oernds.de/oer/oer-create.html) auf twillo nachlesen.</font>
 
 ---
 # Urheberrecht und offene Lizenzen
@@ -194,7 +185,10 @@ Die wichtigsten Aspekte von Urheberrecht und offenen Lizenzierung von Materialie
 CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg (o.J.): <a href="https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf" alt="Link zum Handzettel CC-Lizenzen">Handzettel CC-Lizenzen</a>.
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
+<figure>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
+  <figcaption style="text-align:center;font-size:14px;">Dieses Video von [Nele Hirsch](https://ebildungslabor.de/) ist lizensiert unter [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)</figcaption>
+</figure>
 
 
 ---
