@@ -104,6 +104,7 @@ Materialien, die für den Bildungskontext erstellt werden, sind für spezifische
 
 Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die didaktische Ausrichtung des Bildungsmaterials zu erhalten. Dies erfolgt auf twillo mit der Einordnung des Bildungsmaterials in eine der fünf Inhaltstypen. So erhalten Lehrende einen ersten Überblick darüber, ob es sich um ein kleinteiliges Lehrmaterial oder ein aufgabenorientiertes Material, um eine Lektion oder um einen Kurs bzw. um ein Werkzeug handelt oder können direkt nach diesen spezifischen Inhalten suchen.
 
+<img src="images/inhaltstypen.svg" alt="OER verschiedene Materialien - Kleinteilige Lehrmaterialien, Aufgabenorientierte Materialien, Lektion, Kurs, Werkzeuge"/>
 
 <!-- Script fürs Accordion -->
 <script>
