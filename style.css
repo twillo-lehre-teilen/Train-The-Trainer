@@ -882,7 +882,7 @@ pre::after {
 }
 .accordion:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
-  font-size: 13px;
+  font-size: 24px;
   color: #54B6B5;
   float: right;
   margin-left: 5px;
