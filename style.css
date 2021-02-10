@@ -860,7 +860,7 @@ pre::after {
 .accordion {
   background-color: #F0F2F6;
   color: #0A1F40;
-  font-size: 22px;
+  font-size: inherit;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -875,6 +875,7 @@ pre::after {
 }
 /* Style the accordion panel. Note: hidden by default */
 .panel {
+  font-size: 18px;
   padding: 0 18px;
   background-color: #FAFAFC;
   overflow: hidden;
