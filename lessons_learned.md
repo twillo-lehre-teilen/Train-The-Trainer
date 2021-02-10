@@ -106,6 +106,7 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 
 <img src="images/inhaltstypen.svg" alt="OER verschiedene Materialien - Kleinteilige Lehrmaterialien, Aufgabenorientierte Materialien, Lektion, Kurs, Werkzeuge"/>
 
+<!-- Script fürs Accordion -->
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
@@ -123,6 +124,10 @@ for (i = 0; i < acc.length; i++) {
 }
 </script>
 
+<button class="accordion">Kleinteiliges Lehrmaterial</button>
+<div class="panel">
+  <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte.</p>
+</div>
 <button class="accordion">Aufgabenorientiertes Material</button>
 <div class="panel">
   <p>Aufgabenorientierte Materialien sind Aufgaben, Übungen oder Arbeitsaufträge für Studierende und können sich auf Lehrmaterialien beziehen oder auf solche aufbauen. Sie zielen auf spezifisch definierte Lernhandlungen, etwa das Vertiefen von Wissen, Lösen eines Problems, Festigen von Wissen, Generieren von Wissen
