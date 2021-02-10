@@ -860,6 +860,7 @@ pre::after {
 .accordion {
   background-color: #F0F2F6;
   color: #0A1F40;
+  font-size: 22px;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -882,7 +883,7 @@ pre::after {
 }
 .accordion:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
-  font-size: 24px;
+  font-size: 13px;
   color: #54B6B5;
   float: right;
   margin-left: 5px;
