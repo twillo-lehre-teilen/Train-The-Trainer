@@ -123,6 +123,9 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 </script>
+<br>
+
+
 
 <button class="accordion">Kleinteiliges Lehrmaterial</button>
 <div class="panel">
