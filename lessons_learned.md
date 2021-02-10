@@ -124,31 +124,32 @@ for (i = 0; i < acc.length; i++) {
 }
 </script>
 
+<figure>
 <button class="accordion">Aufgabenorientiertes Material</button>
 <div class="panel">
    <p>Test B</p>
 </div>
 <button class="accordion">Kleinteiliges Lehrmaterial</button>
 <div class="panel">
-   <p>Test A</p>
+   <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte.</p>
 </div>
 <button class="accordion">Aufgabenorientiertes Material</button>
 <div class="panel">
-   <p>Test B</p>
+   <p>Aufgabenorientierte Materialien sind Aufgaben, Übungen oder Arbeitsaufträge für Studierende und können sich auf Lehrmaterialien beziehen oder auf solche aufbauen. Sie zielen auf spezifisch definierte Lernhandlungen, etwa das Vertiefen von Wissen, Lösen eines Problems, Festigen von Wissen, Generieren von Wissen bzw. Reflexion von Lernprozessen.<br><br>Beispiele:<br>interaktives Video, Arbeitsblatt, Webquest, Lernquiz, Test, Probeklausur, Portfolioaufgaben</p>
 </div>
 <button class="accordion">Lektion</button>
 <div class="panel">
-   <p>Test C</p>
+   <p>Eine Lektion umfasst in der Regel mehrere kleinteilige Lehrmaterialien und aufgabenorientierte Materialien. Sie enthält Lernziele und ist in sich abgeschlossen, modular aufgebaut und die einzelnen Elemente sind sequenziell miteinander verbunden. Die Struktur einer Lektion wird durch mehrere Materialtypen abgebildet und enthält auch mindestens ein interaktives Element.<br><br>Beispiele:<br>Lehrplanung, Lernnuggets, Lehr-Lerneinheiten aus LMS oder anderen Software-Anwendungen</p>
 </div>
 <button class="accordion">Kurs</button>
 <div class="panel">
-   <p>Test D</p>
+   <p>Ein Kurs besteht aus mehreren Lektionen bzw. kleinteiligen Lehrmaterialien und aufgabenorientierten Materialien. Der Aufbau und die Inhalte des Kurses sind auf ein übergeordneten Lehr- oder Lernziel hin ausgerichtet.<br><br>Beispiele:<br>LMS Kurse, im html-Format abgebildete Kurse, Lehrplanung</p>
 </div>
 <button class="accordion">Werkzeug</button>
 <div class="panel">
-   <p>Test E</p>
+   <p>Werkzeuge stehen für jede Form und Größe von Anwedungssoftware, die für die Erstellung der offenen Bildungsmaterialien und für ihren Einsatz in Lehr-Lern-Kontexten besonders geeignet sind.<br><br>Werkzeuge, die eine kostenpflichtige Registrierung verlangen, sind ausgeschlossen.<br><br>Beispiele:<br> befüllbarer Vokabeltrainer, Mindmap Anwendugen, digitale Leinwände etc.</p>
 </div>
-
+</figure>
 
 <button class="accordion">Kleinteiliges Lehrmaterial</button>
 <div class="panel">
