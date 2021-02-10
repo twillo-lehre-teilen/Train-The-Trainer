@@ -141,37 +141,37 @@ Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich von
 
 <table>
   <tr>
-    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/publicdomain/zero/1.0/deed.de'"><img src="images/creative-commons_cc-zero.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/publicdomain/zero/1.0/deed.de'" target="_blank"><img src="images/creative-commons_cc-zero.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC 0 = Ohne Bedingungen</B> 
       <br> Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</td>
   </tr>
   <tr>
-    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by/4.0/deed.de'"><img src="images/creative-commons_cc-by.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by/4.0/deed.de'" target="_blank"><img src="images/creative-commons_cc-by.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY = Namensnennung</B>
       <br> Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.</td>
   </tr>
   <tr>
-    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-sa/4.0/deed.de'"><img src="images/creative-commons_cc-by-sa.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-sa/4.0/deed.de'" target="_blank"><img src="images/creative-commons_cc-by-sa.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen</B>
       <br> Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Inhalts/Werks unter derselben Lizenz zu veröffentlichen. Dies stellt sicher, dass die Inhalte auch weiterhin frei zugänglich bleiben.</td>
   </tr>
   <tr>
-    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-nc/4.0/deed.de'"><img src="images/creative-commons_cc-by-nc.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-nc/4.0/deed.de'" target="_blank"><img src="images/creative-commons_cc-by-nc.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>C BY NC = Namensnennung und nicht kommerziell</B>
       <br>Der Name der urhebenden Person muss genannt werden.  Kopien und bearbeitete Versionen des Inhalts/Werks dürfen nicht kommerziell genutzt werden</td>
   </tr>
   <tr>
-    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-nd/4.0/deed.de'"><img src="images/creative-commons_cc-by-nd.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-nd/4.0/deed.de'" target="_blank"><img src="images/creative-commons_cc-by-nd.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY ND = Namensnennung und keine Bearbeitung</B>
       <br> Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden.</td>
   </tr>
   <tr>
-    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de'"><img src="images/creative-commons_cc-by-nc-sa.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de'" target="_blank"><img src="images/creative-commons_cc-by-nc-sa.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY NC SA = Namensnennung, nicht kommerziell und Weitergabe unter gleichen Bedingungen </B>
       <br> Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Materials unter derselben Lizenz zu veröffentlichen. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</td>
   </tr>
   <tr>
-    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de'"><img src="images/creative-commons_cc-by-nc-nd.vg.svg" alt="Symbolbild kleine Datei"/></td>
+    <td style="cursor:pointer" onclick="javascript:window.location.href='https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de'" target="_blank"><img src="images/creative-commons_cc-by-nc-nd.vg.svg" alt="Symbolbild kleine Datei"/></td>
     <td> <B>CC BY NC ND = Namensnennung, nicht kommerziell und keine Bearbeitung </B>
       <br> Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</td>
   </tr>
