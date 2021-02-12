@@ -4,7 +4,7 @@
 
 In den folgenden neun Schritten erhalten Sie wichtige Hinweise bei der Aufgabenbearbeitung.
 
-Los geht's!</b><br><br>
+Los geht's!</b><br><br><br>
 
 <!-- Script fürs Accordion -->
 <script>
