@@ -1,3 +1,75 @@
+<center>
+# Aufgabe B
+
+<b>
+Wählen Sie Lehr-/Lernmaterial aus, das Sie selbst für eine Ihrer Lehrveranstaltungen erstellt haben. Bereiten Sie es ggf. auf, damit es den Merkmalen von OER entspricht und veröffentlichen Sie es anschließend im OER-Portal twillo.
+
+In den folgenden neun Schritten erhalten Sie wichtige Hinweise bei der Aufgabenbearbeitung.
+
+Los geht's!
+</b>
+</center>
+
+<!-- Script fürs Accordion -->
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("activeA");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+<div>
+  <button class="accordion">Schritt 1: Material auswählen</button>
+  <div class="panel">
+   <p>Bsp...</p>
+  </div>
+  <button class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
+  <div class="panel">
+   <p>Bsp...</p>
+  </div>
+  <button class="accordion">Schritt 3: Lizenztext und Lizenzversion wählen</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 4: Bildungsmaterial im offenen Dateiformat speichern</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 5: Anmeldung auf twillo</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 6: Material einstellen</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 7: Bildungsmaterial auffindbar machen</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 8: Bildungsmaterial kontextualisieren</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 9: Material freigeben</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+</div>
+
+---
+<!-- old -->
+
 # Wählen Sie ein selbsterstelltes Lehr-/Lernmaterial aus ihrem Materialfundus und stellen Sie es ins OER-Portal ein
 
 ## Wo finde ich OER?
