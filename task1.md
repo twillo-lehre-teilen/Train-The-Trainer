@@ -1,14 +1,10 @@
-<center>
-
 # Aufgabe A
 
 <b>Führen Sie eine Internetrecherche durch und identifizieren Sie hochwertige Lehrmaterialien, die den Merkmalen von OER entsprechen. Veröffentlichen Sie diese anschließend im OER-Portal twillo.
 
 In den folgenden acht Schritten erhalten Sie wichtige Hinweise bei der Aufgabenbearbeitung.
 
-Los geht's!</b>
-
-</center>
+Los geht's!</b><br>
 
 <!-- Script fürs Accordion -->
 <script>
