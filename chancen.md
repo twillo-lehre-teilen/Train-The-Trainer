@@ -11,16 +11,17 @@ OER stellen einen freien Zugang zu Bildung und Wissen dar. Da ihre Nutzung allen
 Den Chancen von OER stehen auch einige Herausforderungen gegenüber. So bestehen beispielsweise oftmals Unsicherheiten bezüglich rechtlicher Aspekte bei der Erstellung, Verbreitung und Nutzung von OER. Besonders bei Lehrenden ist die Sorge, unbeabsichtigt eine Urheberrechtsverletzung zu begehen meist groß. Fähigkeiten und Fertigkeiten im Umgang mit OER und freier Software sowie Wissensbestände zu Lizenzierungen scheinen noch immer als Fachkompetenzen zu gelten (vgl. Grimm/Rödel 2018). 
 
 Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etablierung im hochschulischen Kontext ein erklärtes bildungspolitisches Ziel. In zahlreichen Förderinitiativen auf nationaler und internationaler Ebene werden Strukturen entwickelt, um die Erstellung und Bereitstellung von OER zu fördern und diesbezügliche Hemmnisse abzubauen (vgl. u. a. DIPF o. J.).
-twillo - Lehre teilen (Überschrift 2)
+
+## twillo - Lehre teilen
 
 Um die Etablierung von OER in der Hochschullehre zu stärken, wurde im Rahmen des Verbundprojektes "OER-Portal Niedersachsen" (gefördert durch das Nds. Ministerium für Wissenschaft und Kultur) das Online-Portal twillo entwickelt. Twillo bietet Lehrenden eine Infrastruktur für den Austausch von freien Bildungsmaterialien und umfasst darüber hinaus vielfältige Angebote, um Lehrende bei der eigenen Erstellung und Zusammenstellung hochwertiger Lehr- und Lernmaterialien zu unterstützen. Auf diese Weise sollen Kompetenzen für den Umgang mit OER weiterentwickelt und Unsicherheiten abgebaut werden.
 
 Folgende Funktionen des Portals sind hervorzuheben:
 
-    individueller Workspace (Groß beginnen): langfristige (dito: Langfristige ...) Ablage von Materialien (z.B. über Stellenwechsel hinaus)
-    Upload- und Verlinkung: Bereitstellung von OER direkt im Portal oder über die Originalseite
-    Serien- und Sammlungsfunktion: Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte
-    Suchfunktion: Vereinfachte Auffindbarkeit von Materialien
-    Metadaten: vorkonfigurierte (Vorkonfigurierte ...) Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. (von) OER
-    Support: Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
-    Vernetzung: Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
+ * individueller Workspace (Groß beginnen): langfristige (dito: Langfristige ...) Ablage von Materialien (z.B. über Stellenwechsel hinaus)
+ * Upload- und Verlinkung: Bereitstellung von OER direkt im Portal oder über die Originalseite
+ * Serien- und Sammlungsfunktion: Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte
+ * Suchfunktion: Vereinfachte Auffindbarkeit von Materialien
+ * Metadaten: vorkonfigurierte (Vorkonfigurierte ...) Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. (von) OER
+ * Support: Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
+ * Vernetzung: Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
