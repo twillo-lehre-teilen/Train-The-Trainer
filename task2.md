@@ -1,16 +1,10 @@
-<center>
-  
 # Aufgabe B
 
-<b>
-Wählen Sie Lehr-/Lernmaterial aus, das Sie selbst für eine Ihrer Lehrveranstaltungen erstellt haben. Bereiten Sie es ggf. auf, damit es den Merkmalen von OER entspricht und veröffentlichen Sie es anschließend im OER-Portal twillo.
+<b>Wählen Sie Lehr-/Lernmaterial aus, das Sie selbst für eine Ihrer Lehrveranstaltungen erstellt haben. Bereiten Sie es ggf. auf, damit es den Merkmalen von OER entspricht und veröffentlichen Sie es anschließend im OER-Portal twillo.
 
 In den folgenden neun Schritten erhalten Sie wichtige Hinweise bei der Aufgabenbearbeitung.
 
-Los geht's!
-</b>
-
-</center>
+Los geht's!</b>
 
 <!-- Script fürs Accordion -->
 <script>
