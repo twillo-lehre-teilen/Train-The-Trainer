@@ -25,3 +25,5 @@ Folgende Funktionen des Portals sind hervorzuheben:
  * <B>Metadaten:</B> vorkonfigurierte (Vorkonfigurierte ...) Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. (von) OER
  * <B>Support:</B> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
  * <B>Vernetzung:</B> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
+ 
+ <img src="images/Logo_twillo_with_claim_dark.svg" alt="Twillo Logo"/>
