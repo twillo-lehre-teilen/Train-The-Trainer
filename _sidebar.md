@@ -6,7 +6,7 @@
 
 * [Lessons Learned](lessons_learned.md)
 
-  * [Chancen von OER in der Hochschullehre(chancen.md)
+  * [Chancen von OER in der Hochschullehre](chancen.md)
 
 * [Umsetzungsleitfäden:](task_overview.md)
 
