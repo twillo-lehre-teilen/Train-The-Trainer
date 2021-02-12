@@ -9,6 +9,7 @@ In den folgenden neun Schritten erhalten Sie wichtige Hinweise bei der Aufgabenb
 
 Los geht's!
 </b>
+
 </center>
 
 <!-- Script fürs Accordion -->
