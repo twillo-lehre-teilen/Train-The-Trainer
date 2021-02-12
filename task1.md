@@ -49,7 +49,7 @@ for (i = 0; i < acc.length; i++) {
   <div class="panel">
    <p>Bsp..</p>
   </div>
-  <button class="accordion">Schritt 6: Bildungsmaterial auffinbar machen</button>
+  <button class="accordion">Schritt 6: Bildungsmaterial auffindbar machen</button>
   <div class="panel">
    <p>Bsp..</p>
   </div>
