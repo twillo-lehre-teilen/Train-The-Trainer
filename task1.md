@@ -1,5 +1,5 @@
 <center>
-  
+
 # Aufgabe A
 
 <b>
