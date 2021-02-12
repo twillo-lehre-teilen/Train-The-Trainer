@@ -6,6 +6,8 @@
 
 * [Lessons Learned](lessons_learned.md)
 
+  * [Chancen von OER in der Hochschullehre(chancen.md)
+
 * [Umsetzungsleitfäden:](task_overview.md)
 
   * [Ein OER finden und hochladen](task1.md)
