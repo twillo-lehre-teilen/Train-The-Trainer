@@ -1,3 +1,71 @@
+<center>
+# Aufgabe A
+
+<b>
+Führen Sie eine Internetrecherche durch und identifizieren Sie hochwertige Lehrmaterialien, die den Merkmalen von OER entsprechen. Veröffentlichen Sie diese anschließend im OER-Portal twillo.
+
+In den folgenden acht Schritten erhalten Sie wichtige Hinweise bei der Aufgabenbearbeitung.
+
+Los geht's!
+</b>
+</center>
+
+<!-- Script fürs Accordion -->
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("activeA");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+<div>
+  <button class="accordion">Schritt 1: Material finden</button>
+  <div class="panel">
+   <p>Bsp...</p>
+  </div>
+  <button class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
+  <div class="panel">
+   <p>Bsp...</p>
+  </div>
+  <button class="accordion">Schritt 3: Dateiformat prüfen</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 4: Anmeldung auf twillo</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 5: Material einstellen</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 6: Bildungsmaterial auffinbar machen</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 7: Bildungsmaterial kontextualisieren</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+  <button class="accordion">Schritt 8: Material freigeben</button>
+  <div class="panel">
+   <p>Bsp..</p>
+  </div>
+</div>
+
+---
+<!-- old -->
+
 # Finden Sie ein OER im Internet und stellen Sie es ins OER-Portal ein
 
 ## Wo finde ich OER?
