@@ -109,17 +109,25 @@ Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die
 <!-- Script fürs Accordion -->
 <script>
 var acc = document.getElementsByClassName("accordion");
-var i;
 
-for (i = 0; i < acc.length; i++) {
+for (var i = 0; i < acc.length; i++) {
   acc[i].addEventListener("click", function() {
-    this.classList.toggle("activeA");
     var panel = this.nextElementSibling;
+    /* if panel already open */
     if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
+      this.classList.toggle('activeA', false);
+    	panel.style.maxHeight = null;
+      return;
     }
+    /* else */
+  	 for (var j = 0; j < acc.length; j++) {
+    	acc[j].classList.toggle('activeA', false)
+    	var p = acc[j].nextElementSibling;
+    	p.style.maxHeight = null;
+    }
+    this.classList.toggle('activeA', true);
+    panel.style.maxHeight = panel.scrollHeight + "px";
+
   });
 }
 </script>
