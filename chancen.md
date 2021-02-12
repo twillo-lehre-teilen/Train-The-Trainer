@@ -18,10 +18,10 @@ Um die Etablierung von OER in der Hochschullehre zu stärken, wurde im Rahmen de
 
 Folgende Funktionen des Portals sind hervorzuheben:
 
- * individueller Workspace (Groß beginnen): langfristige (dito: Langfristige ...) Ablage von Materialien (z.B. über Stellenwechsel hinaus)
- * Upload- und Verlinkung: Bereitstellung von OER direkt im Portal oder über die Originalseite
- * Serien- und Sammlungsfunktion: Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte
- * Suchfunktion: Vereinfachte Auffindbarkeit von Materialien
- * Metadaten: vorkonfigurierte (Vorkonfigurierte ...) Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. (von) OER
- * Support: Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
- * Vernetzung: Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
+ * <B>individueller Workspace (Groß beginnen):</B> langfristige (dito: Langfristige ...) Ablage von Materialien (z.B. über Stellenwechsel hinaus)
+ * <B>Upload- und Verlinkung:</B> Bereitstellung von OER direkt im Portal oder über die Originalseite
+ * <B>Serien- und Sammlungsfunktion:</B> Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte
+ * <B>Suchfunktion:</B> Vereinfachte Auffindbarkeit von Materialien
+ * <B>Metadaten:</B> vorkonfigurierte (Vorkonfigurierte ...) Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. (von) OER
+ * <B>Support:</B> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
+ * <B>Vernetzung:</B> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
