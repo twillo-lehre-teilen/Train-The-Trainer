@@ -47,7 +47,7 @@ for (var i = 0; i < acc.length; i++) {
 </script>
 
 <div>
-   <button class="accordion"><img src="images/creative-commons_cc-zero.svg" alt="Abb. CC Zero Lizenz" titel="CC Zero Lizenz"/></button>
+   <button class="accordion">CC 0 = Ohne Bedingungen<img src="images/creative-commons_cc-zero.svg" alt="Abb. CC Zero Lizenz" titel="CC Zero Lizenz"/></button>
    <div class="panel">
       <p>Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</p>
    </div>
