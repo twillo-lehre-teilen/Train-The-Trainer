@@ -96,5 +96,5 @@ CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-L
 
 <figure>
   <iframe src="https://youtu.be/E955up7vtCk" frameborder="0" allowfullscreen="true"> </iframe>
-  <figcaption style="text-align:center;font-size:14px;">Video 1: "Urheberrecht für Nicht-Jurist:innen" von Nele Hirsch, lizenziert unter CC 0 (1.0)</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Video 1: "<a aria-describedby="Link zum Video" href="https://www.youtube.com/watch?v=E955up7vtCk" target="_blank">Urheberrecht für Nicht-Jurist:innen</a>" von Nele Hirsch, lizenziert unter <a aria-describedby="Link zur CC 0 (1.0) Lizenz auf der Creative Commons Seite" href="https://creativecommons.org/publicdomain/zero/1.0" target="_blank">CC 0 (1.0)</a></figcaption>
 </figure>
