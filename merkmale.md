@@ -6,11 +6,11 @@
 Es gibt bei der Erstellung und Veröffentlichung von freien Bildungsmaterialien einige Aspekte zu beachten. Diese Aspekte stehen eng mit den vier grundlegenden Merkmale von OER in Verbindung. Die Beachtung dieser Merkmale können zu hochwertigen Bildungsmaterialien führen und gewährleisten einen OER-Standard.
 Im Folgenden werden diese Merkmale erläutert.
 
-## OER sind offenlizensiert
+## 1 OER sind offenlizensiert
 
 <img src="images/Merkmal_offene Lizenz.svg" alt="Abb. 4: Offene Lizenz" title="Abb. 4: Offene Lizenz"/>
 
-OER sind freie Bildungsmaterialien, die mit einer offenen Lizenz versehen sind, die Dritten explizit Nutzungsrechte einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch die entsprechenden Lizenzbausteine differenziert entsc
+OER sind freie Bildungsmaterialien, die mit einer <B>offenen Lizenz</B> versehen sind, die Dritten explizit <B>Nutzungsrechte</B> einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch die entsprechenden Lizenzbausteine differenziert entscheiden können, welche Rechte Sie Dritten an ihrem Bildungsmaterial einräumen möchten. 
 
 <img src="images/Nutzungsbedingungen_design.svg" alt="Abb. 5: CC-Lizenzmodule. Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" titel="Abb. 5: CC-Lizenzmodule"/>
 
