@@ -94,4 +94,7 @@ Die wichtigsten Aspekte zum Thema Urheberrecht und offene Lizenzierung von Mater
 
 CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg (o.J.): <a aria-describedby="Link zum Handzettel der Martin-Luther-Universität-Wittenberg" href="https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf" target="_blank">https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf</a>.
 
-<iframe src="https://youtu.be/E955up7vtCk" frameborder="0" allowfullscreen="true"> </iframe>
+<figure>
+  <iframe src="https://youtu.be/E955up7vtCk" frameborder="0" allowfullscreen="true"> </iframe>
+  <figcaption style="text-align:center;font-size:14px;">Video 1: "Urheberrecht für Nicht-Jurist:innen" von Nele Hirsch, lizenziert unter CC 0 (1.0)</figcaption>
+</figure>
