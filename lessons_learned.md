@@ -39,7 +39,7 @@ Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiforma
 ### 3 Kriterien für offene Dateiformate sind:
 
 <figure>
-  <img src="images/oernds_oer_gardening_text.svg" alt="Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" titel="Kriterien für Dateiformate"/>
+  <img src="images/oernds_oer_gardening_text.svg" alt="Abb. 7: OER Gardening. Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" titel="Abb. 7: OER Gardening"/>
   <figcaption style="text-align:center;font-size:14px;">Bild von Twillo unter CC BY 4.0</figcaption>
 </figure>
 
