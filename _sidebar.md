@@ -4,9 +4,11 @@
 
 * [Übersicht](./)
 
-* [Lessons Learned](lessons_learned.md)
+* [1 Lessons Learned](lessons_learned.md)
 
-  * [Chancen von OER in der Hochschullehre](chancen.md)
+  * [1.1 Chancen von OER in der Hochschullehre](chancen.md)
+  
+  * [1.2 Merkmale von OER](merkmale.md)
 
 * [Umsetzungsleitfäden:](task_overview.md)
 
