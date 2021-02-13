@@ -6,7 +6,7 @@
 Es gibt bei der Erstellung und Veröffentlichung von freien Bildungsmaterialien einige Aspekte zu beachten. Diese Aspekte stehen eng mit den vier grundlegenden Merkmale von OER in Verbindung. Die Beachtung dieser Merkmale können zu hochwertigen Bildungsmaterialien führen und gewährleisten einen OER-Standard.
 Im Folgenden werden diese Merkmale erläutert.
 
-## 1 OER sind offenlizensiert
+## 1. OER sind offenlizensiert
 
 <img src="images/Merkmal_offene Lizenz.svg" alt="Abb. 4: Offene Lizenz" title="Abb. 4: Offene Lizenz"/>
 
@@ -15,6 +15,12 @@ OER sind freie Bildungsmaterialien, die mit einer <B>offenen Lizenz</B> versehen
 <img src="images/Nutzungsbedingungen_design.svg" alt="Abb. 5: CC-Lizenzmodule. Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" titel="Abb. 5: CC-Lizenzmodule"/>
 
 Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“ (s. Kapitel Urheberrecht und offene Lizenzen). Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
+
+## 2. OER liegen in einem möglichst offenen Dateiformat vor 
+
+<img src="images/Merkmal_offenes Dateiformat.svg" alt="Abb. 5: Offenes Dateiformat. OER liegen in einem möglichst offenen Dateiformat vor" titel="Abb. 5: Offenes Dateiformat"/>
+
+Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiformaten. Diese ermöglichen (unter Berücksichtigung des Lizenztextes) die Nachnutzung und Bearbeitung der Materialien. Daher ist der Rückgriff auf weitverbreitete Werkzeuge und Open Source Anwendungen bei der Erstellung sowie die Speicherung der Materialien in möglichst offenen Dateiformaten von Vorteil.
 
 ### Kriterien für offene Dateiformate sind
 
