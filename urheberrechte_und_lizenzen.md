@@ -95,6 +95,12 @@ Die wichtigsten Aspekte zum Thema Urheberrecht und offene Lizenzierung von Mater
 CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg (o.J.): <a aria-describedby="Link zum Handzettel der Martin-Luther-Universität-Wittenberg" href="https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf" target="_blank">https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf</a>.
 
 <figure>
-  <iframe src="https://youtu.be/E955up7vtCk" frameborder="0" allowfullscreen="true"> </iframe>
-  <figcaption style="text-align:center;font-size:14px;">Video 1: "<a aria-describedby="Link zum Video" href="https://www.youtube.com/watch?v=E955up7vtCk" target="_blank">Urheberrecht für Nicht-Jurist:innen</a>" von Nele Hirsch, lizenziert unter <a aria-describedby="Link zur CC 0 (1.0) Lizenz auf der Creative Commons Seite" href="https://creativecommons.org/publicdomain/zero/1.0" target="_blank">CC 0 (1.0)</a></figcaption>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
+  <figcaption style="text-align:center;font-size:14px;">Dieses Video von <a href="https://ebildungslabor.de/" target="_blank">Nele Hirsch</a> ist lizensiert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a></figcaption>
 </figure>
+
+
+---
+<footer style="font-size:14px;">
+  Diese Seite von twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
+</footer>
