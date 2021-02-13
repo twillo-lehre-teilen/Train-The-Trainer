@@ -19,3 +19,36 @@ OER sind offen lizenziert und ermöglichen somit ihre freie, aber dennoch reguli
 Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich voneinander unterscheiden. So können Urheber*innen mit ihrer Wahl einer CC-Lizenz die Nutzung ihrer Inhalte entweder relativ stark einschränken oder umfassend ermöglichen. Die u.s Liste gibt einen Überblick über gängige CC-Lizenzen.
 
 &#9888;&#65039; <b>Wichtig:</b>Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA, weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (OER Portal Niedersachsen 2021)
+
+<!-- Script fürs Accordion -->
+<script>
+var acc = document.getElementsByClassName("accordion");
+
+for (var i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    var panel = this.nextElementSibling;
+    /* if panel already open */
+    if (panel.style.maxHeight) {
+      this.classList.toggle('activeA', false);
+    	panel.style.maxHeight = null;
+      return;
+    }
+    /* else */
+  	 for (var j = 0; j < acc.length; j++) {
+    	acc[j].classList.toggle('activeA', false)
+    	var p = acc[j].nextElementSibling;
+    	p.style.maxHeight = null;
+    }
+    this.classList.toggle('activeA', true);
+    panel.style.maxHeight = panel.scrollHeight + "px";
+
+  });
+}
+</script>
+
+<div>
+   <button class="accordion">CC 0 = Ohne Bedingungen</button>
+   <div class="panel">
+      <p>Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.</p>
+   </div>
+</div>
