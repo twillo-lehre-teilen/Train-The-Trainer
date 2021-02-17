@@ -65,7 +65,7 @@ Youtube: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie 
   <div class="panel">
    <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Beginnen Sie mit der Lizenz.
   Auf OER sollten Sie einen eindeutigen Lizenzhinweis finden. Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein.</p>
-  <p border-style="solid">(Glühbirne) <b>Was ist was?</b>
+  <p class="solid">(Glühbirne) <b>Was ist was?</b>
 
 <b>Lizenztext:</b>
 Der Lizenztext macht deutlich, welche Nutzungsbedingungen beim jeweiligen Material gelten und welcher Nutzungsgrad bei der Verwendung zulässig ist.
@@ -74,7 +74,8 @@ Der Lizenztext macht deutlich, welche Nutzungsbedingungen beim jeweiligen Materi
 Die unterschiedlichen Versionen (2.0 bzw. 3.0 bzw. 4.0) zeigen die durchlaufenen Revisionsprozesse der CC-Lizenzmodule an.
 
 <b>Lizenzicon:</b>
-Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. </p>
+Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. 
+</p>
 <p>Ein korrekter CC-Lizenzhinweis <b>muss</b> folgende Punkte enthalten:
 <ul>
   <li>Lizenz und Lizenzversion</li>
@@ -98,11 +99,13 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
 <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 14: Ausführlicher Lizenzhinweis" titel="Abb. 14: Ausführlicher Lizenzhinweis"/>
 <figcaption style="text-align:center;font-size:14px;">Abb. 14: Ausführlicher Lizenzhinweis</figcaption>
 </figure>
+<p class="solid">
 (Glühbirne) <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
 
 Alle Materialien, die CC-lizenziert sind, dürfen Sie grundsätzlich im Portal einstellen. Materialien mit einer möglichst offenen Lizenz (CC 0, CC BY und CC BY SA) sind besonders willkommen, da diese eine einfache Verwendung, Veränderung und Weiterverbreitung ermöglichen und somit der grundsätzlichen Idee von OER entsprechen.
 
 Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
+</p>
 </p>
   </div>
   <button class="accordion">Schritt 3: Dateiformat prüfen</button>
