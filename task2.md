@@ -65,9 +65,9 @@ Beachten Sie:
 > <li>die Quelle ist angegeben, § 63 UrhG (mind. Name des Urhebers und die Fundstelle)</li>
 > <li>das fremde Werk /die fremden Werkteile wurden nicht verändert, § 62 UrhG (Kürzungen bei umfangreichen Werken, kleinere Änderungen der Satzstruktur sind erlaubt, müssen aber kenntlich gemacht werden!)</li>
 
-> &#x1F4A1; Enthält Ihr Material urheberrechtlich geschützte Inhalte oder Werke, sollten Sie diese entfernen und ggf. nach Alternativen suchen. Eine Möglichkeit ist, sie durch CC-lizenierte Inhalte zu ersetzen.
+> &#9888;&#65039; Enthält Ihr Material urheberrechtlich geschützte Inhalte oder Werke, sollten Sie diese entfernen und ggf. nach Alternativen suchen. Eine Möglichkeit ist, sie durch CC-lizenierte Inhalte zu ersetzen.
 
-> Enthält Ihr Material CC-lizenzierte Inhalte oder Werke, dann beachten Sie die Lizenzbestimmungen und richten Sie sich nach den Nutzungsbedingungen. Die Lizenzangaben sind dann mitzuführen <font color="#54B6B5;">(s. Kapitel Urherberrecht und offene Lizenzen)</font>.</p>
+> &#9888;&#65039; Enthält Ihr Material CC-lizenzierte Inhalte oder Werke, dann beachten Sie die Lizenzbestimmungen und richten Sie sich nach den Nutzungsbedingungen. Die Lizenzangaben sind dann mitzuführen <font color="#54B6B5;">(s. Kapitel Urherberrecht und offene Lizenzen)</font>.</p>
   </div>
   <button class="accordion">Schritt 3: Lizenztext und Lizenzversion wählen</button>
   <div class="panel">
