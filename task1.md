@@ -128,7 +128,7 @@ Angehörigen von Hochschulen, die <a aria-describedby="Link zu DFN-AAI" href="ht
 
 Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
 <video width="320" height="270" controls>
-<source>src="videos/DFN_Zugang.mp4" type=video/mp4</source>
+<source>src=videos/DFN_Zugang.mp4 type=video/mp4</source>
 </video>
   </p>
   </div>
