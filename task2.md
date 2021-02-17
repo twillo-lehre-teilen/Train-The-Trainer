@@ -89,7 +89,10 @@ Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link
 
 Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis, der die verpflichtenden Angaben enthält.
 
-[img]
+<figure>
+  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Screenshot einer Googlesuche mit Filter" titel="Abb. 12.: Screenshot Google-Suchfilter"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 10: Pflichtangaben in Lizenzhinweisen</figcaption>
+</figure>
 
 Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
 
@@ -100,9 +103,12 @@ Für den Wiedererkennungswert kann das Lizenzicon mitgeführt werden. Auf der We
 
 Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
 
-[img]
+<figure>
+  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Screenshot einer Googlesuche mit Filter" titel="Abb. 12.: Screenshot Google-Suchfilter"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 11: Ausführlicher Lizenzhinweis</figcaption>
+</figure>
 
-Das Video [Lizenzhinweise am eigenem Material](https://www.oernds.de/edu-sharing/components/render/e32a1d83-e9d6-4e7b-b609-178ef867b4e0) zeigt, worauf bei der Lizenzierung geachtet werden muss. [Einbetten]
+Das Video Lizenzhinweise am eigenem Material zeigt, worauf bei der Lizenzierung geachtet werden muss.
 
 <figure>
 <video width="896" height="672" controls>
