@@ -84,7 +84,7 @@ Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis g
 <li><b>Lizenz:</b>
 Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel: unter der Lizenz CC BY 4.0</li>
 <li><b>Verweis zum Lizenztext:</b>
-Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)</li>
+Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: <a href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a></li>
 <li>Haben Sie sich für die Attribution BY entschieden, dann geben Sie im Lizenzhinweis auch die Namen aller Urheber*innen an. Auch der Name einer Institution ist zulässig (z.B: twillo, CC BY 4.0)</li>
 
 Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis, der die verpflichtenden Angaben enthält.
@@ -130,7 +130,7 @@ In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien<
 <video width="896" height="672" controls>
  <source src="https://www.oernds.de/edu-sharing/components/render/94247215-4302-4c44-9fa4-9c6dcfbce5cf" type="video/mp4">
  </video>
- <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialienvon twillo, lizenziert unter [CC BY (4.0)](https://creativecommons.org/licenses/by/4.0/deed.de)</figcaption>
+ <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialienvon twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY (4.0)</a></figcaption>
 </figure>
 
 &#9888;&#65039; <b>Nicht immer ist eine freie Lizenzwahl möglich:</b>
