@@ -146,7 +146,7 @@ for (var i = 0; i < acc.length; i++) {
 
   Sobald Sie den Vorgang speichern, befindet sich das Material in Ihrem <b>Workspace</b>.
 
-(Glühbirne)Bis zur aktiven Freigabe (Schritt 9) bleibt das Material nur für Sie sichtbar.
+&#128161; Bis zur aktiven Freigabe (Schritt 9) bleibt das Material nur für Sie sichtbar.
 
   Unabhängig davon, ob Sie Material verlinkt oder hochgeladen haben, folgt im nächsten Schritt die Angabe von Metadaten. Diese dienen zum einen der Beschreibung der Materialien und sorgen zum anderen dafür, dass das Material gefunden werden kann.</p>
   </div>
@@ -166,7 +166,7 @@ for (var i = 0; i < acc.length; i++) {
 
   Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> liefert eine grobe Beschreibung über die Ausrichtung und den Umfang der Materialien, während die Angabe <b>Materialart</b> die (Medien-)Formate der Materialien detaillierter beschreibt. Beide Angaben können die Auffindbarkeit der Bildungsmaterialien erhöhen.
 
-  (Glühbirne) Funktionen im Portal
+  &#128161; Funktionen im Portal
 
   <b>Kleinteilige Lehrmaterialien</b>
   können als einzelne Materialien bereitgestellt werden. Mit der <b>Serienfunktion</b> können entweder weitere Dateiformate oder dazugehörige Materialien (beim Erklärvideo bspw. Storyboard, Tonspur) ergänzt werden.
