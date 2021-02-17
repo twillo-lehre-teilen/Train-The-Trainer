@@ -35,7 +35,20 @@ for (var i = 0; i < acc.length; i++) {
 <div>
   <button class="accordion">Schritt 1: Material auswählen</button>
   <div class="panel">
-   <p>Bsp...</p>
+   <p>Damit der zeitliche Bearbeitungsrahmen von 30 Minuten eingehalten wird, empfehlen wir solche Materialien aus dem eigenen bewährten Lehrmaterialfundus zu wählen, die vom Umfang her den Inhaltsytypen <b>kleinteiliges Lehrmaterial</b> oder <b>aufgabenorientiertes Lehrmaterial</b> entsprechen.
+    
+<b>Kleinteilige Lehrmaterialien sind beispielsweise:</b>
+<li>ein Foliensatz</li>
+<li>ein Skript</li>
+<li>ein Schaubild</li>
+
+<b>Aufgabenorientierte Materialien sind beispielsweise:</b>
+<li>eine Probeklausur mit Musterlösungen oder Hilfestellungen</li>
+<li>ein Arbeitsblatt mit Hilfestellungen</li>
+<li>ein Quiz mit Lösungen</li>
+
+> &#x1F4A1; Bei der Bereitstellung von aufgabenorientierten Materialien sollten sowohl die Aufgabe, die Übung, das Arbeitsblatt etc., als auch ergänzende Materialien wie z.B. Hilfestellung, (Muster-)Lösungen, bzw. Lösungswege oder Best-Practice-Beispiele bereitgestellt werden. Dies erleichtert anderen Lehrenden die Nachnutzung und Kontextualisierung der Materialien.
+    </p>
   </div>
   <button class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
   <div class="panel">
@@ -70,72 +83,6 @@ for (var i = 0; i < acc.length; i++) {
    <p>Bsp..</p>
   </div>
 </div>
-
----
-<!-- old -->
-
-# Wählen Sie ein selbsterstelltes Lehr-/Lernmaterial aus ihrem Materialfundus und stellen Sie es ins OER-Portal ein
-
-## Wo finde ich OER?
-[Platzhalter]
-
-## Urheberrechtliche Aspekte & Lizenz
-
-1. Klärung: ausschließlich eigene Materialien oder sind fremde Inhalte integriert? <br>Ja: hat fremde Materialien: / Nein: →
-2. Lizenzwahl: Welches Lizenzmodul von Creative Commons passt zu Ihrem Material? Für welche Lizenz entscheiden Sie sich? <br> <B>Je offener die Lizenz, desto einfacher ist es in der Nachnutzung.</B>
-        a. CC-0 = vollständige Freigabe
-        b. CC-BY = Namensnennung erforderlich
-        c. CC-SA (share alike) = „viral“ abstammende Werke müssen dieselbe Lizenz haben
-        d. CC-ND (no derivatives) = keine Veränderungen
-        e. CC-NC (non commercial) = keine kommerzielle Nutzung
-3. Positionieren Sie ihren Lizenzhinweis auf Ihrem Bildungsmaterial:
-   <br>Video "Lizenzangaben an eigenen Materialien" einbinden/einbetten
-   
-<img src="images/oer_skala.svg" alt="Lizenzangaben" titel="Lizenzangaben"/>
-
-## Dateiformate
-In welchem Dateiformat liegt ihr Material vor? Kann beispielsweise eine PDF möglicherweise auch als odt oder docx umgewandelt werden? Damit ermöglichen Sie es anderen ihr Material herunterzuladen und es direkt lokal zu bearbeiten.
-
-## Optionen im OER-Portal
-
-<center><img src="images/OER-Portal_Workflow_Grafik.svg" max-height="350" width=auto alt="Anmelden: DNF" titel="Anmelden: DFN"/><br><B>Material ins OER-Portal einstellen</B></center>
-
-hochladen
-
-## Metadaten
-
-Sie sind Expert*in Ihres Materials. Daher können Sie ...
-
-<img src="images/general_structure.svg" alt="Metadaten" titel="Metadaten"/>
-
-### Allgemeine Informationen
-
-<B>Lizenz:</B>
-Geben Sie bei der Urheberangabe ...
-
-<img src="images/urheber.svg" alt="MetadatenLizenz" titel="MetadatenLizenz"/>
-
-<B>Klassifikation:</B> Inhaltstyp & Materialart
-<br>
-Inhaltstyp: *Kleinteiliges Lehrmaterial* sind typische Lehrmaterialien wie etwa Abbildungen, Videos, Audio oder Dokumente, die aufbereitete Lehrinhalte beinhalten. Auch Informationsmaterialien wie etwa Handreichungen zählen zu den kleinteiligen Materialien.
-
-<B>Didaktische Informationen:</B>
-
-<B>Technische Informationen:</B>
-
-## Freigabe
-
-[Platzhalter]
-
-## OER: Selbstcheck-Tool
-
-[Platzhalter]
-
-## OER Planungshilfe
-
-[Platzhalter]
-
-
 
 ---
 <footer style="font-size:14px;">
