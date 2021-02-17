@@ -123,7 +123,7 @@ In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien<
 <video width="896" height="672" controls>
  <source src="https://www.oernds.de/edu-sharing/components/render/b64e4e41-cc74-45c3-967e-8b80397dfac6" type="video/mp4">
  </video>
- <figcaption style="text-align:center;font-size:14px;">Video 2: Lizenzangaben bei eingebundenen fremden Materialien von twillo, lizenziert unter [CC BY (4.0)](https://creativecommons.org/licenses/by/4.0/deed.de)</figcaption>
+ <figcaption style="text-align:center;font-size:14px;">Video 2: Lizenzangaben bei eingebundenen fremden Materialien von twillo, lizenziert unter CC BY (4.0)</figcaption>
 </figure>
 
 <figure>
