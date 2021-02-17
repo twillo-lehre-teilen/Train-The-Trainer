@@ -155,7 +155,21 @@ Unabhängig davon, ob Sie Material verlinkt oder hochgeladen haben, folgt im nä
 <figcaption style="text-align:center;font-size:14px;">Abb. 16: Screenshot Navigation twillo </figcaption>
 </figure>
      Im Abschnitt <l>Lizenz</l> übernehmen Sie genau die Lizenz, die das Material aufweist. Geben Sie bei der Urheberangabe im Reiter <l>Autoren und Beteiligte</l> auch die Autor*innen als Urheber*inen an. Sollte es sich um ein gemeinfreies Werk oder CC 0-lizenziertes Werk handeln, können Sie den Namen, sofern bekannt, unter <l>freie Urheberangabe</l> oder <l>Autoren & Beteiligte</l> angeben.
+<figure>
+<img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 17: Screenshot Urheberangabe twillo " titel="Abb. 17: Screenshot Urheberangabe twillo "/>
+<figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot Urheberangabe twillo </figcaption>
+</figure>
+     <b>Klassifizierungen</b>
 
+Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> liefert eine grobe Beschreibung über die Ausrichtung und den Umfang der Materialien, während die Angabe <b>Materialart</b> die (Medien-)Formate der Materialien detaillierter beschreibt. Beide Angaben können die Auffindbarkeit der Bildungsmaterialien erhöhen.
+
+(Glühbirne) Funktionen im Portal
+
+<b>Kleinteilige Lehrmaterialien</b>
+können als einzelne Materialien bereitgestellt werden. Mit der <b>Serienfunktion</b> können entweder weitere Dateiformate oder dazugehörige Materialien (beim Erklärvideo bspw. Storyboard, Tonspur) ergänzt werden.
+
+<b>Aufgabenorientierte Materialien</b>
+zusätzliche Materialien zum Aufgabenelement, etwa Musterlösungen, Best-Practice-Beispiele oder dokumentierte Hilfestellungen, können mit der <b>Serienfunktion</b> ergänzt werden.
   </p>
   </div>
   <button class="accordion">Schritt 7: Bildungsmaterial kontextualisieren</button>
