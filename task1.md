@@ -75,6 +75,14 @@ Die unterschiedlichen Versionen (2.0 bzw. 3.0 bzw. 4.0) zeigen die durchlaufenen
 
 <b>Lizenzicon:</b>
 Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. </p>
+<p>Ein korrekter CC-Lizenzhinweis <b>muss</b> folgende Punkte enthalten:
+<ul>
+  <li>Lizenz und Lizenzversion</li>
+  <li>Verweis zum Lizenztext (z. B. Verlinkung oder ausgeschriebener Link)</li>
+  <li>Urheber*in(nen)angabe (sofern die Lizenz das Modul BY enthält) </li>
+</ul>
+
+Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis (CC BY (4.0)), der die verpflichtenden Angaben enthält.</p>
   </div>
   <button class="accordion">Schritt 3: Dateiformat prüfen</button>
   <div class="panel">
