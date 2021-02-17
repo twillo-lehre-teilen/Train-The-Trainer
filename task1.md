@@ -208,7 +208,16 @@ Dieses didaktische Metadatum zeigt an, worauf und auf welche Lernhandlung das Bi
   </div>
   <button class="accordion">Schritt 8: Material freigeben</button>
   <div class="panel">
-   <p>Bsp..</p>
+   <p>Erst mit der Freigabe veröffentlichen Sie das Material auf twillo. Hierfür gibt es zwei Wege. 1. Aktivieren Sie im Abschnitt Lizenz den Schalter <b>Objekt mit dieser Lizenz veröffentlichen</b>.
+
+Oder Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren in der Freigabemaske den Schalter <b>Material öffentlich freigeben</b>. Sie haben in dieser Maske auch die Möglichkeit, das Material zunächst nur für ausgewählte Personen freizugeben.
+
+Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer\*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
+<figure>
+<img src="images/Freigabe_twillo.svg" alt="Abb. 19: Screenshot Freigabe twillo" titel="Abb. 19: Screenshot Freigabe twillo"/>
+<figcaption style="text-align:center;font-size:14px;">Abb. 19: Screenshot Freigabe twillo</figcaption>
+</figure>
+</p>
   </div>
 </div>
 
