@@ -200,9 +200,9 @@ Dieses didaktische Metadatum zeigt an, worauf und auf welche Lernhandlung das Bi
 <b>Erfahrungsbericht</b>: Beschreiben Sie den konkreten Einsatz des Materials. Mögliche Leitfragen für die Freitextangabe könnten sein:
 <ol>
     <li>Setzt das Bildungsmaterial Vorwissen bei Lernenden voraus? <font color="grey">z. B. Für diese vertiefende Übung sind Grundkenntnisse der Algebra notwendig.</font></li>
-    <li>Intendiert das Bildungsmaterial ein bestimmtes Lernziel?  z. B. Die Studierenden sollen anhand des Planspiels erlerntes theoretisches Fachwissen spielerisch auf Praxisbeispiele anwenden und damit ihre Fach- und Methodenkompetenzen vertiefen.</li>
-    <li>In welchem Lehr- bzw. Lernkontext haben Sie das Material bereits verwendet? z. B. Diese Karikatur habe ich als stillen Impuls in meinem Seminar angewendet um in das Thema einzuführen.</li>
-    <li>In welchem Lehr- bzw. Lernkontext könnte das Material noch verwendet werden? z. B. Die Karikatur kann darüber hinaus als ein Beispiel für Impfkritik innerhalb eines Folieninputs verwendet werden.</li>
+    <li>Intendiert das Bildungsmaterial ein bestimmtes Lernziel?  <font color="grey">z. B. Die Studierenden sollen anhand des Planspiels erlerntes theoretisches Fachwissen spielerisch auf Praxisbeispiele anwenden und damit ihre Fach- und Methodenkompetenzen vertiefen.</font></li>
+    <li>In welchem Lehr- bzw. Lernkontext haben Sie das Material bereits verwendet?<font color="grey"> z. B. Diese Karikatur habe ich als stillen Impuls in meinem Seminar angewendet um in das Thema einzuführen.</font></li>
+    <li>In welchem Lehr- bzw. Lernkontext könnte das Material noch verwendet werden? <font color="grey">z. B. Die Karikatur kann darüber hinaus als ein Beispiel für Impfkritik innerhalb eines Folieninputs verwendet werden.</font></li>
 </ol>
 </p>
   </div>
