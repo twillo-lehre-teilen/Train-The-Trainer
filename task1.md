@@ -179,7 +179,32 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
   </div>
   <button class="accordion">Schritt 7: Bildungsmaterial kontextualisieren</button>
   <div class="panel">
-   <p>Bsp..</p>
+  <p>Im Abschnitt <b>Didaktik</b> können Sie weitere didaktische Kontextinformationen für Nutzer*innen des Portals angeben. Die hier ausgewählten Beschreibungskategorien können insbesondere bei der zielgerichteten Materialsuche für den eigenen Lehrkontext behilflich sein.
+
+Geben Sie an, in welchem <b>Veranstaltungsformat</b> Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.
+
+Geben Sie an, für welche <b>Niveau</b>stufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.
+
+<font color="red">Dauer: Bei einem Video oder einer Audio kann die tatsächliche Dauer der Datei angegeben werden. Für andere Materialien kann die Bearbeitungsdauerim konkreten Lehrkontext eingetragen werden.</font>
+
+<b>Funktion</b>:
+
+Dieses didaktische Metadatum zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:
+<ul>
+  <li>Vermittlung von Lehrinhalten (rezipieren)</li>
+   <li>Erarbeitung/Vertiefung von Lehrinhalten (aktiv aneignen)</li>
+   <li>Einübung spezifischer Inhalte (routinisieren)</li>
+   <li>Herstellung eigener Inhalte/Artefakte (erschaffen)</li>
+   <li>Reflexion der (Lern-)Prozesse (beurteilen)</li>
+
+<b>Erfahrungsbericht</b>: Beschreiben Sie den konkreten Einsatz des Materials. Mögliche Leitfragen für die Freitextangabe könnten sein:
+<ol>
+    <li>Setzt das Bildungsmaterial Vorwissen bei Lernenden voraus? z. B. Für diese vertiefende Übung sind Grundkenntnisse der Algebra notwendig.</li>
+    <li>Intendiert das Bildungsmaterial ein bestimmtes Lernziel?  z. B. Die Studierenden sollen anhand des Planspiels erlerntes theoretisches Fachwissen spielerisch auf Praxisbeispiele anwenden und damit ihre Fach- und Methodenkompetenzen vertiefen.</li>
+    <li>In welchem Lehr- bzw. Lernkontext haben Sie das Material bereits verwendet? z. B. Diese Karikatur habe ich als stillen Impuls in meinem Seminar angewendet um in das Thema einzuführen.</li>
+    <li>In welchem Lehr- bzw. Lernkontext könnte das Material noch verwendet werden? z. B. Die Karikatur kann darüber hinaus als ein Beispiel für Impfkritik innerhalb eines Folieninputs verwendet werden.</li>
+</ol>
+</p>
   </div>
   <button class="accordion">Schritt 8: Material freigeben</button>
   <div class="panel">
