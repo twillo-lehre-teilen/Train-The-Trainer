@@ -83,7 +83,10 @@ Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative
 </ul>
 
 Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis (CC BY (4.0)), der die verpflichtenden Angaben enthält.
+<figure>
 <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 13: Pflichtangaben in Lizenzhinweisen" titel="Abb. 13: Pflichtangaben in Lizenzhinweisen"/>
+<figcaption style="text-align:center;font-size:14px;">Abb. 13: Pflichtangaben in Lizenzhinweisen</figcaption>
+</figure>
 </p>
   </div>
   <button class="accordion">Schritt 3: Dateiformat prüfen</button>
