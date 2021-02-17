@@ -170,6 +170,11 @@ können als einzelne Materialien bereitgestellt werden. Mit der <b>Serienfunktio
 
 <b>Aufgabenorientierte Materialien</b>
 zusätzliche Materialien zum Aufgabenelement, etwa Musterlösungen, Best-Practice-Beispiele oder dokumentierte Hilfestellungen, können mit der <b>Serienfunktion</b> ergänzt werden.
+<figure>
+<img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 18: Screenshot Serienfunktion twillo " titel="Abb. 18: Screenshot Serienfunktion twillo "/>
+<figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot Serienfunktion twillo</figcaption>
+</figure>
+Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Schlagworte</b> fest, um die Auffindbarkeit Ihres Material in der  zielgerichteten Suche zu erhöhen.
   </p>
   </div>
   <button class="accordion">Schritt 7: Bildungsmaterial kontextualisieren</button>
