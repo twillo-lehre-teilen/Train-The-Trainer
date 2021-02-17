@@ -117,7 +117,20 @@ Wie Sie die das Material auf twillo teilen, erfahren Sie in den nächsten Schrit
   </div>
   <button class="accordion">Schritt 4: Anmeldung auf twillo</button>
   <div class="panel">
-   <p>Bsp..</p>
+   <p>Um das Material auf twillo einzustellen, melden Sie sich im Portal an.
+     <figure>
+<img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 15: Twillo Workflow" titel="Abb. 15: Twillo Workflow"/>
+<figcaption style="text-align:center;font-size:14px;">Abb. 15: Twillo Workflow</figcaption>
+</figure>
+     Rufen Sie den Link <a aria-describedby="Link zum OER-Portal" href="https://www.oernds.de/oer/" target="_blank">oer-nds.de</a> auf und gehen Sie über den Punkt Zum *Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-describedby="Link zu Twillo" href="https://www.oernds.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
+
+Angehörigen von Hochschulen, die <a aria-describedby="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
+
+Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
+<video width="320" height="270" controls>
+<source>src="videos/DFN_Zugang.mp4" type=video/mp4</source>
+</video>
+  </p>
   </div>
   <button class="accordion">Schritt 5: Material einstellen</button>
   <div class="panel">
