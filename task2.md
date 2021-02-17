@@ -104,11 +104,28 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
 
 Das Video [Lizenzhinweise am eigenem Material](https://www.oernds.de/edu-sharing/components/render/e32a1d83-e9d6-4e7b-b609-178ef867b4e0) zeigt, worauf bei der Lizenzierung geachtet werden muss. [Einbetten]
 
+<figure>
+<video width="896" height="672" controls>
+ <source src="https://www.oernds.de/edu-sharing/components/render/e32a1d83-e9d6-4e7b-b609-178ef867b4e0" type="video/mp4">
+ </video>
+ <figcaption style="text-align:center;font-size:14px;">Video 1: Lizenzhinweise am eigenem Material</figcaption>
+</figure>
+
 In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien</b> im eigenem Bildungsmaterial verfahren wird und was Sie beachten müssen, wenn Sie <b>fremde Materialien bearbeiten</b>.
 
-[Lizenzangaben bei eingebundenen fremden Materialien](https://www.oernds.de/edu-sharing/components/render/b64e4e41-cc74-45c3-967e-8b80397dfac6) von twillo, lizenziert unter [CC BY (4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) [Einbetten]
+<figure>
+<video width="896" height="672" controls>
+ <source src="https://www.oernds.de/edu-sharing/components/render/b64e4e41-cc74-45c3-967e-8b80397dfac6" type="video/mp4">
+ </video>
+ <figcaption style="text-align:center;font-size:14px;">Video 2: Lizenzangaben bei eingebundenen fremden Materialien von twillo, lizenziert unter [CC BY (4.0)](https://creativecommons.org/licenses/by/4.0/deed.de)</figcaption>
+</figure>
 
-[Lizenzangaben bei bearbeiteten Materialien](https://www.oernds.de/edu-sharing/components/render/94247215-4302-4c44-9fa4-9c6dcfbce5cf) von twillo, lizenziert unter [CC BY (4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) [Einbetten]
+<figure>
+<video width="896" height="672" controls>
+ <source src="https://www.oernds.de/edu-sharing/components/render/94247215-4302-4c44-9fa4-9c6dcfbce5cf" type="video/mp4">
+ </video>
+ <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialienvon twillo, lizenziert unter [CC BY (4.0)](https://creativecommons.org/licenses/by/4.0/deed.de)</figcaption>
+</figure>
 
 &#9888;&#65039; <b>Nicht immer ist eine freie Lizenzwahl möglich:</b>
 Wenn Sie einzelne Inhalte oder Werke entsprechend der lizenzrechtlichen Vorgaben bearbeitet haben (z.B. Designanpassung oder inhaltliche Ergänzungen), dann kennzeichnen Sie dies im Lizenzhinweis und prüfen, welche Lizenzbedingungen am verwendeten Ursprungswerk gelten! Wenn Sie z.B. auf ein Material aufbauen, dass unter der Lizenz CC BY SA steht, dann müssen Sie das neu entstandene Werk ebenfalls unter dieser Lizenz stellen.
