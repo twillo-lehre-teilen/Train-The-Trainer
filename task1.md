@@ -107,7 +107,13 @@ Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger o
   </div>
   <button class="accordion">Schritt 3: Dateiformat prüfen</button>
   <div class="panel">
-   <p>Bsp..</p>
+   <p>Wenden Sie sich in diesem Schritt dem Dateiformat zu. Prüfen Sie, ob das Dokument in einem offenen Dateiformat vorliegt, das eine direkte Bearbeitung erlaubt.
+
+Sollte dies nicht der Fall sein, überführen Sie das gewählte Material in ein offeneres Dateiformat -  <b>sofern es die Lizenz erlaubt</b>. Sollte die Lizenz das Modul <b>ND</b>enthalten, ist jegliche Form der Bearbeitung ausgeschlossen - dies gilt auch für die Konvertierung in ein anderes Format.
+
+Wenn Sie das Material in ein offenes Format überführen konnten/durften, stellen Sie am besten sowohl die konvertierte Datei (z.B. Word), als auch die Originaldatei (z.B. PDF) in das Portal. Auf diese Weise können Sie z.B. das Layout und Design des Originalwerks zur Veranschaulichung erhalten und gleichzeitig die Beabreitung der Inhalte ermöglichen.
+
+Wie Sie die das Material auf twillo teilen, erfahren Sie in den nächsten Schritten.</p>
   </div>
   <button class="accordion">Schritt 4: Anmeldung auf twillo</button>
   <div class="panel">
