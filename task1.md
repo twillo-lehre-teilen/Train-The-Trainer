@@ -87,6 +87,22 @@ Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis (CC BY (4.0))
 <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 13: Pflichtangaben in Lizenzhinweisen" titel="Abb. 13: Pflichtangaben in Lizenzhinweisen"/>
 <figcaption style="text-align:center;font-size:14px;">Abb. 13: Pflichtangaben in Lizenzhinweisen</figcaption>
 </figure>
+Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
+<ul>
+  <li><b>Titel und Art des Werks</b> (nur bei Version 4.0, bei Vorgängerversionen wird der Titel mit angeführt)</li>
+  <li><b>Lizenzicon</b></li>
+  <li><b>Ausnahmeregelungen oder weitere Hinweise</b> (z.B. bzgl. der Nachnutzbarkeit der Materialien)</li>
+</ul>
+Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
+<figure>
+<img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 14: Ausführlicher Lizenzhinweis" titel="Abb. 14: Ausführlicher Lizenzhinweis"/>
+<figcaption style="text-align:center;font-size:14px;">Abb. 14: Ausführlicher Lizenzhinweis</figcaption>
+</figure>
+(Glühbirne) <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
+
+Alle Materialien, die CC-lizenziert sind, dürfen Sie grundsätzlich im Portal einstellen. Materialien mit einer möglichst offenen Lizenz (CC 0, CC BY und CC BY SA) sind besonders willkommen, da diese eine einfache Verwendung, Veränderung und Weiterverbreitung ermöglichen und somit der grundsätzlichen Idee von OER entsprechen.
+
+Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
 </p>
   </div>
   <button class="accordion">Schritt 3: Dateiformat prüfen</button>
