@@ -79,10 +79,14 @@ Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative
 <ul>
   <li>Lizenz und Lizenzversion</li>
   <li>Verweis zum Lizenztext (z. B. Verlinkung oder ausgeschriebener Link)</li>
-  <li>Urheber*in(nen)angabe (sofern die Lizenz das Modul BY enthält) </li>
+  <li>Urheber*in(nen)angabe (sofern die Lizenz das Modul <b>BY</b> enthält) </li>
 </ul>
 
-Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis (CC BY (4.0)), der die verpflichtenden Angaben enthält.</p>
+Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis (CC BY (4.0)), der die verpflichtenden Angaben enthält.
+<img src="images/Pflichtangaben Lizenzhinweis.svg" alt="Abb. 13: Pflichtangaben in Lizenzhinweisen
+" titel="Abb. 13: Pflichtangaben in Lizenzhinweisen
+"/>
+</p>
   </div>
   <button class="accordion">Schritt 3: Dateiformat prüfen</button>
   <div class="panel">
