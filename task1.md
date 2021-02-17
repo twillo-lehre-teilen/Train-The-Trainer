@@ -128,7 +128,7 @@ Angehörigen von Hochschulen, die <a aria-describedby="Link zu DFN-AAI" href="ht
 
 Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
 <figure>
-<video width="640" height="480" controls>
+<video width="896" height="672" controls>
  <source src="videos/DFN_Zugang.mp4" type="video/mp4">
  </video>
  <figcaption style="text-align:center;font-size:14px;">Video 2: Twillo-Zugang über DFN</figcaption>
