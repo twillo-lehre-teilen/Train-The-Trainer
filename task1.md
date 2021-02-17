@@ -127,14 +127,25 @@ Wie Sie die das Material auf twillo teilen, erfahren Sie in den nächsten Schrit
 Angehörigen von Hochschulen, die <a aria-describedby="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
 
 Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
+<figure>
 <video width="640" height="480" controls>
-  <source src="videos/DFN_Zugang.mp4" type="video/mp4">
-</video>
+ <source src="videos/DFN_Zugang.mp4" type="video/mp4">
+ </video>
+ <figcaption style="text-align:center;font-size:14px;">Video 2: Twillo-Zugang über DFN</figcaption>
+</figure>
   </p>
   </div>
   <button class="accordion">Schritt 5: Material einstellen</button>
   <div class="panel">
-   <p>Bsp..</p>
+   <p>Sie haben auf twillo grundsätzlich die Möglichkeit, Materialien zu verlinken oder hochzuladen. 
+
+Der Einstellungsprozess wird, nachdem Sie auf die Buttonfläche <b>NEU</b> geklickt haben, durch Dialoge unterstützt. Wählen Sie <b>neues Material</b> aus und laden Sie Ihr Material hoch oder verlinken Sie es. Eine <b>Verlinkung</b> bietet sich immer dann an, wenn das Material, das Sie bereitstellen möchten, bereits online verfügbar ist und auf der Originalseite direkt genutzt werden kann (z.B. ein Selbstlernkurs in LiaScript, ein Lernvideo im TIB AV-Portal oder Youtube).
+
+Sobald Sie den Vorgang speichern, befindet sich das Material in Ihrem <b>Workspace</b>.
+
+(Glühbirne)Bis zur aktiven Freigabe (Schritt 9) bleibt das Material nur für Sie sichtbar.
+
+Unabhängig davon, ob Sie Material verlinkt oder hochgeladen haben, folgt im nächsten Schritt die Angabe von Metadaten. Diese dienen zum einen der Beschreibung der Materialien und sorgen zum anderen dafür, dass das Material gefunden werden kann.</p>
   </div>
   <button class="accordion">Schritt 6: Bildungsmaterial auffindbar machen</button>
   <div class="panel">
