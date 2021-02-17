@@ -71,7 +71,48 @@ Beachten Sie:
   </div>
   <button class="accordion">Schritt 3: Lizenztext und Lizenzversion wählen</button>
   <div class="panel">
-   <p>Bsp..</p>
+   <p>In diesem Schritt müssen Sie auswählen, welche Creative Commons-Lizenz zum Material passt. Überlegen Sie, welche Nutzungsrechte Sie anderen Personen einräumen möchten. Was ist Ihnen wichtig?
+  
+> &#x1F4A1; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
+> 
+> Materialien mit einer möglichst offenen Lizenz (CC 0, CC BY und CC BY SA) sind auf twillo besonders willkommen, da diese eine einfache Verwendung, Veränderung und Weiterverbreitung ermöglichen und somit der grundsätzlichen Idee von OER entsprechen.
+> 
+> Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
+
+Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis gut sichtbar auf Ihrem Material. Bei einem Skript können Sie ihn z.B. auf der ersten Seite positionieren, bei einen Foliensatz auf der Titel- oder auf der Abschlussfolie. Beachten Sie bitte folgenden Punkte:
+
+<li><b>Lizenz:</b>
+Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel: unter der Lizenz CC BY 4.0</li>
+<li><b>Verweis zum Lizenztext:</b>
+Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)</li>
+<li>Haben Sie sich für die Attribution BY entschieden, dann geben Sie im Lizenzhinweis auch die Namen aller Urheber*innen an. Auch der Name einer Institution ist zulässig (z.B: twillo, CC BY 4.0)</li>
+
+Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis, der die verpflichtenden Angaben enthält.
+
+[img]
+
+Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
+
+<li><b>Titel und Art des Werks</b> (nur bei Version 4.0, bei Vorgängerversionen sollten Sie den Titel anführen)</li>
+<li><b>Lizenzicon:</b>
+Für den Wiedererkennungswert kann das Lizenzicon mitgeführt werden. Auf der Webseite von Creative Commons können Sie das entsprechende Lizenzicon kopieren und es an den Lizenztext  positionieren.</li>
+<li><b>Ausnahmeregelungen oder weitere Hinweise</b> (z.B. bzgl. der Nachnutzbarkeit der Materialien)</li>
+
+Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
+
+[img]
+
+Das Video [Lizenzhinweise am eigenem Material](https://www.oernds.de/edu-sharing/components/render/e32a1d83-e9d6-4e7b-b609-178ef867b4e0) zeigt, worauf bei der Lizenzierung geachtet werden muss. [Einbetten]
+
+In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien</b> im eigenem Bildungsmaterial verfahren wird und was Sie beachten müssen, wenn Sie <b>fremde Materialien bearbeiten</b>.
+
+[Lizenzangaben bei eingebundenen fremden Materialien](https://www.oernds.de/edu-sharing/components/render/b64e4e41-cc74-45c3-967e-8b80397dfac6) von twillo, lizenziert unter [CC BY (4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) [Einbetten]
+
+[Lizenzangaben bei bearbeiteten Materialien](https://www.oernds.de/edu-sharing/components/render/94247215-4302-4c44-9fa4-9c6dcfbce5cf) von twillo, lizenziert unter [CC BY (4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) [Einbetten]
+
+&#9888;&#65039; <b>Nicht immer ist eine freie Lizenzwahl möglich:</b>
+Wenn Sie einzelne Inhalte oder Werke entsprechend der lizenzrechtlichen Vorgaben bearbeitet haben (z.B. Designanpassung oder inhaltliche Ergänzungen), dann kennzeichnen Sie dies im Lizenzhinweis und prüfen, welche Lizenzbedingungen am verwendeten Ursprungswerk gelten! Wenn Sie z.B. auf ein Material aufbauen, dass unter der Lizenz CC BY SA steht, dann müssen Sie das neu entstandene Werk ebenfalls unter dieser Lizenz stellen.
+</p>
   </div>
   <button class="accordion">Schritt 4: Bildungsmaterial im offenen Dateiformat speichern</button>
   <div class="panel">
