@@ -65,7 +65,7 @@ Youtube: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie 
   <div class="panel">
    <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Beginnen Sie mit der Lizenz.
   Auf OER sollten Sie einen eindeutigen Lizenzhinweis finden. Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein.</p>
-  <box class="info">(Glühbirne) U+1F4A1 <b>Was ist was?</b>
+  <box class="info">(Glühbirne) &#U+1F4A1 <b>Was ist was?</b>
 
 <b>Lizenztext:</b>
 Der Lizenztext macht deutlich, welche Nutzungsbedingungen beim jeweiligen Material gelten und welcher Nutzungsgrad bei der Verwendung zulässig ist.
