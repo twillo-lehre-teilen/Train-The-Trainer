@@ -127,7 +127,7 @@ Wie Sie die das Material auf twillo teilen, erfahren Sie in den nächsten Schrit
 Angehörigen von Hochschulen, die <a aria-describedby="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
 
 Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="videos/DFN_Zugang.mp4" type="video/mp4">
 </video>
   </p>
