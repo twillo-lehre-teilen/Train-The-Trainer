@@ -149,7 +149,14 @@ Unabhängig davon, ob Sie Material verlinkt oder hochgeladen haben, folgt im nä
   </div>
   <button class="accordion">Schritt 6: Bildungsmaterial auffindbar machen</button>
   <div class="panel">
-   <p>Bsp..</p>
+   <p>Beschreiben Sie das Material möglichst mit den Informationen, die Sie am Material finden.
+  <figure>
+<img src="images/Navigation_twillo.svg" alt="Abb. 16: Screenshot Navigation twillo" titel="Abb. 16: Screenshot Navigation twillo "/>
+<figcaption style="text-align:center;font-size:14px;">Abb. 16: Screenshot Navigation twillo </figcaption>
+</figure>
+     Im Abschnitt <l>Lizenz</l> übernehmen Sie genau die Lizenz, die das Material aufweist. Geben Sie bei der Urheberangabe im Reiter <l>Autoren und Beteiligte</l> auch die Autor*innen als Urheber*inen an. Sollte es sich um ein gemeinfreies Werk oder CC 0-lizenziertes Werk handeln, können Sie den Namen, sofern bekannt, unter <l>freie Urheberangabe</l> oder <l>Autoren & Beteiligte</l> angeben.
+
+  </p>
   </div>
   <button class="accordion">Schritt 7: Bildungsmaterial kontextualisieren</button>
   <div class="panel">
