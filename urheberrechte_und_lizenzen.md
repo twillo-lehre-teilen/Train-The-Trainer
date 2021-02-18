@@ -102,9 +102,3 @@ CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-L
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
   <figcaption style="text-align:center;font-size:14px;">Video 1: "Urheberrecht für Nicht-Jurist:innen" von <a href="https://ebildungslabor.de/" target="_blank">Nele Hirsch</a>  lizenziert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC 0 (1.0)</a></figcaption>
 </figure>
-
-
----
-<footer style="font-size:14px;">
-  Diese Seite von twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
-</footer>
