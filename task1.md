@@ -106,13 +106,12 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
   <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 14: Ausführlicher Lizenzhinweis" titel="Abb. 14: Ausführlicher Lizenzhinweis"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 14: Ausführlicher Lizenzhinweis</figcaption>
 </figure>
-  
+
 > &#128161; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
 >
 > Alle Materialien, die CC-lizenziert sind, dürfen Sie grundsätzlich im Portal einstellen. Materialien mit einer möglichst offenen Lizenz (CC 0, CC BY und CC BY SA) sind besonders willkommen, da diese eine einfache Verwendung, Veränderung und Weiterverbreitung ermöglichen und somit der grundsätzlichen Idee von OER entsprechen.
 >
 > Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
-
   </p>
   </div>
   <button class="accordion">Schritt 3: Dateiformat prüfen</button>
@@ -173,7 +172,7 @@ Im Abschnitt <l>Lizenz</l> übernehmen Sie genau die Lizenz, die das Material au
   <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 17: Screenshot Urheberangabe twillo " titel="Abb. 17: Screenshot Urheberangabe twillo "/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot Urheberangabe twillo </figcaption>
 </figure>
-     
+
 ###### Klassifizierungen
 
 Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> liefert eine grobe Beschreibung über die Ausrichtung und den Umfang der Materialien, während die Angabe <b>Materialart</b> die (Medien-)Formate der Materialien detaillierter beschreibt. Beide Angaben können die Auffindbarkeit der Bildungsmaterialien erhöhen.
