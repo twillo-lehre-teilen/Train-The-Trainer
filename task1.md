@@ -245,11 +245,8 @@ Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop
   </div>
 </div>
 
+<br>
 <form action="#/motivation_a.md">
- <button type="submit">Click me</button>
-</form>
-
-<form>
-   <button type="submit" formaction="#/motivation_a.md">Aufgabe abschließen</button>
+ <button type="submit">Aufgabe abschließen</button>
 </form>
 
