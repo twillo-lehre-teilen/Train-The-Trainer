@@ -66,7 +66,7 @@ for (var i = 0; i < acc.length; i++) {
   <div class="panel">
     <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Beginnen Sie mit der Lizenz.
     Auf OER sollten Sie einen eindeutigen Lizenzhinweis finden. Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein.
-<span style="font-size:20px>
+<p style="font-size:40px;">
 > &#128161; <b>Was ist was?</b>
 > <br><br>
 > <b>Lizenztext:</b><br>
@@ -77,7 +77,7 @@ for (var i = 0; i < acc.length; i++) {
 > <br><br>
 > <b>Lizenzicon:</b><br>
 > Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. 
-</span>  
+</p>  
 Ein korrekter CC-Lizenzhinweis <b>muss</b> folgende Punkte enthalten:
 <ul>
   <li>Lizenz und Lizenzversion</li>
