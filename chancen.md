@@ -6,7 +6,7 @@ Durch das Erstellen und Teilen von OER können Lehrende ihre Lehrexpertise öffe
 
 Durch die Möglichkeit einer (kollaborativen) Weiterentwicklung von OER wird die Vernetzung von Lehrenden gefördert. Ein langfristiger Austausch über OER bestimmter Disziplinen und Fachbereiche begünstigt die Entwicklung von Netzwerkstrukturen zwischen Lehrenden und Lernenden unterschiedlicher Institutionen. Die stete, gemeinschaftliche Begutachtung, Korrektur und Anpassung von Bildungsmaterialien hält sie stets aktuell und sichert ihre Qualität.
 
-OER stellen einen freien Zugang zu Bildung und Wissen dar. Da ihre Nutzung allen Lehrenden und Lernenden (auch außerhalb der Hochschule) offen steht, leisten sie einen besonderen Beitrag zum lebenslanges Lernen. Zudem begünstigen sie die Entstehung neuer Bildungsmodelle und Lernkulturen nach dem Prinzip der Offenheit und des Teilens (vgl. u. a. <a aria-describedby="Quellenlink Leitfaden OER" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf" target="_blank">DUK 2015</a>,<a aria-describedby="Quellenlink Grimm/Rödel" href="file:///C:/Users/BEUTNA~1/AppData/Local/Temp/5abce6dd917db_FBI_4_Open%20Educational%20Resources%20(OER)%20in%20der%20beruflichen%20Bildung_15032018_urn.pdf" target="_blank">Grimm/Rödel 2018</a>)).
+OER stellen einen freien Zugang zu Bildung und Wissen dar. Da ihre Nutzung allen Lehrenden und Lernenden (auch außerhalb der Hochschule) offen steht, leisten sie einen besonderen Beitrag zum lebenslanges Lernen. Zudem begünstigen sie die Entstehung neuer Bildungsmodelle und Lernkulturen nach dem Prinzip der Offenheit und des Teilens (vgl. u. a. <a aria-describedby="Quellenlink Leitfaden OER" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf" target="_blank">DUK 2015</a>, <a aria-describedby="Quellenlink Grimm/Rödel" href="file:///C:/Users/BEUTNA~1/AppData/Local/Temp/5abce6dd917db_FBI_4_Open%20Educational%20Resources%20(OER)%20in%20der%20beruflichen%20Bildung_15032018_urn.pdf" target="_blank">Grimm/Rödel 2018</a>)).
 
 Den Chancen von OER stehen auch einige Herausforderungen gegenüber. So bestehen beispielsweise oftmals Unsicherheiten bezüglich rechtlicher Aspekte bei der Erstellung, Verbreitung und Nutzung von OER. Besonders bei Lehrenden ist die Sorge, unbeabsichtigt eine Urheberrechtsverletzung zu begehen meist groß. Fähigkeiten und Fertigkeiten im Umgang mit OER und freier Software sowie Wissensbestände zu Lizenzierungen scheinen noch immer als Fachkompetenzen zu gelten (vgl. <a aria-describedby="Quellenlink" href="file:///C:/Users/BEUTNA~1/AppData/Local/Temp/5abce6dd917db_FBI_4_Open%20Educational%20Resources%20(OER)%20in%20der%20beruflichen%20Bildung_15032018_urn.pdf" target="_blank">Grimm/Rödel 2018</a>). 
 
@@ -18,15 +18,18 @@ Um die Etablierung von OER in der Hochschullehre zu stärken, wurde im Rahmen de
 
 Folgende Funktionen des Portals sind hervorzuheben:
 
- * <B>individueller Workspace (Groß beginnen):</B> langfristige (dito: Langfristige ...) Ablage von Materialien (z.B. über Stellenwechsel hinaus)
- * <B>Upload- und Verlinkung:</B> Bereitstellung von OER direkt im Portal oder über die Originalseite
- * <B>Serien- und Sammlungsfunktion:</B> Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte
- * <B>Suchfunktion:</B> Vereinfachte Auffindbarkeit von Materialien
- * <B>Metadaten:</B> vorkonfigurierte (Vorkonfigurierte ...) Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. (von) OER
- * <B>Support:</B> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
- * <B>Vernetzung:</B> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
+ * <b>Individueller Workspace (Groß beginnen):</b> langfristige (dito: Langfristige ...) Ablage von Materialien (z.B. über Stellenwechsel hinaus)
+ * <b>Upload- und Verlinkung:</b> Bereitstellung von OER direkt im Portal oder über die Originalseite
+ * <b>Serien- und Sammlungsfunktion:</b> Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte
+ * <b>Suchfunktion:</b> Vereinfachte Auffindbarkeit von Materialien
+ * <b>Metadaten:</b> vorkonfigurierte (Vorkonfigurierte ...) Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung v. (von) OER
+ * <b>Support:</b> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
+ * <b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
  
- <img src="images/Logo_twillo_with_claim_dark.svg" alt="Twillo Logo - Lehre teilen"/>
+<figure> 
+ <img src="images/Logo_twillo_with_claim_dark.svg" alt="Abb. 2: Logo des OER-Portals twillo" titel="Abb. 2: Logo des OER-Portals twillo"/>
+ <figcaption style="text-align:center;font-size:14px;">Abb. 2: Logo des OER-Portals twillo</figcaption>
+</figure>
 
 ---
 <footer style="font-size:14px;">
