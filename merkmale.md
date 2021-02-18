@@ -14,11 +14,11 @@ OER sind freie Bildungsmaterialien, die mit einer <B>offenen Lizenz</B> versehen
 
 <img src="images/Nutzungsbedingungen_design.svg" alt="Abb. 5: CC-Lizenzmodule. Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" titel="Abb. 5: CC-Lizenzmodule"/>
 
-Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“ (s. Kapitel Urheberrecht und offene Lizenzen). Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
+Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“ (s. Kapitel <a aria-describedby="Link zur Seite: Urheberrechte und Lizenzen." href="#/urheberechte_und_lizenzen.md">Urheberrecht und offene Lizenzen</a>). Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
 
 ## 2. OER liegen in einem möglichst offenen Dateiformat vor 
 
-<img src="images/Merkmal_offenes Dateiformat.svg" alt="Abb. 5: Offenes Dateiformat. OER liegen in einem möglichst offenen Dateiformat vor" titel="Abb. 5: Offenes Dateiformat"/>
+<img src="images/Merkmal_offenes Dateiformat.svg" alt="Abb. 6: Offenes Dateiformat. OER liegen in einem möglichst offenen Dateiformat vor" titel="Abb. 6: Offenes Dateiformat"/>
 
 Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiformaten. Diese ermöglichen (unter Berücksichtigung des Lizenztextes) die Nachnutzung und Bearbeitung der Materialien. Daher ist der Rückgriff auf weitverbreitete Werkzeuge und Open Source Anwendungen bei der Erstellung sowie die Speicherung der Materialien in möglichst offenen Dateiformaten von Vorteil.
 
@@ -88,7 +88,7 @@ for (var i = 0; i < acc.length; i++) {
 <div>
    <button class="accordion">Kleinteiliges Lehrmaterial</button>
    <div class="panel">
-      <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte.</p>
+      <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte</p>
    </div>
    <button class="accordion">Aufgabenorientiertes Material</button>
    <div class="panel">
@@ -110,7 +110,7 @@ for (var i = 0; i < acc.length; i++) {
 
 ### Didaktische Kontextualisierung
 
-Lehrende sind die Experten Ihrer konzipierten Lehrmaterialien. Deshalb ist die Darlegung der Kontextinformationen bedeutungsvoll für die Beschreibung. Fördern Sie die Einschätzbarkeit des Bildungsmaterials und die Passung in den Lehrkontext, indem Sie Hinweise zum erprobten Veranstaltungsformat geben, didaktische Funktionen sowie die Zielgruppe, für die das Material primär konzipiert wurde, nennen und einen Erfahrungsbericht mit Erfolgsbedingungen hinterlassen.
+Lehrende sind die Expert\*innen für ihre eigenen Lehrmaterialien. Um andere Lehrende dabei zu unterstützen, die Passung der Materialien in einen anderen Lehrkontext einzuschätzen, ist die Darlegung von Kontextinformationen zentral. Geben Sie Hinweise zu dem Veranstaltungsformat und der Zielgruppe, für die das Material primär konzipiert wurde, erläutern Sie didaktische Funktionen und hinterlassen Sie einen Erfahrungsbericht, der auf Erfolgsbedingungen bei der Materialnutzung eingeht.
 
 ---
 <footer style="font-size:14px;">
