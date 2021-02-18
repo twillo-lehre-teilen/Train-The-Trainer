@@ -245,21 +245,11 @@ Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop
   </div>
 </div>
 
-<a aria-describedby="Button um die Aufgabe abzuschließen" href="#/motivation_a.md">Aufgabe abschließen</a>
-
-<button onclick="window.location.href='#/motivation_a.md';“>
-Aufgabe abschließen
-</button>
-
-<form>
-  <input type="button" onclick="window.location.href='#/motivation_a.md';"/>
-</form>
-
 <form action="#/motivation_a.md">
  <button type="submit">Click me</button>
 </form>
 
 <form>
-   <button type="submit" formaction="#/motivation_a.md">Click me</button>
+   <button type="submit" formaction="#/motivation_a.md">Aufgabe abschließen</button>
 </form>
 
