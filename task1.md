@@ -246,3 +246,4 @@ Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop
 </div>
 
 <a aria-describedby="Button um die Aufgabe abzuschließen" href="#/motivation_a.md">Aufgabe abschließen</a>
+<button type="button" onclick="window.location.href=‘#/motivation_a.md‘“>Aufgabe abschließen</button>
