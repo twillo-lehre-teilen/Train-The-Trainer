@@ -247,6 +247,6 @@ Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop
 
 <br>
 <form action="#/motivation_a.md">
- <button type="submit">Aufgabe abschließen</button>
+ <button type="submit">Fertig</button>
 </form>
 
