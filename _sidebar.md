@@ -4,13 +4,13 @@
 
 * [Übersicht](./)
 
-* [1 Lessons Learned](lessons_learned.md)
+* [Lessons Learned](lessons_learned.md)
 
-  * [1.1 Chancen von OER in der Hochschullehre](chancen.md)
+  * [Chancen von OER in der Hochschullehre](chancen.md)
   
-  * [1.2 Merkmale von OER](merkmale.md)
+  * [Merkmale von OER](merkmale.md)
   
-  * [1.3 Urheberrechte und Lizenzen](urheberrechte_und_lizenzen.md)
+  * [Urheberrechte und Lizenzen](urheberrechte_und_lizenzen.md)
 
 * [Umsetzungsleitfäden:](task_overview.md)
 
