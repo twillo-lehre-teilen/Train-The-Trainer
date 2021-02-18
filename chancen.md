@@ -27,3 +27,8 @@ Folgende Funktionen des Portals sind hervorzuheben:
  * <B>Vernetzung:</B> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
  
  <img src="images/Logo_twillo_with_claim_dark.svg" alt="Twillo Logo - Lehre teilen"/>
+
+---
+<footer style="font-size:14px;">
+  Diese Seite von twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
+</footer>
