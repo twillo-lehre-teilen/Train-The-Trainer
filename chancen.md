@@ -30,8 +30,3 @@ Folgende Funktionen des Portals sind hervorzuheben:
  <img src="images/Logo_twillo_with_claim_dark.svg" alt="Abb. 2: Logo des OER-Portals twillo" title="Abb. 2: Logo des OER-Portals twillo"/>
  <figcaption style="text-align:center;font-size:14px;">Abb. 2: Logo des OER-Portals twillo</figcaption>
 </figure>
-
----
-<footer style="font-size:14px;">
-  Diese Seite von twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
-</footer>
