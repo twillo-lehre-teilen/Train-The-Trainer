@@ -157,7 +157,7 @@ Wenn Sie einzelne Inhalte oder Werke entsprechend der lizenzrechtlichen Vorgaben
 
   Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
   <figure>
-    <video controls>
+    <video style="width:100%;" controls>
       <source src="videos/DFN_Zugang.mp4" type="video/mp4">
     </video>
     <figcaption style="text-align:center;font-size:14px;">Video 4: Twillo-Zugang über DFN</figcaption>
@@ -189,17 +189,31 @@ Damit die Lizenz auch maschinell ausgelesen werden kann, muss nun auch hier die 
       <img src="images/Screenshot_Lizenzangabe_twillo.svg" alt="Abb. 15: Screenshot Lizenzangabe twillo" titel="Abb. 15: Screenshot Lizenzangabe twillo"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 15: Screenshot Lizenzangabe twillo</figcaption>
     </figure>
-<b>Klassifizierungen</b> \
+     
+### Klassifizierungen
+
+Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> liefert eine grobe Beschreibung über die Ausrichtung und den Umfang der Materialien, während die Angabe <b>Materialart</b> die (Medien-)Formate der Materialien detaillierter beschreibt. Beide Angaben können die Auffindbarkeit der Bildungsmaterialien erhöhen.
+
+#### Klassifizierungen
+
+Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> liefert eine grobe Beschreibung über die Ausrichtung und den Umfang der Materialien, während die Angabe <b>Materialart</b> die (Medien-)Formate der Materialien detaillierter beschreibt. Beide Angaben können die Auffindbarkeit der Bildungsmaterialien erhöhen.
+
+##### Klassifizierungen
+
+Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> liefert eine grobe Beschreibung über die Ausrichtung und den Umfang der Materialien, während die Angabe <b>Materialart</b> die (Medien-)Formate der Materialien detaillierter beschreibt. Beide Angaben können die Auffindbarkeit der Bildungsmaterialien erhöhen.
+
+###### Klassifizierungen
+
 Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> liefert eine grobe Beschreibung über die Ausrichtung und den Umfang der Materialien, während die Angabe <b>Materialart</b> die (Medien-)Formate der Materialien detaillierter beschreibt. Beide Angaben können die Auffindbarkeit der Bildungsmaterialien erhöhen.
 
 > &#128161; Funktionen im Portal
 > <br>
 > <br>
-> <b>Kleinteilige Lehrmaterialien</b> \
+> /#### Kleinteilige Lehrmaterialien
 > können als einzelne Materialien bereitgestellt werden. Mit der <b>Serienfunktion</b> können entweder weitere Dateiformate oder dazugehörige Materialien (beim Erklärvideo bspw. Storyboard, Tonspur) ergänzt werden.
 > <br>
 > <br>
-> <b>Aufgabenorientierte Materialien</b> \
+> #### Aufgabenorientierte Materialien
 > zusätzliche Materialien zum Aufgabenelement, etwa Musterlösungen, Best-Practice-Beispiele oder dokumentierte Hilfestellungen, können mit der <b>Serienfunktion</b> ergänzt werden.
 > <figure>
 >   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 16: Screenshot Serienfunktion twillo " titel="Abb. 16: Screenshot Serienfunktion twillo "/>
