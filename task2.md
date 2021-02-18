@@ -83,10 +83,8 @@ Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis g
 
 <li><b>Lizenz:</b>
     <br>
-    <br>
     Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel: unter der Lizenz CC BY 4.0</li>
 <li><b>Verweis zum Lizenztext:</b>
-    <br>
     <br>
     Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: <a href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a></li>
 <li>Haben Sie sich für die Attribution <b>BY</b> entschieden, dann geben Sie im Lizenzhinweis auch die Namen aller Urheber*innen bzw. Rechteinhaber*innen an. Auch der Name einer Organisation/Institution ist zulässig (z.B: twillo, CC BY 4.0), sofern diese die Rechte am Werk besitzt.</li>
@@ -102,7 +100,7 @@ Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
 
 <li><b>Titel und Art des Werks</b> (nur bei Version 4.0, bei Vorgängerversionen sollten Sie den Titel anführen)</li>
 <li><b>Lizenzicon:</b>
-    
+    <br>
     Für den Wiedererkennungswert kann das Lizenzicon mitgeführt werden. Auf der Webseite von Creative Commons können Sie das entsprechende Lizenzicon kopieren und es an den      Lizenztext  positionieren.</li>
 <li><b>Ausnahmeregelungen oder weitere Hinweise</b> (z.B. bzgl. der Nachnutzbarkeit der Materialien)</li>
 
@@ -116,7 +114,7 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
 Das Video Lizenzhinweise am eigenem Material zeigt, worauf bei der Lizenzierung geachtet werden muss.
 
 <figure>
-<video controls>
+<video style="width:100%;" controls>
  <source src="https://www.oernds.de/edu-sharing/components/render/e32a1d83-e9d6-4e7b-b609-178ef867b4e0" type="video/mp4">
  </video>
  <figcaption style="text-align:center;font-size:14px;">Video 1: Lizenzhinweise am eigenem Material</figcaption>
@@ -125,14 +123,14 @@ Das Video Lizenzhinweise am eigenem Material zeigt, worauf bei der Lizenzierung 
 In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien</b> im eigenem Bildungsmaterial verfahren wird und was Sie beachten müssen, wenn Sie <b>fremde Materialien bearbeiten</b>.
 
 <figure>
-<video controls>
+<video style="width:100%;" controls>
  <source src="videos/Lizenzangaben_bei_eingebundenen_fremden_Materialien.mp4" type="video/mp4">
  </video>
  <figcaption style="text-align:center;font-size:14px;">Video 2: Lizenzangaben bei eingebundenen fremden Materialien von twillo, lizenziert unter CC BY (4.0)</figcaption>
 </figure>
 
 <figure>
-<video controls>
+<video style="width:100%;" controls>
  <source src="videos/Lizenzangaben_bei_bearbeiteten_Materialien.mp4" type="video/mp4">
  </video>
  <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialienvon twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY (4.0)</a></figcaption>
