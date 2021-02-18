@@ -196,11 +196,11 @@ Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> li
 
 > &#128161; Funktionen im Portal
 > <br>
-> ###### Kleinteilige Lehrmaterialien
+> <b>Kleinteilige Lehrmaterialien</b><br>
 > können als einzelne Materialien bereitgestellt werden. Mit der <b>Serienfunktion</b> können entweder weitere Dateiformate oder dazugehörige Materialien (beim Erklärvideo bspw. Storyboard, Tonspur) ergänzt werden.
 > <br>
 > <br>
-> ###### Aufgabenorientierte Materialien
+> <b>Aufgabenorientierte Materialien</b><br>
 > zusätzliche Materialien zum Aufgabenelement, etwa Musterlösungen, Best-Practice-Beispiele oder dokumentierte Hilfestellungen, können mit der <b>Serienfunktion</b> ergänzt werden.
 > <figure>
 >   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 16: Screenshot Serienfunktion twillo " titel="Abb. 16: Screenshot Serienfunktion twillo "/>
