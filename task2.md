@@ -242,7 +242,7 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
    <p>Erst mit der Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
 
 <ol>
-  <li>Aktivieren Sie im Abschnitt Lizenz den Schalter Objekt mit dieser Lizenz veröffentlichen.</li>
+  <li>Aktivieren Sie im Abschnitt Lizenz den Schalter <b>Objekt mit dieser Lizenz veröffentlichen</b>.</li>
   <br>
   Oder
   <br>
