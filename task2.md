@@ -1,4 +1,4 @@
-# Aufgabe B
+# Aufgabe B: Eigene OER teilen
 
 <b>Wählen Sie Lehr-/Lernmaterial aus, das Sie selbst für eine Ihrer Lehrveranstaltungen erstellt haben. Bereiten Sie es ggf. auf, damit es den Merkmalen von OER entspricht und veröffentlichen Sie es anschließend im OER-Portal twillo.
 
