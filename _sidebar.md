@@ -14,7 +14,7 @@
 
 * [Umsetzungsleitfäden:](task_overview.md)
 
-  * [Aufg. A: Bestehende OER teilen](task1.md)
+  * [Aufgabe A: Bestehende OER teilen](task1.md)
   
   * [Aufgabe B: Eigene OER teilen](task2.md)
 
