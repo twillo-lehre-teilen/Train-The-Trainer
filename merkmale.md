@@ -111,8 +111,3 @@ for (var i = 0; i < acc.length; i++) {
 ### Didaktische Kontextualisierung
 
 Lehrende sind die Expert\*innen für ihre eigenen Lehrmaterialien. Um andere Lehrende dabei zu unterstützen, die Passung der Materialien in einen anderen Lehrkontext einzuschätzen, ist die Darlegung von Kontextinformationen zentral. Geben Sie Hinweise zu dem Veranstaltungsformat und der Zielgruppe, für die das Material primär konzipiert wurde, erläutern Sie didaktische Funktionen und hinterlassen Sie einen Erfahrungsbericht, der auf Erfolgsbedingungen bei der Materialnutzung eingeht.
-
----
-<footer style="font-size:14px;">
-  Diese Seite von twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
-</footer>
