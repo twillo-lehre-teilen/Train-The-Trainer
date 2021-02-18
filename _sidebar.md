@@ -18,4 +18,6 @@
   
   * [Aufgabe B: Eigene OER teilen](task2.md)
 
-* [Quellen](/contact/index)
+* [Quellen](/licenses/sources.md)
+
+* [Kontakt](/contact/index)
