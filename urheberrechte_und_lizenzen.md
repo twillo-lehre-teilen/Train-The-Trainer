@@ -45,7 +45,7 @@ for (var i = 0; i < acc.length; i++) {
 </script>
 
 <div>
-   <button class="accordion"><img src="images/creative-commons_cc-zero.svg" style="float:left" alt="Abb. CC Zero Lizenz" title="CC Zero Lizenz" height="60"/>CC 0 = Ohne Bedingungen</button>
+   <button class="accordion"><img src="images/creative-commons_cc-zero.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC Zero Lizenz" title="CC Zero Lizenz" height="60"/>CC 0 = Ohne Bedingungen</button>
    <div class="panel">
       <p>Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt. 
         <br> <a aria-describedby="Link zur CC Zero Lizenz" href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" target="_blank">Zur Lizenz</a></p>
