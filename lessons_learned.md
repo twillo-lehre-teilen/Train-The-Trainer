@@ -12,7 +12,6 @@ Open Educational Resources sind demnach Materialien in jedweder Form (z.B. Skrip
 (a) mit einer freien Lizenz bereitgestellt werden und ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können und
 </p>
 <br>
-<br>
 <p style="margin:0 0 0 40px;">
 (b) einen expliziten Bildungsbezug aufweisen (vgl. <a aria-describedby="Quellenlink Unesco 2019" href="https://open-educational-resources.de/unesco-definition-zu-oer-deutsch/" target="_blank">Muuß-Merholz 2015</a>).
 </p>
