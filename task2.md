@@ -262,8 +262,3 @@ Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop
 
 
 <a aria-describedby="Button um die Aufgabe abzuschließen" href="#/motivation_b.md">Aufgabe abschließen</a>
-
----
-<footer style="font-size:14px;">
-  Diese Seite von twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
-</footer>
