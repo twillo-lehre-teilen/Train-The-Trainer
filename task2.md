@@ -216,9 +216,9 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
 
 <ul>
   <li>Geben Sie an, in welchem <b>Veranstaltungsformat</b> Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
-
+  <br>
   <li>Geben Sie an, für welche <b>Nivea</b>ustufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
-
+  <br>
   <li>Das Metadatum didaktische <b>Funktion</b> zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:</li>
   <ul>
     <li>Vermittlung von Lehrinhalten (rezipieren)</li>
@@ -227,25 +227,26 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
     <li>Herstellung eigener Inhalte/Artefakte (erschaffen)</li>
     <li>Reflexion der (Lern-)Prozesse (beurteilen)</li>
   </ul>
-  
+  <br>
   <li><b>Erfahrungsbericht:</b> Beschreiben Sie den konkreten Einsatz des Materials. Mögliche Leitfragen für die Freitextangabe könnten sein:</li>
   <ol>
-    <li>Setzt das Bildungsmaterial Vorwissen bei Lernenden voraus? *z. B. Für diese vertiefende Übung sind Grundkenntnisse der Algebra notwendig.*</li>
-    <li>Intendiert das Bildungsmaterial ein bestimmtes Lernziel?  *z. B. Die Studierenden sollen anhand des Planspiels erlerntes theoretisches Fachwissen spielerisch auf Praxisbeispiele anwenden und damit ihre Fach- und Methodenkompetenzen vertiefen.*</li>
-    <li>In welchem Lehr- bzw. Lernkontext haben Sie das Material bereits verwendet? *z. B. Diese Karikatur habe ich als stillen Impuls in meinem Seminar angewendet um in das Thema einzuführen.*</li>
-    <li>In welchem Lehr- bzw. Lernkontext könnte das Material noch verwendet werden? *z. B. Die Karikatur kann darüber hinaus als ein Beispiel für Impfkritik innerhalb eines Folieninputs verwendet werden.*</li>
+    <li>Setzt das Bildungsmaterial Vorwissen bei Lernenden voraus? <l>z. B. Für diese vertiefende Übung sind Grundkenntnisse der Algebra notwendig.</l></li>
+    <li>Intendiert das Bildungsmaterial ein bestimmtes Lernziel?  <l>z. B. Die Studierenden sollen anhand des Planspiels erlerntes theoretisches Fachwissen spielerisch auf Praxisbeispiele anwenden und damit ihre Fach- und Methodenkompetenzen vertiefen.</l></li>
+    <li>In welchem Lehr- bzw. Lernkontext haben Sie das Material bereits verwendet? <l>z. B. Diese Karikatur habe ich als stillen Impuls in meinem Seminar angewendet um in das Thema einzuführen.</l></li>
+    <li>In welchem Lehr- bzw. Lernkontext könnte das Material noch verwendet werden? <l>z. B. Die Karikatur kann darüber hinaus als ein Beispiel für Impfkritik innerhalb eines Folieninputs verwendet werden.</l></li>
   </ol>
 </ul></p>
   </div>
   <button class="accordion">Schritt 9: Material freigeben</button>
   <div class="panel">
    <p>Erst mit der Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
-  
-1. Aktivieren Sie im Abschnitt Lizenz den Schalter Objekt mit dieser Lizenz veröffentlichen.
 
-Oder
-
-2. Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren in der Freigabemaske den Schalter <b>Material öffentlich freigeben</b>. Sie haben in dieser Maske auch die Möglichkeit, das Material zunächst nur für ausgewählte Personen freizugeben.
+<ol>
+  <li>1. Aktivieren Sie im Abschnitt Lizenz den Schalter Objekt mit dieser Lizenz veröffentlichen.</li>
+  <br>
+  Oder
+  <br>
+  <li>2. Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren in der Freigabemaske den Schalter <b>Material öffentlich freigeben</b>. Sie haben in dieser Maske auch die Möglichkeit, das Material zunächst nur für ausgewählte Personen freizugeben.</li>
 
 Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
 
