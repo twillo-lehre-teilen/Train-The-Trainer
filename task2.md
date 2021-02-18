@@ -86,7 +86,7 @@ Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis g
     Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel: unter der Lizenz CC BY 4.0</li>
 <li><b>Verweis zum Lizenztext:</b>
     <br>
-    Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: <a href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a></li>
+    Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: <a aria-describedby="Link zu Creative Commons Namensnennung 4.0" href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a></li>
 <li>Haben Sie sich für die Attribution <b>BY</b> entschieden, dann geben Sie im Lizenzhinweis auch die Namen aller Urheber*innen bzw. Rechteinhaber*innen an. Auch der Name einer Organisation/Institution ist zulässig (z.B: twillo, CC BY 4.0), sofern diese die Rechte am Werk besitzt.</li>
 
 Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis, der die verpflichtenden Angaben enthält.
@@ -261,7 +261,7 @@ Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop
 </div>
 
 
-<a href="motivation.md">Fertig - Button</a>
+<a aria-describedby="Button um die Aufgabe abzuschließen" href="motivation.md">Aufgabe abschließen</a>
 
 ---
 <footer style="font-size:14px;">
