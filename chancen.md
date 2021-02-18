@@ -27,7 +27,7 @@ Folgende Funktionen des Portals sind hervorzuheben:
  * <b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder anderen Institution
  
 <figure> 
- <img src="images/Logo_twillo_with_claim_dark.svg" alt="Abb. 2: Logo des OER-Portals twillo" titel="Abb. 2: Logo des OER-Portals twillo"/>
+ <img src="images/Logo_twillo_with_claim_dark.svg" alt="Abb. 2: Logo des OER-Portals twillo" title="Abb. 2: Logo des OER-Portals twillo"/>
  <figcaption style="text-align:center;font-size:14px;">Abb. 2: Logo des OER-Portals twillo</figcaption>
 </figure>
 
