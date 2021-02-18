@@ -111,3 +111,8 @@ for (var i = 0; i < acc.length; i++) {
 ### Didaktische Kontextualisierung
 
 Lehrende sind die Experten Ihrer konzipierten Lehrmaterialien. Deshalb ist die Darlegung der Kontextinformationen bedeutungsvoll für die Beschreibung. Fördern Sie die Einschätzbarkeit des Bildungsmaterials und die Passung in den Lehrkontext, indem Sie Hinweise zum erprobten Veranstaltungsformat geben, didaktische Funktionen sowie die Zielgruppe, für die das Material primär konzipiert wurde, nennen und einen Erfahrungsbericht mit Erfolgsbedingungen hinterlassen.
+
+---
+<footer style="font-size:14px;">
+  Diese Seite von twillo ist, sofern nicht anders an den einzelnen Inhalten ausgewiesen, lizenziert unter der Lizenz CC BY 4.0
+</footer>
