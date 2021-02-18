@@ -18,6 +18,4 @@
   
   * [Aufgabe B: Eigene OER teilen](task2.md)
 
-  * [Test](motivation.md)
-
 * [Quellen](/contact/index)
