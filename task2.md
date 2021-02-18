@@ -196,6 +196,7 @@ Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> li
 
 > &#128161; Funktionen im Portal
 > <br>
+> <br>
 > <b>Kleinteilige Lehrmaterialien</b><br>
 > können als einzelne Materialien bereitgestellt werden. Mit der <b>Serienfunktion</b> können entweder weitere Dateiformate oder dazugehörige Materialien (beim Erklärvideo bspw. Storyboard, Tonspur) ergänzt werden.
 > <br>
