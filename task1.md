@@ -49,17 +49,17 @@ for (var i = 0; i < acc.length; i++) {
 
   Google:  Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 9). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 10).
   <figure>
-    <img src="images/Google_Suche_1.svg" alt="Screenshot einer Googlesuche" title="Abb. 10: Screenshot Google-Suche"/>
+    <img src="images/Google_Suche_1.svg" alt="Abb. 10: Screenshot einer Googlesuche" title="Abb. 10: Screenshot Google-Suche"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 10: Screenshot Google-Suche</figcaption>
   </figure>
   <figure>
-    <img src="images/Google_Suche_2.svg" alt="Screenshot einer Googlesuche mit Filter" title="Abb. 12.: Screenshot Google-Suchfilter"/>
+    <img src="images/Google_Suche_2.svg" alt="Abb. 12: Screenshot einer Googlesuche mit Filter" title="Abb. 12.: Screenshot Google-Suchfilter"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 12.: Screenshot Google-Suchfilter</figcaption>
   </figure>
   Youtube: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option "Filter" und schränken Sie die Ergebnisse im Bereich "Eigenschaften" durch die Wahl der Option "Creative Commons" ein (S. Screenshot 3).
   <figure>
-    <img src="images/YouTube.svg" alt="Screenshot Youtube-Suchfilter" title="Abb. 12: Screenshot YouTube-Suchfilter"/>
-    <figcaption style="text-align:center;font-size:14px;">Abb. 12: Screenshot YouTube-Suchfilter</figcaption>
+    <img src="images/YouTube.svg" alt="Abb. 13: Screenshot Youtube-Suchfilter" title="Abb. 13: Screenshot YouTube-Suchfilter"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot YouTube-Suchfilter</figcaption>
   </figure>
   </div>
   <button class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
@@ -88,8 +88,8 @@ Ein korrekter CC-Lizenzhinweis <b>muss</b> folgende Punkte enthalten:
 Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis (CC BY (4.0)), der die verpflichtenden Angaben enthält.
 
 <figure>
-  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 13: Pflichtangaben in Lizenzhinweisen" title="Abb. 13: Pflichtangaben in Lizenzhinweisen"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 13: Pflichtangaben in Lizenzhinweisen</figcaption>
+  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 14: Pflichtangaben in Lizenzhinweisen" title="Abb. 14: Pflichtangaben in Lizenzhinweisen"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 14: Pflichtangaben in Lizenzhinweisen</figcaption>
 </figure>
 
 Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
@@ -103,8 +103,8 @@ Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
 Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
   
 <figure>
-  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 14: Ausführlicher Lizenzhinweis" title="Abb. 14: Ausführlicher Lizenzhinweis"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 14: Ausführlicher Lizenzhinweis</figcaption>
+  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 15: Ausführlicher Lizenzhinweis" title="Abb. 15: Ausführlicher Lizenzhinweis"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 15: Ausführlicher Lizenzhinweis</figcaption>
 </figure>
 
 > &#128161; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
@@ -128,8 +128,8 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
   <div class="panel">
    <p>Um das Material auf twillo einzustellen, melden Sie sich im Portal an.
      <figure>
-      <img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 15: Twillo Workflow" title="Abb. 15: Twillo Workflow"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 15: Twillo Workflow</figcaption>
+      <img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 16: Twillo Workflow" title="Abb. 16: Twillo Workflow"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 16: Twillo Workflow</figcaption>
      </figure>
      Rufen Sie den Link <a aria-describedby="Link zum OER-Portal" href="https://www.oernds.de/oer/" target="_blank">oer-nds.de</a> auf und gehen Sie über den Punkt *Zum   Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-describedby="Link zu Twillo" href="https://www.oernds.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
 
@@ -162,15 +162,15 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
    <p>Beschreiben Sie das Material möglichst mit den Informationen, die Sie am Material finden.
      
 <figure>
-  <img src="images/Navigation_twillo.svg" alt="Abb. 16: Screenshot Navigation twillo" title="Abb. 16: Screenshot Navigation twillo "/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 16: Screenshot Navigation twillo </figcaption>
+  <img src="images/Navigation_twillo.svg" alt="Abb. 17: Screenshot Navigation twillo" title="Abb. 17: Screenshot Navigation twillo "/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot Navigation twillo </figcaption>
 </figure>
 
 Im Abschnitt <l>Lizenz</l> übernehmen Sie genau die Lizenz, die das Material aufweist. Geben Sie bei der Urheberangabe im Reiter <l>Autoren und Beteiligte</l> auch die Autor/*innen als Urheber/*inen an. Sollte es sich um ein gemeinfreies Werk oder CC 0-lizenziertes Werk handeln, können Sie den Namen, sofern bekannt, unter <l>freie Urheberangabe</l> oder <l>Autoren & Beteiligte</l> angeben.
 
 <figure>
-  <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 17: Screenshot Urheberangabe twillo " title="Abb. 17: Screenshot Urheberangabe twillo "/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot Urheberangabe twillo </figcaption>
+  <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 18: Screenshot Urheberangabe twillo " title="Abb. 18: Screenshot Urheberangabe twillo "/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot Urheberangabe twillo </figcaption>
 </figure>
 
 ###### Klassifizierungen
@@ -187,8 +187,8 @@ Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> li
 > <b>Aufgabenorientierte Materialien</b><br>
 > zusätzliche Materialien zum Aufgabenelement, etwa Musterlösungen, Best-Practice-Beispiele oder dokumentierte Hilfestellungen, können mit der <b>Serienfunktion</b> ergänzt werden.
 > <figure>
->   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 18: Screenshot Serienfunktion twillo " title="Abb. 18: Screenshot Serienfunktion twillo "/>
->    <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot Serienfunktion twillo</figcaption>
+>   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 19: Screenshot Serienfunktion twillo " title="Abb. 19: Screenshot Serienfunktion twillo "/>
+>    <figcaption style="text-align:center;font-size:14px;">Abb. 19: Screenshot Serienfunktion twillo</figcaption>
 > </figure>
 
 Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Schlagworte</b> fest, um die Auffindbarkeit Ihres Material in der  zielgerichteten Suche zu erhöhen.
@@ -238,8 +238,8 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
 Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
 
 <figure>
-  <img src="images/Freigabe_twillo.svg" alt="Abb. 19: Screenshot Freigabe twillo " title="Abb. 19: Screenshot Freigabe twillo "/>
-   <figcaption style="text-align:center;font-size:14px;">Abb. 19: Screenshot Freigabe twillo</figcaption>
+  <img src="images/Freigabe_twillo.svg" alt="Abb. 20: Screenshot Freigabe twillo " title="Abb. 20: Screenshot Freigabe twillo "/>
+   <figcaption style="text-align:center;font-size:14px;">Abb. 20: Screenshot Freigabe twillo</figcaption>
 </figure>
   </p>
   </div>
