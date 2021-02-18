@@ -90,7 +90,7 @@ Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link
 Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis, der die verpflichtenden Angaben enthält.
 
 <figure>
-  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Screenshot einer Googlesuche mit Filter" titel="Abb. 12.: Screenshot Google-Suchfilter"/>
+  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 10: Pflichtangaben in Lizenzhinweisen" titel="Abb. 10: Pflichtangaben in Lizenzhinweisen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 10: Pflichtangaben in Lizenzhinweisen</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Für den Wiedererkennungswert kann das Lizenzicon mitgeführt werden. Auf der We
 Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
 
 <figure>
-  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Screenshot einer Googlesuche mit Filter" titel="Abb. 12.: Screenshot Google-Suchfilter"/>
+  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 11: Screenshot einer Googlesuche mit Filter" titel="Abb. 11: Screenshot Google-Suchfilter"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 11: Ausführlicher Lizenzhinweis</figcaption>
 </figure>
 
@@ -145,8 +145,8 @@ Wenn Sie einzelne Inhalte oder Werke entsprechend der lizenzrechtlichen Vorgaben
   <div class="panel">
    <p>Um das Material auf twillo einzustellen, melden Sie sich im Portal an.
      <figure>
-      <img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 15: Twillo Workflow" titel="Abb. 15: Twillo Workflow"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 15: Twillo Workflow</figcaption>
+      <img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 12: Twillo Workflow" titel="Abb. 12: Twillo Workflow"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 12: Twillo Workflow</figcaption>
      </figure>
      Rufen Sie den Link <a aria-describedby="Link zum OER-Portal" href="https://www.oernds.de/oer/" target="_blank">oer-nds.de</a> auf und gehen Sie über den Punkt *Zum   Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-describedby="Link zu Twillo" href="https://www.oernds.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
 
@@ -163,11 +163,45 @@ Wenn Sie einzelne Inhalte oder Werke entsprechend der lizenzrechtlichen Vorgaben
   </div>
   <button class="accordion">Schritt 6: Material einstellen</button>
   <div class="panel">
-   <p>Bsp..</p>
+  <p>Der Einstellungsprozess wird, nachdem Sie auf die Buttonfläche <b>NEU</b> geklickt haben, durch Dialoge unterstützt. Wählen Sie <b>neues Material</b> aus und laden Sie Ihr Material hoch oder verlinken es. Verlinkungen sind dann möglich, wenn Sie das Material bereits auf anderen Plattformen (z.B. YouTube, Wikipedia, GitHub/GitLab etc.) veröffentlicht haben. Wenn Sie den Vorgang gespeichert haben, dann befindet sich das Material in Ihrem <b>Workspace</b>.
+  
+Sie haben jederzeit die Möglichkeit, Änderungen in den Beschreibungen vorzunehmen, Materialien zu ergänzen oder zu ersetzen. Dies erfolgt über das Kontextmenü (drei Punkte) unter <b>Info bearbeiten</b>.
+
+&#x1F4A1; Bis zur aktiven Freigabe (Schritt 9) bleibt ihr Material nur für Sie sichtbar.</p>
   </div>
   <button class="accordion">Schritt 7: Bildungsmaterial auffindbar machen</button>
   <div class="panel">
-   <p>Bsp..</p>
+   <p>Beschreiben Sie das Material möglichst mit den Informationen, die Sie am Material finden.
+    <figure>
+      <img src="images/Navigation_twillo.svg" alt="Abb. 13: Screenshot Navigation twillo" titel="Abb. 13: Screenshot Navigation twillo "/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot Navigation twillo </figcaption>
+    </figure>
+     Im Abschnitt <b>Lizenz</b> geben Sie die Urheber*innen an. Dort sollte, wenn Sie sich für ein Lizenzmodul mit der Attribution <b>BY</b> entschieden haben, der Reiter <b>Autoren & Beteiligte</b> gewählt werden. Den Reiter Freihe Urheberangabe sollten Sie nur dann anwählen, wenn Sie ihr Material unter der Lizenz CC 0 veröffentlichen möchten.
+    <figure>
+      <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 14: Screenshot Urheberangabe twillo " titel="Abb. 14: Screenshot Urheberangabe twillo "/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 14: Screenshot Urheberangabe twillo </figcaption>
+    </figure>
+Damit die Lizenz auch maschinell ausgelesen werden kann, muss nun auch hier die Lizenzangabe festgelegt werden. Hierfür öffnen Sie den Bereich Lizenz verwalten und wählen die gewünschte Lizenz mit Lizenzversion.
+     <figure>
+      <img src="images/Screenshot_Lizenzangabe_twillo.svg" alt="Abb. 15: Screenshot Lizenzangabe twillo" titel="Abb. 15: Screenshot Lizenzangabe twillo"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 15: Screenshot Lizenzangabe twillo</figcaption>
+    </figure>
+<b>Klassifizierungen</b> \
+Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> liefert eine grobe Beschreibung über die Ausrichtung und den Umfang der Materialien, während die Angabe <b>Materialart</b> die (Medien-)Formate der Materialien detaillierter beschreibt. Beide Angaben können die Auffindbarkeit der Bildungsmaterialien erhöhen.
+
+> &#128161; Funktionen im Portal
+> <br>
+> <b>Kleinteilige Lehrmaterialien</b> \
+> können als einzelne Materialien bereitgestellt werden. Mit der <b>Serienfunktion</b> können entweder weitere Dateiformate oder dazugehörige Materialien (beim Erklärvideo bspw. Storyboard, Tonspur) ergänzt werden.
+> <br>
+> <b>Aufgabenorientierte Materialien</b> \
+> zusätzliche Materialien zum Aufgabenelement, etwa Musterlösungen, Best-Practice-Beispiele oder dokumentierte Hilfestellungen, können mit der <b>Serienfunktion</b> ergänzt werden.
+> <figure>
+>   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 16: Screenshot Serienfunktion twillo " titel="Abb. 16: Screenshot Serienfunktion twillo "/>
+>    <figcaption style="text-align:center;font-size:14px;">Abb. 16: Screenshot Serienfunktion twillo</figcaption>
+> </figure>
+
+Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Schlagworte</b> fest, um die Auffindbarkeit Ihres Material in der  zielgerichteten Suche zu erhöhen.</p>
   </div>
   <button class="accordion">Schritt 8: Bildungsmaterial kontextualisieren</button>
   <div class="panel">
