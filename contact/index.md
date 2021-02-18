@@ -13,4 +13,6 @@
 
 <b>OER Portal Niedersachsen (Hrsg.) (2021):</b> Rechtliches - OER nutzen, teilen & erstellen, online: https://www.oernds.de/oer/legal.html (08.02.2021).
 
+<b>OER Portal Niedersachsen (Hrsg.) (2021):</b> Offene Bildungsressourcen erstellen, online: https://www.oernds.de/oer/oer-create.html (08.02.2021).
+
 <b>UNESCO (Hrsg.) (2019):</b> Open Educational Resources (OER), online: https://en.unesco.org/themes/building-knowledge-societies/oer (03.02.2021).
