@@ -1,4 +1,4 @@
-# 1.3 Urheberrecht und offene Lizenzen 
+# Urheberrecht und offene Lizenzen 
 
 ### Starre Regularien des Urheberrechts
 
@@ -59,7 +59,7 @@ for (var i = 0; i < acc.length; i++) {
    </div>
    <button class="accordion">CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen<img src="images/creative-commons_cc-by-sa.svg" alt="Abb. CC BY SA Lizenz" titel="CC BY SA Lizenz" height="60"/></button>
    <div class="panel">
-      <p>Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.
+      <p>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Inhalts/Werks unter derselben Lizenz zu veröffentlichen. Dies stellt sicher, dass die Inhalte auch weiterhin frei zugänglich bleiben.
      <br> <a aria-describedby="Link zur CC BY SA Lizenz" href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" target="_blank">Zur Lizenz</a></p>
    </div>
    <button class="accordion">CC BY NC = Namensnennung und nicht kommerziell <img src="images/creative-commons_cc-by-nc.svg" alt="Abb. CC BY NC Lizenz" titel="CC BY NC Lizenz" height="60"/></button>
@@ -69,22 +69,28 @@ for (var i = 0; i < acc.length; i++) {
    </div>
    <button class="accordion">CC BY ND = Namensnennung und keine Bearbeitung<img src="images/creative-commons_cc-by-nd.svg" alt="Abb. CC BY ND Lizenz" titel="CC BY ND Lizenz" height="60"/></button>
    <div class="panel">
-      <p>Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.
+      <p>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden.
      <br> <a aria-describedby="Link zur CC BY ND Lizenz" href="https://creativecommons.org/licenses/by-nd/4.0/deed.de" target="_blank">Zur Lizenz</a></p>
    </div>
    <button class="accordion">CC BY NC SA = Namensnennung, nicht kommerziell und Weitergabe unter gleichen Bedingungen<img src="images/creative-commons_cc-by-nc-sa.svg" alt="Abb. CC BY NC SA Lizenz" titel="CC BY NC SA Lizenz" height="60"/></button>
    <div class="panel">
-      <p>Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.
+      <p>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Materials unter derselben Lizenz zu veröffentlichen. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.
      <br> <a aria-describedby="Link zur CC BY NC SA Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">Zur Lizenz</a></p>
    </div>
    <button class="accordion">CC BY NC ND = Namensnennung, nicht kommerziell und keine Bearbeitung<img src="images/creative-commons_cc-by-nc-nd.vg.svg" alt="Abb. CC BY NC ND Lizenz" titel="CC BY NC ND Lizenz" height="60"/></button>
    <div class="panel">
-      <p>Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.
+      <p>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.
      <br> <a aria-describedby="Link zur CC BY NC ND Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">Zur Lizenz</a></p>
    </div>
 </div>
 
-*Die Liste  "CC-Lizenzen" von twillo ist lizenziert unter CC BY (4.0). Sie basiert auf "<a aria-describedby="Link zur Quelle (OER Portal Niedersachsen)" href="https://www.oernds.de/oer/legal.html" target="_blank">Creative Commons (CC) Lizenzen</a>" von twillo, <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a>.*
+<l>Die Liste  "CC-Lizenzen" von twillo ist lizenziert unter CC BY (4.0). Sie basiert auf "<a aria-describedby="Link zur Quelle (OER Portal Niedersachsen)" href="https://www.oernds.de/oer/legal.html" target="_blank">Creative Commons (CC) Lizenzen</a>" von twillo, <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a>.</l>
+
+&#9888;&#65039; <b>Wichtig:</b> Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA, weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (<a aria-describedby="Link zur OER-Portal Seite Rechtliches" href="https://www.oernds.de/oer/legal.html">OER Portal Niedersachsen 2021</a>)
+
+<figure>
+  <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. 1: Offenheitsgrade von OER_CCLizenzen" title="Abb. 1: Offenheitsgrade von OER_CCLizenzen"/>
+</figure>
 
 ### Weiterführende Informationen
 
@@ -96,7 +102,7 @@ CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-L
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
-  <figcaption style="text-align:center;font-size:14px;">Dieses Video von <a href="https://ebildungslabor.de/" target="_blank">Nele Hirsch</a> ist lizensiert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a></figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Video 1: "Urheberrecht für Nicht-Jurist:innen" von <a href="https://ebildungslabor.de/" target="_blank">Nele Hirsch</a>  lizenziert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC 0 (1.0)</a></figcaption>
 </figure>
 
 
