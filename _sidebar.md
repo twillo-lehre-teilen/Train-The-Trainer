@@ -4,19 +4,19 @@
 
 * [Übersicht](./)
 
-* [Lessons Learned](lessons_learned.md)
+* [Kapitel 1](kapitel1_1.md)
 
-  * [Chancen von OER in der Hochschullehre](chancen.md)
+  * [...](kapitel1_2.md)
   
-  * [Merkmale von OER](merkmale.md)
+  * [...](kapitel1_3.md)
   
-  * [Urheberrechte und Lizenzen](urheberrechte_und_lizenzen.md)
+  * [...](kapitel1_3.md)
 
-* [Umsetzungsleitfäden:](task_overview.md)
+* [Kapitel 2](task_overview.md)
 
-  * [Aufgabe A: Bestehende OER teilen](task1.md)
+  * [...](task1.md)
   
-  * [Aufgabe B: Eigene OER teilen](task2.md)
+  * [...](task2.md)
 
 * [Quellen](/licenses/sources.md)
 
