@@ -69,8 +69,13 @@ b {
 }
 /*-- italic settings --*/
 l {
-  color: #54B6B5;
+  color: #676767;
   font-style: italic;
+}
+/*-- underline --*/
+u {
+  colo: #54B6B5;
+  font-style: underline; 
 }
 /*-- images --*/
 img {
