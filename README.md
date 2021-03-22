@@ -71,6 +71,6 @@ Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> näher
   Wir wünschen Ihnen viel Spaß und Erfolg auf Ihrem Weg durch die Welt der OER!
   <br>
   <br>
-  Sollten Sie während der Bearbeitung der Challenge Fragen haben oder Unterstützung benötigen, kontaktieren Sie uns gern: support.twillo@tib.eu
+  Sollten Sie während der Bearbeitung der Challenge Fragen haben oder Unterstützung benötigen, kontaktieren Sie uns gern: <a href="mailto:support.twillo@tib.eu">support.twillo@tib.eu</a>
   
 </center>
