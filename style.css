@@ -74,7 +74,7 @@ l {
 }
 /*-- underline --*/
 u {
-  color: #54B6B5;
+  text-decoration-color: #54B6B5;
   font-style: underline; 
 }
 /*-- images --*/
