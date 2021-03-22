@@ -11,7 +11,7 @@ Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbs
 
 ### Schritt 1: OER erkennen
 
-Im ersten Schritt festigen Sie Ihr Wissen zu den Grundlagen von OER. Die Definition und Merkmale von OER sowie die Mehrwerte ihrer Nutzung in der Hochschullehre werden ebenso behandelt, wie zentrale Aspekte des Urheberrechts und offener Lizenzen. Ziel dieser Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.
+Im ersten Schritt festigen Sie Ihr Wissen zu den Grundlagen von OER. Die <u>Definition</u> und <u>Merkmale</u> von OER sowie die <u>Mehrwerte ihrer Nutzung in der Hochschullehre</u> werden ebenso behandelt, wie zentrale Aspekte des <u>Urheberrechts und offener Lizenzen</u>. Ziel dieser Einheit ist es, <i>Sie dazu zu befähigen</i>, OER von geschlossenen Bildungsmaterialien abzugrenzen.
 
 
 ### Schritt 2: OER finden und nutzen
