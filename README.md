@@ -9,7 +9,7 @@ Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbs
 </center>
 
 
-#### Schritt 1: OER erkennen
+### Schritt 1: OER erkennen
 
 Im ersten Schritt festigen Sie Ihr Wissen zu den Grundlagen von OER. Die Definition und Merkmale von OER sowie die Mehrwerte ihrer Nutzung in der Hochschullehre werden ebenso behandelt, wie zentrale Aspekte des Urheberrechts und offener Lizenzen. Ziel dieser Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.
 
@@ -31,7 +31,7 @@ Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten,
 > <b>Lessons Learned:</b> Checkliste (Selbstcheck?)
 
 
-Schritt 3: Material digitalisieren/OER erstellen/Material für offene Online-Lehre aufbereiten
+### Schritt 3: Material digitalisieren/OER erstellen/Material für offene Online-Lehre aufbereiten
 
 Im dritten Schritt werden Sie zunächst dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting aufzubereiten.  Anschließend werden Sie bei der Überführung Ihres Materials in die Form von OER begleitet.
 
@@ -51,7 +51,7 @@ Im dritten Schritt werden Sie zunächst dabei unterstützt, Materialien, die fü
 > Hilfestellung: Videos zu Lizenzen, Grafik Pflichtangaben,
 
 
-Schritt 4: Lernmanagementsysteme und Webanwendungen nutzen
+### Schritt 4: Lernmanagementsysteme und Webanwendungen nutzen
 
 Im vierten Schritt werden Sie durch die wichtigsten Funktionen von Lernmanagementsystemen bzw. Webanwendungen geführt, mit deren Hilfes Sie Lektionen und/oder Kursstrukturen möglichst offen anlegen können. 
 
@@ -62,7 +62,7 @@ Im vierten Schritt werden Sie durch die wichtigsten Funktionen von Lernmanagemen
 <b>Ziel dieser Einheit ist es die aufbereiteten Lehrmaterialien in einer Lektions- oder Kursstruktur innerhalb eines LMS bzw. Webanwendung zu überführen.</b>
 
 
-Schritt 5: OER teilen
+### Schritt 5: OER teilen
 
 Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> nähergebracht. Zudem wird Ihnen gezeigt, wie die Strukturen des Portals Sie bei der Beschreibung und Kontextualisierung Ihres Materials unterstützen können.
 
