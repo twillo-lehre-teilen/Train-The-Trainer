@@ -20,6 +20,12 @@
 
 * [Material digitalisieren/OER erstellen/Material für offene Online-Lehre aufbereiten](kapitel3_1.md)
 
+* [Lernmanagementsysteme und Webanwendungen nutzen](kapitel4_1.md)
+
+* [OER teilen](kapitel5_1.md)
+
+* [Mehrwerte erkennen](kapitel6_1.md)
+
 * [Quellen](/licenses/sources.md)
 
 * [Kontakt](/contact/index)
