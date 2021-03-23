@@ -6,8 +6,6 @@ Diese <b>OER Challenge</b> soll Sie Schritt für Schritt bei der Digitalisierung
 
 Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbstlerneinheit.
 
-Test
-
 </center>
 
 
