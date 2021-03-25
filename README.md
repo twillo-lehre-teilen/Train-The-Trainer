@@ -27,7 +27,7 @@ Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten,
 >
 > Themenschwerpunkt: gezielte Suche, Inhalte aus 1 anwenden und reflektieren → korrekte Anwendung "Was darf ich?" TULLU
 >
-> <b>Workload:</b> 1-2 Stunden (Frage)
+> <b>Workload:</b> 1-2 Stunden 
 >
 > Aktivitäten: Arbeitsauftrag: Finden Sie zwei OER und fassen Sie diese in einem Dokument zusammen.
 >
@@ -48,11 +48,15 @@ Im dritten Schritt werden Sie zunächst dabei unterstützt, Materialien, die fü
 >
 > Aktivitäten: Workflow mit Arbeitsschritten anbieten
 >
-> * Sichten der vorhandenen Materialien
-> * Prüfen auf urheberrechtliche Inhalte/Werke →Umgangsmöglichkeiten:
->     * ersetzen,
->     * als Zitate kenntlich machen,
->   
+> <ol type="1">
+>   <li>Sichten der vorhandenen Materialien</li>
+>   <li>Prüfen auf urheberrechtliche Inhalte/Werke →Umgangsmöglichkeiten:</li>
+>       <ol type="a">
+>           <li>ersetzen</li>
+>           <li>als Zitate kenntlich machen</li>
+>       </ol>
+> </ol>
+>
 > Hilfestellung: Videos zu Lizenzen, Grafik Pflichtangaben,
 
 
@@ -75,9 +79,14 @@ Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> näher
 <br>
 <center>
 
-  Wir wünschen Ihnen viel Spaß und Erfolg auf Ihrem Weg durch die Welt der OER!
-  <br>
-  <br>
-  Sollten Sie während der Bearbeitung der Challenge Fragen haben oder Unterstützung benötigen, kontaktieren Sie uns gern: <a href="mailto:support.twillo@tib.eu">support.twillo@tib.eu</a>
+Wir wünschen Ihnen viel Spaß und Erfolg auf Ihrem Weg durch die Welt der OER!
+<br>
+<br>
+Sollten Sie während der Bearbeitung der Challenge Fragen haben oder Unterstützung benötigen, kontaktieren Sie uns gern: <a href="mailto:support.twillo@tib.eu">support.twillo@tib.eu</a>
+
+<figure>
+    <img src="images/lineart_person_with_hand_up.svg" alt="Abb. 2: Person with hand up von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. 2: Person with hand up von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 2: Person with hand up von Merle Zander und twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY (4.0)</a></figcaption>
+</figure>
 
 </center>
