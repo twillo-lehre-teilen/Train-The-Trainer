@@ -50,13 +50,13 @@ Im dritten Schritt werden Sie zunächst dabei unterstützt, Materialien, die fü
 >
 > <ol type="1">
 >   <li>Sichten der vorhandenen Materialien</li>
->   <li>Prüfen auf urheberrechtliche Inhalte/Werke
+>   <li>Prüfen auf urheberrechtliche Inhalte/Werke</li>
+> </ol>
 >       → Umgangsmöglichkeiten:</li>
 >       <ol type="a">
 >           <li>ersetzen</li>
 >           <li>als Zitate kenntlich machen</li>
 >       </ol>
-> </ol>
 >
 > Hilfestellung: Videos zu Lizenzen, Grafik Pflichtangaben,
 
