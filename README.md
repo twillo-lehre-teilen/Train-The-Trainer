@@ -6,6 +6,11 @@ Diese <b>OER Challenge</b> soll Sie Schritt für Schritt bei der Digitalisierung
 
 Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbstlerneinheit.
 
+<figure>
+    <img src="images/Challenge TraintheTrainer.svg" alt="Abb. 1: OER Challenge" title="Abb. 1: OER Challenge"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 1: OER Challenge</figcaption>
+</figure>
+
 </center>
 
 
