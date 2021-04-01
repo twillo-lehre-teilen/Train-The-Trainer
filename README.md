@@ -84,6 +84,13 @@ Im vierten Schritt werden Sie durch die wichtigsten Funktionen von Lernmanagemen
 Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> nähergebracht. Zudem wird Ihnen gezeigt, wie die Strukturen des Portals Sie bei der Beschreibung und Kontextualisierung Ihres Materials unterstützen können.
 
 </font>
+<font color="#000000">
+
+### Schritt 6: Reflexion
+
+Der letzte Schritt dient der Reflexion Ihrer individuellen Lernreise durch die Welt der OER. Ziel ist die Identifikation von individuellen Chancen und Herausforderungen im Umgang mit OER sowie eine kritische Beurteilung des erstellten Materials.
+</font>
+
 
 <br>
 <br>
