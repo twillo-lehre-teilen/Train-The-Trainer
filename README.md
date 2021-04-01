@@ -21,7 +21,7 @@ Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER
 </font>
 <font color="#000080">
 
-### Schritt 2: OER finden und nutzen
+<h3 color="#000080">### Schritt 2: OER finden und nutzen</h3>
 
 Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten, um gezielt nach OER zu suchen. In diesem Zuge lernen Sie die wichtigsten Suchmaschinen, Portale und Repositorien für OER kennen. Zudem erhalten Sie Informationen über die Einbindung von CC-lizenzierten Inhalten in Ihre eigenen Werke und erfahren was dabei zu beachten ist. Ziel der Einheit ist es, Ihnen mehr Sicherheit bei der Nachnutzung bestehender OER zu geben.
 
