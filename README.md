@@ -14,7 +14,7 @@ Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbs
 
 <font color="#8b0000">
 
-### Schritt 1: OER erkennen
+<h3>Schritt 1: OER erkennen</h3>
 
 Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, <i>Sie dazu zu befähigen</i>, OER von geschlossenen Bildungsmaterialien abzugrenzen.
 
