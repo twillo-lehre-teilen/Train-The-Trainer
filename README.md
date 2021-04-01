@@ -33,7 +33,7 @@ Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten,
 Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting umzugestalten. Gleichzeitig geht es um die Überführung Ihres Materials in die Form von OER. Einen besonderen Schwerpunkt bilden Fragen der Lizenzierung eigener Materialien mit und ohne die Einbindung von Inhalten Dritter. Ziel dieser Einheit ist es, Ihnen die Aufbereitung eigener Materialien in Form von OER Schritt für Schritt näher zu bringen.
 
 </font>
-<font color="#9932cc">
+<font color="#800080">
 
 ### Schritt 4: Lernmanagementsysteme und Webanwendungen nutzen
 
