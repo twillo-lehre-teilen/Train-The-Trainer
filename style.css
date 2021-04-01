@@ -64,7 +64,7 @@ body {
 }
 /*-- bold settings --*/
 b {
-  color: #000;
+  color: inherit;
   font-weight: 1000;
 }
 /*-- italic settings --*/
