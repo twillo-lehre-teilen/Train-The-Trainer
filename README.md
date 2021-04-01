@@ -91,15 +91,15 @@ Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> näher
 Der letzte Schritt dient der Reflexion Ihrer individuellen Lernreise durch die Welt der OER. Ziel ist die Identifikation von individuellen Chancen und Herausforderungen im Umgang mit OER sowie eine kritische Beurteilung des erstellten Materials.
 </font>
 
-
 <br>
 <br>
 <center>
-
-Wir wünschen Ihnen viel Spaß und Erfolg auf Ihrem Weg durch die Welt der OER!
-<br>
-<br>
-Sollten Sie während der Bearbeitung der Challenge Fragen haben oder Unterstützung benötigen, kontaktieren Sie uns gern: <a href="mailto:support.twillo@tib.eu">support.twillo@tib.eu</a>
+    <b>
+        Wir wünschen Ihnen viel Spaß!
+        <br>
+        <br>
+        Sollten Sie während der Lernreise Fragen haben oder Unterstützung benötigen, kontaktieren Sie uns gern: <a href="mailto:support.twillo@tib.eu">support.twillo@tib.eu</a>
+    </b>
 
 <figure>
     <img src="images/lineart_person_with_hand_up.svg" alt="Abb. 2: Person with hand up von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. 2: Person with hand up von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
