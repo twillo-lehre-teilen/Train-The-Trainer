@@ -1,5 +1,5 @@
 <center>
-
+    
 # Herzlich Willkommen!
 
 Diese <b>OER Challenge</b> soll Sie Schritt für Schritt bei der Digitalisierung einer Lehr-Lerneinheit und Aufbereitung dieser in die Form von Open Educational Resources (OER) begleiten.
@@ -16,70 +16,37 @@ Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbs
 
 ### Schritt 1: OER erkennen
 
-Im ersten Schritt festigen Sie Ihr Wissen zu den Grundlagen von OER. Die <u>Definition</u> und <u>Merkmale</u> von OER sowie die <u>Mehrwerte ihrer Nutzung in der Hochschullehre</u> werden ebenso behandelt, wie zentrale Aspekte des <u>Urheberrechts und offener Lizenzen</u>. Ziel dieser Einheit ist es, <i>Sie dazu zu befähigen</i>, OER von geschlossenen Bildungsmaterialien abzugrenzen.
+Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, <i>Sie dazu zu befähigen</i>, OER von geschlossenen Bildungsmaterialien abzugrenzen.
 
 </font>
 
 ### Schritt 2: OER finden und nutzen
 
-Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten, um gezielt nach OER zu suchen. In diesem Zuge lernen Sie die wichtigsten Suchmaschinen sowie das Portal twillo als nachhaltige Infrastruktur für OER kennen.
-
-> <b>Anmerkungen zu Modul 2 OER finden und nutzen</b>
->
-> Themenschwerpunkt: gezielte Suche, Inhalte aus 1 anwenden und reflektieren → korrekte Anwendung "Was darf ich?" TULLU
->
-> <b>Workload:</b> 1-2 Stunden 
->
-> Aktivitäten: Arbeitsauftrag: Finden Sie zwei OER und fassen Sie diese in einem Dokument zusammen.
->
-> Hilfestellung: Videos zu Lizenzen, Grafik Pflichtangaben,
->
-> <b>Lessons Learned:</b> Checkliste (Selbstcheck?)
+Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten, um gezielt nach OER zu suchen. In diesem Zuge lernen Sie die wichtigsten Suchmaschinen, Portale und Repositorien für OER kennen. Zudem erhalten Sie Informationen über die Einbindung von CC-lizenzierten Inhalten in Ihre eigenen Werke und erfahren was dabei zu beachten ist. Ziel der Einheit ist es, Ihnen mehr Sicherheit bei der Nachnutzung bestehender OER zu geben.
 
 <font color="#228b22">
 
 ### Schritt 3: Material digitalisieren/OER erstellen/Material für offene Online-Lehre aufbereiten
 
-Im dritten Schritt werden Sie zunächst dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting aufzubereiten.  Anschließend werden Sie bei der Überführung Ihres Materials in die Form von OER begleitet.
-
-> <b>Anmerkungen zu Modul 3 Materialien digitalisieren und OER-spezifisch aufbereiten</b>
->
-> Themenschwerpunkt: auf Fremdmaterialien prüfen und lizenzieren
->
-> Workload: unbestimmt (Frage)
->
-> Aktivitäten: Workflow mit Arbeitsschritten anbieten
->
-> <ol type="1">
->   <li>Sichten der vorhandenen Materialien</li>
->   <li>Prüfen auf urheberrechtliche Inhalte/Werke → Umgangsmöglichkeiten:</li>
->       <ol type="a">
->           <li>ersetzen</li>
->           <li>als Zitate kenntlich machen</li>
->       </ol>
-> </ol>
->
-> Hilfestellung: Videos zu Lizenzen, Grafik Pflichtangaben,
+Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting umzugestalten. Gleichzeitig geht es um die Überführung Ihres Materials in die Form von OER. Einen besonderen Schwerpunkt bilden Fragen der Lizenzierung eigener Materialien mit und ohne die Einbindung von Inhalten Dritter. Ziel dieser Einheit ist es, Ihnen die Aufbereitung eigener Materialien in Form von OER Schritt für Schritt näher zu bringen.
 
 </font>
 <font color="#9932cc">
 
 ### Schritt 4: Lernmanagementsysteme und Webanwendungen nutzen
 
-Im vierten Schritt werden Sie durch die wichtigsten Funktionen von Lernmanagementsystemen bzw. Webanwendungen geführt, mit deren Hilfes Sie Lektionen und/oder Kursstrukturen möglichst offen anlegen können.
+Im vierten Schritt werden Sie durch die wichtigsten Funktionen der offenen Anwendung <b>LiaScript</b> geführt, in der Sie Ihre OER in eine Kursstruktur bringen und bereitstellen können. Sie erfahren zudem, wie sie die in offenen Systemen befindlichen Inhalte in Lernmanagementsysteme einbetten können.
 
-* Vorteile von LMS
-* Nachteile von LMS in Bezug auf OER
-* → externe Anwendungen/Tools nutzen (teilen auf twillo) und Möglichkeiten der Einbettung in LMS
+Darüber hinaus werden die Vor- und Nachteile von Lernmanagementsystemen (LMS) für die Erstellung von OER beleuchtet. Zudem werden Wege aufgezeigt, wie in LMS erstellte Kurse auch öffentlich bereitgestellt werden können.
 
-<b>Ziel dieser Einheit ist es die aufbereiteten Lehrmaterialien in einer Lektions- oder Kursstruktur innerhalb eines LMS bzw. Webanwendung zu überführen.</b>
+Ziel dieser Einheit ist es, Ihnen vielfältige Möglichkeiten zu vermitteln,  Lektions- oder Kursstruktur mit Hilfe von Webanwendung in Form von OER bereitszustellen.
 
 </font>
 <font color="#ff8c00">
 
 ### Schritt 5: OER teilen
 
-Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> nähergebracht. Zudem wird Ihnen gezeigt, wie die Strukturen des Portals Sie bei der Beschreibung und Kontextualisierung Ihres Materials unterstützen können.
+Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> nähergebracht. Zudem wird Ihnen gezeigt, wie die Strukturen des Portals Sie bei der Beschreibung und Kontextualisierung Ihres Materials unterstützen können. Ziel der Einheit ist es, dass Sie einen Überblick über das Portal gewinnen und sämtliche Funktionen von twillo kennenlernen.
 
 </font>
 <font color="#000000">
