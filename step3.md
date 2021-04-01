@@ -1,1 +1,1 @@
-<h1 color="#228b22">Material aufbereiten</h1>
+<h1 style="color:#228b22">Schritt 3: Material aufbereiten</h1>
