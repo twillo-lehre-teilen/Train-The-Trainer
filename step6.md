@@ -1,1 +1,1 @@
-<h1 color="#000000">Reflexion</h1>
+<h1 style="color:#000000">Schritt 6: Reflexion</h1>
