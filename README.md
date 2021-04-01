@@ -7,17 +7,19 @@ Diese <b>OER Challenge</b> soll Sie Schritt für Schritt bei der Digitalisierung
 Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbstlerneinheit.
 
 <figure>
-    <img src="images/Challenge TraintheTrainer.svg" alt="Abb. 1: OER Challenge" title="Abb. 1: OER Challenge"/>
+    <img src="images/AdvanceOrganizer_TraintheTrainer.svg" alt="Abb. 1: OER Challenge" title="Abb. 1: OER Challenge"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 1: OER Challenge</figcaption>
 </figure>
-
 </center>
 
-
+<font color="#8b0000">
+    
 ### Schritt 1: OER erkennen
 
 Im ersten Schritt festigen Sie Ihr Wissen zu den Grundlagen von OER. Die <u>Definition</u> und <u>Merkmale</u> von OER sowie die <u>Mehrwerte ihrer Nutzung in der Hochschullehre</u> werden ebenso behandelt, wie zentrale Aspekte des <u>Urheberrechts und offener Lizenzen</u>. Ziel dieser Einheit ist es, <i>Sie dazu zu befähigen</i>, OER von geschlossenen Bildungsmaterialien abzugrenzen.
 
+</font>
+<font color="8b0000">
 
 ### Schritt 2: OER finden und nutzen
 
@@ -35,6 +37,8 @@ Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten,
 >
 > <b>Lessons Learned:</b> Checkliste (Selbstcheck?)
 
+</font>
+<font color="#228b22">
 
 ### Schritt 3: Material digitalisieren/OER erstellen/Material für offene Online-Lehre aufbereiten
 
@@ -59,6 +63,8 @@ Im dritten Schritt werden Sie zunächst dabei unterstützt, Materialien, die fü
 >
 > Hilfestellung: Videos zu Lizenzen, Grafik Pflichtangaben,
 
+</font>
+<font color="#9932cc">
 
 ### Schritt 4: Lernmanagementsysteme und Webanwendungen nutzen
 
@@ -70,10 +76,14 @@ Im vierten Schritt werden Sie durch die wichtigsten Funktionen von Lernmanagemen
 
 <b>Ziel dieser Einheit ist es die aufbereiteten Lehrmaterialien in einer Lektions- oder Kursstruktur innerhalb eines LMS bzw. Webanwendung zu überführen.</b>
 
+</font>
+<font color="#ff8c00">
 
 ### Schritt 5: OER teilen
 
 Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> nähergebracht. Zudem wird Ihnen gezeigt, wie die Strukturen des Portals Sie bei der Beschreibung und Kontextualisierung Ihres Materials unterstützen können.
+
+</font>
 
 <br>
 <br>
