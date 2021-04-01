@@ -7,7 +7,7 @@ Diese <b>OER Challenge</b> soll Sie Schritt für Schritt bei der Digitalisierung
 Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbstlerneinheit.
 
 <figure>
-    <img src="images/AdvanceOrganizer_TraintheTrainer.svg" alt="Abb. 1: OER Challenge" title="Abb. 1: OER Challenge"/>
+    <img src="images/AdvanceOrganizer_TraintheTrainer.svg" alt="Abb. 1: OER Challenge" title="Abb. 1: OER Challenge" max/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 1: OER Challenge</figcaption>
 </figure>
 </center>
@@ -19,11 +19,13 @@ Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbs
 Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, <i>Sie dazu zu befähigen</i>, OER von geschlossenen Bildungsmaterialien abzugrenzen.
 
 </font>
+<font color="#000080">
 
 ### Schritt 2: OER finden und nutzen
 
 Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten, um gezielt nach OER zu suchen. In diesem Zuge lernen Sie die wichtigsten Suchmaschinen, Portale und Repositorien für OER kennen. Zudem erhalten Sie Informationen über die Einbindung von CC-lizenzierten Inhalten in Ihre eigenen Werke und erfahren was dabei zu beachten ist. Ziel der Einheit ist es, Ihnen mehr Sicherheit bei der Nachnutzung bestehender OER zu geben.
 
+</font>
 <font color="#228b22">
 
 ### Schritt 3: Material digitalisieren/OER erstellen/Material für offene Online-Lehre aufbereiten
