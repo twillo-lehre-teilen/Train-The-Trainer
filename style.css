@@ -69,7 +69,7 @@ b {
 }
 /*-- italic settings --*/
 l {
-  color: #676767;
+  color: inherit;
   font-style: italic;
 }
 /*-- underline --*/
