@@ -21,7 +21,7 @@ Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materi
 
 
 <ul style="list-style-type:U+2705">
-  <li>bewahren, sprich lokal oder cloudbasiert speichern</li>
+  <li>bewahren, sprich loookal oder cloudbasiert speichern</li>
 </ul>
 
 <ul style="list-style-type&#9989">
