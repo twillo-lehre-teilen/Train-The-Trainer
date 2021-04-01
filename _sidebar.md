@@ -12,7 +12,7 @@
 
 * [Lernmanagementsysteme und Webanwendungen nutzen](step4.md)
 
-* [OER teilen]step5.md)
+* [OER teilen](step5.md)
 
 * [Mehrwerte erkennen](step6.md)
 
