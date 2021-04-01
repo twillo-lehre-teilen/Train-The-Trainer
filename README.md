@@ -13,13 +13,12 @@ Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbs
 </center>
 
 <font color="#8b0000">
-    
+
 ### Schritt 1: OER erkennen
 
 Im ersten Schritt festigen Sie Ihr Wissen zu den Grundlagen von OER. Die <u>Definition</u> und <u>Merkmale</u> von OER sowie die <u>Mehrwerte ihrer Nutzung in der Hochschullehre</u> werden ebenso behandelt, wie zentrale Aspekte des <u>Urheberrechts und offener Lizenzen</u>. Ziel dieser Einheit ist es, <i>Sie dazu zu befähigen</i>, OER von geschlossenen Bildungsmaterialien abzugrenzen.
 
 </font>
-<font color="8b0000">
 
 ### Schritt 2: OER finden und nutzen
 
@@ -37,7 +36,6 @@ Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten,
 >
 > <b>Lessons Learned:</b> Checkliste (Selbstcheck?)
 
-</font>
 <font color="#228b22">
 
 ### Schritt 3: Material digitalisieren/OER erstellen/Material für offene Online-Lehre aufbereiten
