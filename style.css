@@ -916,7 +916,7 @@ box.info {
 /* div settings */
 div {
   margin-bottom: 15px;
-  padding: 1px 15px;
+  padding: 0.5px 20px;
 }  
 /* Infobox design */
 .infobox {
