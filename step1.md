@@ -29,7 +29,7 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
 
 <p>
   <figure style="float:left;vertical-align:middle">
-    <img src="images/Offene Lizenz.svg" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
+    <img src="images/Offene Lizenz.svg" style="vertical-align:middle" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 3: Offene Lizenz</figcaption>
   </figure>
 
