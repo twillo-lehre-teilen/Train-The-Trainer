@@ -955,7 +955,8 @@ table {
   border: 1px solid #e7f3fe;
   padding: 8px;
   padding-left: 25px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 #info tr {
   background-color: #e7f3fe;
