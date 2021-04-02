@@ -34,7 +34,7 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
 
 Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der\*dem Urheber\*in:
 
-<ul style="list-style-type:'&#f14a'">
+<ul style="list-style-type:'f14a'">
   <li>bewahren, sprich lokal oder cloudbasiert speichern</li>
   <li>teilen</li>
   <li>in der eigene Lehre nutzen</li>
