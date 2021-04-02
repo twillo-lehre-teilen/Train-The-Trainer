@@ -25,13 +25,13 @@ Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten,
 
 </font>
 <font color="#228b22">
-<h3>Schritt 3: Material digitalisieren/OER erstellen/Material für offene Online-Lehre aufbereiten</h3>
+<h3>Schritt 3: Material aufbereiten</h3>
 
 Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting umzugestalten. Gleichzeitig geht es um die Überführung Ihres Materials in die Form von OER. Einen besonderen Schwerpunkt bilden Fragen der Lizenzierung eigener Materialien mit und ohne die Einbindung von Inhalten Dritter. Ziel dieser Einheit ist es, Ihnen die Aufbereitung eigener Materialien in Form von OER Schritt für Schritt näher zu bringen.
 
 </font>
 <font color="#800080">
-<h3>Schritt 4: Lernmanagementsysteme und Webanwendungen nutzen</h3>
+<h3>Schritt 4: OER in Systemen abbilden</h3>
 
 Im vierten Schritt werden Sie durch die wichtigsten Funktionen der offenen Anwendung <b>LiaScript</b> geführt, in der Sie Ihre OER in eine Kursstruktur bringen und bereitstellen können. Sie erfahren zudem, wie sie die in offenen Systemen befindlichen Inhalte in Lernmanagementsysteme einbetten können.
 
