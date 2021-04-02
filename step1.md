@@ -37,13 +37,13 @@ Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materi
 <i class="fas fa-check-square"></i>
 
 <ul style="list-style-type:none">
-  <li><i class="fas fa-check-square"></i>  bewahren, sprich lokal oder cloudbasiert speichern</li>
-  <li><i class="fas fa-check-square"></i>  teilen</li>
-  <li><i class="fas fa-check-square"></i>  in der eigene Lehre nutzen</li>
-  <li><i class="fas fa-check-square"></i>  mit eigenen Inhalten kombinieren oder mehrere Werke miteinander kombinieren</li>
-  <li><i class="fas fa-check-square"></i>  bearbeiten</li>
-  <li><i class="fas fa-check-square"></i>  angepasste Inhalte/Werke wiederveröffentlichen</li>
-  <li><i class="fas fa-check-square"></i>  im kommerziellen Bereichen nutzen</li>
+  <li><i class="fa fa-check-square"></i>  bewahren, sprich lokal oder cloudbasiert speichern</li>
+  <li><i class="fa fa-check-square"></i>  teilen</li>
+  <li><i class="fa fa-check-square"></i>  in der eigene Lehre nutzen</li>
+  <li><i class="fa fa-check-square"></i>  mit eigenen Inhalten kombinieren oder mehrere Werke miteinander kombinieren</li>
+  <li><i class="fa fa-check-square"></i>  bearbeiten</li>
+  <li><i class="fa fa-check-square"></i>  angepasste Inhalte/Werke wiederveröffentlichen</li>
+  <li><i class="fa fa-check-square"></i>  im kommerziellen Bereichen nutzen</li>
 </ul>
 
 Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber\*innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
