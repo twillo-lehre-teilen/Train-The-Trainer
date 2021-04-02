@@ -34,14 +34,14 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
 
 Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der\*dem Urheber\*in:
 
-<ul style="list-style-type:'f14a'">
-  <li>bewahren, sprich lokal oder cloudbasiert speichern</li>
-  <li>teilen</li>
-  <li>in der eigene Lehre nutzen</li>
-  <li>mit eigenen Inhalten kombinieren oder mehrere Werke miteinander kombinieren</li>
-  <li>bearbeiten</li>
-  <li>angepasste Inhalte/Werke wiederveröffentlichen</li>
-  <li>im kommerziellen Bereichen nutzen</li>
+<ul style="list-style-type:none">
+  <li><i class="fas fa-check-square"></i>  bewahren, sprich lokal oder cloudbasiert speichern</li>
+  <li><i class="fas fa-check-square"></i>  teilen</li>
+  <li><i class="fas fa-check-square"></i>  in der eigene Lehre nutzen</li>
+  <li><i class="fas fa-check-square"></i>  mit eigenen Inhalten kombinieren oder mehrere Werke miteinander kombinieren</li>
+  <li><i class="fas fa-check-square"></i>  bearbeiten</li>
+  <li><i class="fas fa-check-square"></i>  angepasste Inhalte/Werke wiederveröffentlichen</li>
+  <li><i class="fas fa-check-square"></i>  im kommerziellen Bereichen nutzen</li>
 </ul>
 
 Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber\*innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
