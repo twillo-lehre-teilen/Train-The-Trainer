@@ -945,10 +945,10 @@ div {
   width: 100%;
 }
 #info td, #info th {
-  border: 1px solid #ddd;
+  border: 1px solid #e7f3fe;
   padding: 8px;
 }
-#info tr {
+#info tr:nth-child(even) {
   background-color: #e7f3fe;
 }
 #info th {
