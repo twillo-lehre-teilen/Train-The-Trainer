@@ -938,6 +938,10 @@ div {
   background-color: #ffffcc;
   border-left: 6px solid #ffeb3b;
 }
+/* table settings */
+table {
+  margin-top: 10px;
+}
 /* info-table design */
 #info {
   font-family: inherit;
