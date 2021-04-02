@@ -951,13 +951,6 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-#info td, #info th {
-  border: 1px solid #e7f3fe;
-  padding: 8px;
-  padding-left: 25px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
 #info tr {
   background-color: #e7f3fe;
 }
@@ -965,6 +958,16 @@ table {
   text-align: left;
   background-color: #2196F3;
   color: white;
-  padding-bottom: 12px;
+  border: 1px solid #e7f3fe;
+  padding: 8px;
+  padding-left: 25px;
   padding-top: 12px;
+  padding-bottom: 12px;
+}
+#info td {
+  border: 1px solid #e7f3fe;
+  padding: 8px;
+  padding-left: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
