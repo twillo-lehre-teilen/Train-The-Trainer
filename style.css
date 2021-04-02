@@ -942,19 +942,19 @@ div {
 #info {
   font-family: inherit;
   border-collapse: collapse;
-  width: 90%;
+  width: 100%;
 }
 #info td, #info th {
   border: 1px solid #ddd;
   padding: 8px;
 }
 #info tr {
-  background-color: #f2f2f2;
+  background-color: #e7f3fe;
 }
 #info th {
   text-align: left;
-  background-color: #4CAF50;
-  color: white;
+  background-color: #2196F3;
+  color: inherit;
   padding-bottom: 12px;
   padding-top: 12px;
 }
