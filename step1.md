@@ -45,6 +45,7 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
     <li><i class="fa fa-check-circle" style="color:green"></i> im kommerziellen Bereichen nutzen</li>
   </ul>
 </p>
+<p style="clear:left"></p>
 
 Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber\*innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
 
