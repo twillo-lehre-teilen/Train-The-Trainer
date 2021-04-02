@@ -943,6 +943,9 @@ table {
   margin-top: 10px;
 }
 /* info-table design */
+/* th --> first row/headlines */
+/* td --> all other rows */
+/* tr --> row in general */
 #info {
   font-family: inherit;
   border-collapse: collapse;
