@@ -4,7 +4,7 @@
 
 <table id="info">
   <tr>
-    <th>Info!</th>
+    <th><i class="fa fa-info-circle" style="color:blue"></i> Info!</th>
   </tr>
   <tr>
     <td>Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.<br><br><b>Workload: 1-2 Stunden</b></td>
@@ -12,7 +12,7 @@
 </table>
 
 <div class="infobox">
-  <p><b>Info!</b>
+  <p><i class="fa fa-info-circle" style="color:blue"></i> <b>Info!</b>
     <br><br>
     Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.
     <br>
