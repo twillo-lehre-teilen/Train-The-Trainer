@@ -938,3 +938,23 @@ div {
   background-color: #ffffcc;
   border-left: 6px solid #ffeb3b;
 }
+/* info-table design */
+#info {
+  font-family: inherit;
+  border-collapse: collapse;
+  width: 90%;
+}
+#info td, #info th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+#info tr {
+  background-color: #f2f2f2;
+}
+#info th {
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+  padding-bottom: 12px;
+  padding-top: 12px;
+}
