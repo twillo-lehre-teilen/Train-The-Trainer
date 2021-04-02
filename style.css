@@ -947,7 +947,7 @@ div {
 #info td, #info th {
   border: 1px solid #e7f3fe;
   padding: 8px;
-  padding-left: 100px;
+  padding-left: 20px;
 }
 #info tr {
   background-color: #e7f3fe;
