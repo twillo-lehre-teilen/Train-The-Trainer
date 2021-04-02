@@ -27,6 +27,7 @@ In der Definition der UNESCO heißt es:
 
 Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben werden: OER sind <b>Bildungsmaterialien</b> sowie <b>Forschungsdaten</b> (in jedweder Form und jedwedem Medium) , die sich für den Einsatz im Lehr-Lernkontext eignen und kostenlos zugänglich sind. Nicht nur der <b>Einsatz</b> von OER im Lehr- oder Lernkontext ist erlaubt, sondern auch die <b>Bearbeitung und Anpassung der Materialien</b>. Auch eine <b>Veröffentlichung</b> der daraus neu entstandenen Versionen ist möglich.  Warum dies möglich ist, ergibt sich aus einer <b>offenen Lizenzierung</b>. Bildungsmaterialien, die mit einer offenen Lizenz ausgezeichnet oder als gemeinfrei gekennzeichnet sind, lassen diese Formen der Nutzung zu.
 
+// test //
 <p style=text-align:center;padding:10px 0;border:3px solid green;">abcdef</p>
 
 <p style=text-align:center;padding:10px 0;border:3px solid green;">
