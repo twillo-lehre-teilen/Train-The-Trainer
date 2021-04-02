@@ -7,7 +7,7 @@
     <th>Info!</th>
   </tr>
   <tr>
-    <th>Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.<br><br><b>Workload: 1-2 Stunden</b></th>
+    <td>Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.<br><br><b>Workload: 1-2 Stunden</b></td>
   </tr>
 </table>
 
