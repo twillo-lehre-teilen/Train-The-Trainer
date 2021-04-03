@@ -950,7 +950,7 @@ table {
   font-family: inherit;
   border-collapse: collapse;
   width: 100%;
-  vertical-align: top;
+  valign: top;
 }
 /* standard-table design */
 #normal tr {
