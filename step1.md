@@ -141,7 +141,6 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
         <li>für Lehrende und Prüfer*innen an derselben Bildungseinrichtung sowie</li>
         <li>für Dritte, soweit dies der Präsentation des Unterrichts oder von Unterrichts- oder Lernergebnissen an der Bildungseinrichtung dient.</li>
       </ol>
-      <br>
       Damit ist der Kreis der begünstigten Personen zwar relativ weit. Eine Nutzung durch Dritte ist aber erst möglich, wenn das konkret in Rede stehende Werk bereits für den Unterricht an der Bildungseinrichtung verwendet worden ist. Ferner können nur Personen mit einem institutionellen Bezug zu einer Bildungseinrichtung von der Schranke des § 60a UrhG Gebrauch machen.
     </td>
     <td>OER sind offen lizenziert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf dem Portal twillo wird für eine offene Lizenzierung das standardisierte <b>Creative Commons - Lizenzsystem</b> empfohlen (vgl. u. a. <a aria-describedby="" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf">DUK 2015</a>, <a aria-describedby="" href="https://www.twillo.de/oer/legal.html">OER Portal Niedersachsen 2021</a>).
