@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<box class="infobox">
+<div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
     <br><br>
     Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.
@@ -19,7 +19,7 @@
     <br>
     <b>Workload: 1-2 Stunden</b>
   </p>
-</box>
+</div>
 
 In der Definition der UNESCO heißt es:
 
@@ -116,13 +116,13 @@ for (var i = 0; i < acc.length; i++) {
 
 Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a> basierend auf "<a aria-describedby="Link zur Quelle (Twillo)" href="https://www.oernds.de/oer/legal.html" target="_blank">Creative Commons (CC) Lizenzen</a>" von twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a>.
 
-<box class="warningbox">
+<div class="warningbox">
   <p><i class="fas fa-exclamation-triangle" style="color:yellow"></i><b>Wichtig!</b>
     <br><br>
     Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinnvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (<a aria-describedby="Link zur Twillo Seite: Rechtliches
 OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/">vgl. twillo 2021</a>) und damit dem OER-Gedanken im vollem Umfang enstsprechen.
   </p>
-</box>
+</div>
 
 <h3>Gegenüberstellung: Die wichtigsten Unterschiede zwischen <i>urheberrechtlich</i> geschützten und <i>CC-lizenzierten</i> Materialien</h3>
 
