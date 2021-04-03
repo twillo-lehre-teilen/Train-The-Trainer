@@ -96,7 +96,7 @@ for (var i = 0; i < acc.length; i++) {
    <div class="panel">
      <p><b>CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen</b><br>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Inhalts/Werks unter derselben Lizenz zu veröffentlichen. Dies stellt sicher, dass die Inhalte auch weiterhin frei zugänglich bleiben.</p>
    </div>
-   <button class="accordion"><img src="images/creative-commons_cc-by-nc.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC Lizenz" title="CC BY NC Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC Lizenz" href="https://creativecommons.org/licenses/by-nc/4.0/deed.de" target="_blank">Zur Lizenz</a></button>
+   <button class="accordion"><img src="images/creative-commons_cc-by-nc.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC Lizenz" title="CC BY NC Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC Lizenz" href="https://creativecommons.org/licenses/by-nc/4.0/deed.de" target="_blank">zur Lizenz</a></button>
    <div class="panel">
      <p><b>CC BY NC = Namensnennung und nicht kommerziell</b><br>Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks dürfen nicht kommerziell genutzt werden.</p>
    </div>
@@ -104,7 +104,7 @@ for (var i = 0; i < acc.length; i++) {
    <div class="panel">
      <p><b>CC BY ND = Namensnennung und keine Bearbeitung</b><br>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden.</p>
    </div>
-   <button class="accordion"><img src="images/creative-commons_cc-by-nc-sa.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC SA Lizenz" title="CC BY NC SA Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC SA Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">Zur Lizenz</a></button>
+   <button class="accordion"><img src="images/creative-commons_cc-by-nc-sa.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC SA Lizenz" title="CC BY NC SA Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC SA Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">zur Lizenz</a></button>
    <div class="panel">
       <p><b>CC BY NC SA = Namensnennung, nicht kommerziell und Weitergabe unter gleichen Bedingungen</b><br>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Materials unter derselben Lizenz zu veröffentlichen. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</p>
    </div>
