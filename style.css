@@ -924,17 +924,17 @@ div {
   border-left: 6px solid #2196F3;
 }  
 /* Alertbox design */
-.danger {
+.alertbox {
   background-color: #ffdddd;
   border-left: 6px solid #f44336;
 }
 /* Successbox design */
-.success {
+.successbox {
   background-color: #ddffdd;
   border-left: 6px solid #4CAF50;
 }
 /* Warningbox design */
-.warning {
+.warningbox {
   background-color: #ffffcc;
   border-left: 6px solid #ffeb3b;
 }
