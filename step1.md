@@ -114,7 +114,7 @@ for (var i = 0; i < acc.length; i++) {
    </div>
 </div>
 
-<l>Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a> basierend auf "<a aria-describedby="Link zur Quelle (OER Portal Niedersachsen)" href="https://www.oernds.de/oer/legal.html" target="_blank">Creative Commons (CC) Lizenzen [!Link im Wiki funktioniert nicht! - anpassen]</a>" von twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a>.</l>
+Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a> basierend auf "<a aria-describedby="Link zur Quelle (Twillo)" href="https://www.oernds.de/oer/legal.html" target="_blank">Creative Commons (CC) Lizenzen</a>" von twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a>.
 
 <div class="warningbox">
   <p><i class="fas fa-exclamation-triangle" style="color:yellow"></i><b>Wichtig!</b>
@@ -133,33 +133,33 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
   </tr>
   <tr>
     <td>Das Urheberrecht ist ein sog. Ausschließlichkeitsrecht; ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber*innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
-    <br>
-    Die Schrankenbestimmung für Unterricht und Lehre in § 60a UrhG sieht Erleichterungen für Nutzungen eines Lernmaterials in der Hochschule bis zu einem bestimmten Umfang vor (15 % bei Druckwerken; 5 Min bei Videos und Musik).  Nach dem Gesetzestext darf die Nutzung erfolgen:
-    <br>
-    <ol>
-      <li>für Lehrende und Teilnehmer der jeweiligen Veranstaltung,</li>
-      <li>für Lehrende und Prüfer*innen an derselben Bildungseinrichtung sowie</li>
-      <li>für Dritte, soweit dies der Präsentation des Unterrichts oder von Unterrichts- oder Lernergebnissen an der Bildungseinrichtung dient.</li>
-    </ol>
-    <br>
-    Damit ist der Kreis der begünstigten Personen zwar relativ weit. Eine Nutzung durch Dritte ist aber erst möglich, wenn das konkret in Rede stehende Werk bereits für den Unterricht an der Bildungseinrichtung verwendet worden ist. Ferner können nur Personen mit einem institutionellen Bezug zu einer Bildungseinrichtung von der Schranke des § 60a UrhG Gebrauch machen.
+      <br><br>
+      Die Schrankenbestimmung für Unterricht und Lehre in § 60a UrhG sieht Erleichterungen für Nutzungen eines Lernmaterials in der Hochschule bis zu einem bestimmten Umfang vor (15 % bei Druckwerken; 5 Min bei Videos und Musik).  Nach dem Gesetzestext darf die Nutzung erfolgen:
+      <br><br>
+      <ol>
+        <li>für Lehrende und Teilnehmer der jeweiligen Veranstaltung,</li>
+        <li>für Lehrende und Prüfer*innen an derselben Bildungseinrichtung sowie</li>
+        <li>für Dritte, soweit dies der Präsentation des Unterrichts oder von Unterrichts- oder Lernergebnissen an der Bildungseinrichtung dient.</li>
+      </ol>
+      <br><br>
+      Damit ist der Kreis der begünstigten Personen zwar relativ weit. Eine Nutzung durch Dritte ist aber erst möglich, wenn das konkret in Rede stehende Werk bereits für den Unterricht an der Bildungseinrichtung verwendet worden ist. Ferner können nur Personen mit einem institutionellen Bezug zu einer Bildungseinrichtung von der Schranke des § 60a UrhG Gebrauch machen.
     </td>
     <td>OER sind offen lizenziert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf dem Portal twillo wird für eine offene Lizenzierung das standardisierte <b>Creative Commons - Lizenzsystem</b> empfohlen (vgl. u. a. <a aria-describedby="" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf">DUK 2015</a>, <a aria-describedby="" href="https://www.twillo.de/oer/legal.html">OER Portal Niedersachsen 2021</a>).
-    <br>
-    Offene Lizenzen wurden entwickelt, um die Rechte von Urheber*innen zu schützen und gleichzeitig Dritten die (Weiter-)Verwendung und zum Teil sogar Anpassung und Änderung ihrer Inhalte und Materialien zu ermöglichen. Die Wahl einer bestimmten offenen Lizenz (und damit verbunden bestimmte Möglichkeiten der Nachnutzung ihrer Inhalte) liegt hierbei bei den Urheber*innen selbst. Auf diese Weise werden die Einschränkungen des Urheberrechts überwunden; Urheber*innen bleiben aber gleichzeitig als solche anerkannt. Dies ist im Bereich von Wissenschaft und Forschung von besonderer Relevanz.
-    <br>
-    Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind Urheber*innen  rechtliche Möglichkeiten eröffnet, dagegen vorzugehen.
-    <br>
-    Die folgende Abbildung verdeutlicht die Offenheit von Materialien absteigend von der Lizenz CC 0 bis zum klassischen Urheberrechtsschutz (all rights reserved).  Auf der linken Seite wird dargestellt, welche Nachnutzungsmöglichkeiten die farbig hinterlegten Lizenzen bieten. Der dunkelgrüne Bereich stellt Lizenzen dar, die das Teilen und Verändern von Materialien für nicht-kommerzielle <b>und</b> kommerzielle Zwecke erlauben. Materialien unter CC0, CC BY und CC BY SA lassen sich somit den "freien kulturellen Werken" zuordnen.
-    <br>
-    Die Lizenzen des hellgrünen Bereichs erlauben ebenfalls das Teilen und Verändern, schließen jedoch die kommerzielle Nutzung aus.  Materialien unter den Lizenzen CC BY NC und CC BY NC SA gehören zum sog. "fair use" Konzept.
-    <br>
-    Die Lizenzen des gelben Bereichs ermöglichen keine Veränderung am Material. Materialien mit den Lizenzen CC BY ND und CC BY NC ND können somit als "Freeware" bezeichnet werden.
-    <br>
-    <figure>
-      <img src="images/licence_skala.svg." alt="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)" title="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 5: <a aria-describedby="Link zur Quelle der Abbildung 5" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg">Creative Commons License Spectrum</a> von Shaddim, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
-    </figure>
+      <br><br>
+      Offene Lizenzen wurden entwickelt, um die Rechte von Urheber*innen zu schützen und gleichzeitig Dritten die (Weiter-)Verwendung und zum Teil sogar Anpassung und Änderung ihrer Inhalte und Materialien zu ermöglichen. Die Wahl einer bestimmten offenen Lizenz (und damit verbunden bestimmte Möglichkeiten der Nachnutzung ihrer Inhalte) liegt hierbei bei den Urheber*innen selbst. Auf diese Weise werden die Einschränkungen des Urheberrechts überwunden; Urheber*innen bleiben aber gleichzeitig als solche anerkannt. Dies ist im Bereich von Wissenschaft und Forschung von besonderer Relevanz.
+      <br><br>
+      Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind Urheber*innen  rechtliche Möglichkeiten eröffnet, dagegen vorzugehen.
+      <br><br>
+      Die folgende Abbildung verdeutlicht die Offenheit von Materialien absteigend von der Lizenz CC 0 bis zum klassischen Urheberrechtsschutz (all rights reserved).  Auf der linken Seite wird dargestellt, welche Nachnutzungsmöglichkeiten die farbig hinterlegten Lizenzen bieten. Der dunkelgrüne Bereich stellt Lizenzen dar, die das Teilen und Verändern von Materialien für nicht-kommerzielle <b>und</b> kommerzielle Zwecke erlauben. Materialien unter CC0, CC BY und CC BY SA lassen sich somit den "freien kulturellen Werken" zuordnen.
+      <br><br>
+      Die Lizenzen des hellgrünen Bereichs erlauben ebenfalls das Teilen und Verändern, schließen jedoch die kommerzielle Nutzung aus.  Materialien unter den Lizenzen CC BY NC und CC BY NC SA gehören zum sog. "fair use" Konzept.
+      <br><br>
+      Die Lizenzen des gelben Bereichs ermöglichen keine Veränderung am Material. Materialien mit den Lizenzen CC BY ND und CC BY NC ND können somit als "Freeware" bezeichnet werden.
+      <br><br>
+      <figure>
+        <img src="images/licence_skala.svg" alt="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)" title="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 5: <a aria-describedby="Link zur Quelle der Abbildung 5" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg">Creative Commons License Spectrum</a> von Shaddim, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
+      </figure>
     </td>
   </tr>
 </table>
@@ -168,12 +168,12 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
 
 <ul>
   <li>Alle oben genannten Informationen können Sie im Bereich <a aria-describedby="" href="https://www.twillo.de/oer/legal.html">Rechtliches</a> auf twillo nachlesen.</li>
-  <li>CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg: https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf.</li>
+  <li>CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg: <a ahref="https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf">https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf</a>.</li>
   <li>Die wichtigsten Aspekte zum Thema Urheberrecht und offene Lizenzierung von Materialien finden Sie in folgendem Video von Hirsch (2020)</li>
 </ul>
 
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=E955up7vtCk&ab_channel=NeleHirsch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
   <figcaption style="text-align:center;font-size:14px;">Video 1: <a aria-describedby="Link zum Video (YouTube)" href="https://www.youtube.com/watch?v=E955up7vtCk&ab_channel=NeleHirsch">Urheberrecht für Nicht-Jurist:innen</a> von Nele Hirsch, lizenziert unter <a aria-describedby="Link zur Seite (Creative Commons)" href="https://creativecommons.org/publicdomain/zero/1.0/">CC 0 (1.0)</a></figcaption>
 </figure>
 
