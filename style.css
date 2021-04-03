@@ -913,30 +913,33 @@ box.info {
   padding: 10px;
   margin: 10px;
 }
-/* div.box settings */
-div.box {
-  margin-bottom: 15px;
-  padding: 0.05px 20px;
-}  
 /* Infobox design */
 .infobox {
   background-color: #e7f3fe;
   border-left: 6px solid #2196F3;
+  margin-bottom: 15px;
+  padding: 0.05px 20px;
 }  
 /* Alertbox design */
 .alertbox {
   background-color: #ffdddd;
   border-left: 6px solid #f44336;
+  margin-bottom: 15px;
+  padding: 0.05px 20px;
 }
 /* Successbox design */
 .successbox {
   background-color: #ddffdd;
   border-left: 6px solid #4CAF50;
+  margin-bottom: 15px;
+  padding: 0.05px 20px;
 }
 /* Warningbox design */
 .warningbox {
   background-color: #ffffcc;
   border-left: 6px solid #ffeb3b;
+  margin-bottom: 15px;
+  padding: 0.05px 20px;
 }
 /* table settings */
 table {
