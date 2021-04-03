@@ -135,13 +135,13 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
     <td>Das Urheberrecht ist ein sog. Ausschließlichkeitsrecht; ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber*innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
       <br><br>
       Die Schrankenbestimmung für Unterricht und Lehre in § 60a UrhG sieht Erleichterungen für Nutzungen eines Lernmaterials in der Hochschule bis zu einem bestimmten Umfang vor (15 % bei Druckwerken; 5 Min bei Videos und Musik).  Nach dem Gesetzestext darf die Nutzung erfolgen:
-      <br><br>
+      <br>
       <ol>
         <li>für Lehrende und Teilnehmer der jeweiligen Veranstaltung,</li>
         <li>für Lehrende und Prüfer*innen an derselben Bildungseinrichtung sowie</li>
         <li>für Dritte, soweit dies der Präsentation des Unterrichts oder von Unterrichts- oder Lernergebnissen an der Bildungseinrichtung dient.</li>
       </ol>
-      <br><br>
+      <br>
       Damit ist der Kreis der begünstigten Personen zwar relativ weit. Eine Nutzung durch Dritte ist aber erst möglich, wenn das konkret in Rede stehende Werk bereits für den Unterricht an der Bildungseinrichtung verwendet worden ist. Ferner können nur Personen mit einem institutionellen Bezug zu einer Bildungseinrichtung von der Schranke des § 60a UrhG Gebrauch machen.
     </td>
     <td>OER sind offen lizenziert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf dem Portal twillo wird für eine offene Lizenzierung das standardisierte <b>Creative Commons - Lizenzsystem</b> empfohlen (vgl. u. a. <a aria-describedby="" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf">DUK 2015</a>, <a aria-describedby="" href="https://www.twillo.de/oer/legal.html">OER Portal Niedersachsen 2021</a>).
@@ -155,7 +155,7 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
       Die Lizenzen des hellgrünen Bereichs erlauben ebenfalls das Teilen und Verändern, schließen jedoch die kommerzielle Nutzung aus.  Materialien unter den Lizenzen CC BY NC und CC BY NC SA gehören zum sog. "fair use" Konzept.
       <br><br>
       Die Lizenzen des gelben Bereichs ermöglichen keine Veränderung am Material. Materialien mit den Lizenzen CC BY ND und CC BY NC ND können somit als "Freeware" bezeichnet werden.
-      <br><br>
+      <br>
       <figure>
         <img src="images/licence_skala.svg" alt="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)" title="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 5: <a aria-describedby="Link zur Quelle der Abbildung 5" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg">Creative Commons License Spectrum</a> von Shaddim, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
@@ -165,7 +165,6 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
 </table>
 
 <b>Weitere Informationen zur Vertiefung</b>
-
 <ul>
   <li>Alle oben genannten Informationen können Sie im Bereich <a aria-describedby="" href="https://www.twillo.de/oer/legal.html">Rechtliches</a> auf twillo nachlesen.</li>
   <li>CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg: <a ahref="https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf">https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf</a>.</li>
