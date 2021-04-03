@@ -942,6 +942,9 @@ div.warningbox {
   padding: 0.05px 20px;
 }
 /* table settings */
+/* th --> first row/headlines */
+/* td --> all other rows */
+/* tr --> row in general */
 table {
   margin-top: 10px;
   font-family: inherit;
@@ -949,15 +952,12 @@ table {
   width: 100%;
 }
 /* standard-table design */
-/* th --> first row/headlines */
-/* td --> all other rows */
-/* tr --> row in general */
 #standard tr {
   background-color: #D1D8E1;
 }
 #standard th {
   text-align: left;
-  background-color: #D1D8E1;
+  background-color: #2196F3;
   color: black;
   border: 1px solid #D1D8E1;
   padding: 8px;
@@ -966,7 +966,6 @@ table {
   padding-bottom: 12px;
 }
 #standard td {
-  text-align: top;
   border: 1px solid #F0F2F6;
   padding: 8px;
   padding-left: 25px;
