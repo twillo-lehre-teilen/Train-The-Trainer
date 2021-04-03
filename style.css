@@ -950,7 +950,6 @@ table {
   font-family: inherit;
   border-collapse: collapse;
   width: 100%;
-  valign: top;
 }
 /* standard-table design */
 #normal tr {
@@ -972,6 +971,7 @@ table {
   padding-left: 25px;
   padding-top: 15px;
   padding-bottom: 15px;
+  valign: top;
 }
 /* info-table design */
 #info tr {
