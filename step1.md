@@ -129,7 +129,7 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
 <table id="standard">
   <tr>
     <th><b>Regularien des Urheberrechts</b></th>
-    <th><b>Möglichkeiten offener Lizenzierung (am Beispiel Creative Commons)</b>
+    <th><b>Möglichkeiten offener Lizenzierung (am Beispiel Creative Commons)</b></th>
   </tr>
   <tr>
     <td>Das Urheberrecht ist ein sog. Ausschließlichkeitsrecht; ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber*innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
