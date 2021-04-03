@@ -126,7 +126,7 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
 
 <h3>Gegenüberstellung: Die wichtigsten Unterschiede zwischen <i>urheberrechtlich</i> geschützten und <i>CC-lizenzierten</i> Materialien</h3>
 
-<table id="info">
+<table id="normal">
   <tr>
     <th><b>Regularien des Urheberrechts</b></th>
     <th><b>Möglichkeiten offener Lizenzierung (am Beispiel Creative Commons)</b></th>
