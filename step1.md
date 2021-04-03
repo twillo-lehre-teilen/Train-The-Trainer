@@ -124,6 +124,7 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
   </p>
 </div>
 
+<br>
 <h3>Gegenüberstellung: Die wichtigsten Unterschiede zwischen <i>urheberrechtlich</i> geschützten und <i>CC-lizenzierten</i> Materialien</h3>
 
 <table id="normal">
@@ -163,6 +164,7 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
   </tr>
 </table>
 
+<br>
 <b>Weitere Informationen zur Vertiefung</b>
 <ul>
   <li>Alle oben genannten Informationen können Sie im Bereich <a aria-describedby="" href="https://www.twillo.de/oer/legal.html">Rechtliches</a> auf twillo nachlesen.</li>
