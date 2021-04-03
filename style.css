@@ -953,20 +953,20 @@ table {
 }
 /* standard-table design */
 #normal tr {
-  background-color: #F0F2F6;
+  background-color: #FAFAFC;
 }
 #normal th {
   text-align: left;
-  background-color: #D1D8E1;
+  background-color: #F0F2F6;
   color: black;
-  border: 1px solid #0A1F40;
+  border: 1px solid #D1D8E1;
   padding: 8px;
   padding-left: 25px;
   padding-top: 12px;
   padding-bottom: 12px;
 }
 #normal td {
-  border: 1px solid #0A1F40;
+  border: 1px solid #D1D8E1;
   padding: 8px;
   padding-left: 25px;
   padding-top: 15px;
