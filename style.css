@@ -952,10 +952,10 @@ table {
 /* th --> first row/headlines */
 /* td --> all other rows */
 /* tr --> row in general */
-.tr {
+#standard tr {
   background-color: #D1D8E1;
 }
-.th {
+#standard th {
   text-align: left;
   background-color: #D1D8E1;
   color: black;
@@ -965,7 +965,7 @@ table {
   padding-top: 12px;
   padding-bottom: 12px;
 }
-.td {
+#standard td {
   text-align: top;
   border: 1px solid #F0F2F6;
   padding: 8px;
@@ -974,11 +974,6 @@ table {
   padding-bottom: 15px;
 }
 /* info-table design */
-#info {
-  font-family: inherit;
-  border-collapse: collapse;
-  width: 100%;
-}
 #info tr {
   background-color: #e7f3fe;
 }
