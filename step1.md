@@ -27,27 +27,7 @@ In der Definition der UNESCO heißt es:
 
 Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben werden: OER sind <b>Bildungsmaterialien</b> sowie <b>Forschungsdaten</b> (in jedweder Form und jedwedem Medium) , die sich für den Einsatz im Lehr-Lernkontext eignen und kostenlos zugänglich sind. Nicht nur der <b>Einsatz</b> von OER im Lehr- oder Lernkontext ist erlaubt, sondern auch die <b>Bearbeitung und Anpassung der Materialien</b>. Auch eine <b>Veröffentlichung</b> der daraus neu entstandenen Versionen ist möglich.  Warum dies möglich ist, ergibt sich aus einer <b>offenen Lizenzierung</b>. Bildungsmaterialien, die mit einer offenen Lizenz ausgezeichnet oder als gemeinfrei gekennzeichnet sind, lassen diese Formen der Nutzung zu.
 
-<p style="display:flex;align-items:center;text-align:center;padding:10px 0;border:3px solid green;">
-  <figure style="float:left;align:middle;">
-    <img src="images/Offene Lizenz.svg" align="middle" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
-    <figcaption style="text-align:center;font-size:14px;">Abb. 3: Offene Lizenz</figcaption>
-  </figure>
-
-  Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der\*dem Urheber\*in:
-
-  <ul style="list-style-type:none">
-    <li><i class="fa fa-check-circle" style="color:green"></i> bewahren, sprich lokal oder cloudbasiert speichern</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> teilen</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> in der eigene Lehre nutzen</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> mit eigenen Inhalten kombinieren oder mehrere Werke miteinander kombinieren</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> bearbeiten</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> angepasste Inhalte/Werke wiederveröffentlichen</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> im kommerziellen Bereichen nutzen</li>
-  </ul>
-</p>
-<p style="clear:both"></p>
-
-<table>
+<table id="invisible">
   <tr>
     <td valign="middle" text-align="left"><figure style="float:left;align:middle;">
     <img src="images/Offene Lizenz.svg" align="middle" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
