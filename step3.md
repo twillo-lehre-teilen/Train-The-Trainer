@@ -16,23 +16,23 @@
     <th>Lernformen</th>
   </tr>
   <tr>
-    <td><b>Sichtung Ihres Materials und Abgrenzung zu digitalisierender Inhalte</b></td>
-    <td>Die TN verschaffen sich einen Überblick über vorhandene Inhalte und Materialien eines bestehenden Kurses.<br><br>Zudem identifizieren Sie die innerhalb des Kurses genutzten Formate, Materialarten und Aufgabenstellungen.</td>
-    <td></td>
+    <td valign="top"><b>Sichtung Ihres Materials und Abgrenzung zu digitalisierender Inhalte</b></td>
+    <td valign="top">Die TN verschaffen sich einen Überblick über vorhandene Inhalte und Materialien eines bestehenden Kurses.<br><br>Zudem identifizieren Sie die innerhalb des Kurses genutzten Formate, Materialarten und Aufgabenstellungen.</td>
+    <td valign="top"></td>
   </tr>
   <tr>
-    <td><b>Didaktische Planung von Online Szenarien</b></td>
-    <td>Die Teilnehmenden überprüfen, inwiefern die Methoden, die sich in Ihren Materialien finden, auch für ein digitales Lehr-/Lernsetting geeignet sind. Sie lernen (neue) Methoden für die Gestaltung aktivierender Online-Lehre kennen und passen Methoden von Präsenzveranstaltungen ggf. an.</td>
-    <td>Aufgabe:<br><br>
+    <td valign="top"><b>Didaktische Planung von Online Szenarien</b></td>
+    <td valign="top">Die Teilnehmenden überprüfen, inwiefern die Methoden, die sich in Ihren Materialien finden, auch für ein digitales Lehr-/Lernsetting geeignet sind. Sie lernen (neue) Methoden für die Gestaltung aktivierender Online-Lehre kennen und passen Methoden von Präsenzveranstaltungen ggf. an.</td>
+    <td valign="top">Aufgabe:<br><br>
     Notieren Sie in Ihrer Materialien-Übersicht, welche Methoden sich für die Erarbeitung der jeweiligen Inhalte sich in einem digitalen Setting eignen könnten. Nutzen Sie hierfür wenn nötig das folgende Methodenglossar<br><br>
     Methodenglossar: mit Hinweis, dass sich alles ändern kann und "ohne Gewähr"<br><br>
     offline → online<br><br>
     synchron → asynchron</td>
   </tr>
   <tr>
-    <td><b>Transfer in OER Formate</b></td>
-    <td>Die Teilnehmenden erlernen wichtige Aspekte, die bei der Aufbereitung von Materialien entlang der Merkmale von OER zu beachten sind. Sie setzen das Erlernte während der Aufbereitung ihrer eigenen Material um. </td>
-    <td>Aufgabe 1:<br>
+    <td valign="top"><b>Transfer in OER Formate</b></td>
+    <td valign="top">Die Teilnehmenden erlernen wichtige Aspekte, die bei der Aufbereitung von Materialien entlang der Merkmale von OER zu beachten sind. Sie setzen das Erlernte während der Aufbereitung ihrer eigenen Material um. </td>
+    <td valign="top">Aufgabe 1:<br>
     Gehen Sie Ihre Materialien grundlich durch. Prüfen Sie, welche Inhalte Ihres Materials nicht von Ihnen selbst stammen.<br><br>
     Sie haben urheberrechtlich geschütztes Material verwendet? → geschützte Inhalte ersetzen oder kenntlich machen → Zitation<br><br>
     Sie haben CC-lizenziertes Material verwendet? → Nutzungsbedingungen prüfen, Lizenzhinweise einfügen (TULLU)<br><br>
@@ -44,9 +44,9 @@
     Überführen Sie Ihre Materialien in offene Formate</td>
   </tr>
   <tr>
-    <td><b>Offenes Dateiformat</b></td>
-    <td>Die Bedeutung von offenen Dateiformaten bei OER</td>
-    <td>Neben dem Merkmal der offenen Lizenzierung, gibt es noch eine weiteres Merkmal, das hier als unspezifisch bezeichnet wird und somit grundlegend für eine einfache Handhabung im Sinne einer OER-Practices von Bedeutung ist. Unspezifisch meint hier, dass der Aspekt offenes Dateiformat nicht zwangsläufig erfüllt sein muss, um als OER zu gelten, es erleichtert jedoch mögliche Bearbeitungen und geringfügige Anpassungen an den Materialien.</td>
+    <td valign="top"><b>Offenes Dateiformat</b></td>
+    <td valign="top">Die Bedeutung von offenen Dateiformaten bei OER</td>
+    <td valign="top">Neben dem Merkmal der offenen Lizenzierung, gibt es noch eine weiteres Merkmal, das hier als unspezifisch bezeichnet wird und somit grundlegend für eine einfache Handhabung im Sinne einer OER-Practices von Bedeutung ist. Unspezifisch meint hier, dass der Aspekt offenes Dateiformat nicht zwangsläufig erfüllt sein muss, um als OER zu gelten, es erleichtert jedoch mögliche Bearbeitungen und geringfügige Anpassungen an den Materialien.</td>
   </tr>
 </table>
 
