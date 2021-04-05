@@ -51,5 +51,21 @@
 </table>
 
 ---
+<center>
+  <h2>Lessons Learned/Checkliste</h2>
+</center>
 
-<h2>Lessons Learned/Checkliste</h2>
+<h3>Checkpunkte</h3>
+
+<ol>
+  <li>Wurde eine Übersicht (Advance Organizer, Übersicht im Tabellenformat oder grafische Übersicht) hinterlegt?</li>
+</ol>
+
+Formale Kriterien:
+
+<ol>
+  <li>Werden alle fremden Inhalte als solche gekennzeichnet?</li>
+  <li>sind alle Materialien richtig gekennzeichnet entsprechend Tullu</li>
+  <li>offene Dateiformate verwendet</li>
+</ol>
+
