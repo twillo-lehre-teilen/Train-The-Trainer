@@ -70,14 +70,19 @@ Formale Kriterien:
   <li>offene Dateiformate verwendet</li>
 </ol>
 
-<p style=text-align:center;padding:10px 0;border:3px solid green;">
-  <figure style="float:left;">
-    <img src="images/open_format.svg" style="vertical-align:middle" alt="Abb. X: Offenes Dateiformat" title="Abb. X: Offenes Dateiformat"/>
-    <figcaption style="text-align:center;font-size:14px;">Abb. X: Offenes Dateiformat</figcaption>
-  </figure>
-  
-  <b>Die Bereitstellung des Materials in einem möglichst offenen Dateiformat:</b><br><br>
-  Wenn offene Bildungsmaterialen in offenen Dateiformaten bereitgestellt werden, lassen sie sich niedrigschwellig bearbeiten. Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format DOCX dem Format PDF vorzuziehen ist (Editierbarkeit), während das Format odt Vorteile gegenüber dem Format doc besitzt (Offener Standard). Möglich ist es auch, Bildungsmaterialien in mehreren Dateiformaten bereitzustellen. Dies bietet sich auch an, wenn Kompatibilitätsprobleme zu befürchten sind. So etwa kann ein Arbeitsblatt im odt Format bereitgestellt werden um die Editierbarkeit zu gewährleisten und zusätzlich im PDF Format, um das Layout auch in verschiedenen Systemen oder Anwendungen zu erhalten.<br><br>
-  Offenes Format für Video → MP4, MPEG
-</p>
-<p style="clear:both"></p>
+<table id="invisible">
+  <tr>
+    <td>
+      <figure>
+        <img src="images/open_format.svg" alt="Abb. X: Offenes Dateiformat" title="Abb. X: Offenes Dateiformat"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. X: Offenes Dateiformat</figcaption>
+      </figure>
+    </td>
+    <td>
+      <b>Die Bereitstellung des Materials in einem möglichst offenen Dateiformat:</b><br><br>
+      Wenn offene Bildungsmaterialen in offenen Dateiformaten bereitgestellt werden, lassen sie sich niedrigschwellig bearbeiten. Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format DOCX dem Format PDF vorzuziehen ist (Editierbarkeit), während das Format odt Vorteile gegenüber dem Format doc besitzt (Offener Standard). Möglich ist es auch, Bildungsmaterialien in mehreren Dateiformaten bereitzustellen. Dies bietet sich auch an, wenn Kompatibilitätsprobleme zu befürchten sind. So etwa kann ein Arbeitsblatt im odt Format bereitgestellt werden um die Editierbarkeit zu gewährleisten und zusätzlich im PDF Format, um das Layout auch in verschiedenen Systemen oder Anwendungen zu erhalten.<br><br>
+      Offenes Format für Video → MP4, MPEG
+    </td>
+  </tr>
+</table>
+
