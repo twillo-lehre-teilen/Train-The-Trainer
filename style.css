@@ -877,8 +877,6 @@ pre::after {
   padding: 18px;
   width: 100%;
   text-align: left;
-  display: table-cell;
-  vertical-align: middle;
   border: none;
   outline: none;
   transition: 0.4s;
