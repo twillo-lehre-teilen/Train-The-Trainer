@@ -1,4 +1,4 @@
-<h1 style="color:#000080">Schritt 2: OER finden und nutzen<h1>
+<h1 style="color:#000080">Schritt 2: OER finden und nutzen</h1>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div class="infobox">
