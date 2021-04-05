@@ -53,7 +53,7 @@
 
 ---
 <center>
-  <h1>essons Learned/Checkliste</h1>
+  <h1>Lessons Learned/Checkliste</h1>
 </center>
 
 <h2>Checkpunkte</h2>
