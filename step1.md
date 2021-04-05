@@ -29,21 +29,23 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
 
 <table id="invisible">
   <tr>
-    <td valign="middle" text-align="left"><figure style="float:left;align:middle;">
-    <img src="images/Offene Lizenz.svg" width="100%" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
-    <figcaption style="text-align:center;font-size:14px;">Abb. 3: Offene Lizenz</figcaption>
-  </figure></td>
-    <td valign="middle" text-align="left">Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der*dem Urheber*in:
-
-  <ul style="list-style-type:none">
-    <li><i class="fa fa-check-circle" style="color:green"></i> bewahren, sprich lokal oder cloudbasiert speichern</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> teilen</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> in der eigene Lehre nutzen</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> mit eigenen Inhalten kombinieren oder mehrere Werke miteinander kombinieren</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> bearbeiten</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> angepasste Inhalte/Werke wiederveröffentlichen</li>
-    <li><i class="fa fa-check-circle" style="color:green"></i> im kommerziellen Bereichen nutzen</li>
-  </ul></td>
+    <td valign="middle" text-align="left">
+      <figure style="float:left;align:middle;">
+        <img src="images/Offene Lizenz.svg" width="auto" height="auto" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 3: Offene Lizenz</figcaption>
+      </figure></td>
+    <td valign="middle" text-align="left">
+      Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der*dem Urheber*in:
+    <br><br>
+    <ul style="list-style-type:none">
+      <li><i class="fa fa-check-circle" style="color:green"></i> bewahren, sprich lokal oder cloudbasiert speichern</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> teilen</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> in der eigene Lehre nutzen</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> mit eigenen Inhalten kombinieren oder mehrere Werke miteinander kombinieren</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> bearbeiten</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> angepasste Inhalte/Werke wiederveröffentlichen</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> im kommerziellen Bereichen nutzen</li>
+    </ul></td>
   </tr>
 </table>
 
