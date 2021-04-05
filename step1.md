@@ -47,6 +47,26 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
 </p>
 <p style="clear:both"></p>
 
+<table>
+  <tr>
+    <td valign="middle" text-align="left"><figure style="float:left;align:middle;">
+    <img src="images/Offene Lizenz.svg" align="middle" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 3: Offene Lizenz</figcaption>
+  </figure></td>
+    <td valign="middle" text-align="left">Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der\*dem Urheber\*in:
+
+  <ul style="list-style-type:none">
+    <li><i class="fa fa-check-circle" style="color:green"></i> bewahren, sprich lokal oder cloudbasiert speichern</li>
+    <li><i class="fa fa-check-circle" style="color:green"></i> teilen</li>
+    <li><i class="fa fa-check-circle" style="color:green"></i> in der eigene Lehre nutzen</li>
+    <li><i class="fa fa-check-circle" style="color:green"></i> mit eigenen Inhalten kombinieren oder mehrere Werke miteinander kombinieren</li>
+    <li><i class="fa fa-check-circle" style="color:green"></i> bearbeiten</li>
+    <li><i class="fa fa-check-circle" style="color:green"></i> angepasste Inhalte/Werke wiederveröffentlichen</li>
+    <li><i class="fa fa-check-circle" style="color:green"></i> im kommerziellen Bereichen nutzen</li>
+  </ul></td>
+  </tr>
+</table>
+
 Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber\*innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
 
 <figure>
