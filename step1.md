@@ -29,12 +29,12 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
 
 <table id="invisible">
   <tr>
-    <td valign="middle" text-align="left" width="30%">
+    <td valign="middle" text-align="left" width="25%">
       <figure style="float:left;align:middle;">
         <img src="images/Offene Lizenz.svg" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 3: Offene Lizenz</figcaption>
       </figure></td>
-    <td valign="middle" text-align="left" width="70%">
+    <td valign="middle" text-align="left" width="75%">
       Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der*dem Urheber*in:
     <br><br>
     <ul style="list-style-type:none">
