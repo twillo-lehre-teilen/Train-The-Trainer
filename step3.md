@@ -1,4 +1,5 @@
 <h1 style="color:#228b22">Schritt 3: Material aufbereiten</h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
@@ -32,7 +33,7 @@
   <tr>
     <td valign="top"><b>Transfer in OER Formate</b></td>
     <td valign="top">Die Teilnehmenden erlernen wichtige Aspekte, die bei der Aufbereitung von Materialien entlang der Merkmale von OER zu beachten sind. Sie setzen das Erlernte während der Aufbereitung ihrer eigenen Material um. </td>
-    <td valign="top">Aufgabe 1:<br>
+    <td valign="top">Aufgabe 1:<br><br>
     Gehen Sie Ihre Materialien grundlich durch. Prüfen Sie, welche Inhalte Ihres Materials nicht von Ihnen selbst stammen.<br><br>
     Sie haben urheberrechtlich geschütztes Material verwendet? → geschützte Inhalte ersetzen oder kenntlich machen → Zitation<br><br>
     Sie haben CC-lizenziertes Material verwendet? → Nutzungsbedingungen prüfen, Lizenzhinweise einfügen (TULLU)<br><br>
