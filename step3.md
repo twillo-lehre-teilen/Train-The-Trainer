@@ -48,4 +48,8 @@
     <td>Die Bedeutung von offenen Dateiformaten bei OER</td>
     <td>Neben dem Merkmal der offenen Lizenzierung, gibt es noch eine weiteres Merkmal, das hier als unspezifisch bezeichnet wird und somit grundlegend für eine einfache Handhabung im Sinne einer OER-Practices von Bedeutung ist. Unspezifisch meint hier, dass der Aspekt offenes Dateiformat nicht zwangsläufig erfüllt sein muss, um als OER zu gelten, es erleichtert jedoch mögliche Bearbeitungen und geringfügige Anpassungen an den Materialien.</td>
   </tr>
+</table>
 
+---
+
+<h2>Lessons Learned/Checkliste</h2>
