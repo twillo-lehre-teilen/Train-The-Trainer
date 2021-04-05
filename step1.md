@@ -117,7 +117,7 @@ for (var i = 0; i < acc.length; i++) {
 Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a> basierend auf "<a aria-describedby="Link zur Quelle (Twillo)" href="https://www.oernds.de/oer/legal.html" target="_blank">Creative Commons (CC) Lizenzen</a>" von twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a>.
 
 <div class="warningbox">
-  <p><i class="fas fa-exclamation-triangle" style="color:yellow"></i><b>Wichtig!</b>
+  <p><i class="fas fa-exclamation-triangle" style="color:black"></i><b>Wichtig!</b>
     <br><br>
     Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinnvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (<a aria-describedby="Link zur Twillo Seite: Rechtliches
 OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/">vgl. twillo 2021</a>) und damit dem OER-Gedanken im vollem Umfang enstsprechen.
