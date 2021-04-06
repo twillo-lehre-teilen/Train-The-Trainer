@@ -208,14 +208,14 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
         for(letter in currentQuestion.answers){
 
    /* ...add an HTML radio button */
-        answers.push(
-         `<label>
-            <input type="radio" name="question${questionNumber}" value="${letter}">
-            ${letter} :
-            ${currentQuestion.answers[letter]}
-          </label>`
-        );
-      }
+          answers.push(
+            `<label>
+              <input type="radio" name="question${questionNumber}" value="${letter}">
+               ${letter} :
+               ${currentQuestion.answers[letter]}
+             </label>`
+           );
+         }
 
    /* add this question and its answers to the output*/
       output.push(
@@ -225,7 +225,7 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
     }
   );
 
-  // finally combine our output list into one string of HTML and put it on the page
+  /* finally combine our output list into one string of HTML and put it on the page */
   quizContainer.innerHTML = output.join('');
 }
 
