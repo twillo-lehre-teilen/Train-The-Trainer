@@ -2,7 +2,8 @@
 
 
 <h2>Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
-
+<br>
+<br>
 <script>
   (function(){
     // Functions
