@@ -201,7 +201,7 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
   myQuestions.forEach(
     (currentQuestion, questionNumber) => {
 
-   variable to store the list of possible answers
+   /*variable to store the list of possible answers*/
    const answers = [];
 
    /* and for each available answer...*/
