@@ -268,10 +268,10 @@ function showResults(){
   resultsContainer.innerHTML = "${numCorrect} out of ${myQuestions.length}";
 }
 </script>
-// display quiz right away 
+/* display quiz right away */
 buildQuiz();
 
-// on submit, show results 
+/* on submit, show results */
 submitButton.addEventListener('click', showResults);
 
 
