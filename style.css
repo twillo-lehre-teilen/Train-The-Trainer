@@ -1035,14 +1035,12 @@ h1.quiz{
   text-align: center;
 }
 .question{
-  display: inline-block;
   font-size: 40px;
   margin-bottom: 10px;
   text-align: center;
   color: #0A1F40;
 }
 .answers {
-  display: inline-block;	
   margin-bottom: 15px;
   text-align: left;
   display: inline-block;
