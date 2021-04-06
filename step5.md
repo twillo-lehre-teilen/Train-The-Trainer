@@ -152,5 +152,5 @@
   <button class="quiz" id="previous">Vorherige Frage</button>
   <button class="quiz" id="next">Nächste Frage</button>
   <button class="quiz" id="submit">Submit Quiz</button>
-  <div id="pagination" style="float:right;position:relative;bottom:0;;margin-right:5px;margin-bottom:5px;"></div>
+  <div id="pagination" style="float:right;margin-right:5px;margin-bottom:5px;"></div>
 </div>
