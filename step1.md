@@ -309,6 +309,7 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
 </script>
 
 <div class="quiz-container">
+  <h1 class="quiz">Test-Quiz</h1>
   <div id="quiz"></div>
   <button class="quiz" id="previous">Previous Question</button>
   <button class="quiz" id="next">Next Question</button>
