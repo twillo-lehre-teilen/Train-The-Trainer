@@ -213,18 +213,18 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
 
    // ...add an HTML radio button 
           answers.push(
-            '<label>
+            "<label>
               <input type="radio" name="question${questionNumber}" value="${letter}">
                ${letter} :
                ${currentQuestion.answers[letter]}
-             </label>'
+             </label>"
            );
          }
 
    // add this question and its answers to the output
       output.push(
-        '<div class="question"> ${currentQuestion.question} </div>
-        <div class="answers"> ${answers.join('')} </div>'
+        "<div class="question"> ${currentQuestion.question} </div>
+        <div class="answers"> ${answers.join('')} </div>"
       );
     }
   );
@@ -246,7 +246,7 @@ function showResults(){
 
    // find selected answer 
     const answerContainer = answerContainers[questionNumber];
-    const selector = 'input[name=question${questionNumber}]:checked';
+    const selector = "input[name=question${questionNumber}]:checked";
     const userAnswer = (answerContainer.querySelector(selector) || {}).value;
 
    // if answer is correct 
@@ -265,7 +265,7 @@ function showResults(){
   });
 
   // show number of correct answers out of total 
-  resultsContainer.innerHTML = '${numCorrect} out of ${myQuestions.length}';
+  resultsContainer.innerHTML = "${numCorrect} out of ${myQuestions.length}";
 }
 
 // display quiz right away 
