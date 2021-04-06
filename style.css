@@ -1060,7 +1060,8 @@ button.quiz{
   padding: 20px;
   cursor: pointer;
   margin-bottom: 20px;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 button.quiz:hover{
   background-color: #38a;
