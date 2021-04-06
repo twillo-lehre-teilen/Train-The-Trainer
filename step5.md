@@ -146,6 +146,6 @@
   <button class="quiz" id="previous">Previous Question</button>
   <button class="quiz" id="next">Next Question</button>
   <button class="quiz" id="submit">Submit Quiz</button>
-  <div id="results"></div>
+  <div class="quiz" id="results"></div>
 </div>
 
