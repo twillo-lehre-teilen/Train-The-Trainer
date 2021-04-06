@@ -1027,7 +1027,7 @@ table {
 }
 /* Quiz settings */
 @import url(https://fonts.googleapis.com/css?family=Work+Sans:300,600);
-q1{
+h1.quiz{
   font-weight: 300;
   margin: 0px;
   padding: 10px;
