@@ -195,21 +195,21 @@ OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/
   
   function buildQuiz(){
   /* variable to store the HTML output */
-  const output = [];
+    const output = [];
 
   /* for each question... */
-  myQuestions.forEach(
-    (currentQuestion, questionNumber) => {
+    myQuestions.forEach(
+      (currentQuestion, questionNumber) => {
 
    /*variable to store the list of possible answers*/
-   const answers = [];
+        const answers = [];
 
    /* and for each available answer...*/
-   for(letter in currentQuestion.answers){
+        for(letter in currentQuestion.answers){
 
    /* ...add an HTML radio button */
-    answers.push(
-    `<label>
+        answers.push(
+         `<label>
             <input type="radio" name="question${questionNumber}" value="${letter}">
             ${letter} :
             ${currentQuestion.answers[letter]}
