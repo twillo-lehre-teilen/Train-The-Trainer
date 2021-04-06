@@ -140,7 +140,7 @@
   })();
 </script>
 
-<p class="quiz">
+<div class="quiz">
   <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
   <div class="quiz-container">
     <div id="quiz"></div>
@@ -149,4 +149,4 @@
   <button class="quiz" id="next">Next Question</button>
   <button class="quiz" id="submit">Submit Quiz</button>
   <div class="quiz" id="results"></div>
-</p>
+</div>
