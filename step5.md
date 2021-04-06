@@ -140,7 +140,7 @@
   })();
 </script>
 
-<div class="quiz">
+<div class="quiz-rahmen">
   <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
   <div class="quiz-container">
     <div id="quiz"></div>
