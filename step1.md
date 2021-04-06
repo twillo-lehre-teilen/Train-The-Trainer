@@ -269,9 +269,9 @@ function showResults(){
 }
 </script>
 /* display quiz right away */
-buildQuiz();
+<div>buildQuiz();</div>
 
 /* on submit, show results */
-submitButton.addEventListener('click', showResults);
+<div>submitButton.addEventListener('click', showResults);</div>
 
 
