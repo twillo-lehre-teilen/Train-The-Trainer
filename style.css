@@ -1052,17 +1052,18 @@ h1.quiz{
 }
 button.quiz{
   font-family: 'Work Sans', sans-serif;
-	font-size: 22px;
-	background-color: #279;
-	color: #fff;
-	border: 0px;
-	border-radius: 3px;
-	padding: 20px;
-	cursor: pointer;
-	margin-bottom: 20px;
+  font-size: 22px;
+  background-color: #279;
+  color: #fff;
+  border: 0px;
+  border-radius: 3px;
+  padding: 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  text-align: center;
 }
 button.quiz:hover{
-	background-color: #38a;
+  background-color: #38a;
 }
 .slide{
   position: absolute;
