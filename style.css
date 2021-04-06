@@ -1033,6 +1033,7 @@ h1.quiz{
   background-color: #D1D8E1;
   color: #0A1F40;
   text-align: center;
+  border: 2px solid green;
 }
 .question{
   font-size: 30px;
@@ -1040,16 +1041,19 @@ h1.quiz{
   margin-top: 20px;
   text-align: center;
   color: #0A1F40;
+  border: 2px solid yellow;
 }
 .answers {
   margin-bottom: 15px;
   text-align: left;
   display: inline-block;
   color: #0A1F40;
+  border: 2px solid grey;
 }
 .answers label{
   display: block;
   margin-bottom: 10px;
+  border: 2px solid orange;
 }
 button.quiz{
   font-family: inherit;
@@ -1060,7 +1064,6 @@ button.quiz{
   border-radius: 3px;
   padding: 20px;
   cursor: pointer;
-  margin-bottom: 20px;
   margin-left: auto;
   margin-right: auto;
 }
