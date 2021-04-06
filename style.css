@@ -1064,6 +1064,7 @@ button.quiz{
   border-radius: 3px;
   padding: 20px;
   cursor: pointer;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -1085,7 +1086,7 @@ button.quiz:hover{
 }
 .quiz-container{
   position: relative;
-  height: 200px;
+  height: 300px;
   border: 2px solid red;
   width: 100%;
   margin-top: 0px;
