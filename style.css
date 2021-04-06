@@ -1035,13 +1035,13 @@ h1.quiz{
   text-align: center;
 }
 .question{
-  font-size: 30px;
+  font-size: 40px;
   margin-bottom: 10px;
   text-align: center;
   color: #0A1F40;
 }
 .answers {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   text-align: left;
   display: inline-block;
   color: #0A1F40;
@@ -1080,7 +1080,6 @@ button.quiz:hover{
   z-index: 2;
 }
 .quiz-container{
-  position: absolute;
   height: 500px;
   width: 100%;
   margin-top: 0px;
