@@ -1032,28 +1032,30 @@ h1.quiz{
   margin: 0px;
   padding: 10px;
   font-size: 20px;
-  background-color: #444;
-  color: #fff;
+  background-color: #D1D8E1;
+  color: #0A1F40;
   text-align: center;
 }
 .question{
   font-size: 30px;
   margin-bottom: 10px;
   text-align: center;
+  color: #0A1F40;
 }
 .answers {
   margin-bottom: 20px;
   text-align: left;
   display: inline-block;
+  color: #0A1F40;
 }
 .answers label{
   display: block;
   margin-bottom: 10px;
 }
 button.quiz{
-  font-family: 'Work Sans', sans-serif;
+  font-family: inherit;
   font-size: 22px;
-  background-color: #279;
+  background-color: #54B6B5;
   color: #fff;
   border: 0px;
   border-radius: 3px;
@@ -1064,7 +1066,7 @@ button.quiz{
   margin-right: auto;
 }
 button.quiz:hover{
-  background-color: #38a;
+  background-color: #439190;
 }
 .slide{
   position: absolute;
@@ -1081,7 +1083,7 @@ button.quiz:hover{
 }
 .quiz-container{
   position: relative;
-  height: 600px;
+  height: 500px;
   width: 100%;
   margin-top: 0px;
   text-align: center;
