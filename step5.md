@@ -147,8 +147,10 @@
     <div id="quiz"></div>
   </div>
   <div id="results"></div>
-  <button class="quiz" id="previous">Vorherige Frage</button>
-  <button class="quiz" id="submit">Ergebnis anzeigen</button>
-  <button class="quiz" id="next">Nächste Frage</button>
+  <div style="display:block;width:auto;text-align:center;">
+    <button class="quiz" id="previous">Vorherige Frage</button>
+    <button class="quiz" id="submit">Ergebnis anzeigen</button>
+    <button class="quiz" id="next">Nächste Frage</button>
+  </div>
   <div id="pagination" style="float:right;margin-right:5px;margin-bottom:5px;"></div>
 </div>
