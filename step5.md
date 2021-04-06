@@ -77,11 +77,9 @@
       }
       if(currentSlide === slides.length-1){
         nextButton.style.display = 'none';
-        submitButton.style.display = 'inline-block';
       }
       else{
         nextButton.style.display = 'inline-block';
-        submitButton.style.display = 'none';
       }
       //for pagination
       pagination.innerHTML = `Frage ${currentSlide + 1} von ${slides.length}`;
@@ -150,7 +148,7 @@
   </div>
   <div id="results"></div>
   <button class="quiz" id="previous">Vorherige Frage</button>
+  <button class="quiz" id="submit">Ergebnis zeigen</button>
   <button class="quiz" id="next">Nächste Frage</button>
-  <button class="quiz" id="submit">Submit Quiz</button>
   <div id="pagination" style="float:right;margin-right:5px;margin-bottom:5px;"></div>
 </div>
