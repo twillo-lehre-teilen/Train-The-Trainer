@@ -1052,7 +1052,8 @@ h1.quiz{
 }
 .answers label{
   display: block;
-  margin-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   border: 2px solid orange;
 }
 button.quiz{
