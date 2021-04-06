@@ -1028,10 +1028,8 @@ table {
 /* Quiz settings */
 @import url(https://fonts.googleapis.com/css?family=Work+Sans:300,600);
 h1.quiz{
-  font-weight: 300;
   margin: 0px;
   padding: 10px;
-  font-size: 20px;
   background-color: #D1D8E1;
   color: #0A1F40;
   text-align: center;
@@ -1082,7 +1080,7 @@ button.quiz:hover{
   z-index: 2;
 }
 .quiz-container{
-  position: relative;
+  position: absolute;
   height: 500px;
   width: 100%;
   margin-top: 0px;
