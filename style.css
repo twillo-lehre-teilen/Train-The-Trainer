@@ -1081,8 +1081,8 @@ button.quiz:hover{
 }
 .quiz-container{
   position: relative;
-  height: 200px;
-  margin-top: 40px;
+  height: auto;
+  margin-top: 0px;
   text-align: center;
   background-color: #f8f6f0;
 }
