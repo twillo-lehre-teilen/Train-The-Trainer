@@ -292,11 +292,20 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
         correctAnswer: "c"
       },
       {
-       question: "Which tool can you use to ensure code quality?",
+        question: "Which one of these is a JavaScript package manager?",
         answers: {
-         a: "Angular",
+          a: "Node.js",
+          b: "TypeScript",
+          c: "npm"
+        },
+        correctAnswer: "c"
+      },
+      {
+        question: "Which tool can you use to ensure code quality?",
+        answers: {
+          a: "Angular",
           b: "jQuery",
-         c: "RequireJS",
+          c: "RequireJS",
           d: "ESLint"
         },
         correctAnswer: "d"
