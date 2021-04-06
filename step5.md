@@ -145,8 +145,8 @@
   <div class="quiz-container">
     <div id="quiz"></div>
   </div>
+  <div id="results"></div>
   <button class="quiz" id="previous">Previous Question</button>
   <button class="quiz" id="next">Next Question</button>
   <button class="quiz" id="submit">Submit Quiz</button>
-  <div id="results"></div>
 </div>
