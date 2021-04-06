@@ -1053,6 +1053,7 @@ h1.quiz{
   margin-bottom: 5px;
 }
 button.quiz{
+  display: inline-block;
   font-family: inherit;
   font-size: 22px;
   background-color: #54B6B5;
