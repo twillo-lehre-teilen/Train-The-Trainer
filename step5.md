@@ -84,7 +84,7 @@
         submitButton.style.display = 'none';
       }
       //for pagination
-      pagination.innerHTML = `${currentSlide} von ${slides.length-1}`;
+      pagination.innerHTML = `${currentSlide + 1} von ${slides.length}`;
     }
     function showNextSlide() {
       showSlide(currentSlide + 1);
@@ -152,5 +152,5 @@
   <button class="quiz" id="previous">Vorherige Frage</button>
   <button class="quiz" id="next">Nächste Frage</button>
   <button class="quiz" id="submit">Submit Quiz</button>
-  <div id="pagination" style="float:right"></div>
+  <div id="pagination" style="float:right;margin-right:5px;margin-bottom:5px;"></div>
 </div>
