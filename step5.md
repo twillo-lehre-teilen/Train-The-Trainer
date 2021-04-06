@@ -147,7 +147,7 @@
     <div id="quiz"></div>
   </div>
   <div id="results"></div>
-  <div style="display:inline-block;width:60%;position:realtive;text-align:center;border 2px solid red;">
+  <div style="display:inline-block;width:60%;position:realtive;text-align:center;border: 2px solid red;">
     <button class="quiz" id="previous">Vorherige Frage</button>
     <button class="quiz" id="submit">Ergebnis anzeigen</button>
     <button class="quiz" id="next">Nächste Frage</button>
