@@ -140,12 +140,11 @@
   })();
 </script>
 
+<h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
 <div class="quiz-container">
-  <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
   <div id="quiz" style="border:2px solid blue"></div>
-  <button class="quiz" id="previous">Previous Question</button>
-  <button class="quiz" id="next">Next Question</button>
-  <button class="quiz" id="submit">Submit Quiz</button>
-  <div class="quiz" id="results"></div>
 </div>
-
+<button class="quiz" id="previous">Previous Question</button>
+<button class="quiz" id="next">Next Question</button>
+<button class="quiz" id="submit">Submit Quiz</button>
+<div class="quiz" id="results"></div>
