@@ -1095,5 +1095,6 @@ div.quiz-frame{
   width: 100%;
   margin-top: 0 auto;
   text-align: center;
+  overflow: auto;
   background-color: #FAFAFC;
 }
