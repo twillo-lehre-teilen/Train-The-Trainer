@@ -1089,7 +1089,7 @@ button.quiz:hover{
   text-align: center;
   background-color: #FAFAFC;
 }
-.quiz{
+div.quiz{
   height: 500px;
   border: 2px solid #0A1F40;
   width: 100%;
