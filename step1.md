@@ -191,6 +191,9 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
 
 ---
 
+<h2>Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
+<br>
+
 <script>
   (function(){
     // Functions
@@ -264,12 +267,12 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
       }
       if(currentSlide === slides.length-1){
         nextButton.style.display = 'none';
-        submitButton.style.display = 'inline-block';
       }
       else{
         nextButton.style.display = 'inline-block';
-        submitButton.style.display = 'none';
       }
+      //for pagination
+      pagination.innerHTML = `Frage ${currentSlide + 1} von ${slides.length}`;
     }
     function showNextSlide() {
       showSlide(currentSlide + 1);
@@ -281,6 +284,7 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
     const quizContainer = document.getElementById('quiz');
     const resultsContainer = document.getElementById('results');
     const submitButton = document.getElementById('submit');
+    const pagination = document.getElementById('pagination');
     const myQuestions = [
       {
         question: "Who invented JavaScript?",
@@ -327,13 +331,18 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
   })();
 </script>
 
-<div class="quiz-container">
-  <h1 class="quiz">Test-Quiz</h1>
-  <div id="quiz"></div>
-  <button class="quiz" id="previous">Previous Question</button>
-  <button class="quiz" id="next">Next Question</button>
-  <button class="quiz" id="submit">Submit Quiz</button>
-  <div class="quiz" id="results"></div>
+<div class="quiz-frame">
+  <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
+  <div class="quiz-container">
+    <div id="quiz"></div>
+  </div>
+  <div id="results"></div>
+  <div style="display:block;text-align:center;">
+    <button class="quiz" id="previous">Vorherige Frage</button>
+    <button class="quiz" id="submit">Ergebnis anzeigen</button>
+    <button class="quiz" id="next">Nächste Frage</button>
+  </div>
+  <div id="pagination" style="float:right;margin-right:5px;margin-bottom:5px;"></div>
 </div>
 
 
