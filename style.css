@@ -1055,8 +1055,6 @@ button.quiz{
   font-size: 22px;
   background-color: #54B6B5;
   color: #fff;
-  border: 0px;
-  border-radius: 3px;
   padding: 20px;
   cursor: pointer;
   margin-bottom: 20px;
@@ -1080,6 +1078,7 @@ button.quiz:hover{
   z-index: 2;
 }
 .quiz-container{
+  display: block;
   height: 500px;
   width: 100%;
   margin-top: 0px;
