@@ -83,6 +83,8 @@
         nextButton.style.display = 'inline-block';
         submitButton.style.display = 'none';
       }
+      //for pagination
+      pagination.innerHtml = `${currentSlide} von ${slides.length-1}`
     }
     function showNextSlide() {
       showSlide(currentSlide + 1);
@@ -94,6 +96,7 @@
     const quizContainer = document.getElementById('quiz');
     const resultsContainer = document.getElementById('results');
     const submitButton = document.getElementById('submit');
+    const pagination = document.getElementById('pagination');
     const myQuestions = [
       {
         question: "Who invented JavaScript?",
@@ -145,8 +148,9 @@
   <div class="quiz-container">
     <div id="quiz"></div>
   </div>
-  <div id="results" style="broder: 2px solid black"></div>
+  <div id="results" style="border: 2px solid black"></div>
   <button class="quiz" id="previous">Vorherige Frage</button>
   <button class="quiz" id="next">Nächste Frage</button>
   <button class="quiz" id="submit">Submit Quiz</button>
+  <div id="pagination" style="float:right"></div>
 </div>
