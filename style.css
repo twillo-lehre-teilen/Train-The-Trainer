@@ -990,7 +990,7 @@ table {
 #info th {
   text-align: left;
   background-color: #2196F3;
-  color: white;
+  color: black;
   border: 1px solid #e7f3fe;
   padding: 8px;
   padding-left: 25px;
@@ -999,6 +999,27 @@ table {
 }
 #info td {
   border: 1px solid #e7f3fe;
+  padding: 8px;
+  padding-left: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+/* warning-table design */
+#warning tr {
+  background-color: #ffffcc;
+}
+#warning th {
+  text-align: left;
+  background-color: #ffeb3b;
+  color: black;
+  border: 1px solid #ffffcc;
+  padding: 8px;
+  padding-left: 25px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+#warning td {
+  border: 1px solid #ffffcc;
   padding: 8px;
   padding-left: 25px;
   padding-top: 15px;
