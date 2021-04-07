@@ -49,7 +49,7 @@
         answerContainers[currentSlide].style.color = 'lightgreen';
       }
       // if answer is blank
-      else if (userAnswer === null){
+      else if (userAnswer == null){
         // do nothing
       }
       else{
