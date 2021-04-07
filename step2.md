@@ -68,4 +68,35 @@ Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf e
      <p>Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
      </p>
    </div>
+   <button class="accordion">OERSI</button>
+   <div class="panel">
+     <p>OERSI steht für OER Search Index und ist eine Suchmaschine für offene Bildungsmaterialien, die OER Materialien aus verschiedensten Plattformen und Repositorien auffindbar
+macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
+     </p>
+   </div>
+   <button class="accordion">X5GON</button>
+   <div class="panel">
+     <p>Bei X5GON handelt es sich um eine Plattform, die OER aus verschiedensten Quellen und Repositorien auffindbar macht.
+     </p>
+   </div>
+   <button class="accordion">OERhörnchen</button>
+   <div class="panel">
+     <p>OERhörnchen ist eine Suchmaschine für OER Materialien, die gezielt offene Lehr-/Lernmaterialien von ausgewählten Bildungsprojekten auffindbar macht.
+     </p>
+   </div>
+   <button class="accordion">CCsearch</button>
+   <div class="panel">
+     <p>CCsearch ist eine Suchmaschine für Materialien, die mit Creative Commons Lizenzen ausgezeichnet sind.
+     </p>
+   </div>
+   <button class="accordion">Wikimedia Commons</button>
+   <div class="panel">
+     <p>Wikimedia Commons ist eine Plattform, auf der offene lizenzierte Inhalte zur Nutzung bereit stehen
+     </p>
+   </div>
+   <button class="accordion">SlideWiki</button>
+   <div class="panel">
+     <p>SlideWiki ist eine Open-Source-Plattform auf der Vorträge und Präsentationen unter einer offenen Lizenz bereitgestellt werden.
+     </p>
+   </div>
 </div>
