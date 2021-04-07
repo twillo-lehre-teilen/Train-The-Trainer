@@ -43,10 +43,10 @@
       const explanationContainer = quizContainer.querySelectorAll('.explanation')
       // keep track of user's answers
       let numCorrect = 0;
+      let explanation = "abc";
       // for each question...
       myQuestions.forEach( (currentQuestion, questionNumber) => {
         // find selected answer
-        const explanation = "abc";
         const answerContainer = answerContainers[questionNumber];
         const selector = `input[name=question${questionNumber}]:checked`;
         const userAnswer = (answerContainer.querySelector(selector) || {}).value;
