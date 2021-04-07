@@ -30,7 +30,6 @@
             `<div class="slide">
               <div class="question"> ${currentQuestion.question} </div>
               <div class="answers"> ${answers.join("")} </div>
-              <div class="explanation"> ${currentQuestion.explanation} </div>
             </div>`
           );
         }
@@ -59,7 +58,7 @@
         answerContainers[currentSlide].style.color = 'red';
       }
       // show explanation of current question
-      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${explanationContainers[currentSlide]}`;
+      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${myQuestions[currentSlide].explanation}`;
     }
     function showSlide(n) {
       slides[currentSlide].classList.remove('active-slide');
