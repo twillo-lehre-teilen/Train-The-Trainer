@@ -2,3 +2,4 @@
 
   <label for="fname">First name:</label>
   <input type="text" id="test" name="test">
+  let msg = document.querySelector("#test").value;
