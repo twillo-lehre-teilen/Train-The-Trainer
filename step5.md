@@ -101,7 +101,8 @@
           a: "Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.",
           b: "Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können."
         },
-        correctAnswer: "a"
+        correctAnswer: "a",
+        explanation: "abc"
       }
     ];
     // Kick things off
