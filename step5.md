@@ -132,7 +132,7 @@
           b: "Bei einer Veränderung und anschließenden Wiederveröffentlichung des Bildes, muss es unter die gleiche Lizenz gestellt werden, wie das Original",
           c: "Die Lizenz muss angegeben und der Lizenztext verlinkt werden",
         },
-        correctAnswer: {"a","b","c"},
+        correctAnswer: "a",
         explanation: "<b>BY</b> steht für die Namensnennung der Urheber\*innen, <b>SA</b> (Share Alike) verlangt eine Weitergabe abgeleiteter Werke unter der gleicher Lizenz. Die Lizenz muss bei bei allen CC-Lizenzierten Werken angegeben und ein Link zum Lizenztext gesetzt werden."
       },
       {
@@ -151,7 +151,7 @@
           b: "Sie sind kostenlos",
           c: "Auf Quellenangaben kann verzichtet werden",
         },
-        correctAnswer: {"a","b"},
+        correctAnswer: "a",
         explanation: "Als offen gelten Bildungsinhalte, wenn sie kostenlos verfügbar sind und unter einer Lizenz stehen, die die Weiterverwendung ermöglicht."
       }
     ];
