@@ -44,23 +44,20 @@
       const explanationContainers = quizContainer.querySelectorAll('.explanation')
       // declare explanation variable
       let explanation = "Error occurred";
-      // for current question
-      myQuestions.forEach( (currentQuestion, questionNumber) => {
-        // find selected answer
-        const answerContainer = answerContainers[currentSlide];
-        const selector = `input[name=question${currentSlide}]:checked`;
-        const userAnswer = (answerContainer.querySelector(selector) || {}).value;
-        // if answer is correct
-        if(userAnswer === myQuestions[currentSlide].correctAnswer){
-          // color the answers green
-          answerContainers[currentSlide].style.color = 'lightgreen';
-        }
-        // if answer is wrong or blank
-        else{
-          // color the answers red
-          answerContainers[currentSlide].style.color = 'red';
-        }
-      });
+      // find selected answer
+      const answerContainer = answerContainers[currentSlide];
+      const selector = `input[name=question${currentSlide}]:checked`;
+      const userAnswer = (answerContainer.querySelector(selector) || {}).value;
+      // if answer is correct
+      if(userAnswer === myQuestions[currentSlide].correctAnswer){
+        // color the answers green
+        answerContainers[currentSlide].style.color = 'lightgreen';
+      }
+      // if answer is wrong or blank
+      else{
+        // color the answers red
+        answerContainers[currentSlide].style.color = 'red';
+      }
       // show explanation of current question
       resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${explanationContainers[currentSlide]}`;
     }
