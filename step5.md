@@ -38,15 +38,17 @@
       quizContainer.innerHTML = output.join('');
     }
     function showResult(){
-      // declare explanation variable
-      let explanation = "Error occurred";
+      // gather containers from our quiz
+      const answerContainers = quizContainer.querySelectorAll('.answers');
       // find selected answer
+      const answerContainer = answerContainers[currentSlide];
       const selector = `input[name=question${currentSlide}]:checked`;
-      const userAnswer = (myQuestions[currentSlide].answers.querySelector(selector) || {}).value;
+      const userAnswer = (answerContainer.querySelector(selector) || {}).value;
       // if answer is correct
       if(userAnswer === myQuestions[currentSlide].correctAnswer){
         // color the answers green
         myQuestions[currentSlide].answers.style.color = 'lightgreen';
+        answerContainers[currentSlide].querySelector(selector).style.color = 'blue';
       }
       // if answer is wrong or blank
       else{
