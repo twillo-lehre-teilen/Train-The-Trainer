@@ -41,7 +41,7 @@
       // gather containers from our quiz
       const questionContainers = quizContainer.querySelectorAll('.question');
       const answerContainers = quizContainer.querySelectorAll('.answers');
-      const explanationContainer = quizContainer.querySelectorAll('.explanation')
+      const explanationContainers = quizContainer.querySelectorAll('.explanation')
       // declare explanation variable
       let explanation = "Error occurred";
       // find current question
@@ -62,7 +62,7 @@
         }
       });
       // show explanation of current question
-      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${explanationContainer[currentSlide]}`;
+      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br><br> ${myQuestions[currentSlide].explanation.value}`;
     }
     function showSlide(n) {
       slides[currentSlide].classList.remove('active-slide');
@@ -102,7 +102,7 @@
           b: "Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können."
         },
         correctAnswer: "a",
-        explanation: "abc"
+        explanation: "abcdef"
       }
     ];
     // Kick things off
