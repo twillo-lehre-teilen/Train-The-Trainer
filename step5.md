@@ -41,9 +41,7 @@
       // gather answer containers from our quiz
       const answerContainers = quizContainer.querySelectorAll('.answers');
       const explanationContainer = quizContainer.querySelectorAll('.explanation')
-      // keep track of user's answers
-      let numCorrect = 0;
-      let explanation = "abc";
+      let explanation = "Error occurred";
       // for each question...
       myQuestions.forEach( (currentQuestion, questionNumber) => {
         // find selected answer
@@ -52,8 +50,6 @@
         const userAnswer = (answerContainer.querySelector(selector) || {}).value;
         // if answer is correct
         if(userAnswer === currentQuestion.correctAnswer){
-          // add to the number of correct answers
-          numCorrect++;
           // color the answers green
           answerContainers[questionNumber].style.color = 'lightgreen';
         }
@@ -63,7 +59,7 @@
           answerContainers[questionNumber].style.color = 'red';
         }
       });
-      // show number of correct answers out of total
+      // show explanation of current question
       resultsContainer.innerHTML = `Ergänzungen zur Antwort: ${explanation}`;
     }
     function showSlide(n) {
