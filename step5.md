@@ -5,6 +5,7 @@
 <br>
 
 <script>
+  // Script fürs Quiz
   (function(){
     // Functions
     function buildQuiz(){
@@ -12,11 +13,11 @@
       const output = [];
       // for each question...
       myQuestions.forEach(
-        (currentQuestion, questionNumber) => {
+        (currentQuestion, questionNumber) => {        
           // variable to store the list of possible answers
-          const answers = [];
+          const answers = [];          
           // and for each available answer...
-          for(letter in currentQuestion.answers){
+          for(letter in currentQuestion.answers){       
             // ...add an HTML radio button
             answers.push(
               `<label>
@@ -24,7 +25,7 @@
                 ${letter} :
                 ${currentQuestion.answers[letter]}
               </label>`
-            );
+              );
           }
           // add this question and its answers to the output
           output.push(
@@ -38,7 +39,7 @@
       // finally combine our output list into one string of HTML and put it on the page
       quizContainer.innerHTML = output.join('');
     }
-    function showResults(){
+    function showResult(){
       // gather answer containers from our quiz
       const answerContainers = quizContainer.querySelectorAll('.answers');
       // keep track of user's answers
@@ -96,33 +97,62 @@
     const submitButton = document.getElementById('submit');
     const pagination = document.getElementById('pagination');
     const myQuestions = [
-      {
-        question: "Who invented JavaScript?",
+    {
+        question: "Wie lässt sich OER definieren?\*",
         answers: {
-          a: "Douglas Crockford",
-          b: "Sheryl Sandberg",
-          c: "Brendan Eich"
+          a: "Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.",
+          b: "Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können."
         },
-        correctAnswer: "c"
+        correctAnswer: "a",
+        explanation: "Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Andere ohne oder mit geringfügigen Einschränkungen. Dabei bestimmen die Urhebenden selbst, welche Nutzungsrechte sie einräumen und welche Rechte sie sich vorbehalten" (Deutsche UNESCO-Kommision o.J.)"
       },
       {
-        question: "Which one of these is a JavaScript package manager?",
+        question: "Welches Merkmal gilt als eindeutiges Indiz für OER?",
         answers: {
-          a: "Node.js",
-          b: "TypeScript",
-          c: "npm"
+          a: "digitales Format",
+          b: "offene Lizenzierung",
+          c: "kostenpflichtuge Nutzung"
         },
-        correctAnswer: "c"
+        correctAnswer: "b",
+        explanation: "Ein zentrales Merkmal, das OER von urheberrechtlich geschützten Materialien unterscheidet, ist die offene Lizenz. Weitere (etwas unspezifischere) Merkmale sind ein offenes Dateiformat, die automatische Auffindbarkeit und die didaktische Kontextualisierung, die den einfacheren Umgang mit OER betonen (OER nutzen und bearbeiten, OER effizient auffinden, Einschätzbarkeit der Passung im eigenen Lehr-Lernkontext). In den folgenden Schritten dieser Lernreise werden Sie die genannten Merkmale noch etwas genauer kennenlernen."
       },
       {
-        question: "Which tool can you use to ensure code quality?",
+        question: "Was bedeutet bei Creative-Commons-Lizenzen das Kürzel "BY"?\*",
         answers: {
-          a: "Angular",
-          b: "jQuery",
-          c: "RequireJS",
-          d: "ESLint"
+          a: "Die\*der ursprüngliche Urheber\*in muss bei Nutzung angegeben werden.",
+          b: "Das Material darf nur vollständig und unverändert genutzt werden.",
         },
-        correctAnswer: "d"
+        correctAnswer: "a",
+        explanation: "Das Modul <b>BY</b> bedeutet, dass die\*der Urheber\*in des Werkes angegeben werden muss. Der Zusatz wird im Deutschen mit "Namensnennung" bezeichnet.<br>Das Modul <b>ND</b> (engl. No Derivatives, dt. keine Veränderung) gibt an, dass das Material nur vollständig und unverändert genutzt werden darf."
+      },
+      {
+        question: "Was muss bei der Nutzung eines Bilds beachtet werden, welches unter der Creative-Commons-Lizenz "CC BY SA" steht?\*",
+        answers: {
+          a: "Urheber\*inen müssen angeben werden",
+          b: "Bei einer Veränderung und anschließenden Wiederveröffentlichung des Bildes, muss es unter die gleiche Lizenz gestellt werden, wie das Original",
+          c: "Die Lizenz muss angegeben und der Lizenztext verlinkt werden",
+        },
+        correctAnswer: {"a","b","c"},
+        explanation: "<b>BY</b> steht für die Namensnennung der Urheber\*innen, <b>SA</b> (Share Alike) verlangt eine Weitergabe abgeleiteter Werke unter der gleicher Lizenz. Die Lizenz muss bei bei allen CC-Lizenzierten Werken angegeben und ein Link zum Lizenztext gesetzt werden."
+      },
+      {
+        question: "Verzichtet die\*der Urheber\*in durch eine offene Lizenz auf alle Rechte an ihrem\*seinen Werk?\*",
+        answers: {
+          a: "Ja, ein Vorbehalt von Rechten ist nicht möglich",
+          b: "Nur bei der Wahl der Lizenz CC 0",
+        },
+        correctAnswer: "b",
+        explanation: "Der\*die Urheberin kann sich auch bei der Wahl einer offenen Lizenz bestimmte Rechte an ihrem\*seinen Werk vorbehalten. Durch eine offene Lizenz werden lediglich Nutzungsrechte vergeben. Das Urheberrecht an sich ist unveräußerlich. Wählt die\*der Urheber\*in jedoch die Lizenz CC 0 (keine Rechte vorbehalten), verzichtet er\*sie bewusst auf ihre\*seine Rechte an dem Werk und bringt es in die Public Domain ein."
+      },
+      {
+        question: "Welche Vorteile haben offene Lernmaterialien gegenüber restriktiv geschützten?\*",
+        answers: {
+          a: "Sie können nachgenutzt werden",
+          b: "Sie sind kostenlos",
+          c: "Auf Quellenangaben kann verzichtet werden",
+        },
+        correctAnswer: {"a","b"},
+        explanation: "Als offen gelten Bildungsinhalte, wenn sie kostenlos verfügbar sind und unter einer Lizenz stehen, die die Weiterverwendung ermöglicht."
       }
     ];
     // Kick things off
@@ -135,7 +165,7 @@
     // Show the first slide
     showSlide(currentSlide);
     // Event listeners
-    submitButton.addEventListener('click', showResults);
+    submitButton.addEventListener('click', showResult);
     previousButton.addEventListener("click", showPreviousSlide);
     nextButton.addEventListener("click", showNextSlide);
   })();
