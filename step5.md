@@ -40,11 +40,13 @@
     function showResults(){
       // gather answer containers from our quiz
       const answerContainers = quizContainer.querySelectorAll('.answers');
+      const explanationContainer = quizContainer.querySelectorAll('.explanation')
       // keep track of user's answers
       let numCorrect = 0;
       // for each question...
       myQuestions.forEach( (currentQuestion, questionNumber) => {
         // find selected answer
+        const explanation = "abc";
         const answerContainer = answerContainers[questionNumber];
         const selector = `input[name=question${questionNumber}]:checked`;
         const userAnswer = (answerContainer.querySelector(selector) || {}).value;
@@ -62,7 +64,7 @@
         }
       });
       // show number of correct answers out of total
-      resultsContainer.innerHTML = `${numCorrect} out of ${myQuestions.length}`;
+      resultsContainer.innerHTML = `Ergänzungen zur Antwort: ${explanation}`;
     }
     function showSlide(n) {
       slides[currentSlide].classList.remove('active-slide');
