@@ -40,19 +40,18 @@
     }
     function showResults(){
       // gather containers from our quiz
-      const questionContainers = quizContainer.querySelectorAll('.question');
       const answerContainers = quizContainer.querySelectorAll('.answers');
       const explanationContainers = quizContainer.querySelectorAll('.explanation')
       // declare explanation variable
       let explanation = "Error occurred";
-      // find current question
+      // for current question
       myQuestions.forEach( (currentQuestion, questionNumber) => {
         // find selected answer
-        const answerContainer = answerContainers[questionNumber];
-        const selector = `input[name=question${questionNumber}]:checked`;
+        const answerContainer = answerContainers[currentSlide];
+        const selector = `input[name=question${currentSlide}]:checked`;
         const userAnswer = (answerContainer.querySelector(selector) || {}).value;
         // if answer is correct
-        if(userAnswer === currentQuestion.correctAnswer){
+        if(userAnswer === myQuestions[currentSlide].correctAnswer){
           // color the answers green
           answerContainers[currentSlide].style.color = 'lightgreen';
         }
@@ -63,7 +62,7 @@
         }
       });
       // show explanation of current question
-      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${explanationContainers[currentSlide].value}`;
+      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${explanationContainers[currentSlide]}`;
     }
     function showSlide(n) {
       slides[currentSlide].classList.remove('active-slide');
