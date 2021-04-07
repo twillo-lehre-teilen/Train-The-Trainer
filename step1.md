@@ -9,13 +9,13 @@
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
-      /* if panel already open */
+      // if panel already open
       if (panel.style.maxHeight) {
         this.classList.toggle('activeA', false);
         panel.style.maxHeight = null;
         return;
       }
-      /* else */
+      // else
        for (var j = 0; j < acc.length; j++) {
         acc[j].classList.toggle('activeA', false)
         var p = acc[j].nextElementSibling;
@@ -30,20 +30,15 @@
   (function(){
     // Functions
     function buildQuiz(){
-    
       // variable to store the HTML output
       const output = [];
-      
       // for each question...
       myQuestions.forEach(
-        (currentQuestion, questionNumber) => {
-        
+        (currentQuestion, questionNumber) => {        
           // variable to store the list of possible answers
-          const answers = [];
-          
+          const answers = [];          
           // and for each available answer...
-          for(letter in currentQuestion.answers){
-          
+          for(letter in currentQuestion.answers){       
             // ...add an HTML radio button
             answers.push(
               `<label>
@@ -53,7 +48,7 @@
               </label>`
             );
           }
-          
+
           // add this question and its answers to the output
           output.push(
             `<div class="slide">
@@ -63,49 +58,49 @@
           );
         }
       );
-      
+
       // finally combine our output list into one string of HTML and put it on the page
       quizContainer.innerHTML = output.join('');
     }
-    
+
     function showResults(){
-    
+
       // gather answer containers from our quiz
       const answerContainers = quizContainer.querySelectorAll('.answers');
-      
+
       // keep track of user's answers
       let numCorrect = 0;
-      
+
       // for each question...
       myQuestions.forEach( (currentQuestion, questionNumber) => {
-      
+
         // find selected answer
         const answerContainer = answerContainers[questionNumber];
         const selector = `input[name=question${questionNumber}]:checked`;
         const userAnswer = (answerContainer.querySelector(selector) || {}).value;
-        
+
         // if answer is correct
         if(userAnswer === currentQuestion.correctAnswer){
-        
+
           // add to the number of correct answers
           numCorrect++;
-          
+
           // color the answers green
           answerContainers[questionNumber].style.color = 'lightgreen';
         }
-        
+
         // if answer is wrong or blank
         else{
-        
+
           // color the answers red
           answerContainers[questionNumber].style.color = 'red';
         }
       });
-      
+
       // show number of correct answers out of total
       resultsContainer.innerHTML = `${numCorrect} out of ${myQuestions.length}`;
     }
-    
+
     function showSlide(n) {
       slides[currentSlide].classList.remove('active-slide');
       slides[n].classList.add('active-slide');
@@ -122,19 +117,19 @@
       else{
         nextButton.style.display = 'inline-block';
       }
-      
+
       //for pagination
       pagination.innerHTML = `Frage ${currentSlide + 1} von ${slides.length}`;
     }
-    
+
     function showNextSlide() {
       showSlide(currentSlide + 1);
     }
-    
+
     function showPreviousSlide() {
       showSlide(currentSlide - 1);
     }
-    
+
     // Variables
     const quizContainer = document.getElementById('quiz');
     const resultsContainer = document.getElementById('results');
@@ -199,19 +194,19 @@
         explanation: "Als offen gelten Bildungsinhalte, wenn sie kostenlos verfügbar sind und unter einer Lizenz stehen, die die Weiterverwendung ermöglicht."
       }
     ];
-    
+
     // Kick things off
     buildQuiz();
-    
+
     // Pagination
     const previousButton = document.getElementById("previous");
     const nextButton = document.getElementById("next");
     const slides = document.querySelectorAll(".slide");
     let currentSlide = 0;
-    
+
     // Show the first slide
     showSlide(currentSlide);
-    
+
     // Event listeners
     submitButton.addEventListener('click', showResults);
     previousButton.addEventListener("click", showPreviousSlide);
