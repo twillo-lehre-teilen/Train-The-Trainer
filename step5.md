@@ -30,6 +30,7 @@
             `<div class="slide">
               <div class="question"> ${currentQuestion.question} </div>
               <div class="answers"> ${answers.join("")} </div>
+              <div class="explanation"> ${currentQuestion.explanation} </div>
             </div>`
           );
         }
@@ -58,11 +59,11 @@
         // if answer is wrong or blank
         else{
           // color the answers red
-          answerContainers[currentSlide].style.color = 'red';
+          answerContainers[currentSlide].style.color = 'blue';
         }
       });
       // show explanation of current question
-      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${answerContainers[currentSlide].value}`;
+      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${explanationContainers[currentSlide]}`;
     }
     function showSlide(n) {
       slides[currentSlide].classList.remove('active-slide');
