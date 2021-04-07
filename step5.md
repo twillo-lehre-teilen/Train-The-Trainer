@@ -25,7 +25,7 @@
                 ${letter} :
                 ${currentQuestion.answers[letter]}
               </label>`
-              );
+            );
           }
           // add this question and its answers to the output
           output.push(
@@ -120,7 +120,7 @@
         question: "Was bedeutet bei Creative-Commons-Lizenzen das Kürzel "BY"?\*",
         answers: {
           a: "Die\*der ursprüngliche Urheber\*in muss bei Nutzung angegeben werden.",
-          b: "Das Material darf nur vollständig und unverändert genutzt werden.",
+          b: "Das Material darf nur vollständig und unverändert genutzt werden."
         },
         correctAnswer: "a",
         explanation: "Das Modul <b>BY</b> bedeutet, dass die\*der Urheber\*in des Werkes angegeben werden muss. Der Zusatz wird im Deutschen mit "Namensnennung" bezeichnet.<br>Das Modul <b>ND</b> (engl. No Derivatives, dt. keine Veränderung) gibt an, dass das Material nur vollständig und unverändert genutzt werden darf."
