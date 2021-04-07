@@ -49,7 +49,7 @@
         answerContainers[currentSlide].style.color = 'lightgreen';
       }
       // if answer is wrong or blank
-      else if(userAnswer === {}.value){
+      else if(userAnswer === null){
       }
       else
         // color the answers red
