@@ -53,12 +53,12 @@
         // if answer is correct
         if(userAnswer === currentQuestion.correctAnswer){
           // color the answers green
-          answerContainers[questionNumber].style.color = 'lightgreen';
+          answerContainers[currentSlide].style.color = 'lightgreen';
         }
         // if answer is wrong or blank
         else{
           // color the answers red
-          answerContainers[questionNumber].style.color = 'red';
+          answerContainers[currentSlide].style.color = 'red';
         }
       });
       // show explanation of current question
