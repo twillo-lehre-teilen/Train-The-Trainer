@@ -175,13 +175,12 @@ Die Lizenzierung wird dadurch vereinfacht, dass eine Vielzahl vorformulierter Li
     const pagination = document.getElementById('pagination');
     const myQuestions = [
       {
-        question: "Who invented JavaScript?",
+        question: "Wie lässt sich OER definieren?*",
         answers: {
-          a: "Douglas Crockford",
-          b: "Sheryl Sandberg",
-          c: "Brendan Eich"
+          a: "Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.",
+          b: "Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können."
         },
-        correctAnswer: "c"
+        correctAnswer: "a"
       },
       {
         question: "Which one of these is a JavaScript package manager?",
