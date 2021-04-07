@@ -1,4 +1,4 @@
-<h1 style="color:#8b0000">Schritt 1: OER erkennen<h1>
+<h1 style="color:#8b0000">Schritt 1: OER erkennen</h1>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h2>Woran erkenne ich ob ein Material auch OER ist?</h2>
 
