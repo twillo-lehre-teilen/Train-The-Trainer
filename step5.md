@@ -37,25 +37,21 @@
       // finally combine our output list into one string of HTML and put it on the page
       quizContainer.innerHTML = output.join('');
     }
-    function showResults(){
-      // gather containers from our quiz
-      const answerContainers = quizContainer.querySelectorAll('.answers');
-      const explanationContainers = quizContainer.querySelectorAll('.explanation')
+    function showResult(){
       // declare explanation variable
       let explanation = "Error occurred";
       // find selected answer
-      const answerContainer = answerContainers[currentSlide];
       const selector = `input[name=question${currentSlide}]:checked`;
-      const userAnswer = (answerContainer.querySelector(selector) || {}).value;
+      const userAnswer = (myQuestions[currentSlide].answers.querySelector(selector) || {}).value;
       // if answer is correct
       if(userAnswer === myQuestions[currentSlide].correctAnswer){
         // color the answers green
-        answerContainers[currentSlide].style.color = 'lightgreen';
+        myQuestions[currentSlide].answers.style.color = 'lightgreen';
       }
       // if answer is wrong or blank
       else{
         // color the answers red
-        answerContainers[currentSlide].style.color = 'red';
+        myQuestions[currentSlide].answers.style.color = 'red';
       }
       // show explanation of current question
       resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${myQuestions[currentSlide].explanation}`;
@@ -111,7 +107,7 @@
     // Show the first slide
     showSlide(currentSlide);
     // Event listeners
-    submitButton.addEventListener('click', showResults);
+    submitButton.addEventListener('click', showResult);
     previousButton.addEventListener("click", showPreviousSlide);
     nextButton.addEventListener("click", showNextSlide);
   })();
