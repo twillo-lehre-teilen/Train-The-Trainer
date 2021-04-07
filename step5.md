@@ -48,8 +48,8 @@
         // color the answers green
         answerContainers[currentSlide].style.color = 'lightgreen';
       }
-      // if answer is wrong or blank
-      else if (1 == 0){
+      // if answer is blank
+      else if (userAnswer === null){
         // do nothing
       }
       else{
