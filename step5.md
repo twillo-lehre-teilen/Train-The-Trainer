@@ -1,7 +1,6 @@
 <h1 style="color:#ff8c00">Schritt 5: OER teilen</h1>
 
-<h2>Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
-
+<h2 style="margin-bottom:20px">Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
 
 <script>
   (function(){
@@ -48,7 +47,7 @@
       if(userAnswer === myQuestions[currentSlide].correctAnswer){
         // color the answers green
         answerContainers[currentSlide].style.color = 'lightgreen';
-        answerContainers[currentSlide].querySelector(selector).style.color = 'blue';
+        answerContainers[currentSlide].querySelector(selector).value.style.color = 'blue';
       }
       // if answer is wrong or blank
       else{
