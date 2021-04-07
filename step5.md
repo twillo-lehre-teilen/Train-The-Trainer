@@ -1,6 +1,5 @@
 <h1 style="color:#ff8c00">Schritt 5: OER teilen</h1>
 
-
 <h2>Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
 <br>
 
