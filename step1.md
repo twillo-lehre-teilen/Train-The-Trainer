@@ -176,19 +176,15 @@
         explanation: "Als offen gelten Bildungsinhalte, wenn sie kostenlos verfügbar sind und unter einer Lizenz stehen, die die Weiterverwendung ermöglicht."
       }
     ];
-
     // Kick things off
     buildQuiz();
-
     // Pagination
     const previousButton = document.getElementById("previous");
     const nextButton = document.getElementById("next");
     const slides = document.querySelectorAll(".slide");
     let currentSlide = 0;
-
     // Show the first slide
     showSlide(currentSlide);
-
     // Event listeners
     submitButton.addEventListener('click', showResults);
     previousButton.addEventListener("click", showPreviousSlide);
