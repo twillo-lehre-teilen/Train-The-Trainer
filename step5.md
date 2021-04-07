@@ -121,7 +121,7 @@
           b: "Das Material darf nur vollständig und unverändert genutzt werden.",
         },
         correctAnswer: "a",
-        explanation: "Das Modul <b>BY</b> bedeutet, dass die\*der Urheber\*in des Werkes angegeben werden muss. Der Zusatz wird im Deutschen mit "Namensnennung" bezeichnet.<br>Das Modul <b>ND</b> (engl. No Derivatives, dt. keine Veränderung) gibt an, dass das Material nur vollständig und unverändert genutzt werden darf."
+        explanation: "Das Modul BY bedeutet, dass die\*der Urheber\*in des Werkes angegeben werden muss. Der Zusatz wird im Deutschen mit "Namensnennung" bezeichnet. Das Modul ND (engl. No Derivatives, dt. keine Veränderung) gibt an, dass das Material nur vollständig und unverändert genutzt werden darf."
       },
       {
         question: "Was muss bei der Nutzung eines Bilds beachtet werden, welches unter der Creative-Commons-Lizenz "CC BY SA" steht?\*",
@@ -131,7 +131,7 @@
           c: "Die Lizenz muss angegeben und der Lizenztext verlinkt werden",
         },
         correctAnswer: {"a","b","c"},
-        explanation: "<b>BY</b> steht für die Namensnennung der Urheber\*innen, <b>SA</b> (Share Alike) verlangt eine Weitergabe abgeleiteter Werke unter der gleicher Lizenz. Die Lizenz muss bei bei allen CC-Lizenzierten Werken angegeben und ein Link zum Lizenztext gesetzt werden."
+        explanation: "BY steht für die Namensnennung der Urheber\*innen, SA (Share Alike) verlangt eine Weitergabe abgeleiteter Werke unter der gleicher Lizenz. Die Lizenz muss bei bei allen CC-Lizenzierten Werken angegeben und ein Link zum Lizenztext gesetzt werden."
       },
       {
         question: "Verzichtet die\*der Urheber\*in durch eine offene Lizenz auf alle Rechte an ihrem\*seinen Werk?\*",
