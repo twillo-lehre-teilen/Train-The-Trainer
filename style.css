@@ -1043,6 +1043,7 @@ h1.quiz{
 }
 .answers {
   margin-bottom: 15px;
+  margin-top: 30px;
   text-align: left;
   display: inline-block;
   color: #0A1F40;
