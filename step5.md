@@ -48,8 +48,7 @@
         // color the answers green
         answerContainers[currentSlide].style.color = 'lightgreen';
       }
-      // if answer is blank
-      // if answer is wrong
+      // if answer is wrong or blank
       else
         // color the answers red
         answerContainers[currentSlide].style.color = 'red';
