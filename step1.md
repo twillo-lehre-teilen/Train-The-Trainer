@@ -60,7 +60,7 @@
       // finally combine our output list into one string of HTML and put it on the page
       quizContainer.innerHTML = output.join('');
     }
-    function showResults(){
+    function showResult(){
       // gather answer containers from our quiz
       const answerContainers = quizContainer.querySelectorAll('.answers');
       // keep track of user's answers
