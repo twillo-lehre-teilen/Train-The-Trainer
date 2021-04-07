@@ -119,7 +119,7 @@
     const pagination = document.getElementById('pagination');
     const myQuestions = [
       {
-        question: "Wie lässt sich OER definieren?*",
+        question: "Wie lässt sich OER definieren?\*",
         answers: {
           a: "Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.",
           b: "Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können."
@@ -138,35 +138,35 @@
         explanation: "Ein zentrales Merkmal, das OER von urheberrechtlich geschützten Materialien unterscheidet, ist die offene Lizenz. Weitere (etwas unspezifischere) Merkmale sind ein offenes Dateiformat, die automatische Auffindbarkeit und die didaktische Kontextualisierung, die den einfacheren Umgang mit OER betonen (OER nutzen und bearbeiten, OER effizient auffinden, Einschätzbarkeit der Passung im eigenen Lehr-Lernkontext). In den folgenden Schritten dieser Lernreise werden Sie die genannten Merkmale noch etwas genauer kennenlernen."
       },
       {
-        question: "Was bedeutet bei Creative-Commons-Lizenzen das Kürzel "BY"?*",
+        question: "Was bedeutet bei Creative-Commons-Lizenzen das Kürzel "BY"?\*",
         answers: {
-          a: "Die*der ursprüngliche Urheber*in muss bei Nutzung angegeben werden.",
-          b: "Das Material darf nur vollständig und unverändert genutzt werden. ",
+          a: "Die\*der ursprüngliche Urheber\*in muss bei Nutzung angegeben werden.",
+          b: "Das Material darf nur vollständig und unverändert genutzt werden.",
         },
         correctAnswer: "a",
-        explanation: "Das Modul <b>BY</b> bedeutet, dass die*der Urheber*in des Werkes angegeben werden muss. Der Zusatz wird im Deutschen mit "Namensnennung" bezeichnet.<br>Das Modul <b>ND</b> (engl. No Derivatives, dt. keine Veränderung) gibt an, dass das Material nur vollständig und unverändert genutzt werden darf."
+        explanation: "Das Modul <b>BY</b> bedeutet, dass die\*der Urheber\*in des Werkes angegeben werden muss. Der Zusatz wird im Deutschen mit "Namensnennung" bezeichnet.<br>Das Modul <b>ND</b> (engl. No Derivatives, dt. keine Veränderung) gibt an, dass das Material nur vollständig und unverändert genutzt werden darf."
       },
       {
-        question: "Was muss bei der Nutzung eines Bilds beachtet werden, welches unter der Creative-Commons-Lizenz "CC BY SA" steht?*Was muss bei der Nutzung eines Bilds beachtet werden, welches unter der Creative-Commons-Lizenz "CC BY SA" steht?*",
+        question: "Was muss bei der Nutzung eines Bilds beachtet werden, welches unter der Creative-Commons-Lizenz "CC BY SA" steht?\*",
         answers: {
-          a: "Urheber*inen müssen angeben werden",
+          a: "Urheber\*inen müssen angeben werden",
           b: "Bei einer Veränderung und anschließenden Wiederveröffentlichung des Bildes, muss es unter die gleiche Lizenz gestellt werden, wie das Original",
           c: "Die Lizenz muss angegeben und der Lizenztext verlinkt werden",
         },
         correctAnswer: {"a","b","c"},
-        explanation: "<b>BY</b> steht für die Namensnennung der Urheber*innen, <b>SA</b> (Share Alike) verlangt eine Weitergabe abgeleiteter Werke unter der gleicher Lizenz. Die Lizenz muss bei bei allen CC-Lizenzierten Werken angegeben und ein Link zum Lizenztext gesetzt werden."
+        explanation: "<b>BY</b> steht für die Namensnennung der Urheber\*innen, <b>SA</b> (Share Alike) verlangt eine Weitergabe abgeleiteter Werke unter der gleicher Lizenz. Die Lizenz muss bei bei allen CC-Lizenzierten Werken angegeben und ein Link zum Lizenztext gesetzt werden."
       },
       {
-        question: "Verzichtet die*der Urheber*in durch eine offene Lizenz auf alle Rechte an ihrem*seinen Werk?*",
+        question: "Verzichtet die\*der Urheber\*in durch eine offene Lizenz auf alle Rechte an ihrem\*seinen Werk?\*",
         answers: {
           a: "Ja, ein Vorbehalt von Rechten ist nicht möglich",
           b: "Nur bei der Wahl der Lizenz CC 0",
         },
         correctAnswer: "b",
-        explanation: "Der*die Urheberin kann sich auch bei der Wahl einer offenen Lizenz bestimmte Rechte an ihrem*seinen Werk vorbehalten. Durch eine offene Lizenz werden lediglich Nutzungsrechte vergeben. Das Urheberrecht an sich ist unveräußerlich. Wählt die*der Urheber*in jedoch die Lizenz CC 0 (keine Rechte vorbehalten), verzichtet er*sie bewusst auf ihre*seine Rechte an dem Werk und bringt es in die Public Domain ein."
+        explanation: "Der\*die Urheberin kann sich auch bei der Wahl einer offenen Lizenz bestimmte Rechte an ihrem\*seinen Werk vorbehalten. Durch eine offene Lizenz werden lediglich Nutzungsrechte vergeben. Das Urheberrecht an sich ist unveräußerlich. Wählt die\*der Urheber\*in jedoch die Lizenz CC 0 (keine Rechte vorbehalten), verzichtet er\*sie bewusst auf ihre\*seine Rechte an dem Werk und bringt es in die Public Domain ein."
       },
       {
-        question: "Welche Vorteile haben offene Lernmaterialien gegenüber restriktiv geschützten?*",
+        question: "Welche Vorteile haben offene Lernmaterialien gegenüber restriktiv geschützten?\*",
         answers: {
           a: "Sie können nachgenutzt werden",
           b: "Sie sind kostenlos",
@@ -186,7 +186,7 @@
     // Show the first slide
     showSlide(currentSlide);
     // Event listeners
-    submitButton.addEventListener('click', showResults);
+    submitButton.addEventListener('click', showResult);
     previousButton.addEventListener("click", showPreviousSlide);
     nextButton.addEventListener("click", showNextSlide);
   })();
