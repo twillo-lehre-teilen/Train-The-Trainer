@@ -47,13 +47,13 @@
       // if answer is correct
       if(userAnswer === myQuestions[currentSlide].correctAnswer){
         // color the answers green
-        myQuestions[currentSlide].answers.style.color = 'lightgreen';
+        answerContainers[currentSlide].style.color = 'lightgreen';
         answerContainers[currentSlide].querySelector(selector).style.color = 'blue';
       }
       // if answer is wrong or blank
       else{
         // color the answers red
-        myQuestions[currentSlide].answers.style.color = 'red';
+        answerContainers[currentSlide].style.color = 'red';
       }
       // show explanation of current question
       resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${myQuestions[currentSlide].explanation}`;
