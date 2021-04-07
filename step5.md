@@ -62,7 +62,7 @@
         }
       });
       // show explanation of current question
-      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br><br> ${myQuestions[currentSlide].explanation.value}`;
+      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${explanationContainers[currentSlide].value}`;
     }
     function showSlide(n) {
       slides[currentSlide].classList.remove('active-slide');
