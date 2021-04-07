@@ -1,3 +1,28 @@
+<script>
+  //Script fürs Accordeon
+  var acc = document.getElementsByClassName("accordion");
+
+  for (var i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      var panel = this.nextElementSibling;
+      /* if panel already open */
+      if (panel.style.maxHeight) {
+        this.classList.toggle('activeA', false);
+        panel.style.maxHeight = null;
+        return;
+      }
+      /* else */
+       for (var j = 0; j < acc.length; j++) {
+        acc[j].classList.toggle('activeA', false)
+        var p = acc[j].nextElementSibling;
+        p.style.maxHeight = null;
+      }
+      this.classList.toggle('activeA', true);
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    });
+  }
+</script>
+
 <h1 style="color:#000080">Schritt 2: OER finden und nutzen</h1>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -35,3 +60,12 @@ Neben dem Kriterium des Fundortes kann, wie in der Wissenschaftspraxis auch, z.B
 
 
 Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf eine zielgerichtete OER-Suche aufgeführt
+
+
+<div >
+   <button class="accordion">twillo</button>
+   <div class="panel">
+     <p>Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
+     </p>
+   </div>
+</div>
