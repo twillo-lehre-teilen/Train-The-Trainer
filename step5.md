@@ -38,11 +38,13 @@
       quizContainer.innerHTML = output.join('');
     }
     function showResults(){
-      // gather answer containers from our quiz
+      // gather containers from our quiz
+      const questionContainers = quizContainer.querySelectorAll('.question');
       const answerContainers = quizContainer.querySelectorAll('.answers');
       const explanationContainer = quizContainer.querySelectorAll('.explanation')
+      // declare explanation variable
       let explanation = "Error occurred";
-      // for each question...
+      // find current question
       myQuestions.forEach( (currentQuestion, questionNumber) => {
         // find selected answer
         const answerContainer = answerContainers[questionNumber];
@@ -60,7 +62,7 @@
         }
       });
       // show explanation of current question
-      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${explanation}`;
+      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${explanationContainer[currentSlide]}`;
     }
     function showSlide(n) {
       slides[currentSlide].classList.remove('active-slide');
