@@ -58,7 +58,7 @@
         // if answer is wrong or blank
         else{
           // color the answers red
-          answerContainers[currentSlide].style.color = 'blue';
+          answerContainers[currentSlide].style.color = 'red';
         }
       });
       // show explanation of current question
