@@ -46,9 +46,10 @@
       // if answer is correct
       if(userAnswer === myQuestions[currentSlide].correctAnswer){
         // color the answers green
-        answerContainers[currentSlide].style.color = 'lightgreen';
+        //answerContainers[currentSlide].style.color = 'lightgreen';
         answerContainers[currentSlide][userAnswer].style.color = 'blue';
         myQuestions[currentSlide].answers[userAnswer].style.color = 'yellow';
+        myQuestions[currentSlide].answers["a"].style.color = 'yellow';
       }
       // if answer is wrong or blank
       else{
