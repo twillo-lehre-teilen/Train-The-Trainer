@@ -12,26 +12,26 @@
 
 # Fundorte und Suchstrategien
 
-Für das Auffinden von OER im Internet können zwei zentrale Hinweise in Bezug auf den <b>Fundort</b> sowie der Suchstrategie gegeben werden. 
+Für das Auffinden von OER im Internet können zwei zentrale Hinweise in Bezug auf den <b>Fundort</b> sowie der <b>Suchstrategie</b> gegeben werden. 
 
-Suche über spezielle OER-Portale und -Plattformen: Es bestehen einige Infrastrukturen, die explizit für das Bereitstellen von offen lizenzierten Lehr- und Lernmaterialien konzipiert sind - wie z.B. twillo. Die Bestrebung des Ausbaus solcher sog. OER-Repositorien wird aktuell auf bildungspolitischer Ebene fokussiert und erhält Eingang in die Hochschullehre.
+<b>Suche über spezielle OER-Portale und -Plattformen:</b> Es bestehen einige Infrastrukturen, die explizit für das Bereitstellen von offen lizenzierten Lehr- und Lernmaterialien konzipiert sind - wie z.B. twillo. Die Bestrebung des Ausbaus solcher sog. OER-Repositorien wird aktuell auf bildungspolitischer Ebene fokussiert und erhält Eingang in die Hochschullehre.
 
-Verwendung von gängigen Suchmaschienen und allgemeinen Plattformen: Auch Plattformen ohne spezifischen OER-Fokus führen Materialien mit offenen Lizenzen. Diese bieten zwar nicht ausschließlich Lehr- oder Lernmaterialien an, dennoch haben sie sich in den letzten Jahren - sicherlich auch aufgrund fehlender OER-Infrastrukturen - als Veröffentlichungsorte für Bildungsmaterialien etabliert.
+<b>Verwendung von gängigen Suchmaschienen und allgemeinen Plattformen:</b> Auch Plattformen ohne spezifischen OER-Fokus führen Materialien mit offenen Lizenzen. Diese bieten zwar nicht ausschließlich Lehr- oder Lernmaterialien an, dennoch haben sie sich in den letzten Jahren - sicherlich auch aufgrund fehlender OER-Infrastrukturen - als Veröffentlichungsorte für Bildungsmaterialien etabliert.
 
 
 Neben dem Kriterium des Fundortes kann, wie in der Wissenschaftspraxis auch, z.B. in der Datenbankrecherche, systematisch nach offen lizenzierten Materialien gesucht werden. Dies gilt sowohl für die Nutzung gängiger Suchmaschinen, als auch für die Suche in Repositorien. Folgende Suchstrategien lassen sich für eine zielgerichtete Suche nach OER anwenden:
 
-(Haken) Verwendung von Schlagworte: Denken Sie auch an die Suchtechnik des Trunkierens; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternal*)
+(Haken) Verwendung von Schlagworte: Denken Sie auch an die Suchtechnik des <b>Trunkierens</b>; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternal*)
 
-(Haken) Nutzung von Suchoperatoren, die aus Datenbanken und dem Bibliothekswesen bekannt sind: UND/AND/+; oder NICHT/NOT/- sowie ODER/OR
+(Haken) Nutzung von <b>Suchoperatoren</b>, die aus Datenbanken und dem Bibliothekswesen bekannt sind: UND/AND/+; oder NICHT/NOT/- sowie ODER/OR
 
-(Haken) Verwendung der CC-Filter in Suchmaschinen oder Portalen
+(Haken) Verwendung der <b>CC-Filter</b> in Suchmaschinen oder Portalen
 
-(Haken) Eingabe des Suchbegriffs + Creative Commons oder speziell der Lizenz (CC 0, CC BY etc.)
+(Haken) Eingabe des Suchbegriffs + <b>Creative Commons</b> oder speziell der <b>Lizenz</b> (CC 0, CC BY etc.)
 
-(Haken) Nutzung von englischen Begriffen
+(Haken) Nutzung von <b>englischen</b> Begriffen
 
-(Haken) Verwendung spezifischer Filteroptionen in OER-Repositorien; z.B. die erweiterte Suche (Materialart, Fach- und Sachgebiet, etc.)
+(Haken) Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Materialart, Fach- und Sachgebiet, etc.)
 
 
 Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf eine zielgerichtete OER-Suche aufgeführt
