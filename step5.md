@@ -39,7 +39,7 @@
       // finally combine our output list into one string of HTML and put it on the page
       quizContainer.innerHTML = output.join('');
     }
-    function showResult(){
+    function showResults(){
       // gather answer containers from our quiz
       const answerContainers = quizContainer.querySelectorAll('.answers');
       // keep track of user's answers
@@ -165,7 +165,7 @@
     // Show the first slide
     showSlide(currentSlide);
     // Event listeners
-    submitButton.addEventListener('click', showResult);
+    submitButton.addEventListener('click', showResults);
     previousButton.addEventListener("click", showPreviousSlide);
     nextButton.addEventListener("click", showNextSlide);
   })();
