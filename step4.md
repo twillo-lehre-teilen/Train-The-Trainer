@@ -3,5 +3,10 @@
   <label for="fname">First name:</label>
   <input type="text" id="test" name="test">
   <script>
-  let msg = document.querySelector("#test").value;
+  let answer = document.querySelector("#test").value;
+  if (answer === hi){
+    
+  }else{
+  
+  }
   </script>
