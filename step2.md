@@ -78,31 +78,61 @@ Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf e
    <div class="panel">
      <p>OERSI steht für OER Search Index und ist eine Suchmaschine für offene Bildungsmaterialien, die OER Materialien aus verschiedensten Plattformen und Repositorien auffindbar
 macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
+      <a aria-describedby="Link zum oersi" href="http://oersi.de/" target="_blank">www.oersi.de</a>
      </p>
+     <figure>
+  <img src="images/oersi.svg" alt="Abb. 7: Screenshot der OERSI Suchumgebung " title="Abb. 7: Screenshot der OERSI Suchumgebung "/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 7: Screenshot der OERSI Suchumgebung </figcaption>
+</figure>
    </div>
    <button class="accordion">X5GON</button>
    <div class="panel">
      <p>Bei X5GON handelt es sich um eine Plattform, die OER aus verschiedensten Quellen und Repositorien auffindbar macht.
+       <a aria-describedby="Link zur X5GON Plattform" href="http://discovery.x5gon.org/" target="_blank">discovery.x5gon.org</a>
      </p>
+     <figure>
+  <img src="images/x5gon.svg" alt="Abb. 8: Screenshot der X5GON Suchumgebung" title="Abb. 8: Screenshot der X5GON Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 8: Screenshot der X5GON Suchumgebung</figcaption>
+</figure>
    </div>
    <button class="accordion">OERhörnchen</button>
    <div class="panel">
      <p>OERhörnchen ist eine Suchmaschine für OER Materialien, die gezielt offene Lehr-/Lernmaterialien von ausgewählten Bildungsprojekten auffindbar macht.
+       <a aria-describedby="Link zur OERhörnchen Suchmaschine" href="http://oerhoernchen.de/" target="_blank">www.oerhoernchen.de</a>
      </p>
+     <figure>
+  <img src="oerhoernchen.svg" alt="Abb. 9: Screenshot der OERhörnchen Suchumgebung" title="Abb. 9: Screenshot der OERhörnchen Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 9: Screenshot der OERhörnchen Suchumgebung</figcaption>
+</figure>
    </div>
    <button class="accordion">CCsearch</button>
    <div class="panel">
      <p>CCsearch ist eine Suchmaschine für Materialien, die mit Creative Commons Lizenzen ausgezeichnet sind.
+       <a aria-describedby="Link zur CCsearch Suchmaschine" href="http://ccsearch.creativecommons.org/" target="_blank">ccsearch.creativecommons.org</a>
      </p>
+     <figure>
+  <img src="images/ccsearch_oer_suche.svg" alt="Abb. 10: Screenshot der CCsearch Suchumgebung" title="Abb. 10: Screenshot der CCsearch Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 10: Screenshot der CCsearch Suchumgebung</figcaption>
+</figure>
    </div>
    <button class="accordion">Wikimedia Commons</button>
    <div class="panel">
-     <p>Wikimedia Commons ist eine Plattform, auf der offene lizenzierte Inhalte zur Nutzung bereit stehen
+     <p>Wikimedia Commons ist eine Plattform, auf der offene lizenzierte Inhalte zur Nutzung bereit stehen.
+       <a aria-describedby="Link zur Wikimedia Commons Plattform" href="http://commons.wikimedia.org/" target="_blank">commons.wikimedia.org</a>
      </p>
+     <figure>
+  <img src="images/commonswikimedia.svg" alt="Abb. 11: Screenshot der Wikimedia Commons Suchumgebung" title="Abb. 11: Screenshot der Wikimedia Commons Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 11: Screenshot der Wikimedia Commons Suchumgebung</figcaption>
+</figure>
    </div>
    <button class="accordion">SlideWiki</button>
    <div class="panel">
      <p>SlideWiki ist eine Open-Source-Plattform auf der Vorträge und Präsentationen unter einer offenen Lizenz bereitgestellt werden.
+       <a aria-describedby="Link zu Slidewiki" href="https://slidewiki.org/" target="_blank">https://slidewiki.org/</a>
      </p>
+     <figure>
+  <img src="images/slidewiki.svg" alt="Abb. 12: Screenshot der SlideWiki Suchumgebung" title="Abb. 12: Screenshot der SlideWiki Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 12: Screenshot der SlideWiki Suchumgebung</figcaption>
+</figure>
    </div>
 </div>
