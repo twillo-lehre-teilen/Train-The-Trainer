@@ -224,9 +224,12 @@ Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frag
 
 <table id="invisible">
   <tr>
-    <td valign="middle" text-align="left" width="30%">
+    <td valign="middle" text-align="middle" width="15%">
+      T
     </td>
-    <td valign="middle" text-align="left" width="70%">
+    <td valign="middle" text-align="left" width="85%">
+      Geben Sie den TITEL des Werks an, sofern dieser angegeben ist. 
+      (Info) In der Version 4.0 der CC-Lizenzen ist der Titel eine optionale (jedoch empfohlene) Angabe.
     </td>
   </tr>
 </table>
