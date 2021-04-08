@@ -229,7 +229,7 @@ Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frag
     </td>
     <td valign="middle" text-align="left" width="85%">
       Geben Sie den TITEL des Werks an, sofern dieser angegeben ist. 
-      (Info) In der Version 4.0 der CC-Lizenzen ist der Titel eine optionale (jedoch empfohlene) Angabe.
+      <i class="fa fa-info-circle" style="color:black"></i> In der Version 4.0 der CC-Lizenzen ist der Titel eine optionale (jedoch empfohlene) Angabe.
     </td>
   </tr>
 </table>
