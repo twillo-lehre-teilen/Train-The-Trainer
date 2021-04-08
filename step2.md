@@ -61,6 +61,7 @@ Neben dem Kriterium des Fundortes kann, wie in der Wissenschaftspraxis auch, z.B
 
 Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf eine zielgerichtete OER-Suche aufgeführt
 
+<b>OER-Portale und -Suchmaschinen (Repositorien und Referatorien)</b>
 
 <div >
    <button class="accordion">twillo</button>
