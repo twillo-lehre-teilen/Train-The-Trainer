@@ -69,10 +69,10 @@ Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf e
      <p>Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
        <a aria-describedby="Link zum twillo-Portal" href="http://www.twillo.de/" target="_blank">www.twillo.de</a>
      </p>
-     <figure>
+     <center>
   <img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb. 6: Screenshot der twillo Suchumgebung"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 6: Screenshot der twillo Suchumgebung</figcaption>
-</figure>
+</center>
    </div>
    <button class="accordion">OERSI</button>
    <div class="panel">
