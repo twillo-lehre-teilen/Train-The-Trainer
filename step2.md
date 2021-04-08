@@ -154,11 +154,11 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
   <tr>
     <td><h4>Google</h4><br>Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 14). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 15).<br>
   <figure style="align:middle;">
-  <img src="google_oer_suche1.svg" alt="Abb. 14: Screenshot der google Suchumgebung" title="Abb. 14: Screenshot der google Suchumgebung"/>
+  <img src="images/google_oer_suche1.svg" alt="Abb. 14: Screenshot der google Suchumgebung" title="Abb. 14: Screenshot der google Suchumgebung"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 14: Screenshot der Google Suchumgebung</figcaption>
   </figure>
   <figure style="align:middle;">
-  <img src="google_oer_suche2.svg" alt="Abb. 15.: Screenshot der Google-Suchfilter" title="Abb. 15.: Screenshot der Google-Suchfilter"/>
+  <img src="images/google_oer_suche2.svg" alt="Abb. 15.: Screenshot der Google-Suchfilter" title="Abb. 15.: Screenshot der Google-Suchfilter"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 15.: Screenshot der Google-Suchfilter</figcaption>
   </figure>
   </td>
@@ -167,9 +167,21 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
     <th>Videoportale</th>
   </tr>
   <tr>
-    <td><h4>AV-Portal</h4><br>Im AV-Portal der Technischen Informationsibliothek (TIB) Hannover finden Sie eine Vielzahl wissenschaftlicher Filme. Zu allen Fachbereichen sind sowohl Vorträge, als auch Erklär- und Lernvideos vertreten. Es besteht auch die Möglichkeit, eigene wissenschaftliche Filme über das Portal zu veröffentlichen. Die zielgerichtete Suche nach OER- Materialien im AV- Portal erfolgt zunächst über die Eingabe des Begriffes in der Suchleiste (z.B. Begriff Paternalismus).<br>
-    In einem weiteren Schritt können die Ergebnistreffer durch verschiedene Filteroptionen im linken Seitenmenü eingegrenzt werden. Für die Suche nach OER Materialien, muss im Bereich "Wiederverwendung" der Filter "Open-Access" aktiviert werden.<br>
+    <td><h4>AV-Portal</h4><br>Im AV-Portal der Technischen Informationsibliothek (TIB) Hannover finden Sie eine Vielzahl wissenschaftlicher Filme. Zu allen Fachbereichen sind sowohl Vorträge, als auch Erklär- und Lernvideos vertreten. Es besteht auch die Möglichkeit, eigene wissenschaftliche Filme über das Portal zu veröffentlichen. Die zielgerichtete Suche nach OER- Materialien im AV- Portal erfolgt zunächst über die Eingabe des Begriffes in der Suchleiste (z.B. Begriff Paternalismus).
+  <figure style="align:middle;">
+  <img src="images/AV_Portal_OER_Suche_screenshot1.svg" alt="Abb. 16: Screenshot der AV-Portal Suchumgebung" title="Abb. 16: Screenshot der AV-Portal Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 16: Screenshot der AV-Portal Suchumgebung</figcaption>
+  </figure>
+    In einem weiteren Schritt können die Ergebnistreffer durch verschiedene Filteroptionen im linken Seitenmenü eingegrenzt werden. Für die Suche nach OER Materialien, muss im Bereich "Wiederverwendung" der Filter "Open-Access" aktiviert werden.
+  <figure style="align:middle;">
+  <img src="images/AV_Portal_OER_Suche_screenshot2.svg" alt="Abb. 17: Screenshot der AV-Portal Filteroptionen" title="Abb. 17: Screenshot der AV-Portal Filteroptionen"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot der AV-Portal Filteroptionen</figcaption>
+  </figure>
   Angaben dazu, um welche Lizenz es sich konkret bei einem Video handelt, finden Sie nach einer Anwahl des gewünschten Videos in den Metadaten.
+  <figure style="align:middle;">
+  <img src="images/AV_Portal_OER_Suche_screenshot3.svg" alt="Abb. 18: Screenshot der AV-Portal Lizenzangaben" title="Abb. 18: Screenshot der AV-Portal Lizenzangaben"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot der AV-Portal Lizenzangaben</figcaption>
+  </figure>
   </td>
   </tr>
   <tr>
