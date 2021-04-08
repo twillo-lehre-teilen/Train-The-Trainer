@@ -139,7 +139,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
 
 <b>Allgemeine Suchmaschinen und Plattformen</b>
 
-<table id="Suchmaschinen">
+<table id="normal">
   <tr>
     <th>Suchmaschinen</th>
   </tr>
