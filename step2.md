@@ -144,7 +144,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
     <th>Suchmaschinen</th>
   </tr>
   <tr>
-    <td><b>duckduckgo</b><br>Duckduckgo ist eine Suchmaschine und stellt eine Alternative zu google dar. Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Lediglich bei Videos kann der
+    <td><h2>duckduckgo</h2><br>Duckduckgo ist eine Suchmaschine und stellt eine Alternative zu google dar. Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Lediglich bei Videos kann der
 Suchfilter Creative Commons angewendet werden.</td>
   </tr>
 </table>
