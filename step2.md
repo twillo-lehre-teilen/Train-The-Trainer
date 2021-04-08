@@ -144,7 +144,12 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
     <th>Suchmaschinen</th>
   </tr>
   <tr>
-    <td><h4>duckduckgo</h4><br>Duckduckgo ist eine Suchmaschine und stellt eine Alternative zu google dar. Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Lediglich bei Videos kann der Suchfilter Creative Commons angewendet werden.</td>
+    <td><h4>duckduckgo</h4><br>Duckduckgo ist eine Suchmaschine und stellt eine Alternative zu google dar. Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Lediglich bei Videos kann der Suchfilter Creative Commons angewendet werden.
+  <figure style="align:middle;">
+  <img src="images/duckduckgo_OER Suche.svg" alt="Abb. 13: Screenshot der duckduckgo Suchumgebung" title="Abb. 13: Screenshot der duckduckgo Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot der duckduckgo Suchumgebung</figcaption>
+  </figure>
+  </td>
   </tr>
   <tr>
     <td><h4>Google</h4><br>Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 14). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 15).</td>
