@@ -196,3 +196,27 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
   </td>
   </tr>
 </table>
+
+<table id="warning">
+  <tr>
+    <th><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b></th>
+  </tr>
+  <tr>
+    <td>
+      Unabhängig davon, ob Sie ein OER-Referatorium/-Repositorium oder eine allgemeine Plattform/Suchmaschine nutzen, um Material für Ihre Lehre zu finden, überprüfen Sie in jedem Fall ob die Lizenz des Materials die von Ihnen geplante Nutzung wirklich erlaubt.
+    </td>
+  </tr>
+</table>
+
+## Korrekte Verwendung von OER
+
+Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frage, was Sie bei der Nachnutzung dieser beachten müssen. Der erste Blick sollte hier auf die Lizenz des Materials gerichtet werden.
+
+<b>Prüfen Sie gründlich, ob die Lizenz die von Ihnen geplante Nutzung des Materials erlaubt.</b> Folgender Lizenzcheck (s. Abb. 14) soll Ihnen einfach und schnell helfen. Gehen Sie das Diagramm anhand der Leitfragen  durch. Finden Sie die Lizenz des Materials, das Sie gern nutzen möchten, in der Liste am Ende des Diagramms, steht Ihrer Planung nichts im Wege.
+
+<figure style="align:middle;">
+  <img src="images/Lizenzcheck.svg" alt="Abb. 26: Lizenzcheck für die Nachnutzung fremder OER" title="Abb. 26: Lizenzcheck für die Nachnutzung fremder OER"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 26: Lizenzcheck für die Nachnutzung fremder OER</figcaption>
+</figure>
+
+<b>Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müssen Sie kenntlich machen, dass es sich um fremde Inhalte handelt.</b> Analog zur klassischen Zitation im wissenschaftlichen Arbeiten gibt es bei der Nachnutzung von OER bestimmte Vorgaben. In der sogenannten "TULLU-Regel" werden diese für Sie zusammengefasst.  Das folgende Video erklärt Ihnen die Regel in aller Kürze:
