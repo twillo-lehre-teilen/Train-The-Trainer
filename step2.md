@@ -136,3 +136,15 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
 </figure>
    </div>
 </div>
+
+<b>Allgemeine Suchmaschinen und Plattformen</b>
+
+<table id="Suchmaschinen">
+  <tr>
+    <th>Suchmaschinen</th>
+  </tr>
+  <tr>
+    <td><b>duckduckgo</b><br>Duckduckgo ist eine Suchmaschine und stellt eine Alternative zu google dar. Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Lediglich bei Videos kann der
+Suchfilter Creative Commons angewendet werden.</td>
+  </tr>
+</table>
