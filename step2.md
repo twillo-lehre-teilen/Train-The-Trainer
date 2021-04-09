@@ -254,7 +254,7 @@ Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frag
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=aBM9zpuRh1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Wie nutzt man OER"></iframe>
-  <figcaption style="text-align:center;font-size:14px;">Video 1: <a aria-describedby="Link zum Video (YouTube)" href="https://www.youtube.com/watch?v=aBM9zpuRh1I">Wie nutzt man OER</a> von Nele Hirsch, lizenziert unter <a aria-describedby="Link zur Seite (Creative Commons)" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY SA (4.0)</a></figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Video 2: <a aria-describedby="Link zum Video (YouTube)" href="https://www.youtube.com/watch?v=aBM9zpuRh1I">Wie nutzt man OER</a> von OERinForm, lizenziert unter <a aria-describedby="Link zur Seite (Creative Commons)" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY SA (4.0)</a></figcaption>
 </figure>
 
 <table id="invisible">
