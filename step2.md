@@ -197,6 +197,7 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
       <img src="youtube_oer_suche2.svg" alt="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen" title="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen</figcaption>
     </figure>
+  </div>
   <button class="accordion">Bilderportale</button>
    <div class="panel">
    <h4>AV-Pixabay</h4><br>
