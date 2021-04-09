@@ -265,7 +265,7 @@ Die Grundlagen zum Nachlesen:
       <font size="5" style="color:#54B6B5>T</font>
     </td>
     <td valign="middle" text-align="left" width="85%">
-      Geben Sie den TITEL des Werks an, sofern dieser angegeben ist. 
+      Geben Sie den TITEL des Werks an, sofern dieser angegeben ist.<br>
       <i class="fa fa-info-circle" style="color:black"></i> In der Version 4.0 der CC-Lizenzen ist der Titel eine optionale (jedoch empfohlene) Angabe.
     </td>
   </tr>
@@ -282,7 +282,7 @@ Die Grundlagen zum Nachlesen:
       L
     </td>
     <td valign="middle" text-align="left" width="90%">
-      Machen Sie eine Angabe zu der <b>LIZENZ</b> und der <b>LIZENZVERSION</b>. Übernehmen Sie diese Angaben genauso, wie an dem Material, das Sie nutzen, angegeben. Hierzu zählt ggf. auch die Angabe, ob es ich um eine an die Gesetzgebung eines Landes angepasste Version der Lizenz handelt.
+      Machen Sie eine Angabe zu der <b>LIZENZ</b> und der <b>LIZENZVERSION</b>. Übernehmen Sie diese Angaben genauso, wie an dem Material, das Sie nutzen, angegeben. Hierzu zählt ggf. auch die Angabe, ob es ich um eine an die Gesetzgebung eines Landes angepasste Version der Lizenz handelt.<br>
       <i class="fa fa-info-circle" style="color:black"></i> CC-Lizenztexte durchlaufen stetig Revisionsprozesse und werden sukzessive aktualisiert. Aus diesem Grund bestehen unterschiedlichen <b>Lizenzversionen</b> (2.0, 3.0 bzw. 4.0). Durch die Angabe der Lizenzversion machen Sie deutlich, auf welchen Stand des Lizenztextes Sie sich genau beziehen.
     </td>
   </tr>
