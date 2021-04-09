@@ -135,6 +135,28 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
 
 <b>Allgemeine Suchmaschinen und Plattformen</b>
 
+<div >
+   <button class="accordion">Suchmaschinen</button>
+   <div class="panel">
+     <h4>duckduckgo</h4><br>Duckduckgo ist eine Suchmaschine und stellt eine Alternative zu google dar. Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Lediglich bei Videos kann der Suchfilter Creative Commons angewendet werden.
+   <figure style="align:middle;">
+     <img src="images/duckduckgo_OER Suche.svg" alt="Abb. 13: Screenshot der duckduckgo Suchumgebung" title="Abb. 13: Screenshot der duckduckgo Suchumgebung"/>
+     <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot der duckduckgo Suchumgebung</figcaption>
+   </figure>
+  </div>
+  <div class="panel">
+    <h4>Google</h4><br>Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 14). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 15).<br>
+  <figure style="align:middle;">
+  <img src="images/google_oer_suche1.svg" alt="Abb. 14: Screenshot der google Suchumgebung" title="Abb. 14: Screenshot der google Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 14: Screenshot der Google Suchumgebung</figcaption>
+  </figure>
+  <figure style="align:middle;">
+  <img src="images/google_oer_suche2.svg" alt="Abb. 15.: Screenshot der Google-Suchfilter" title="Abb. 15.: Screenshot der Google-Suchfilter"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 15.: Screenshot der Google-Suchfilter</figcaption>
+  </figure>
+  </div>
+</div>
+
 <table id="normal">
   <tr>
     <th>Suchmaschinen</th>
@@ -192,6 +214,17 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
   </td>
   </tr>
 </table>
+
+<div >
+   <button class="accordion">twillo</button>
+   <div class="panel">
+     <p>Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
+       <a aria-describedby="Link zum twillo-Portal" href="http://www.twillo.de/" target="_blank">www.twillo.de</a>
+     </p>
+     <figure style="align:middle;">
+  <img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb. 6: Screenshot der twillo Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 6: Screenshot der twillo Suchumgebung</figcaption>
+</figure>
 
 <table id="warning">
   <tr>
