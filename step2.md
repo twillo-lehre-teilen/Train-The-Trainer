@@ -279,10 +279,35 @@ Die Grundlagen zum Nachlesen:
   </tr>
   <tr>
     <td valign="middle" text-align="middle" width="15%">
+      L
+    </td>
+    <td valign="middle" text-align="left" width="85%">
+      Machen Sie eine Angabe zu der <b>LIZENZ</b> und der <b>LIZENZVERSION</b>. Übernehmen Sie diese Angaben genauso, wie an dem Material, das Sie nutzen, angegeben. Hierzu zählt ggf. auch die Angabe, ob es ich um eine an die Gesetzgebung eines Landes angepasste Version der Lizenz handelt.
+      <i class="fa fa-info-circle" style="color:black"></i> CC-Lizenztexte durchlaufen stetig Revisionsprozesse und werden sukzessive aktualisiert. Aus diesem Grund bestehen unterschiedlichen <b>Lizenzversionen</b> (2.0, 3.0 bzw. 4.0). Durch die Angabe der Lizenzversion machen Sie deutlich, auf welchen Stand des Lizenztextes Sie sich genau beziehen.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="15%">
+      L
+    </td>
+    <td valign="middle" text-align="left" width="85%">
+      Setzen Sie einen <b>LINK</b> zu dem Lizenztext. Sollte eine Verlinkung nicht möglch sein, muss der Link ausgeschrieben werden.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="15%">
       U
     </td>
     <td valign="middle" text-align="left" width="85%">
-      Nennen Sie den/die <b>URHEBER*IN(NEN)</b>/Rechteinhaber*in(nen). Auch Gruppen, Organisationen oder Institutionen können hier genannt werden. Orientieren Sie sich bei der Angabe daran, wie der*die Urheber*in(nen) in dem Material bezeichnet ist/sind.
+      Machen Sie eine Angabe zu dem <b>URSPRUNGSORT</b>, d.h. verlinken Sie z.B. die Internetseite, auf der Sie das Material gefunden haben. Ein solcher Hinweis ermöglicht es Nachnutzer*innen z.B. den Kontext des Originalwerks nachzuvollziehen.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="15%">
+      +V
+    </td>
+    <td valign="middle" text-align="left" width="85%">
+      Haben Sie eine <b>VERÄNDERUNG</b>  an dem Material vorgenommen, muss dies ebenfalls kenntlich gemacht werden.
     </td>
   </tr>
 </table>
