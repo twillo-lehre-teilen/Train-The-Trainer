@@ -144,16 +144,41 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
      <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot der duckduckgo Suchumgebung</figcaption>
    </figure>
   </div>
-  <div class="panel">
-    <h4>Google</h4><br>Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 14). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 15).<br>
-  <figure style="align:middle;">
-  <img src="images/google_oer_suche1.svg" alt="Abb. 14: Screenshot der google Suchumgebung" title="Abb. 14: Screenshot der google Suchumgebung"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 14: Screenshot der Google Suchumgebung</figcaption>
-  </figure>
-  <figure style="align:middle;">
-  <img src="images/google_oer_suche2.svg" alt="Abb. 15.: Screenshot der Google-Suchfilter" title="Abb. 15.: Screenshot der Google-Suchfilter"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 15.: Screenshot der Google-Suchfilter</figcaption>
-  </figure>
+  <br>
+  <h4>Google</h4><br>Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 14). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 15).<br>
+    <figure style="align:middle;">
+      <img src="images/google_oer_suche1.svg" alt="Abb. 14: Screenshot der google Suchumgebung" title="Abb. 14: Screenshot der google Suchumgebung"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 14: Screenshot der Google Suchumgebung</figcaption>
+    </figure>
+   <figure style="align:middle;">
+      <img src="images/google_oer_suche2.svg" alt="Abb. 15.: Screenshot der Google-Suchfilter" title="Abb. 15.: Screenshot der Google-Suchfilter"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 15.: Screenshot der Google-Suchfilter</figcaption>
+    </figure>
+  </div>
+  <button class="accordion">Videoportale</button>
+   <div class="panel">
+   <h4>AV-Portal</h4><br>Im AV-Portal der Technischen Informationsibliothek (TIB) Hannover finden Sie eine Vielzahl wissenschaftlicher Filme. Zu allen Fachbereichen sind sowohl Vorträge, als auch Erklär- und Lernvideos vertreten. Es besteht auch die Möglichkeit, eigene wissenschaftliche Filme über das Portal zu veröffentlichen. Die zielgerichtete Suche nach OER- Materialien im AV- Portal erfolgt zunächst über die Eingabe des Begriffes in der Suchleiste (z.B. Begriff Paternalismus).
+    <figure style="align:middle;">
+      <img src="images/AV_Portal_OER_Suche_screenshot1.svg" alt="Abb. 16: Screenshot der AV-Portal Suchumgebung" title="Abb. 16: Screenshot der AV-Portal Suchumgebung"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 16: Screenshot der AV-Portal Suchumgebung</figcaption>
+    </figure>
+    In einem weiteren Schritt können die Ergebnistreffer durch verschiedene Filteroptionen im linken Seitenmenü eingegrenzt werden. Für die Suche nach OER Materialien, muss im Bereich "Wiederverwendung" der Filter "Open-Access" aktiviert werden.
+    <figure style="align:middle;">
+      <img src="images/AV_Portal_OER_Suche_screenshot2.svg" alt="Abb. 17: Screenshot der AV-Portal Filteroptionen" title="Abb. 17: Screenshot der AV-Portal Filteroptionen"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot der AV-Portal Filteroptionen</figcaption>
+    </figure>
+    Angaben dazu, um welche Lizenz es sich konkret bei einem Video handelt, finden Sie nach einer Anwahl des gewünschten Videos in den Metadaten.
+    <figure style="align:middle;">
+      <img src="images/AV_Portal_OER_Suche_screenshot3.svg" alt="Abb. 18: Screenshot der AV-Portal Lizenzangaben" title="Abb. 18: Screenshot der AV-Portal Lizenzangaben"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot der AV-Portal Lizenzangaben</figcaption>
+    </figure>
+    <br>
+    <h4>Vimeo</h4><br>Die zielgerichtete Suche nach OER-Materialien auf der Videoplattform Vimeo erfolgt zunächst über die Eingabe des Begriffes in der Suchleiste (z.B. Begriff Systemtheor*). In einem weiteren Schritt können die Ergebnistreffer durch verschiedene Filteroptionenim linken Seitenmenü eingegrenzt werden.<br>
+  Für die Suche nach OER Materialien klicken Sie auf "mehr", um weitere Filteroptionen anwählen zu können. Dort finden Sie den Filter "Lizenz" mit verschiedenen Lizenzoptionen.
+Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource zu dem Suchbegriff vorhanden ist, die unter CC BY lizenziert ist.<br>
+  Um die Lizenzangaben eines ausgewählten Videos zu überpüfen, klicken Sie unterhalb der Videoanzeige auf den Button "mehr".
+  <br>
+  <h4>Youtube</h4><br>Geben Sie den Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option "Filter" und schränken Sie die Ergebnisse im Bereich "Eigenschaften" durch die Wahl der Option "Creative Commons" ein.
   </div>
 </div>
 
