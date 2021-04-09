@@ -257,6 +257,8 @@ Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frag
   <figcaption style="text-align:center;font-size:14px;">Video 2: <a aria-describedby="Link zum Video (YouTube)" href="https://www.youtube.com/watch?v=aBM9zpuRh1I">Wie nutzt man OER</a> von OERinForm, lizenziert unter <a aria-describedby="Link zur Seite (Creative Commons)" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY SA (4.0)</a></figcaption>
 </figure>
 
+Die Grundlagen zum Nachlesen:
+
 <table id="invisible">
   <tr>
     <td valign="middle" text-align="middle" width="15%">
@@ -265,6 +267,22 @@ Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frag
     <td valign="middle" text-align="left" width="85%">
       Geben Sie den TITEL des Werks an, sofern dieser angegeben ist. 
       <i class="fa fa-info-circle" style="color:black"></i> In der Version 4.0 der CC-Lizenzen ist der Titel eine optionale (jedoch empfohlene) Angabe.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="15%">
+      U
+    </td>
+    <td valign="middle" text-align="left" width="85%">
+      Nennen Sie den/die <b>URHEBER*IN(NEN)</b>/Rechteinhaber*in(nen). Auch Gruppen, Organisationen oder Institutionen können hier genannt werden. Orientieren Sie sich bei der Angabe daran, wie der*die Urheber*in(nen) in dem Material bezeichnet ist/sind.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="15%">
+      U
+    </td>
+    <td valign="middle" text-align="left" width="85%">
+      Nennen Sie den/die <b>URHEBER*IN(NEN)</b>/Rechteinhaber*in(nen). Auch Gruppen, Organisationen oder Institutionen können hier genannt werden. Orientieren Sie sich bei der Angabe daran, wie der*die Urheber*in(nen) in dem Material bezeichnet ist/sind.
     </td>
   </tr>
 </table>
