@@ -173,12 +173,31 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot der AV-Portal Lizenzangaben</figcaption>
     </figure>
     <br>
-    <h4>Vimeo</h4><br>Die zielgerichtete Suche nach OER-Materialien auf der Videoplattform Vimeo erfolgt zunächst über die Eingabe des Begriffes in der Suchleiste (z.B. Begriff Systemtheor*). In einem weiteren Schritt können die Ergebnistreffer durch verschiedene Filteroptionenim linken Seitenmenü eingegrenzt werden.<br>
+    <h4>Vimeo</h4><br>Die zielgerichtete Suche nach OER-Materialien auf der Videoplattform Vimeo erfolgt zunächst über die Eingabe des Begriffes in der Suchleiste (z.B. Begriff Systemtheor*). In einem weiteren Schritt können die Ergebnistreffer durch verschiedene Filteroptionenim linken Seitenmenü eingegrenzt werden.
+    <figure style="align:middle;">
+      <img src="images/vimeo_oer_suche_screenshot1.svg" alt="Abb. 19: Screenshot der Vimeo Suchumgebung" title="Abb. 19: Screenshot der Vimeo Suchumgebung"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 19: Screenshot der Vimeo Suchumgebung</figcaption>
+    </figure>
   Für die Suche nach OER Materialien klicken Sie auf "mehr", um weitere Filteroptionen anwählen zu können. Dort finden Sie den Filter "Lizenz" mit verschiedenen Lizenzoptionen.
-Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource zu dem Suchbegriff vorhanden ist, die unter CC BY lizenziert ist.<br>
+Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource zu dem Suchbegriff vorhanden ist, die unter CC BY lizenziert ist.
+    <figure style="align:middle;">
+      <img src="images/vimeo_oer_suche_screenshot2.svg" alt="Abb. 20: Screenshot der Vimeo Lizenz-Filteroptionen" title="Abb. 20: Screenshot der Vimeo Lizenz-Filteroptionen"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 20: Screenshot der Vimeo Lizenz-Filteroptionen</figcaption>
+    </figure>
   Um die Lizenzangaben eines ausgewählten Videos zu überpüfen, klicken Sie unterhalb der Videoanzeige auf den Button "mehr".
-  <br>
+    <figure style="align:middle;">
+      <img src="images/vimeo_oer_suche_screenshot3.svg" alt="Abb. 21: Screenshot der Vimeo Lizenz-Information" title="Abb. 21: Screenshot der Vimeo Lizenz-Information"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 21: Screenshot der Vimeo Lizenz-Information</figcaption>
+    </figure>
   <h4>Youtube</h4><br>Geben Sie den Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option "Filter" und schränken Sie die Ergebnisse im Bereich "Eigenschaften" durch die Wahl der Option "Creative Commons" ein.
+    <figure style="align:middle;">
+      <img src="youtube_oer_suche.svg" alt="Abb. 22: Screenshot der YouTube Suchumgebung" title="Abb. 22: Screenshot der YouTube Suchumgebung"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 22: Screenshot der YouTube Suchumgebung</figcaption>
+    </figure>
+    <figure style="align:middle;">
+      <img src="youtube_oer_suche2.svg" alt="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen" title="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen</figcaption>
+    </figure>
   </div>
 </div>
 
