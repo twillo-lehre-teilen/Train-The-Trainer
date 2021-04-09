@@ -190,29 +190,40 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
     </figure>
   <h4>Youtube</h4><br>Geben Sie den Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option "Filter" und schränken Sie die Ergebnisse im Bereich "Eigenschaften" durch die Wahl der Option "Creative Commons" ein.
     <figure style="align:middle;">
-      <img src="youtube_oer_suche.svg" alt="Abb. 22: Screenshot der YouTube Suchumgebung" title="Abb. 22: Screenshot der YouTube Suchumgebung"/>
+      <img src="images/youtube_oer_suche.svg" alt="Abb. 22: Screenshot der YouTube Suchumgebung" title="Abb. 22: Screenshot der YouTube Suchumgebung"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 22: Screenshot der YouTube Suchumgebung</figcaption>
     </figure>
     <figure style="align:middle;">
-      <img src="youtube_oer_suche2.svg" alt="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen" title="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen"/>
+      <img src="images/youtube_oer_suche2.svg" alt="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen" title="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen</figcaption>
     </figure>
   </div>
   <button class="accordion">Bilderportale</button>
    <div class="panel">
    <h4>AV-Pixabay</h4><br>
-      Pixabay ist eine bekannte Bilder-Plattform mit frei verfügbaren Bildern und Videos. Sofern nicht anders angegeben stehen alle Bilder unter der plattformeigenen Pixabay Lizenz. Diese Lizenz steht in keiner Verbindung mit dem CC-Lizenzsystem. Möchten Sie Pixabay Bilder verwenden, lesen Sie bitte genau nach, ob die von Ihnen geplante Nutzung erlaubt ist. 
+      Pixabay ist eine bekannte Bilder-Plattform mit frei verfügbaren Bildern und Videos. Sofern nicht anders angegeben stehen alle Bilder unter der plattformeigenen <b>Pixabay Lizenz</b>. Diese Lizenz steht in keiner Verbindung mit dem CC-Lizenzsystem. Möchten Sie Pixabay Bilder verwenden, lesen Sie bitte genau nach, ob die von Ihnen geplante Nutzung erlaubt ist. 
   <table id="warning">
     <tr>
-    <th><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b></th>
-  </tr>
-  <tr>
-    <td>
-      Eine Weiterlizenzierung von Pixabay Inhalten ist aufgrund der Pixabay Lizenz problematisch. Wird ein Pixabay Inhalt in ein OER eingebunden, muss der Pixabay Inhalt als Fremdmaterial (mit Pixabay Lizenz) kenntlich gemacht werden. Mehr dazu erfahren Sie unten im Bereich Korrekte Verwendung von OER.<br>
-Nutzen Sie die Pixabay Suche, werden in einer Leiste oberhalb der Ergebnisse Bilder von iStock angezeigt. Diese sind kostenpflichtig und fallen nicht unter offene Ressourcen.
-    </td>
-  </tr>
-</table>
+      <th><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b></th>
+    </tr>
+    <tr>
+      <td>
+        Eine Weiterlizenzierung von Pixabay Inhalten ist aufgrund der Pixabay Lizenz problematisch. Wird ein Pixabay Inhalt in ein OER eingebunden, muss der Pixabay Inhalt als Fremdmaterial (mit Pixabay Lizenz) kenntlich gemacht werden. Mehr dazu erfahren Sie unten im Bereich Korrekte Verwendung von OER.<br>
+        Nutzen Sie die Pixabay Suche, werden in einer Leiste oberhalb der Ergebnisse Bilder von iStock angezeigt. Diese sind kostenpflichtig und fallen nicht unter offene Ressourcen.
+      </td>
+    </tr>
+  </table>
+     <figure style="align:middle;">
+      <img src="images/pixabay_suche_pixabay_license.svg" alt="Abb. 24: Screenshot der Pixabay Suchumgebung" title="Abb. 24: Screenshot der Pixabay Suchumgebung"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 24: Screenshot der Pixabay Suchumgebung</figcaption>
+     </figure>
+   <h4>Flickr</h4><br>
+      Bei Flickr handelt es sich um ein Bilderportal, auf dem mitunter auch offen lizenzierte Bildmaterialien zur Verfügung gestellt werden. Nachdem Sie Ihren Suchbegriff eingegeben und Ihre Suche gestartet haben, können Sie den Filter "Beliebige Lizenz" nutzen, um CC-lizenzierte Bilder zu finden.
+     <a aria-describedby="Link zum Flickr Portal" href="https://www.flickr.com/" target="_blank">https://www.flickr.com/</a>
+     <figure style="align:middle;">
+      <img src="images/flickr_OER_suche.svg" alt="Abb. 25: Screenshot der Flickr Lizenz-Filteroptionen" title="Abb. 25: Screenshot der Flickr Lizenz-Filteroptionen"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 25: Screenshot der Flickr Lizenz-Filteroptionen</figcaption>
+     </figure>
   </div>
 </div>
 
