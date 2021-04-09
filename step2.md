@@ -198,6 +198,21 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
       <img src="youtube_oer_suche2.svg" alt="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen" title="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen</figcaption>
     </figure>
+  <button class="accordion">Bilderportale</button>
+   <div class="panel">
+   <h4>AV-Pixabay</h4><br>
+      Pixabay ist eine bekannte Bilder-Plattform mit frei verfügbaren Bildern und Videos. Sofern nicht anders angegeben stehen alle Bilder unter der plattformeigenen Pixabay Lizenz. Diese Lizenz steht in keiner Verbindung mit dem CC-Lizenzsystem. Möchten Sie Pixabay Bilder verwenden, lesen Sie bitte genau nach, ob die von Ihnen geplante Nutzung erlaubt ist. 
+  <table id="warning">
+    <tr>
+    <th><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b></th>
+  </tr>
+  <tr>
+    <td>
+      Eine Weiterlizenzierung von Pixabay Inhalten ist aufgrund der Pixabay Lizenz problematisch. Wird ein Pixabay Inhalt in ein OER eingebunden, muss der Pixabay Inhalt als Fremdmaterial (mit Pixabay Lizenz) kenntlich gemacht werden. Mehr dazu erfahren Sie unten im Bereich Korrekte Verwendung von OER.<br>
+Nutzen Sie die Pixabay Suche, werden in einer Leiste oberhalb der Ergebnisse Bilder von iStock angezeigt. Diese sind kostenpflichtig und fallen nicht unter offene Ressourcen.
+    </td>
+  </tr>
+</table>
   </div>
 </div>
 
