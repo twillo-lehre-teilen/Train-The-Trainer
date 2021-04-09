@@ -262,7 +262,7 @@ Die Grundlagen zum Nachlesen:
 <table id="invisible">
   <tr>
     <td valign="middle" text-align="middle" width="15%">
-      <font size="5" style="color:#54B6B5>T</font>
+      <font size="5" style="color:#54B6B5">T</font>
     </td>
     <td valign="middle" text-align="left" width="85%">
       Geben Sie den TITEL des Werks an, sofern dieser angegeben ist.<br>
