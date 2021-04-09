@@ -262,7 +262,7 @@ Die Grundlagen zum Nachlesen:
 <table id="invisible">
   <tr>
     <td valign="middle" text-align="middle" width="15%">
-      <font size="8">T</font>
+      <font size="10">T</font>
     </td>
     <td valign="middle" text-align="left" width="85%">
       Geben Sie den TITEL des Werks an, sofern dieser angegeben ist.
@@ -272,7 +272,7 @@ Die Grundlagen zum Nachlesen:
   </tr>
   <tr>
     <td valign="middle" text-align="middle" width="15%">
-      <font size="8">U</font>
+      <font size="10">U</font>
     </td>
     <td valign="middle" text-align="left" width="85%">
       Nennen Sie den/die <b>URHEBER*IN(NEN)</b>/Rechteinhaber*in(nen). Auch Gruppen, Organisationen oder Institutionen können hier genannt werden. Orientieren Sie sich bei der Angabe daran, wie der*die Urheber*in(nen) in dem Material bezeichnet ist/sind.
@@ -280,7 +280,7 @@ Die Grundlagen zum Nachlesen:
   </tr>
   <tr>
     <td valign="middle" text-align="middle" width="10%">
-      <font size="8">L</font>
+      <font size="10">L</font>
     </td>
     <td valign="middle" text-align="left" width="90%">
       Machen Sie eine Angabe zu der <b>LIZENZ</b> und der <b>LIZENZVERSION</b>. Übernehmen Sie diese Angaben genauso, wie an dem Material, das Sie nutzen, angegeben. Hierzu zählt ggf. auch die Angabe, ob es ich um eine an die Gesetzgebung eines Landes angepasste Version der Lizenz handelt.
@@ -290,7 +290,7 @@ Die Grundlagen zum Nachlesen:
   </tr>
   <tr>
     <td valign="middle" text-align="middle" width="10%">
-      <font size="8">L</font>
+      <font size="10">L</font>
     </td>
     <td valign="middle" text-align="left" width="90%">
       Setzen Sie einen <b>LINK</b> zu dem Lizenztext. Sollte eine Verlinkung nicht möglch sein, muss der Link ausgeschrieben werden.
@@ -298,7 +298,7 @@ Die Grundlagen zum Nachlesen:
   </tr>
   <tr>
     <td valign="middle" text-align="middle" width="10%">
-      <font size="8">U</font>
+      <font size="10">U</font>
     </td>
     <td valign="middle" text-align="left" width="90%">
       Machen Sie eine Angabe zu dem <b>URSPRUNGSORT</b>, d.h. verlinken Sie z.B. die Internetseite, auf der Sie das Material gefunden haben. Ein solcher Hinweis ermöglicht es Nachnutzer*innen z.B. den Kontext des Originalwerks nachzuvollziehen.
@@ -306,7 +306,7 @@ Die Grundlagen zum Nachlesen:
   </tr>
   <tr>
     <td valign="middle" text-align="middle" width="10%">
-      <font size="8">+V</font>
+      <font size="10">+V</font>
     </td>
     <td valign="middle" text-align="left" width="90%">
       Haben Sie eine <b>VERÄNDERUNG</b>  an dem Material vorgenommen, muss dies ebenfalls kenntlich gemacht werden.
