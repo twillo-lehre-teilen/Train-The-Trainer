@@ -1057,7 +1057,12 @@ h1.quiz{
   display: none; 
 }
 .explanation {
+  border: 2px solid blue;
   display: none;
+  position: relative;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100%;
 }  
 button.quiz{
   display: inline-block;
@@ -1084,7 +1089,6 @@ button.quiz:hover{
   padding-left: 20px;
   padding-right: 20px;
   width: 100%;
-
 }
 .quiz-container{
   border: 2px solid red;
