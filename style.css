@@ -1092,7 +1092,7 @@ button.quiz:hover{
   z-index: 2;
 }
 .quiz-container{
-  position: relative;
+  position: absolute;
   width: 100%;
   margin-top: 0px;
   text-align: center;
