@@ -11,7 +11,7 @@
       /* if answer is correct */
       if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
-        slides[currentSlide].querySelector(".answers").querySelector(selector).style.color = 'lightgreen';
+        slides[currentSlide].querySelector(".answers").style.color = 'lightgreen';
         showExplanation(1);      
       }
       /* if answer is blank */
@@ -21,7 +21,7 @@
       /* if answer is wrong */
       else{
         // color the answers red
-        slides[currentSlide].querySelector(".answers").querySelector(selector).style.color = 'red';
+        slides[currentSlide].querySelector(".answers").style.color = 'red';
         showExplanation(1);
       }
     }
@@ -30,7 +30,7 @@
       if (x == 1) {
         explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
       }
-      else {
+      else if (x == 0) {
         explanationContainer.innerHTML = ``;
       }
     }
