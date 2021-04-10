@@ -11,7 +11,7 @@
       /* if answer is correct */
       if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
-        slides[currentSlide].querySelector(".answers").querySelector("input:checked").style.color = 'lightgreen';
+        slides[currentSlide].querySelector(".answers").querySelector(selector).style.color = 'lightgreen';
         showExplanation();      
       }
       /* if answer is blank */
@@ -21,7 +21,7 @@
       /* if answer is wrong */
       else{
         // color the answers red
-        slides[currentSlide].querySelector(".answers").querySelector("input:checked").style.color = 'red';
+        slides[currentSlide].querySelector(".answers").querySelector(selector).style.color = 'red';
         showExplanation();
       }
     }
