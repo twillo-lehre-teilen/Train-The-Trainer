@@ -1079,6 +1079,7 @@ button.quiz:hover{
 }
 .slide{
   border: 2px solid green;
+  display: none;
   position: relative;
   padding-left: 20px;
   padding-right: 20px;
