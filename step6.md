@@ -84,11 +84,11 @@
       <div class="question">Wie lässt sich OER definieren?*</div>
       <div class="answers">
         <label>
-          <input type="radio" value="A">
+          <input type="radio" name="question1" value="A">
           Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
         <label>
-          <input type="radio" value="B">
+          <input type="radio" name="question1" value="B">
           Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
       </div>
