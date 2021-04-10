@@ -26,7 +26,7 @@
       }
     }
     /* explanation function */
-    function showExplanation(x = 0) {
+    function showExplanation(x) {
       if (x == 1) {
         explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
       }
@@ -72,11 +72,14 @@
     showSlide(currentSlide);
     // Event listeners
     submitButton.addEventListener('click', showResult);
-    previousButton.addEventListener("click", showExplanation);
-    previousButton.addEventListener("click", showPreviousSlide);
-    previousButton.addEventListener("click", showExplanation);
-    nextButton.addEventListener("click", showNextSlide);
-    nextButton.addEventListener("click", showExplanation);
+    previousButton.addEventListener("click", () => {    
+     showPreviousSlide();
+     showExplanation(0);    
+    });
+    nextButton.addEventListener("click", () => {    
+     showNextSlide();
+     showExplanation(0);    
+    });
   })();
 </script>
 
