@@ -16,6 +16,9 @@
           if (userAnswer === currentLabel.title){  
             currentLabel.style.color = "lightgreen";
           }
+          else {
+            currentLabel.style.color = "inherit";
+          }
         });
         showExplanation(1);      
       }
@@ -30,6 +33,9 @@
         answers.forEach( (currentLabel, labelNumber) => {
           if (userAnswer === currentLabel.title){  
             currentLabel.style.color = "red";
+          }
+          else {
+            currentLabel.style.color = "inherit";
           }
         });
         showExplanation(1);
