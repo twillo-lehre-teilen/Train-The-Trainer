@@ -1080,8 +1080,8 @@ button.quiz:hover{
 .slide{
   border: 2px solid green;
   position: relative;
-  left: 0px;
-  top: 0px;
+  left: 10px;
+  top: 10px;
   width: 100%;
   z-index: 1;
   opacity: 0;
