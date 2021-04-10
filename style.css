@@ -1053,6 +1053,12 @@ h1.quiz{
   margin-top: 15px;
   margin-bottom: 15px;
 }
+.solution {
+  display: none; 
+}
+.explanation {
+  display: none;
+}  
 button.quiz{
   display: inline-block;
   font-family: inherit;
@@ -1086,7 +1092,6 @@ button.quiz:hover{
 }
 .quiz-container{
   position: relative;
-  height: 300px;
   width: 100%;
   margin-top: 0px;
   text-align: center;
