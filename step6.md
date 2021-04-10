@@ -51,7 +51,7 @@
     }
     // Variables
     const slides = document.querySelectorAll("div.slide");
-    const explanationContainer = document.querySelector("div.explanation");
+    const explanationContainer = document.querySelector("div.explanationContainer");
     const pagination = document.getElementById('pagination');
     const previousButton = document.getElementById("previous");
     const nextButton = document.getElementById("next");
