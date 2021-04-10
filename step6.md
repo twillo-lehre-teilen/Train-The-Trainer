@@ -12,7 +12,7 @@
       if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
         slides[currentSlide].querySelector(".answers").querySelector(selector).style.color = 'lightgreen';
-        showExplanation();      
+        showExplanation(True);      
       }
       /* if answer is blank */
       else if (userAnswer == null){
@@ -22,12 +22,17 @@
       else{
         // color the answers red
         slides[currentSlide].querySelector(".answers").querySelector(selector).style.color = 'red';
-        showExplanation();
+        showExplanation(True);
       }
     }
     /* explanation function */
-    function showExplanation() {
-    explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
+    function showExplanation(bool) {
+      if (bool) {
+        explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
+      }
+      else {
+        explanationContainer.innerHTML = ``;
+      }
     }
     /* slide function */
     function showSlide(n) {
@@ -67,8 +72,8 @@
     showSlide(currentSlide);
     // Event listeners
     submitButton.addEventListener('click', showResult);
-    previousButton.addEventListener("click", showPreviousSlide);
-    nextButton.addEventListener("click", showNextSlide);
+    previousButton.addEventListener("click", showPreviousSlide, showExplanation(False));
+    nextButton.addEventListener("click", showNextSlide, showExplanation(False));
   })();
 </script>
 
