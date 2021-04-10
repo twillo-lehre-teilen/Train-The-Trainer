@@ -11,7 +11,12 @@
       /* if answer is correct */
       if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
-        slides[currentSlide].querySelector(".answers").style.color = 'lightgreen';
+        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+        answers.forEach( (currentLabel, labelNumber) => {
+          if (currentLabel.value == userAnswer) {
+            currentLabel.style.color = "lightgreen";
+          }
+        });
         showExplanation(1);      
       }
       /* if answer is blank */
@@ -105,11 +110,11 @@
     <div class="slide" name="multiple-choice">
       <div class="question">Test-Frage</div>
       <div class="answers">
-        <label>
+        <label value="A">
           <input type="radio" name="question2" value="A">
           Test-Antwort: A
         </label>
-        <label>
+        <label value="B">
           <input type="radio" name="question2" value="B">
           Test-Antwort: B
         </label>
