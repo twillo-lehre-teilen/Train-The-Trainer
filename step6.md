@@ -28,9 +28,7 @@
     }
     function showSlide(n) {
       slides[currentSlide].classList.remove('active-slide');
-      //slides[currentSlide].style.display = 'none';
       slides[n].classList.add('active-slide');
-      //slides[n].style.display = 'block';
       currentSlide = n;
       if(currentSlide === 0){
         previousButton.style.display = 'none';
@@ -75,30 +73,30 @@
   <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
   <div id="quiz" class="quiz-container">
     <div id="q1" class="slide" name="multiple-choice">
-      <div class="question">"Wie lässt sich OER definieren?\*"</div>
+      <div class="question">Wie lässt sich OER definieren?*</div>
       <div class="answers">
         <label>
           <input type="radio" name="question1" value="A">
-            "Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können."
+            Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
         <label>
           <input type="radio" name="question1" value="B">
-          "Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können."
+          Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
       </div>
-      <div class="solution">"A"</div>
-      <div class="explanation">"Weil A halt richtig ist."</div>
+      <div class="solution">A</div>
+      <div class="explanation">Weil A halt richtig ist.</div>
     </div>
     <div id="q2" class="slide" name="multiple-choice">
-      <div class="question">"Test-Frage"</div>
+      <div class="question">Test-Frage</div>
       <div class="answers">
         <label>
           <input type="radio" name="question2" value="A">
-          "Test-Antwort: A"
+          Test-Antwort: A
         </label>
         <label>
           <input type="radio" name="question2" value="B">
-          "Test-Antwort: B"
+          Test-Antwort: B
         </label>
       </div>
       <div class="solution">"A"</div>
