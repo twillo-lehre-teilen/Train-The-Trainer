@@ -11,7 +11,7 @@
       /* if answer is correct */
       if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
-        slides[currentSlide].querySelector(".answers").querySelector(input:checked).style.color = 'lightgreen';
+        slides[currentSlide].querySelector(".answers").querySelector("input:checked").style.color = 'lightgreen';
         showExplanation();      
       }
       /* if answer is blank */
