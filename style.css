@@ -1080,7 +1080,6 @@ button.quiz:hover{
 .slide{
   border: 2px solid green;
   position: absolute;
-  display: block;
   left: 0px;
   top: 0px;
   width: 90%;
