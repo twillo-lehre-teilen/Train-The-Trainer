@@ -72,6 +72,7 @@
     showSlide(currentSlide);
     // Event listeners
     submitButton.addEventListener('click', showResult);
+    previousButton.addEventListener("click", showExplanation);
     previousButton.addEventListener("click", showPreviousSlide);
     previousButton.addEventListener("click", showExplanation);
     nextButton.addEventListener("click", showNextSlide);
