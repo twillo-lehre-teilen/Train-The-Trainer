@@ -32,6 +32,7 @@
       }
       else if (x == 0) {
         explanationContainer.innerHTML = ``;
+        slides[currentSlide].querySelector(".answers").style.color = 'inherit';
       }
     }
     /* slide function */
