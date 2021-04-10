@@ -11,7 +11,7 @@
       /* if answer is correct */
       if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
-        slides[currentSlide].querySelector(".answers").style.color = 'lightgreen';
+        slides[currentSlide].querySelector(".answers").querySelector(input:checked).style.color = 'lightgreen';
         showExplanation();      
       }
       /* if answer is blank */
@@ -21,7 +21,7 @@
       /* if answer is wrong */
       else{
         // color the answers red
-        slides[currentSlide].querySelector(".answers").style.color = 'red';
+        slides[currentSlide].querySelector(".answers").querySelector(input:checked).style.color = 'red';
         showExplanation();
       }
     }
@@ -75,22 +75,22 @@
 <div class="quiz-frame">
   <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
   <div class="quiz-container">
-    <div id="q1" class="slide" name="multiple-choice">
+    <div class="slide" name="multiple-choice">
       <div class="question">Wie lässt sich OER definieren?*</div>
       <div class="answers">
         <label>
-          <input type="radio" name="question1" value="A">
+          <input type="radio" value="A">
           Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
         <label>
-          <input type="radio" name="question1" value="B">
+          <input type="radio" value="B">
           Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
       </div>
       <div class="solution">A</div>
       <div class="explanation">Darum.</div>
     </div>
-    <div id="q2" class="slide" name="multiple-choice">
+    <div class="slide" name="multiple-choice">
       <div class="question">Test-Frage</div>
       <div class="answers">
         <label>
