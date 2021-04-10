@@ -12,7 +12,7 @@
       if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
         slides[currentSlide].querySelector(".answers").querySelector(selector).style.color = 'lightgreen';
-        showExplanation(True);      
+        showExplanation(1);      
       }
       /* if answer is blank */
       else if (userAnswer == null){
@@ -22,12 +22,12 @@
       else{
         // color the answers red
         slides[currentSlide].querySelector(".answers").querySelector(selector).style.color = 'red';
-        showExplanation(True);
+        showExplanation(1);
       }
     }
     /* explanation function */
-    function showExplanation(bool) {
-      if (bool) {
+    function showExplanation(x) {
+      if (x == 1) {
         explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
       }
       else {
@@ -73,9 +73,9 @@
     // Event listeners
     submitButton.addEventListener('click', showResult);
     previousButton.addEventListener("click", showPreviousSlide);
-    previousButton.addEventListener("click", showExplanation(False));
+    previousButton.addEventListener("click", showExplanation(0));
     nextButton.addEventListener("click", showNextSlide);
-    nextButton.addEventListener("click", showExplanation(False));
+    nextButton.addEventListener("click", showExplanation(0));
   })();
 </script>
 
