@@ -82,7 +82,7 @@
         </label>
       </div>
       <div class="solution">A</div>
-      <div class="explanation">Weil A halt richtig ist.</div>
+      <div class="explanation">Darum.</div>
     </div>
     <div id="q2" class="slide" name="multiple-choice">
       <div class="question">Test-Frage</div>
@@ -96,8 +96,8 @@
           Test-Antwort: B
         </label>
       </div>
-      <div class="solution">"A"</div>
-      <div class="explanation">"Weil A halt richtig ist."</div>
+      <div class="solution">A</div>
+      <div class="explanation">Weil A halt richtig ist.</div>
     </div>
   </div>
   <div id="results" style="text-align:left"></div>
