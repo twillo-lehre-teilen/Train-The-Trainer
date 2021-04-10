@@ -4,64 +4,59 @@
 
 <script>
   (function(){
-    // Functions
-    function buildQuiz(){
-      // variable to store the HTML output
-      const output = [];
-      // for each question...
-      myQuestions.forEach(
-        (currentQuestion, questionNumber) => {
-          // variable to store the list of possible answers
-          const answers = [];
-          // and for each available answer...
-          for(letter in currentQuestion.answers){
-            // ...add an HTML radio button
-            answers.push(
-              `<label>
-                <input type="radio" name="question${questionNumber}" value="${letter}">
-                ${letter} :
-                ${currentQuestion.answers[letter]}
-              </label>`
-            );
-          }
-          // add this question and its answers to the output
-          output.push(
-            `<div class="slide">
-              <div class="question"> ${currentQuestion.question} </div>
-              <div class="answers"> ${answers.join("")} </div>
-            </div>`
-          );
-        }
-      );
-      // finally combine our output list into one string of HTML and put it on the page
-      quizContainer.innerHTML = output.join('');
-    }
+    /* result funtion */
     function showResult(){
-      // gather containers from our quiz
-      const answerContainers = quizContainer.querySelectorAll('.answers');
-      // find selected answer
-      const answerContainer = answerContainers[currentSlide];
-      const selector = `input[name=question${currentSlide}]:checked`;
+      /* find selected answer */
+      const answerContainer = slides[currentSlide].querySelector(".answers");
+      const selector = `input:checked`;
       const userAnswer = (answerContainer.querySelector(selector) || {}).value;
-      // if answer is correct
-      if(userAnswer === myQuestions[currentSlide].correctAnswer){
+      /* if answer is correct */
+      if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
-        answerContainers[currentSlide].style.color = 'lightgreen';
+        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+        answers.forEach( (currentLabel, labelNumber) => {
+          if (userAnswer === currentLabel.title){  
+            currentLabel.style.color = "lightgreen";
+          }
+          else {
+            currentLabel.style.color = "inherit";
+          }
+        });
+        showExplanation(1);      
       }
-      // if answer is blank
+      /* if answer is blank */
       else if (userAnswer == null){
-        // do nothing
+        /* do nothing */
       }
+      /* if answer is wrong */
       else{
         // color the answers red
-        answerContainers[currentSlide].style.color = 'red';
+        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+        answers.forEach( (currentLabel, labelNumber) => {
+          if (userAnswer === currentLabel.title){  
+            currentLabel.style.color = "red";
+          }
+          else {
+            currentLabel.style.color = "inherit";
+          }
+        });
+        showExplanation(1);
       }
-      // show explanation of current question
-      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${myQuestions[currentSlide].explanation}`;
     }
+    /* explanation function */
+    function showExplanation(x) {
+      if (x == 1) {
+        explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
+      }
+      else if (x == 0) {
+        explanationContainer.innerHTML = ``;
+        slides[currentSlide].querySelector(".answers").style.color = 'inherit';
+      }
+    }
+    /* slide function */
     function showSlide(n) {
-      slides[currentSlide].classList.remove('active-slide');
-      slides[n].classList.add('active-slide');
+      slides[currentSlide].style.display = 'none';
+      slides[n].style.display = 'block';
       currentSlide = n;
       if(currentSlide === 0){
         previousButton.style.display = 'none';
@@ -85,43 +80,63 @@
       showSlide(currentSlide - 1);
     }
     // Variables
-    const quizContainer = document.getElementById('quiz');
-    const resultsContainer = document.getElementById('results');
-    const submitButton = document.getElementById('submit');
+    const slides = document.querySelectorAll("div.slide");
+    const explanationContainer = document.querySelector("div.explanationContainer");
     const pagination = document.getElementById('pagination');
-    const myQuestions = [
-      {
-        question: "Wie lässt sich OER definieren?\*",
-        answers: {
-          a: "Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.",
-          b: "Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können."
-        },
-        correctAnswer: "a",
-        explanation: "abcdef"
-      }
-    ];
-    // Kick things off
-    buildQuiz();
-    // Pagination
     const previousButton = document.getElementById("previous");
     const nextButton = document.getElementById("next");
-    const slides = document.querySelectorAll(".slide");
+    const submitButton = document.getElementById('submit');
     let currentSlide = 0;
     // Show the first slide
     showSlide(currentSlide);
     // Event listeners
     submitButton.addEventListener('click', showResult);
-    previousButton.addEventListener("click", showPreviousSlide);
-    nextButton.addEventListener("click", showNextSlide);
+    previousButton.addEventListener("click", () => {    
+     showPreviousSlide();
+     showExplanation(0);    
+    });
+    nextButton.addEventListener("click", () => {    
+     showNextSlide();
+     showExplanation(0);    
+    });
   })();
 </script>
 
 <div class="quiz-frame">
   <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
   <div class="quiz-container">
-    <div id="quiz"></div>
+    <div class="slide" name="multiple-choice">
+      <div class="question">Wie lässt sich OER definieren?*</div>
+      <div class="answers">
+        <label title="A">
+          <input type="radio" name="question1" value="A">
+          Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
+        </label>
+        <label title="B">
+          <input type="radio" name="question1" value="B">
+          Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
+        </label>
+      </div>
+      <div class="solution">A</div>
+      <div class="explanation">Darum.</div>
+    </div>
+    <div class="slide" name="multiple-choice">
+      <div class="question">Test-Frage</div>
+      <div class="answers">
+        <label title="A">
+          <input type="radio" name="question2" value="A">
+          Test-Antwort: A
+        </label>
+        <label title="B">
+          <input type="radio" name="question2" value="B">
+          Test-Antwort: B
+        </label>
+      </div>
+      <div class="solution">A</div>
+      <div class="explanation">Weil A halt richtig ist.</div>
+    </div>
   </div>
-  <div id="results" style="text-align:left"></div>
+  <div class="explanationContainer"></div>
   <div style="display:block;text-align:center;">
     <button class="quiz" id="previous">Vorherige Frage</button>
     <button class="quiz" id="submit">Ergebnis anzeigen</button>
