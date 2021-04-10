@@ -21,7 +21,7 @@
       /* if answer is wrong */
       else{
         // color the answers red
-        slides[currentSlide].querySelector(".answers").querySelector(input:checked).style.color = 'red';
+        slides[currentSlide].querySelector(".answers").querySelector("input:checked").style.color = 'red';
         showExplanation();
       }
     }
