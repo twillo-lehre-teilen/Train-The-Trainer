@@ -1079,7 +1079,7 @@ button.quiz:hover{
 }
 .slide{
   border: 2px solid green;
-  position: relative;
+  position: absolute;
   left: 0px;
   top: 0px;
   width: 90%;
@@ -1097,7 +1097,6 @@ button.quiz:hover{
   width: 100%;
   margin-top: 0px;
   text-align: center;
-  background-color: #FAFAFC;
 }
 div.quiz-frame{
   border: 2px solid #0A1F40;
