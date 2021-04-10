@@ -1042,7 +1042,6 @@ h1.quiz{
   color: #0A1F40;
 }
 .answers {
-  border: 2px solid grey;
   margin-bottom: 15px;
   margin-top: 20px;
   text-align: left;
@@ -1050,7 +1049,6 @@ h1.quiz{
   color: #0A1F40;
 }
 .answers label{
-  border: 2px solid yellow;
   display: block;
   margin-top: 15px;
   margin-bottom: 15px;
@@ -1062,7 +1060,6 @@ h1.quiz{
   display: none;
 }
 .explanationContainer {
-  border: 2px solid blue;
   display: block;
   position: relative;
   padding-left: 20px;
@@ -1089,7 +1086,6 @@ button.quiz:hover{
   background-color: #439190;
 }
 .slide{
-  border: 2px solid green;
   display: none;
   position: relative;
   padding-left: 20px;
@@ -1097,7 +1093,6 @@ button.quiz:hover{
   width: 100%;
 }
 .quiz-container{
-  border: 2px solid red;
   position: relative;
   width: 100%;
   margin-top: 0px;
