@@ -26,7 +26,12 @@
       /* if answer is wrong */
       else{
         // color the answers red
-        slides[currentSlide].querySelector(".answers").style.color = 'red';
+        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+        answers.forEach( (currentLabel, labelNumber) => {
+          if (userAnswer === currentLabel.title){  
+            currentLabel.style.color = "red";
+          }
+        });
         showExplanation(1);
       }
     }
