@@ -1093,6 +1093,7 @@ button.quiz:hover{
 }
 .quiz-container{
   position: absolute;
+  height: auto;
   width: 100%;
   margin-top: 0px;
   text-align: center;
