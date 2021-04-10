@@ -22,7 +22,7 @@
         slides[currentSlide].querySelector(".answers").style.color = 'red';
       }
       // show explanation of current question
-      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
+      explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
     }
     function showSlide(n) {
       slides[currentSlide].style.display = 'none';
@@ -51,7 +51,7 @@
     }
     // Variables
     const slides = document.querySelectorAll("div.slide");
-    const resultsContainer = document.getElementById('results');
+    const explanationContainer = document.querySelector("div.explanation");
     const pagination = document.getElementById('pagination');
     const previousButton = document.getElementById("previous");
     const nextButton = document.getElementById("next");
@@ -100,7 +100,7 @@
       <div class="explanation">Weil A halt richtig ist.</div>
     </div>
   </div>
-  <div id="results" style="text-align:left"></div>
+  <div class="explanationContainer"></div>
   <div style="display:block;text-align:center;">
     <button class="quiz" id="previous">Vorherige Frage</button>
     <button class="quiz" id="submit">Ergebnis anzeigen</button>
