@@ -26,7 +26,7 @@
       }
     }
     /* explanation function */
-    function showExplanation(x) {
+    function showExplanation(x = 0) {
       if (x == 1) {
         explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
       }
@@ -73,9 +73,9 @@
     // Event listeners
     submitButton.addEventListener('click', showResult);
     previousButton.addEventListener("click", showPreviousSlide);
-    previousButton.addEventListener("click", showExplanation(0));
+    previousButton.addEventListener("click", showExplanation);
     nextButton.addEventListener("click", showNextSlide);
-    nextButton.addEventListener("click", showExplanation(0));
+    nextButton.addEventListener("click", showExplanation);
   })();
 </script>
 
