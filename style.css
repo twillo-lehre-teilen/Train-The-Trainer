@@ -1079,7 +1079,7 @@ button.quiz:hover{
 }
 .slide{
   position: absolute;
-  text-align: center;
+  display: block;
   left: 0px;
   top: 0px;
   width: 90%;
