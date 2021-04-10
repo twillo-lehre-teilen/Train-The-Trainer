@@ -4,16 +4,14 @@
   (function(){
     /* result funtion */
     function showResult(){
-      // gather containers from our quiz
-      const answerContainers = quizContainer.querySelectorAll('.answers');
       // find selected answer
-      const answerContainer = answerContainers[currentSlide];
-      const selector = `input[name=question${currentSlide}]:checked`;
+      const answerContainer = slides[currentSlide].querySelector(".answers");
+      const selector = `input:checked`;
       const userAnswer = (answerContainer.querySelector(selector) || {}).value;
       // if answer is correct
-      if(userAnswer === myQuestions[currentSlide].correctAnswer){
+      if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
-        answerContainers[currentSlide].style.color = 'lightgreen';
+        slides[currentSlide].querySelector(".answers").style.color = 'lightgreen';
       }
       // if answer is blank
       else if (userAnswer == null){
@@ -21,10 +19,10 @@
       }
       else{
         // color the answers red
-        answerContainers[currentSlide].style.color = 'red';
+        slides[currentSlide].querySelector(".answers").style.color = 'red';
       }
       // show explanation of current question
-      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${myQuestions[currentSlide].explanation}`;
+      resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
     }
     function showSlide(n) {
       slides[currentSlide].style.display = 'none';
@@ -76,7 +74,7 @@
       <div class="answers">
         <label>
           <input type="radio" name="question1" value="A">
-            Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
+          Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
         <label>
           <input type="radio" name="question1" value="B">
