@@ -13,7 +13,7 @@
         // color the answers green
         var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
         answers.forEach( (currentLabel, labelNumber) => {
-          if (currentLabel.value == userAnswer) {
+          if (currentLabel.value === userAnswer) {
             currentLabel.style.color = "lightgreen";
           }
         });
@@ -95,11 +95,11 @@
     <div class="slide" name="multiple-choice">
       <div class="question">Wie lässt sich OER definieren?*</div>
       <div class="answers">
-        <label>
+        <label value="A">
           <input type="radio" name="question1" value="A">
           Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
-        <label>
+        <label value="B">
           <input type="radio" name="question1" value="B">
           Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
