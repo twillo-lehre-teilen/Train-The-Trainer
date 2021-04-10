@@ -4,26 +4,32 @@
   (function(){
     /* result funtion */
     function showResult(){
-      // find selected answer
+      /* find selected answer */
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
       const userAnswer = (answerContainer.querySelector(selector) || {}).value;
-      // if answer is correct
+      /* if answer is correct */
       if(userAnswer === slides[currentSlide].querySelector(".solution").innerHTML){
         // color the answers green
         slides[currentSlide].querySelector(".answers").style.color = 'lightgreen';
+        showExplanation();      
       }
-      // if answer is blank
+      /* if answer is blank */
       else if (userAnswer == null){
-        // do nothing
+        /* do nothing */
       }
+      /* if answer is wrong */
       else{
         // color the answers red
         slides[currentSlide].querySelector(".answers").style.color = 'red';
+        showExplanation();
       }
-      // show explanation of current question
-      explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
     }
+    /* explanation function */
+    function showExplanation() {
+    explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
+    }
+    /* slide function */
     function showSlide(n) {
       slides[currentSlide].style.display = 'none';
       slides[n].style.display = 'block';
