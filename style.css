@@ -1084,8 +1084,7 @@ button.quiz:hover{
   padding-left: 20px;
   padding-right: 20px;
   width: 100%;
-  opacity: 1;
-  z-position: 2;
+
 }
 .quiz-container{
   border: 2px solid red;
