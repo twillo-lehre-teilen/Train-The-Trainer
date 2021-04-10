@@ -27,10 +27,8 @@
       resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${myQuestions[currentSlide].explanation}`;
     }
     function showSlide(n) {
-      slides[currentSlide].classList.remove('active-slide');
       slides[currentSlide].style.display = 'none';
-      slides[n].classList.add('active-slide');
-      slides[n].classList.style.display = 'inline-block';
+      slides[n].style.display = 'inline-block';
       currentSlide = n;
       if(currentSlide === 0){
         previousButton.style.display = 'none';
