@@ -1078,6 +1078,7 @@ button.quiz:hover{
   background-color: #439190;
 }
 .slide{
+  border: 2px solid green;
   position: absolute;
   display: block;
   left: 0px;
