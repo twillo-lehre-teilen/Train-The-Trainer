@@ -87,6 +87,21 @@
       <div class="solution">"A"</div>
       <div class="explanation">"Weil A halt richtig ist."</div>
     </div>
+    <div id="q2" class="slide" name="multiple-choice">
+      <div class="question">"Test-Frage"</div>
+      <div class="answers">
+        <label>
+          <input type="radio" name="question2" value="A">
+          "Test-Antwort: A"
+        </label>
+        <label>
+          <input type="radio" name="question2" value="B">
+          "Test-Antwort: B"
+        </label>
+      </div>
+      <div class="solution">"A"</div>
+      <div class="explanation">"Weil A halt richtig ist."</div>
+    </div>
   </div>
   <div id="results" style="text-align:left"></div>
   <div style="display:block;text-align:center;">
