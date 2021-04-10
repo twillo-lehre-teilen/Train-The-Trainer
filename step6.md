@@ -27,8 +27,10 @@
       resultsContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${myQuestions[currentSlide].explanation}`;
     }
     function showSlide(n) {
-      slides[currentSlide].classList.remove('active-slide');
-      slides[n].classList.add('active-slide');
+      //slides[currentSlide].classList.remove('active-slide');
+      slides[currentSlide].style.display = 'none';
+      //slides[n].classList.add('active-slide');
+      slides[n].style.display = 'block';
       currentSlide = n;
       if(currentSlide === 0){
         previousButton.style.display = 'none';
@@ -52,7 +54,6 @@
       showSlide(currentSlide - 1);
     }
     // Variables
-    const quizContainer = document.getElementById('quiz');
     const slides = document.querySelectorAll("div.slide");
     const resultsContainer = document.getElementById('results');
     const pagination = document.getElementById('pagination');
@@ -71,7 +72,7 @@
 
 <div class="quiz-frame">
   <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
-  <div id="quiz" class="quiz-container">
+  <div class="quiz-container">
     <div id="q1" class="slide" name="multiple-choice">
       <div class="question">Wie lässt sich OER definieren?*</div>
       <div class="answers">
