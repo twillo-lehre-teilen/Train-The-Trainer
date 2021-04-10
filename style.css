@@ -1094,8 +1094,7 @@ button.quiz:hover{
 }
 .quiz-container{
   border: 2px solid red;
-  display: block;
-  position: absolute;
+  position: relative;
   height: auto;
   width: 100%;
   margin-top: 0px;
