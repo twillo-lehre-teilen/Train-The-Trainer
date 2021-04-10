@@ -28,7 +28,7 @@
     }
     function showSlide(n) {
       slides[currentSlide].style.display = 'none';
-      slides[n].style.display = 'inline-block';
+      slides[n].style.display = 'block';
       currentSlide = n;
       if(currentSlide === 0){
         previousButton.style.display = 'none';
