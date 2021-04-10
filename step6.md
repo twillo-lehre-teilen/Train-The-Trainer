@@ -13,9 +13,7 @@
         // color the answers green
         var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
         answers.forEach( (currentLabel, labelNumber) => {
-          if (currentLabel.value === userAnswer) {
-            currentLabel.style.color = "lightgreen";
-          }
+          currentLabel.style.color = "lightgreen";
         });
         showExplanation(1);      
       }
