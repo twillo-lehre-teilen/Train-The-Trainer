@@ -10,7 +10,7 @@
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
       const userAnswers = (answerContainer.querySelectorAll(selector) || {});
-      slides[currentSlide].querySelector(".question").innerHTML = userAnswers.value;
+      slides[currentSlide].querySelector(".question").innerHTML = userAnswers[0].value;
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
       /* check all answers */
