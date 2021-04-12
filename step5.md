@@ -22,18 +22,18 @@
       /* check all answers */
       userAnswers.forEach( (currentAnswer, answerNumber) => {
         /* if answer is correct */
-        if(correctAnswers.includes(currentAnswer)){
+        if(correctAnswers.includes(currentAnswer.value)){
           /* color the answers green */
           var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
           answers.forEach( (currentLabel, labelNumber) => {
-            if (currentAnswer === currentLabel.title){  
+            if (currentAnswer.value === currentLabel.title){  
               currentLabel.style.color = "lightgreen";
             }
           });
           showExplanation(1);      
         }
         /* if answer is blank */
-        else if (currentAnswer == null){
+        else if (currentAnswer.value == null){
           /* do nothing */
         }
         /* if answer is wrong */
@@ -41,7 +41,7 @@
           /* color the answers red */
           var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
           answers.forEach( (currentLabel, labelNumber) => {
-            if (currentAnswer === currentLabel.title){  
+            if (currentAnswer.value === currentLabel.title){  
               currentLabel.style.color = "red";
             }
           });
