@@ -367,8 +367,8 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
    </div>
    <button class="accordion">
     <figure style="align:middle;">
-        <img src="images/richtig.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
+        <img src="images/richtig.svg" alt="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel" title="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel</figcaption>
     </figure></button>
    <div class="panel">
      <p><b>Korrekt!</b>
@@ -382,8 +382,8 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
    </div>
    <button class="accordion">
    <figure style="align:middle;">
-        <img src="images/Falsch2.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
+        <img src="images/Falsch2.svg" alt="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
      </figure></button>
    <div class="panel">
      <p><b>Fehlerhaft!</b>
