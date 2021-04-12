@@ -93,12 +93,12 @@
     // Event listeners
     submitButton.addEventListener('click', showResult);
     previousButton.addEventListener("click", () => {    
-     showPreviousSlide();
      showExplanation(0);    
+     showPreviousSlide();
     });
     nextButton.addEventListener("click", () => {    
-     showNextSlide();
-     showExplanation(0);    
+     showExplanation(0);  
+     showNextSlide();  
     });
   })();
 </script>
@@ -134,7 +134,7 @@
         </label>
         <label title="C">
           <input type="radio" name="question2" value="C">
-          kostenpflichtuge Nutzung
+          kostenpflichtige Nutzung
         </label>
       </div>
       <div class="solution">B</div>
