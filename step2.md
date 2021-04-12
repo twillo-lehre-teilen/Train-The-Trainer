@@ -394,6 +394,8 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
    </div>
 </div>
 
+<br>
+
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
     <br><br>
