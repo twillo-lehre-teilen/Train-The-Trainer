@@ -12,7 +12,7 @@
       const userAnswers = (answerContainer.querySelectorAll(selector) || {});
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
-      slides[currentSlide].querySelector(".question").innerHTML = userAnswers[0].value;
+      slides[currentSlide].querySelector(".question").innerHTML = correctAnswers[0];
       /* check all answers */
       usersAnswers.forEach( (currentAnswer, answerNumber) => {
         /* if answer is correct */
