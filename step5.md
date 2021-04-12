@@ -12,9 +12,8 @@
       const userAnswers = (answerContainer.querySelectorAll(selector) || {});
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
-      slides[currentSlide].querySelector(".question").innerHTML = correctAnswers[0];
       /* check all answers */
-      usersAnswers.forEach( (currentAnswer, answerNumber) => {
+      userAnswers.forEach( (currentAnswer, answerNumber) => {
         /* if answer is correct */
         if(correctAnswers.includes(currentAnswer.value)){
           /* color the answers green */
