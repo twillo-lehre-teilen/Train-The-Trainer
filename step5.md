@@ -7,6 +7,12 @@
     /* result funtion */
     function showResult(){
       /* reset previous selections */
+      var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+      answers.forEach( (currentLabel, labelNumber) => {
+        if (1 == 1){  
+          currentLabel.style.color = "yellow";
+        }
+      });
       /* find selected answers */
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
