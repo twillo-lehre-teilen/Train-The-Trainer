@@ -6,6 +6,8 @@
   (function(){
     /* result funtion */
     function showResult(){
+      /* reset previous selections */
+      slides[currentSlide].querySelector(".answers").style.color = 'inherit';
       /* find selected answers */
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
@@ -22,9 +24,6 @@
             if (currentAnswer.value === currentLabel.title){  
               currentLabel.style.color = "lightgreen";
             }
-            else {
-              currentLabel.style.color = "inherit";
-            }
           });
           showExplanation(1);      
         }
@@ -39,9 +38,6 @@
           answers.forEach( (currentLabel, labelNumber) => {
             if (currentAnswer.value === currentLabel.title){  
               currentLabel.style.color = "red";
-            }
-            else {
-              currentLabel.style.color = "inherit";
             }
           });
           showExplanation(1);
