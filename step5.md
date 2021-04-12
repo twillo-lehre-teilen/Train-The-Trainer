@@ -15,7 +15,7 @@
       /* check all answers */
       usersAnswers.forEach( (currentAnswer, answerNumber) => {
         /* if answer is correct */
-        if(correctAnswers.includes("A")){
+        if(correctAnswers[0] === currentAnswer.value){
           /* color the answers green */
           var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
           answers.forEach( (currentLabel, labelNumber) => {
