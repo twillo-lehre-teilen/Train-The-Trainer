@@ -391,6 +391,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
        In diesem Lizenzhinweis fehlt eine Angabe, um welche <b>Lizenz und Lizenzversion</b> es sich genau handelt. Außerdem fehlt ein <b>Link zu dem Lizenztext</b>.
      </p>
    </div>
+</div>
 
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
