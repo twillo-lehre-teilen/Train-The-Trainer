@@ -68,15 +68,17 @@
           userAnswers.forEach( (currentAnswer, answerNumber) => {
                list.push(currentAnswer.value);
           });
-          var wrong = correctAnswers.filter( (value, index) => {return !list.includes(value)});
-          var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
-          wrong.forEach( (wrongAnswer, answerNumber) => {
-            answers.forEach( (currentLabel, labelNumber) => {
-              if (wrongAnswer === currentLabel.title){  
-                currentLabel.style.color = "red";
-              }
+          if (list.length > 0){
+            var wrong = correctAnswers.filter( (value, index) => {return !list.includes(value)});
+            var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+            wrong.forEach( (wrongAnswer, answerNumber) => {
+              answers.forEach( (currentLabel, labelNumber) => {
+                if (wrongAnswer === currentLabel.title){  
+                  currentLabel.style.color = "red";
+                }
+              });
             });
-          });
+          }
         }
       }
     }
