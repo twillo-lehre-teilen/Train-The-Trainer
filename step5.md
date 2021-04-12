@@ -7,10 +7,8 @@
     /* result funtion */
     function showResult(){
       /* reset previous selections */
-      slides[currentSlide].querySelector(".answers").querySelectorAll("label").forEach( (currentLabel, labelNumber) => {
-        if (1 == 1){  
+      slides[currentSlide].querySelector(".answers").querySelectorAll("label").forEach( (currentLabel, labelNumber) => { 
           currentLabel.style.color = "#0A1F40";
-        }
       });
       /* find selected answers */
       const answerContainer = slides[currentSlide].querySelector(".answers");
