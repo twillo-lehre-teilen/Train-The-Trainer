@@ -17,6 +17,7 @@
       userAnswers.forEach( (currentAnswer, answerNumber) => {
         userAnswers[answerNumber] = currentAnswer.value;
       });
+      slides[currentSlide].querySelector(".question").innerHTML = userAnswers[0];
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
       /* check all answers */
