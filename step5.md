@@ -52,7 +52,8 @@
         userAnswers.forEach( (currentAnswer, answerNumber) => {
              list.push(currentAnswer.value);
         });
-        slides[currentSlide].querySelector(".question").innerHTML = correctAnswers;
+        var wrong = correctAnswers.filter( (value, index) => {return !list.includes(value)});
+        slides[currentSlide].querySelector(".question").innerHTML = wrong;
         correctAnswers.forEach( (correctAnswer, answerNumber) => {
           var checked = False;
           if (!list.includes(correctAnswers)) {
