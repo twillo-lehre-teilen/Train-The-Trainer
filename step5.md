@@ -10,12 +10,13 @@
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
       const userAnswers = (answerContainer.querySelectorAll(selector) || {});
+      slides[currentSlide].querySelector(".question").innerHTML = userAnswers;
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
       /* check all answers */
       usersAnswers.forEach( (currentAnswer, answerNumber) => {
         /* if answer is correct */
-        if(correctAnswers[0] === currentAnswer.value){
+        if(correctAnswers.includes(currentAnswer.value)){
           /* color the answers green */
           var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
           answers.forEach( (currentLabel, labelNumber) => {
