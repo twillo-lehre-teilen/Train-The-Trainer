@@ -48,10 +48,11 @@
       });
       /* if multiple answers correct, mark unchecked correct answers red */
       if (correctAnswers.length > 1) {
-        let list = [];
+        vR list = [];
         userAnswers.forEach( (currentAnswer, answerNumber) => {
              list.push(currentAnswer.value);
         });
+        slides[currentSlide].querySelector(".question").innerHTML = list[0];
         correctAnswers.forEach( (currentAnswer, answerNumber) => {
           if (!list.includes(currentAnswers)) {
             answers.forEach( (currentLabel, labelNumber) => {
