@@ -353,7 +353,8 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
 <a aria-describedby="Link zum Tullu Quiz" href="https://wordwall.net/resource/13396594">https://wordwall.net/resource/13396594</a>
 
 <b>Erläuterungen zu den Lösungen</b>
-<div >
+
+<div>
    <button class="accordion">
      <figure style="align:middle;">
         <img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
