@@ -1,12 +1,1 @@
 <h1 style="color:#800080">Schritt 4: OER in Systemen abbilden</h1>
-
-  <label for="fname">Lösung:</label>
-  <input type="text" id="test" name="test">
-  <script>
-  let answer = document.querySelector("#test").value;
-  if (answer === hi){
-    
-  }else{
-  
-  }
-  </script>
