@@ -48,12 +48,11 @@
       /* if multiple answers correct, mark unchecked correct answers red */
       if (correctAnswers.length > 1) {
         var list = [];
-        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
         userAnswers.forEach( (currentAnswer, answerNumber) => {
              list.push(currentAnswer.value);
         });
         var wrong = correctAnswers.filter( (value, index) => {return !list.includes(value)});
-        slides[currentSlide].querySelector(".question").innerHTML = wrong;
+        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
         wrong.forEach( (wrongAnswer, answerNumber) => {
           answers.forEach( (currentLabel, labelNumber) => {
             if (wrongAnswer === currentLabel.title){  
