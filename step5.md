@@ -13,7 +13,7 @@
           slides[currentSlide].querySelector(".answers").querySelector("label").style.color = "lightgreen";
           showExplanation(1);   
         }
-        else if(answer == null) {
+        else if(answer == "") {
           /* do nothing */
         }
         else {
