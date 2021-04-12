@@ -7,12 +7,10 @@
     /* result funtion */
     function showResult(){
       /* for input questions */
-      slides[currentSlides].querySelector(".question").innerHTML = "abc";
       if(true){
-        slides[currentSlides].querySelector(".question").innerHTML = "def";
-        let answer = document.querySelector("#test").value;
-        //slides[currentSlides].querySelector(".question").innerHTML = document.querySelector("#test").text;
-        if (answer == slides[currentSlides].querySelector(".solution").innerHTML){
+        slides[currentSlide].querySelector(".question").innerHTML = "def";
+        var answer = document.getElementById("test").value;
+        if (answer == slides[currentSlide].querySelector(".solution").innerHTML){
           slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = "lightgreen";
           showExplanation(1);   
         }
