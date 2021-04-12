@@ -52,7 +52,6 @@
         userAnswers.forEach( (currentAnswer, answerNumber) => {
              list.push(currentAnswer.value);
         });
-        slides[currentSlide].querySelector(".question").innerHTML = list[0];
         correctAnswers.forEach( (correctAnswer, answerNumber) => {
           if (!list.includes(correctAnswers)) {
             answers.forEach( (currentLabel, labelNumber) => {
