@@ -6,20 +6,20 @@
   (function(){
     /* result funtion */
     function showResult(){
-      /* for input questions */
+      /* for single-input questions */
       if(slides[currentSlide].title == "input"){
         //var answer = document.getElementById("test").value;
         var answer = slides[currentSlide].querySelector("input").value;
         slides[currentSlide].querySelector(".question").innerHTML = answer;
-        if (answer == slides[currentSlide].querySelector(".solution").innerHTML){
-          slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = "lightgreen";
+        if (answer.toLowerCase() == slides[currentSlide].querySelector(".solution").innerHTML.toLowerCase()){
+          slides[currentSlide].querySelector(".answers").querySelector("label").style.color = "lightgreen";
           showExplanation(1);   
         }
         else if(answer == null) {
           /* do nothing */
         }
         else {
-          slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = "red";
+          slides[currentSlide].querySelector(".answers").querySelector("label").style.color = "red";
           showExplanation(1);
         }
       }
