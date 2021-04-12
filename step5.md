@@ -7,8 +7,9 @@
     /* result funtion */
     function showResult(){
       /* for input questions */
+      slides[currentSlides].querySelector(".question").innerHTML = "abc";
       if(slides[currentSlide].title == "input"){
-        slides[currentSlides].querySelector(".question").innerHTML = "abc";
+        slides[currentSlides].querySelector(".question").innerHTML = "def";
         let answer = document.querySelector("#test").value;
         //slides[currentSlides].querySelector(".question").innerHTML = document.querySelector("#test").text;
         if (answer == slides[currentSlides].querySelector(".solution").innerHTML){
