@@ -7,7 +7,7 @@
     /* result funtion */
     function showResult(){
       /* reset previous selections */
-      slides[currentSlide].querySelector(".answers").style.color = 'inherit';
+      slides[currentSlide].querySelector(".answers").style.color = "yellow";
       /* find selected answers */
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
