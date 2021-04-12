@@ -249,19 +249,19 @@
       <div class="solution">B</div>
       <div class="explanation">Der*die Urheberin kann sich auch bei der Wahl einer offenen Lizenz bestimmte Rechte an ihrem*seinen Werk vorbehalten. Durch eine offene Lizenz werden lediglich Nutzungsrechte vergeben. Das Urheberrecht an sich ist unveräußerlich. Wählt die*der Urheber*in jedoch die Lizenz CC 0 (keine Rechte vorbehalten), verzichtet er*sie bewusst auf ihre*seine Rechte an dem Werk und bringt es in die Public Domain ein.</div>
     </div>
-    <div class="slide" title="single-choice">
+    <div class="slide" title="multiple-choice">
       <div class="question">Welche Vorteile haben offene Lernmaterialien gegenüber restriktiv geschützten?*</div>
       <div class="answers">
         <label title="A">
-          <input type="radio" name="question9" value="A">
+          <input type="checkbox" name="question9" value="A">
           Sie können nachgenutzt werden
         </label>
         <label title="B">
-          <input type="radio" name="question9" value="B">
+          <input type="checkbox" name="question9" value="B">
           Sie sind kostenlos
         </label>
         <label title="C">
-          <input type="radio" name="question9" value="C">
+          <input type="checkbox" name="question9" value="C">
           Auf Quellenangaben kann verzichtet werden
         </label>
       </div>
