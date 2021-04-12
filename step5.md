@@ -10,7 +10,7 @@
       var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
       answers.forEach( (currentLabel, labelNumber) => {
         if (1 == 1){  
-          currentLabel.style.color = "yellow";
+          currentLabel.style.color = "0A1F40";
         }
       });
       /* find selected answers */
@@ -56,8 +56,11 @@
       }
       else if (x == 0) {
         explanationContainer.innerHTML = ``;
-        slides[currentSlide].querySelector(".answers").querySelectorALL("label").forEach( (currentLabel, labelNumber) => {
-          currentLabel.style.color = "#0A1F40";
+        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+        answers.forEach( (currentLabel, labelNumber) => {
+          if (1 == 1){  
+            currentLabel.style.color = "0A1F40";
+          }
         });
       }
     }
