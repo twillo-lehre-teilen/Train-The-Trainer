@@ -14,9 +14,6 @@
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
       const userAnswers = (answerContainer.querySelectorAll(selector) || {});
-      userAnswers.forEach( (currentAnswer, answerNumber) => {
-        userAnswers[answerNumber] = currentAnswer.value;
-      });
       slides[currentSlide].querySelector(".question").innerHTML = userAnswers[0];
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
@@ -51,14 +48,18 @@
       });
       /* if multiple answers correct, mark unchecked correct answers red */
       if (correctAnswers.length > 1) {
+        let list = [];
+        userAnswers.forEach( (currentAnswer, answerNumber) => {
+             list.push(currentAnswer.value);
+        });
         correctAnswers.forEach( (currentAnswer, answerNumber) => {
-          if (!userAnswers.includes(currentAnswers)) {
+          if (!list.includes(currentAnswers)) {
             answers.forEach( (currentLabel, labelNumber) => {
               if (currentAnswer === currentLabel.title){  
                 currentLabel.style.color = "red";
               }
             });
-          }
+          }  
         });
       }
     }
