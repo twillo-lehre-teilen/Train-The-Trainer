@@ -48,7 +48,7 @@
       });
       /* if multiple answers correct, mark unchecked correct answers red */
       if (correctAnswers.length > 1) {
-        vR list = [];
+        var list = [];
         userAnswers.forEach( (currentAnswer, answerNumber) => {
              list.push(currentAnswer.value);
         });
