@@ -6,20 +6,20 @@
   (function(){
     /* result funtion */
     function showResult(){
-      /* find selected answer */
+      /* find selected answers */
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
-      const userAnswers = (answerContainer.querySelectorAll(selector) || {}).value;
+      const userAnswers = (answerContainer.querySelectorAll(selector) || {});
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
       /* check all answers */
       usersAnswers.forEach( (currentAnswer, answerNumber) => {
         /* if answer is correct */
-        if(correctAnswers.includes(currentAnswer)){
+        if(correctAnswers.includes(currentAnswer.value)){
           /* color the answers green */
           var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
           answers.forEach( (currentLabel, labelNumber) => {
-            if (currentAnswer === currentLabel.title){  
+            if (currentAnswer.value === currentLabel.title){  
               currentLabel.style.color = "lightgreen";
             }
             else {
@@ -29,7 +29,7 @@
           showExplanation(1);      
         }
         /* if answer is blank */
-        else if (currentAnswer == null){
+        else if (currentAnswer.value == null){
           /* do nothing */
         }
         /* if answer is wrong */
@@ -37,7 +37,7 @@
           /* color the answers red */
           var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
           answers.forEach( (currentLabel, labelNumber) => {
-            if (currentAnswer === currentLabel.title){  
+            if (currentAnswer.value === currentLabel.title){  
               currentLabel.style.color = "red";
             }
             else {
