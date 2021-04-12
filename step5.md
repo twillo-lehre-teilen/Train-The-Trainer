@@ -53,6 +53,7 @@
              list.push(currentAnswer.value);
         });
         correctAnswers.forEach( (correctAnswer, answerNumber) => {
+          var checked = False;
           if (!list.includes(correctAnswers)) {
             answers.forEach( (currentLabel, labelNumber) => {
               if (correctAnswer === currentLabel.title){  
@@ -214,15 +215,15 @@
       <div class="question">Welche Vorteile haben offene Lernmaterialien gegenüber restriktiv geschützten?*</div>
       <div class="answers">
         <label title="A">
-          <input type="radio" name="question1" value="A">
+          <input type="radio" name="question6" value="A">
           Sie können nachgenutzt werden
         </label>
         <label title="B">
-          <input type="radio" name="question1" value="B">
+          <input type="radio" name="question6" value="B">
           Sie sind kostenlos
         </label>
         <label title="C">
-          <input type="radio" name="question1" value="C">
+          <input type="radio" name="question6" value="C">
           Auf Quellenangaben kann verzichtet werden
         </label>
       </div>
