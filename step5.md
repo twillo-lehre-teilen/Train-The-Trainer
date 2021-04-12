@@ -8,7 +8,7 @@
     function showResult(){
       /* for input questions */
       if(slides[currentSlide].title == "input"){
-        let answer = slides[currentSlides].querySelector(".answers").querySelector("input").Text;
+        let answer = document.querySelector("#test").value;
         if (answer == slides[currentSlides].querySelector(".solution").innerHTML){
           slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = "lightgreen";
           showExplanation(1);   
@@ -147,9 +147,9 @@
     <div class="slide" title="input">
       <div class="question">Welche Organisation prägte den Begriff "OER" erstmalig?*</div>
       <div class="answers">
-        <label for="fname">
+        <label>
           Lösung: 
-          <input type="text" name="question1">
+          <input type="text" id="test" name="question1">
         </label>
       </div>
       <div class="solution">UNESCO</div>
