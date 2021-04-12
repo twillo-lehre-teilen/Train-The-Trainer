@@ -356,8 +356,8 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
 <div >
    <button class="accordion">
      <figure style="align:middle;">
-     <img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
-     <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
+        <img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
      </figure></button>
    <div class="panel">
      <p><b>Fehlerhaft!</b>
@@ -365,7 +365,11 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
        In diesem Lizenzhinweis fehlt eine Angabe der <b>Lizenzversion</b>. Außerdem wurde weder ein <b>Link zu dem Lizenztext</b>, noch ein <b>Link zum Ursprungsort</b> der Grafik hinterlegt.
      </p>
    </div>
-   <button class="accordion">Wissenswertes zu der Lizenz <b>CC 0</b></button>
+   <button class="accordion">
+    <figure style="align:middle;">
+        <img src="images/richtig.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
+    </figure></button>
    <div class="panel">
      <p><b>Korrekt!</b>
        <br><br>
@@ -376,7 +380,11 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
        <b><a aria-describedby="Link zu Twillo" href="http://www.twillo.de/">Grafik</a> von twillo, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></b>
      </p>
    </div>
-   <button class="accordion">Wissenswertes zu der Lizenz <b>CC 0</b></button>
+   <button class="accordion">
+   <figure style="align:middle;">
+        <img src="images/Falsch2.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
+     </figure></button>
    <div class="panel">
      <p><b>Fehlerhaft!</b>
      <br><br>
