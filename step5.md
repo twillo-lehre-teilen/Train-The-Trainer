@@ -6,8 +6,9 @@
   (function(){
     /* result funtion */
     function showResult(){
+      /* for input questions */
       if(slides[currentSlide].title == "input"){
-        let answer = slides[currentSlides].querySelector(".answers").querySelector("input").value;
+        let answer = slides[currentSlides].querySelector(".answers").querySelector("input").Text;
         if (answer == slides[currentSlides].querySelector(".solution").innerHTML){
           slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = "lightgreen";
           showExplanation(1);   
@@ -20,6 +21,7 @@
           showExplanation(1);
         }
       }
+      /* for single-/multiple-choice questions */
       else {
         /* reset previous selections */
         slides[currentSlide].querySelector(".answers").querySelectorAll("label").forEach( (currentLabel, labelNumber) => { 
