@@ -8,8 +8,9 @@
     function showResult(){
       /* for input questions */
       if(slides[currentSlide].title == "input"){
+        slides[currentSlides].querySelector(".question").innerHTML = "abc";
         let answer = document.querySelector("#test").value;
-        slides[currentSlides].querySelector(".question").innerHTML = document.querySelector("#test").text;
+        //slides[currentSlides].querySelector(".question").innerHTML = document.querySelector("#test").text;
         if (answer == slides[currentSlides].querySelector(".solution").innerHTML){
           slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = "lightgreen";
           showExplanation(1);   
