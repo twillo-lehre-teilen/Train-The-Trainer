@@ -7,10 +7,6 @@
     /* result funtion */
     function showResult(){
       /* reset previous selections */
-      var answers = slides[currentSlide].querySelector(".answers").querySelectorALL("label")
-      answers.forEach( (currentLabel, labelNumber) => {
-        currentLabel.style.color = "yellow";
-      });
       /* find selected answers */
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
@@ -22,7 +18,7 @@
         /* if answer is correct */
         if(correctAnswers.includes(currentAnswer.value)){
           /* color the answers green */
-          //var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+          var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
           answers.forEach( (currentLabel, labelNumber) => {
             if (currentAnswer.value === currentLabel.title){  
               currentLabel.style.color = "lightgreen";
