@@ -9,41 +9,44 @@
       /* find selected answer */
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
-      const userAnswer = (answerContainer.querySelector(selector) || {}).value;
+      const userAnswers = (answerContainer.querySelectorAll(selector) || {}).value;
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
-      /* if answer is correct */
-      if(correctAnswers.includes(userAnswer)){
-        /* color the answers green */
-        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
-        answers.forEach( (currentLabel, labelNumber) => {
-          if (userAnswer === currentLabel.title){  
-            currentLabel.style.color = "lightgreen";
-          }
-          else {
-            currentLabel.style.color = "inherit";
-          }
-        });
-        showExplanation(1);      
-      }
-      /* if answer is blank */
-      else if (userAnswer == null){
-        /* do nothing */
-      }
-      /* if answer is wrong */
-      else{
-        /* color the answers red */
-        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
-        answers.forEach( (currentLabel, labelNumber) => {
-          if (userAnswer === currentLabel.title){  
-            currentLabel.style.color = "red";
-          }
-          else {
-            currentLabel.style.color = "inherit";
-          }
-        });
-        showExplanation(1);
-      }
+      /* check all answers */
+      usersAnswers.forEach( (currentAnswer, answerNumber) => {
+        /* if answer is correct */
+        if(correctAnswers.includes(currentAnswer)){
+          /* color the answers green */
+          var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+          answers.forEach( (currentLabel, labelNumber) => {
+            if (currentAnswer === currentLabel.title){  
+              currentLabel.style.color = "lightgreen";
+            }
+            else {
+              currentLabel.style.color = "inherit";
+            }
+          });
+          showExplanation(1);      
+        }
+        /* if answer is blank */
+        else if (currentAnswer == null){
+          /* do nothing */
+        }
+        /* if answer is wrong */
+        else{
+          /* color the answers red */
+          var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+          answers.forEach( (currentLabel, labelNumber) => {
+            if (currentAnswer === currentLabel.title){  
+              currentLabel.style.color = "red";
+            }
+            else {
+              currentLabel.style.color = "inherit";
+            }
+          });
+          showExplanation(1);
+        }
+      });
     }
     /* explanation function */
     function showExplanation(x) {
@@ -160,15 +163,15 @@
       <div class="question">Was muss bei der Nutzung eines Bilds beachtet werden, welches unter der Creative-Commons-Lizenz "CC BY SA" steht?*</div>
       <div class="answers">
         <label title="A">
-          <input type="radio" name="question4" value="A">
+          <input type="checkbox" name="question4" value="A">
           Urheber*inen müssen angeben werden
         </label>
         <label title="B">
-          <input type="radio" name="question4" value="B">
+          <input type="checkbox" name="question4" value="B">
           Bei einer Veränderung und anschließenden Wiederveröffentlichung des Bildes, muss es unter die gleiche Lizenz gestellt werden, wie das Original
         </label>
         <label title="C">
-          <input type="radio" name="question4" value="C">
+          <input type="checkbox" name="question4" value="C">
           Die Lizenz muss angegeben und der Lizenztext verlinkt werden
         </label>
       </div>
