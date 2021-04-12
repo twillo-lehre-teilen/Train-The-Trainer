@@ -51,12 +51,12 @@
       /* if multiple answers correct, mark unchecked correct answers red */
       if (correctAnswers.length > 1) {
         correctAnswers.forEach( (currentAnswer, answerNumber) => {
-          if (userAnswers.includes(currentAnswers)) {
+          if (!userAnswers.includes(currentAnswers)) {
             answers.forEach( (currentLabel, labelNumber) => {
-            if (currentAnswer === currentLabel.title){  
-              currentLabel.style.color = "red";
-            }
-          });
+              if (currentAnswer === currentLabel.title){  
+                currentLabel.style.color = "red";
+              }
+            });
           }
         });
       }
