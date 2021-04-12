@@ -48,12 +48,13 @@
       /* if multiple answers correct, mark unchecked correct answers red */
       if (correctAnswers.length > 1) {
         var list = [];
+        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
         userAnswers.forEach( (currentAnswer, answerNumber) => {
              list.push(currentAnswer.value);
         });
         slides[currentSlide].querySelector(".question").innerHTML = list[0];
         correctAnswers.forEach( (correctAnswer, answerNumber) => {
-          if (list.includes(correctAnswers)) {
+          if (!list.includes(correctAnswers)) {
             answers.forEach( (currentLabel, labelNumber) => {
               if (correctAnswer === currentLabel.title){  
                 currentLabel.style.color = "red";
