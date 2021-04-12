@@ -52,6 +52,7 @@
         userAnswers.forEach( (currentAnswer, answerNumber) => {
              list.push(currentAnswer.value);
         });
+        slides[currentSlide].querySelector(".question").innerHTML = list;
         correctAnswers.forEach( (correctAnswer, answerNumber) => {
           var checked = False;
           if (!list.includes(correctAnswers)) {
