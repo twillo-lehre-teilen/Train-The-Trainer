@@ -7,7 +7,7 @@
     /* result funtion */
     function showResult(){
       /* reset previous selections */
-      slides[currentSlide].querySelector(".answers").style.color = "#0A1F40";
+      slides[currentSlide].querySelector(".answers").querySelectorALL("label").style.color = "#0A1F40";
       /* find selected answers */
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
@@ -51,7 +51,7 @@
       }
       else if (x == 0) {
         explanationContainer.innerHTML = ``;
-        slides[currentSlide].querySelector(".answers").style.color = '#0A1F40';
+        slides[currentSlide].querySelector(".answers").querySelectorALL("label").style.color = '#0A1F40';
       }
     }
     /* slide function */
