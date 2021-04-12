@@ -6,60 +6,76 @@
   (function(){
     /* result funtion */
     function showResult(){
-      /* reset previous selections */
-      slides[currentSlide].querySelector(".answers").querySelectorAll("label").forEach( (currentLabel, labelNumber) => { 
-          currentLabel.style.color = "#0A1F40";
-      });
-      /* find selected answers */
-      const answerContainer = slides[currentSlide].querySelector(".answers");
-      const selector = `input:checked`;
-      const userAnswers = (answerContainer.querySelectorAll(selector) || {});
-      /* get correct answers */
-      correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
-      /* check all answers */
-      userAnswers.forEach( (currentAnswer, answerNumber) => {
-        /* if answer is correct */
-        if(correctAnswers.includes(currentAnswer.value)){
-          /* color the answers green */
-          var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
-          answers.forEach( (currentLabel, labelNumber) => {
-            if (currentAnswer.value === currentLabel.title){  
-              currentLabel.style.color = "lightgreen";
-            }
-          });
-          showExplanation(1);      
+      if(slides[currentSlide].title == "input"){
+        let answer = slides[currentSlides].querySelector(".answers").querySelector("input").value;
+        if (answer == slides[currentSlides].querySelector(".solution").innerHTML){
+          slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = "lightgreen";
+          showExplanation(1);   
         }
-        /* if answer is blank */
-        else if (currentAnswer.value == null){
+        else if(answer == null) {
           /* do nothing */
         }
-        /* if answer is wrong */
-        else{
-          /* color the answers red */
-          var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
-          answers.forEach( (currentLabel, labelNumber) => {
-            if (currentAnswer.value === currentLabel.title){  
-              currentLabel.style.color = "red";
-            }
-          });
+        else {
+          slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = "red";
           showExplanation(1);
         }
-      });
-      /* if multiple answers correct, mark unchecked correct answers red */
-      if (correctAnswers.length > 1) {
-        var list = [];
+      }
+      else {
+        /* reset previous selections */
+        slides[currentSlide].querySelector(".answers").querySelectorAll("label").forEach( (currentLabel, labelNumber) => { 
+            currentLabel.style.color = "#0A1F40";
+        });
+        /* find selected answers */
+        const answerContainer = slides[currentSlide].querySelector(".answers");
+        const selector = `input:checked`;
+        const userAnswers = (answerContainer.querySelectorAll(selector) || {});
+        /* get correct answers */
+        correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
+        /* check all answers */
         userAnswers.forEach( (currentAnswer, answerNumber) => {
-             list.push(currentAnswer.value);
+          /* if answer is correct */
+          if(correctAnswers.includes(currentAnswer.value)){
+            /* color the answers green */
+            var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+            answers.forEach( (currentLabel, labelNumber) => {
+              if (currentAnswer.value === currentLabel.title){  
+                currentLabel.style.color = "lightgreen";
+              }
+            });
+            showExplanation(1);      
+          }
+          /* if answer is blank */
+          else if (currentAnswer.value == null){
+            /* do nothing */
+          }
+          /* if answer is wrong */
+          else{
+            /* color the answers red */
+            var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+            answers.forEach( (currentLabel, labelNumber) => {
+              if (currentAnswer.value === currentLabel.title){  
+                currentLabel.style.color = "red";
+              }
+            });
+            showExplanation(1);
+          }
         });
-        var wrong = correctAnswers.filter( (value, index) => {return !list.includes(value)});
-        var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
-        wrong.forEach( (wrongAnswer, answerNumber) => {
-          answers.forEach( (currentLabel, labelNumber) => {
-            if (wrongAnswer === currentLabel.title){  
-              currentLabel.style.color = "red";
-            }
+        /* if multiple-choice: mark unchecked correct answers red */
+        if (correctAnswers.length > 1) {
+          var list = [];
+          userAnswers.forEach( (currentAnswer, answerNumber) => {
+               list.push(currentAnswer.value);
           });
-        });
+          var wrong = correctAnswers.filter( (value, index) => {return !list.includes(value)});
+          var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+          wrong.forEach( (wrongAnswer, answerNumber) => {
+            answers.forEach( (currentLabel, labelNumber) => {
+              if (wrongAnswer === currentLabel.title){  
+                currentLabel.style.color = "red";
+              }
+            });
+          });
+        }
       }
     }
     /* explanation function */
@@ -126,7 +142,18 @@
 <div class="quiz-frame">
   <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
   <div class="quiz-container">
-    <div class="slide" name="multiple-choice">
+    <div class="slide" title="input">
+      <div class="question">Welche Organisation prägte den Begriff "OER" erstmalig?*</div>
+      <div class="answers">
+        <label for="fname">
+          Lösung: 
+          <input type="text" name="question1">
+        </label>
+      </div>
+      <div class="solution">UNESCO</div>
+      <div class="explanation">Auf dem UNESCO <i>Forum zu OpenCourseWare für die Hochschulbildung in Entwicklungsländern</i> im Jahr 2002 wurde der Begriff Open Educational Resources erstmalig geprägt (vgl. <a aria-described-by="Link zur Unesco Seite" href="https://unesdoc.unesco.org/ark:/48223/pf0000128515">UNESCO 2002</a>) Die UNESCO griff die Forderungen der aufkommenden OER-Bewegung auch 2012 in ihrer Pariser Erklärung wieder auf. </div>
+    </div>
+    <div class="slide" title="single-choice">
       <div class="question">Wie lässt sich OER definieren?*</div>
       <div class="answers">
         <label title="A">
@@ -141,7 +168,7 @@
       <div class="solution">A</div>
       <div class="explanation">"Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Andere ohne oder mit geringfügigen Einschränkungen. Dabei bestimmen die Urhebenden selbst, welche Nutzungsrechte sie einräumen und welche Rechte sie sich vorbehalten" (<a aria-describedby="Link zur OER Seite der deutschen Unesco-Kpmmission" href="https://www.unesco.de/bildung/open-educational-resources">Deutsche UNESCO-Kommision o.J.</a>)</div>
     </div>
-    <div class="slide" name="multiple-choice">
+    <div class="slide" title="single-choice">
       <div class="question">Welches Merkmal gilt als eindeutiges Indiz für OER?</div>
       <div class="answers">
         <label title="A">
@@ -160,7 +187,7 @@
       <div class="solution">B</div>
       <div class="explanation">Ein zentrales Merkmal, das OER von urheberrechtlich geschützten Materialien unterscheidet, ist die offene Lizenz. Weitere (etwas unspezifischere) Merkmale sind ein offenes Dateiformat, die automatische Auffindbarkeit und die didaktische Kontextualisierung, die den einfacheren Umgang mit OER betonen (OER nutzen und bearbeiten, OER effizient auffinden, Einschätzbarkeit der Passung im eigenen Lehr-Lernkontext). In den folgenden Schritten dieser Lernreise werden Sie die genannten Merkmale noch etwas genauer kennenlernen.</div>
     </div>
-    <div class="slide" name="multiple-choice">
+    <div class="slide" title="single-choice">
       <div class="question">Was bedeutet bei Creative-Commons-Lizenzen das Kürzel "BY"?*</div>
       <div class="answers">
         <label title="A">
@@ -175,7 +202,7 @@
       <div class="solution">A</div>
       <div class="explanation">Das Modul <b>BY</b> bedeutet, dass die*der Urheber*in des Werkes angegeben werden muss. Der Zusatz wird im Deutschen mit "Namensnennung" bezeichnet.<br>Das Modul <b>ND</b> (engl. No Derivatives, dt. keine Veränderung) gibt an, dass das Material nur vollständig und unverändert genutzt werden darf.</div>
     </div>
-    <div class="slide" name="multiple-choice">
+    <div class="slide" title="multiple-choice">
       <div class="question">Was muss bei der Nutzung eines Bilds beachtet werden, welches unter der Creative-Commons-Lizenz "CC BY SA" steht?*</div>
       <div class="answers">
         <label title="A">
@@ -194,7 +221,7 @@
       <div class="solution">A,B,C</div>
       <div class="explanation"><b>BY</b> steht für die Namensnennung der Urheber*innen, <b>SA</b> (Share Alike) verlangt eine Weitergabe abgeleiteter Werke unter der gleicher Lizenz. Die Lizenz muss bei bei allen CC-Lizenzierten Werken angegeben und ein Link zum Lizenztext gesetzt werden.</div>
     </div>
-    <div class="slide" name="multiple-choice">
+    <div class="slide" title="single-choice">
       <div class="question">Verzichtet die*der Urheber*in durch eine offene Lizenz auf alle Rechte an ihrem*seinen Werk?*</div>
       <div class="answers">
         <label title="A">
@@ -209,7 +236,7 @@
       <div class="solution">B</div>
       <div class="explanation">Der*die Urheberin kann sich auch bei der Wahl einer offenen Lizenz bestimmte Rechte an ihrem*seinen Werk vorbehalten. Durch eine offene Lizenz werden lediglich Nutzungsrechte vergeben. Das Urheberrecht an sich ist unveräußerlich. Wählt die*der Urheber*in jedoch die Lizenz CC 0 (keine Rechte vorbehalten), verzichtet er*sie bewusst auf ihre*seine Rechte an dem Werk und bringt es in die Public Domain ein.</div>
     </div>
-    <div class="slide" name="multiple-choice">
+    <div class="slide" title="single-choice">
       <div class="question">Welche Vorteile haben offene Lernmaterialien gegenüber restriktiv geschützten?*</div>
       <div class="answers">
         <label title="A">
