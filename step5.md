@@ -159,11 +159,11 @@
       <div class="question">Wie lässt sich OER definieren?*</div>
       <div class="answers">
         <label title="A">
-          <input type="radio" name="question1" value="A">
+          <input type="radio" name="question3" value="A">
           Bildungsmaterialien in jedwedem Medium, die unter einer offenen Lizenz veröffentlicht wurden und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
         <label title="B">
-          <input type="radio" name="question1" value="B">
+          <input type="radio" name="question3" value="B">
           Bildungsmaterialien, in digitalen Medien, die nicht urhebrrechtlich geschützt sind und und ohne weitreichende Restriktionen genutzt und weiterverbreitet werden können.
         </label>
       </div>
@@ -174,30 +174,41 @@
       <div class="question">Welches Merkmal gilt als eindeutiges Indiz für OER?</div>
       <div class="answers">
         <label title="A">
-          <input type="radio" name="question2" value="A">
+          <input type="radio" name="question4" value="A">
           digitales Format
         </label>
         <label title="B">
-          <input type="radio" name="question2" value="B">
+          <input type="radio" name="question4" value="B">
           offene Lizenzierung
         </label>
         <label title="C">
-          <input type="radio" name="question2" value="C">
+          <input type="radio" name="question4" value="C">
           kostenpflichtige Nutzung
         </label>
       </div>
       <div class="solution">B</div>
       <div class="explanation">Ein zentrales Merkmal, das OER von urheberrechtlich geschützten Materialien unterscheidet, ist die offene Lizenz. Weitere (etwas unspezifischere) Merkmale sind ein offenes Dateiformat, die automatische Auffindbarkeit und die didaktische Kontextualisierung, die den einfacheren Umgang mit OER betonen (OER nutzen und bearbeiten, OER effizient auffinden, Einschätzbarkeit der Passung im eigenen Lehr-Lernkontext). In den folgenden Schritten dieser Lernreise werden Sie die genannten Merkmale noch etwas genauer kennenlernen.</div>
     </div>
+    <div class="slide" title="input">
+      <div class="question">Welche Lizenzen gelten als OER-Standard?*</div>
+      <div class="answers">
+        <label>
+          Lösung: 
+          <input type="text" name="question5">
+        </label>
+      </div>
+      <div class="solution">Creative Commons Lizenzen</div>
+      <div class="explanation">Creative Commons-Lizenzen eignen sich für den Bildungskontext besonders gut, da die Urheber*innen durch unterschiedliche Lizenzmodule differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.</div>
+    </div>
     <div class="slide" title="single-choice">
       <div class="question">Was bedeutet bei Creative-Commons-Lizenzen das Kürzel "BY"?*</div>
       <div class="answers">
         <label title="A">
-          <input type="radio" name="question3" value="A">
+          <input type="radio" name="question6" value="A">
           Die*der ursprüngliche Urheber*in muss bei Nutzung angegeben werden.
         </label>
         <label title="B">
-          <input type="radio" name="question3" value="B">
+          <input type="radio" name="question6" value="B">
           Das Material darf nur vollständig und unverändert genutzt werden.
         </label>
       </div>
@@ -208,15 +219,15 @@
       <div class="question">Was muss bei der Nutzung eines Bilds beachtet werden, welches unter der Creative-Commons-Lizenz "CC BY SA" steht?*</div>
       <div class="answers">
         <label title="A">
-          <input type="checkbox" name="question4" value="A">
+          <input type="checkbox" name="question7" value="A">
           Urheber*inen müssen angeben werden
         </label>
         <label title="B">
-          <input type="checkbox" name="question4" value="B">
+          <input type="checkbox" name="question7" value="B">
           Bei einer Veränderung und anschließenden Wiederveröffentlichung des Bildes, muss es unter die gleiche Lizenz gestellt werden, wie das Original
         </label>
         <label title="C">
-          <input type="checkbox" name="question4" value="C">
+          <input type="checkbox" name="question7" value="C">
           Die Lizenz muss angegeben und der Lizenztext verlinkt werden
         </label>
       </div>
@@ -227,11 +238,11 @@
       <div class="question">Verzichtet die*der Urheber*in durch eine offene Lizenz auf alle Rechte an ihrem*seinen Werk?*</div>
       <div class="answers">
         <label title="A">
-          <input type="radio" name="question5" value="A">
+          <input type="radio" name="question8" value="A">
           Ja, ein Vorbehalt von Rechten ist nicht möglich
         </label>
         <label title="B">
-          <input type="radio" name="question5" value="B">
+          <input type="radio" name="question8" value="B">
           Nur bei der Wahl der Lizenz CC 0
         </label>
       </div>
@@ -242,15 +253,15 @@
       <div class="question">Welche Vorteile haben offene Lernmaterialien gegenüber restriktiv geschützten?*</div>
       <div class="answers">
         <label title="A">
-          <input type="radio" name="question6" value="A">
+          <input type="radio" name="question9" value="A">
           Sie können nachgenutzt werden
         </label>
         <label title="B">
-          <input type="radio" name="question6" value="B">
+          <input type="radio" name="question9" value="B">
           Sie sind kostenlos
         </label>
         <label title="C">
-          <input type="radio" name="question6" value="C">
+          <input type="radio" name="question9" value="C">
           Auf Quellenangaben kann verzichtet werden
         </label>
       </div>
