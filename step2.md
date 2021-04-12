@@ -313,3 +313,39 @@ Die Grundlagen zum Nachlesen:
     </td>
   </tr>
 </table>
+
+Tabelle TULLU+V von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.
+
+<b>Ausnahmen und Sonderfälle</b>
+<div >
+   <button class="accordion">Wissenswertes zu der Lizenz <b>CC 0</b></button>
+   <div class="panel">
+     <p>Möchten Sie Material nutzen, dass CC 0-lizenziert ist, müssen Sie bei der Nachnutzung nicht darauf hinweisen, dass es sich um Fremdmaterial handelt. Im Sinne der guten wissenschaftlichen Praxis sollten Sie den*die Urheber*(in)nen jedoch nennen.
+     </p>
+   </div>
+   <button class="accordion">Die Besonderheiten des Lizenzmoduls <b>SA</b></button>
+   <div class="panel">
+     <p>Das Lizenzmodul <b>SA</b> (Share Alike) verweist auf die Weitergabe unter gleichen Bedingungen. Doch was bedeutet das für für die Nutzung von SA-lizenzierten Inhalten in einem eigenen Werk? Hier kommt es darauf an, ob Sie den SA-lizenzierten Inhalt lediglich <b>einbinden</b> oder ihn <b>verändern</b> möchten. Binden Sie ihn (vollständig und unverändert) ein, reicht es aus, den Inhalt als fremdes Material - entlang der TULLU-Regel - kenntlich zu machen. Bearbeiten oder verändern Sie hingegen einen SA-lizenzierten Inhalt, erstellen Sie dadurch quasi ein neues Werk. Dieses neue Werk muss dann unter die gleiche Lizenz gestellt werden, wie das Ausgangsmaterial.
+     <br>
+     <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Aber Achtung</b>: Bereits ein Zuschnitt oder das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts. Nutzen Sie z.B. eine SA-lizenzierte Grafik und und schneiden nur eine Beschriftung oder ein Icon ab oder ändern die Farbe, muss Ihre Bearbeitung kenntlich gemacht werden und die veränderte Grafik (als neues Werk) unter die gleich  Lizenz gesetzt werden, wie die ursprüngliche Grafik.
+     </p>
+   </div>
+  <button class="accordion">Die Besonderheiten des Lizenzmoduls <b>ND</b></button>
+   <div class="panel">
+     <p>Bei Materialien, die unter einer Lizenz stehen, die das Modul <b>ND</b> (No Derivatives) enthält, ist es Ihnen erlaubt das Werk zu kopieren und weiterzugeben, solange dies <b>vollständig und unverändert</b> geschieht. Sie dürfen ein ND-lizenzierten Text also z.B. ausdrucken oder herunterladen und in Gänze zur Lektüre an eine Lerngruppe weitergeben. Jegliche Veränderung des Werks ist unzulässig.
+     <br>
+     <b><i class="fa fa-exclamation-triangle" style="color:black"></i> Aber Achtung</b>: Bereits ein Zuschnitt oder das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts.
+     </p>
+   </div>
+  <button class="accordion">Besonderheiten des Lizenzmoduls <b>NC</b></button>
+   <div class="panel">
+     <p>Materialien, die unter einer Lizenz stehen, die das Modul <b>NC</b> (Non-Commercial) enthalten dürfen nicht kommerziell genutzt werden. Wichtig ist, dass sich diese Angabe <b>nicht auf die*den Nutzer*in</b>, sondern auf den <b>Zweck der Nutzung</b> bezieht.
+     <br>
+Werden Sie z.B. im Rahmen eines Lehrauftrags an einer staatlichen Hochschule dafür bezahlt, eine Lehrveranstaltung für Studierende eines bestimmten Studiengangs durchzuführen, dürfen Sie NC lizenziertes Material in diesem Kontext nutzen. Diese Lehrveranstaltung ist kein kommerzieller Zweck. Möchten Sie ein CC-lizenzierten Text z.B. in ein Buch integrieren und es anschließend verkaufen, ist dies mit NC lizenzierten Materialien nicht erlaubt. Auch ein Werbeflyer für eine private Hochschule oder ein Unternehmen darf keine NC-lizenzierten Materialien enthalten.
+     </p>
+   </div>
+</div>
+
+## Alles klar? Überprüfen Sie Ihr Wissen zur Kenntlichmachung von OER in eigenen Werken anhand der folgenden kleinen Übung:
+
+Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk korrekt nach der TULLU-Regel zitiert, wo haben sich Fehler eingeschlichen?
