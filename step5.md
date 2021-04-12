@@ -54,15 +54,12 @@
         });
         var wrong = correctAnswers.filter( (value, index) => {return !list.includes(value)});
         slides[currentSlide].querySelector(".question").innerHTML = wrong;
-        correctAnswers.forEach( (correctAnswer, answerNumber) => {
-          var checked = False;
-          if (!list.includes(correctAnswers)) {
-            answers.forEach( (currentLabel, labelNumber) => {
-              if (correctAnswer === currentLabel.title){  
-                currentLabel.style.color = "red";
-              }
-            });
-          }  
+        wrong.forEach( (wrongAnswer, answerNumber) => {
+          answers.forEach( (currentLabel, labelNumber) => {
+            if (wrongAnswer === currentLabel.title){  
+              currentLabel.style.color = "red";
+            }
+          });
         });
       }
     }
