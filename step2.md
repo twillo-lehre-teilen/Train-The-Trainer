@@ -355,8 +355,8 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
     <br><br>
-    Die Anwendungsfälle bei der Nachnutzung von OER sind oftmals sehr individuell. Sollten Sie sich unsicher sein, zögern Sie nicht, die*den Urheber*in anzusprechen oder schreiben Sie eine Mail an <a href= "support.twillo@tib.eu"></a>. Die Welt der OER steht für ein kollaboratives Miteinander - wir helfen Ihnen gern. 
-    <br>Kennen Sie schon unseren twillo-thursday? Im Rahmen dieser offenen (digitalen) Sprechstunde stehen wir Ihnen immer donnerstags von 11.45-12.30 Uhr mit Rat und Tat zur Seite.<br>
+    Die Anwendungsfälle bei der Nachnutzung von OER sind oftmals sehr individuell. Sollten Sie sich unsicher sein, zögern Sie nicht, die*den Urheber*in anzusprechen oder schreiben Sie eine Mail an <a href= "support.twillo@tib.eu"></a>. Die Welt der OER steht für ein kollaboratives Miteinander - wir helfen Ihnen gern. <br>
+    <br>Kennen Sie schon unseren twillo-thursday? Im Rahmen dieser offenen (digitalen) Sprechstunde stehen wir Ihnen immer donnerstags von 11.45-12.30 Uhr mit Rat und Tat zur Seite.<br><br>
     Sie finden und hier. Hop in, hop off - eine Anmeldung ist nicht nötig!
   </p>
 </div>
