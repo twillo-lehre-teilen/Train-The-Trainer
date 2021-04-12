@@ -14,23 +14,26 @@
       const answerContainer = slides[currentSlide].querySelector(".answers");
       const selector = `input:checked`;
       const userAnswers = (answerContainer.querySelectorAll(selector) || {});
+      userAnswers.forEach( (currentAnswer, answerNumber) => {
+        currentAnswer = currentAnswer.value;
+      });
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
       /* check all answers */
       userAnswers.forEach( (currentAnswer, answerNumber) => {
         /* if answer is correct */
-        if(correctAnswers.includes(currentAnswer.value)){
+        if(correctAnswers.includes(currentAnswer)){
           /* color the answers green */
           var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
           answers.forEach( (currentLabel, labelNumber) => {
-            if (currentAnswer.value === currentLabel.title){  
+            if (currentAnswer === currentLabel.title){  
               currentLabel.style.color = "lightgreen";
             }
           });
           showExplanation(1);      
         }
         /* if answer is blank */
-        else if (currentAnswer.value == null){
+        else if (currentAnswer == null){
           /* do nothing */
         }
         /* if answer is wrong */
@@ -38,13 +41,25 @@
           /* color the answers red */
           var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
           answers.forEach( (currentLabel, labelNumber) => {
-            if (currentAnswer.value === currentLabel.title){  
+            if (currentAnswer === currentLabel.title){  
               currentLabel.style.color = "red";
             }
           });
           showExplanation(1);
         }
       });
+      /* if multiple answers correct, mark unchecked correct answers red */
+      if (correctAnswers.length > 1) {
+        correctAnswers.forEach( (currentAnswer, answerNumber) => {
+          if (userAnswers.includes(currentAnswers)) {
+            answers.forEach( (currentLabel, labelNumber) => {
+            if (currentAnswer === currentLabel.title){  
+              currentLabel.style.color = "red";
+            }
+          });
+          }
+        });
+      }
     }
     /* explanation function */
     function showExplanation(x) {
