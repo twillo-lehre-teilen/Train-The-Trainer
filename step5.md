@@ -15,7 +15,7 @@
       const selector = `input:checked`;
       const userAnswers = (answerContainer.querySelectorAll(selector) || {});
       userAnswers.forEach( (currentAnswer, answerNumber) => {
-        currentAnswer = currentAnswer.value;
+        userAnswers[answerNumber] = currentAnswer.value;
       });
       /* get correct answers */
       correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
@@ -51,7 +51,7 @@
       /* if multiple answers correct, mark unchecked correct answers red */
       if (correctAnswers.length > 1) {
         correctAnswers.forEach( (currentAnswer, answerNumber) => {
-          if (userAnswers.includes(currentAnswers)) {
+          if (!userAnswers.includes(currentAnswers)) {
             answers.forEach( (currentLabel, labelNumber) => {
               if (currentAnswer === currentLabel.title){  
                 currentLabel.style.color = "red";
