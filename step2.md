@@ -352,26 +352,22 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
 
 <a aria-describedby="Link zum Tullu Quiz" href="https://wordwall.net/resource/13396594">https://wordwall.net/resource/13396594</a>
 
-<b>Erläuterungen zu den Lösungen</b>
-
 <div>
-   <button class="accordion">
+   <button class="accordion"><b>Erläuterungen zu den Lösungen</b></button>
+   <div class="panel">
      <figure style="align:middle;">
         <img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
-     </figure></button>
-   <div class="panel">
+     </figure>
      <p><b>Fehlerhaft!</b>
        <br><br>
        In diesem Lizenzhinweis fehlt eine Angabe der <b>Lizenzversion</b>. Außerdem wurde weder ein <b>Link zu dem Lizenztext</b>, noch ein <b>Link zum Ursprungsort</b> der Grafik hinterlegt.
      </p>
-   </div>
-   <button class="accordion">
+    <br><br>
     <figure style="align:middle;">
         <img src="images/richtig.svg" alt="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel" title="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel</figcaption>
-    </figure></button>
-   <div class="panel">
+    </figure>
      <p><b>Korrekt!</b>
        <br><br>
        In diesem Beispiel wurde der Lizenzhinweis korrekt gesetzt. Der <b>Titel</b> der Grafik und der <b>Urheber/Rechteinhaber</b> wurden angegeben. Ein Hinweis auf die <b>Lizenz</b> und die <b>Lizenzversion</b> wurden angegeben und <b>Links zum Lizenztext</b> sowie <b>Ursprungsort</b> gesetzt.
@@ -380,13 +376,11 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
        <br><br>
        <b><a aria-describedby="Link zu Twillo" href="http://www.twillo.de/">Grafik</a> von twillo, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></b>
      </p>
-   </div>
-   <button class="accordion">
+   <br><br>
    <figure style="align:middle;">
         <img src="images/falsch2.svg" alt="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
-     </figure></button>
-   <div class="panel">
+     </figure>
      <p><b>Fehlerhaft!</b>
      <br><br>
        In diesem Lizenzhinweis fehlt eine Angabe, um welche <b>Lizenz und Lizenzversion</b> es sich genau handelt. Außerdem fehlt ein <b>Link zu dem Lizenztext</b>.
