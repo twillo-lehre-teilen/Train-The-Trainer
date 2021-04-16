@@ -365,7 +365,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
        <br><br>
        In diesem Lizenzhinweis fehlt eine Angabe der <b>Lizenzversion</b>. Außerdem wurde weder ein <b>Link zu dem Lizenztext</b>, noch ein <b>Link zum Ursprungsort</b> der Grafik hinterlegt.
      </p>
-    <hr style="color:#000000;" />
+    <hr style="color: #000000;" />
     <figure style="align:middle;">
         <img src="images/richtig.svg" alt="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel" title="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel</figcaption>
