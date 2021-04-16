@@ -4,13 +4,11 @@
 <html>
 <head>
 <style>
-#div1, #div2 {
-  float: left;
-  width: 100px;
-  height: 35px;
-  margin: 10px;
+#div1 {
+  width: 350px;
+  height: 70px;
   padding: 10px;
-  border: 1px solid black;
+  border: 1px solid #aaaaaa;
 }
 </style>
 <script>
@@ -31,12 +29,13 @@ function drop(ev) {
 </head>
 <body>
 
-<div id="div1" ondrop="drop(ev)" ondragover="allowDrop(ev)">
-  <img src="images/creative-commons_cc-zero.svg" draggable="true" ondragstart="drag(ev)" id="drag1" width="88" height="31">
-</div>
+<p>Drag the W3Schools image into the rectangle:</p>
 
-<div id="div2" ondrop="drop(ev)" ondragover="allowDrop(ev)"></div>
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<img id="drag1" src="images/creative-commons_cc-zero.svg" draggable="true" ondragstart="drag(event)" width="336" height="69">
 
 </body>
 </html>
+
 
