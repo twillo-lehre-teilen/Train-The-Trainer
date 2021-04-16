@@ -2,15 +2,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h2>Woran erkenne ich ob ein Material auch OER ist?</h2>
 
-<table id="info">
-  <tr>
-    <th><i class="fa fa-info-circle" style="color:black"></i>   Info!</th>
-  </tr>
-  <tr>
-    <td>Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.<br><br><b>Workload: 1-2 Stunden</b></td>
-  </tr>
-</table>
-
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
     <br><br>
