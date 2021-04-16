@@ -1,98 +1,45 @@
 <h1 style="color:#000000">Schritt 6: Reflexion</h1>
 
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
 <head>
 <style>
-div#memory_board{
-    background:#CCC;
-    border:#999 1px solid;
-    width:800px;
-    height:800px;
-    padding:24px;
-    margin:0px auto;
-}
-div#memory_board > div{
-    <!-- background: url(tile_bg.jpg) no-repeat; -->
-    border:#000 1px solid;
-    width:71px;
-    height:71px;
-    float:left;
-    margin:10px;
-    padding:20px;
-    font-size:20px;
-    cursor:pointer;
-    text-align:middle;
+#div1, #div2 {
+  float: left;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
 }
 </style>
 <script>
-var memory_array = ['traffic','traffic','units','Einheiten','query','Anfrage/Abfrage','request','Zugriff','compile','übersetzen','enable','aktivieren','random','zufällig','result','Ergebnis','drive','Laufwerk','amount','Betrag','alter','ver&auml;ndern','equal','gleich','valid','gültig','value','Wert','array','Anordnung/Feld','successor','Nachfolger','carrier','Träger','assign','zuweisen'];
-var memory_values = [];
-var memory_tile_ids = [];
-var tiles_flipped = 0;
-Array.prototype.memory_tile_shuffle = function(){
-    var i = this.length, j, temp;
-    while(--i > 0){
-        j = Math.floor(Math.random() * (i+1));
-        temp = this[j];
-        this[j] = this[I];
-        this[I] = temp;
-    }
-}[/I][/I]
-function newBoard(){
-    tiles_flipped = 0;
-    var output = '';
-    memory_array.memory_tile_shuffle();
-    for(var i = 0; i < memory_array.length; i++){
-        output += '<div id="tile_'+i+'" onclick="memoryFlipTile(this,\''+memory_array+'\')"></div>';
-    }
-    document.getElementById('memory_board').innerHTML = output;
+function allowDrop(ev) {
+  ev.preventDefault();
 }
-function memoryFlipTile(tile,val){
-    if(tile.innerHTML == "" && memory_values.length < 2){
-        tile.style.background = '#FFF';
-        tile.innerHTML = val;
-        if(memory_values.length == 0){
-            memory_values.push(val);
-            memory_tile_ids.push(tile.id);
-        } else if(memory_values.length == 1){
-            memory_values.push(val);
-            memory_tile_ids.push(tile.id);
-            if(memory_values[0] == memory_values[1]){
-                tiles_flipped += 2;
-                // Clear both arrays
-                memory_values = [];
-                memory_tile_ids = [];
-                // Check to see if the whole board is cleared
-                if(tiles_flipped == memory_array.length){
-                    alert("Super! Du hast das Memory gelöst! %0A%0ANeues Spiel?");
-                    document.getElementById('memory_board').innerHTML = "";
-                    newBoard();
-                }
-            } else {
-                function flip2Back(){
-                   // Flip the 2 tiles back over
-                   var tile_1 = document.getElementById(memory_tile_ids[0]);
-                   var tile_2 = document.getElementById(memory_tile_ids[1]);
-                   tile_1.style.background = 'url(tile_bg.jpg) no-repeat';
-                   tile_1.innerHTML = "";
-                   tile_2.style.background = 'url(tile_bg.jpg) no-repeat';
-                   tile_2.innerHTML = "";
-                   // Clear both arrays
-                   memory_values = [];
-                   memory_tile_ids = [];
-                }
-                setTimeout(flip2Back, 700);
-            }
-        }
-    }
+
+function drag(ev) {
+  ev.dataTransfer.setData("text", ev.target.id);
+}
+
+function drop(ev) {
+  ev.preventDefault();
+  var data = ev.dataTransfer.getData("text");
+  ev.target.appendChild(document.getElementById(data));
 }
 </script>
 </head>
 <body>
-<div id="memory_board"></div>
-<script>newBoard();</script>
+
+<h2>Drag and Drop</h2>
+<p>Drag the image back and forth between the two div elements.</p>
+
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+  <img src="img_w3slogo.gif" draggable="true" ondragstart="drag(event)" id="drag1" width="88" height="31">
+</div>
+
+<div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+
 </body>
 </html>
 
- 
