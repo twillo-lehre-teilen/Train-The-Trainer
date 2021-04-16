@@ -377,7 +377,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
        <b><a aria-describedby="Link zu Twillo" href="http://www.twillo.de/">Grafik</a> von twillo, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></b>
      </p>
    <hr style="background-color: #000000;" />
-   <hr style="height: 30px; width: 60%; background-color: red; border: 0;" /> 
+   <hr style="height: 30px; width: 60%; background-color: #000000; border: 0;" /> 
    <figure style="align:middle;">
         <img src="images/falsch2.svg" alt="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
