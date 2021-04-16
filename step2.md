@@ -350,6 +350,8 @@ Werden Sie z.B. im Rahmen eines Lehrauftrags an einer staatlichen Hochschule daf
 
 Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk korrekt nach der TULLU-Regel zitiert, wo haben sich Fehler eingeschlichen?
 
+<iframe src="https://wordwall.net/embed/e6f68854c1574b36bcb959a6aed1b082?themeId=1&templateId=5" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+
 <a aria-describedby="Link zum Tullu Quiz" href="https://wordwall.net/resource/13396594">https://wordwall.net/resource/13396594</a>
 
 <div>
