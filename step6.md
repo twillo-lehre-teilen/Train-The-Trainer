@@ -29,7 +29,6 @@ function drop(ev) {
 </head>
 <body>
 
-<p>Drag the W3Schools image into the rectangle:</p>
 
 <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
 <br>
