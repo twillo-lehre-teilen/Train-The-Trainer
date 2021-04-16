@@ -352,8 +352,6 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
 
 <iframe src="https://wordwall.net/embed/e6f68854c1574b36bcb959a6aed1b082?themeId=1&templateId=5" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 
-<a aria-describedby="Link zum Tullu Quiz" href="https://wordwall.net/resource/13396594">https://wordwall.net/resource/13396594</a>
-
 <div>
    <button class="accordion"><b>Erläuterungen zu den Lösungen</b></button>
    <div class="panel">
