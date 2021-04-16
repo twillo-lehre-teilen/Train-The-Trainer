@@ -13,7 +13,7 @@ div#memory_board{
     margin:0px auto;
 }
 div#memory_board > div{
-    background: url(tile_bg.jpg) no-repeat;
+    // background: url(tile_bg.jpg) no-repeat;
     border:#000 1px solid;
     width:71px;
     height:71px;
