@@ -30,7 +30,7 @@ function drop(ev) {
 <p>Drag the image back and forth between the two div elements.</p>
 
 <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
-  <img src="images/creative-commons_cc-zero.svg" draggable="true" ondragstart="drag(event)" id="drag1" width="88" height="31">
+  <img src="images/creative-commons_cc-zero.svg" draggable="true" ondragstart="drag(event)" id="drag2" width="88" height="31">
 </div>
 
 <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
