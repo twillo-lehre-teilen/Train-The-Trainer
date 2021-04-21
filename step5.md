@@ -7,7 +7,8 @@
     ev.dataTransfer.setData('text', ev.target.id);
   }
   function ablegenErlauben(ev) {
-    ev.preventDefault()
+    ev.preventDefault();
+    explanationContainer.innerHTML = "ABCD";
   }
   function ablegen(ev) {
     ev.preventDefault();
