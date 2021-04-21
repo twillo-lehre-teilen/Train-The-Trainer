@@ -13,7 +13,7 @@
     ev.preventDefault();
     var data = ev.dataTransfer.getData('text');
     var target = ev.target;
-    while (" " + target.className + " ".indexOf(" zielzone ") == -1) {
+    while (" " + target.className + " ".indexOf(" dropzone ") == -1) {
         target = target.parentNode;
     }
     target.appendChild(document.getElementById(data));
