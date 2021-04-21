@@ -57,7 +57,6 @@
           });  
         });
         /* compare answers */
-        showExplanation(1);
         userAnswers.forEach( (answer, answerNumber) => {
           if (answer == correctAnswers[answerNumber]){
             /* if answer is right */
