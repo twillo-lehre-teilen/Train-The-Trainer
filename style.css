@@ -1112,10 +1112,10 @@ div.quiz-frame{
 }
 div.zielzone {
 	float: left;
-	width: 10em;
-	height: 300px;
-	margin: 10px;
+	width: 120px;
+	height: 50px;
+	margin: 5px;
 	padding: 10px;
-	border: 1px solid #aaaaaa;
+	border: 1px solid #0A1F40;
 	background: white;
 }
