@@ -173,7 +173,7 @@
           <div class="dropzone"></div>
           <p style="float:left;line-height:30px;vertical-align:middle;border: 2px solid green;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
         </label>
-        <label class="dragdropContainer" style="border:2px solid grey">
+        <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY NC: </p>
           <div class="dropzone"><img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true"></div>
           <div class="dropzone"></div>
