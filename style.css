@@ -1114,6 +1114,7 @@ div.dropzone {
   float: left;	
   width: 120px;
   height: 50px;
+  padding: 20px;
   border: 1px solid #0A1F40;
   background: white;
 }
