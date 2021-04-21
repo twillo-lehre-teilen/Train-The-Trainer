@@ -4,13 +4,13 @@
 <h2>Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</h2>
 
 <div class="dragdropContainer">
-	<p style="display:inline-block;float:left;width:120px;text-align:left;">CC BY ND: </p>
+	<p style="display:inline-block;float:left;width:120px;text-align:left;border:2px solid green">CC BY ND: </p>
 	<div class="dropzone">
 		<img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<p style="display:inline-block;float:left">=> keine Bearbeitung, Namensnennung</p>
+	<p style="display:inline-block;float:left;border:2px solid green">=> keine Bearbeitung, Namensnennung</p>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
