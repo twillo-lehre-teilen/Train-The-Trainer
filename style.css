@@ -1123,3 +1123,8 @@ div.dragdropContainer {
   width: 100%;
   border: 2px solid red;
 }
+label.dragdropContainer {
+  width: 100%;
+  height: 80px;
+  border: 2px solid red;
+}
