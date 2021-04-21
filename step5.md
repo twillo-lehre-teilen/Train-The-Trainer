@@ -62,18 +62,14 @@
           if (answer == correctAnswers[answerNumber]){
             /* if answer is right */
             explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers}`;
-            labelContainer.querySelector(".desc").style.color = purple;
           }
           else if (answer == "-"){
             /* do nothing */
             explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers}`;
-            labelContainer[0].querySelector(".desc").style.color = red;
           }
           else {
             /* if answer is wrong */
             explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers}`;
-            labelContainer.querySelector(".desc").style.color = green;
-            labelContainer[answerNumber].querySelector(".desc").innerHTML = "aadsf";
           }
         });
       }
@@ -222,13 +218,13 @@
           <p style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </p>
           <div class="dropzone" title="drag"><img id="drag1" title="A" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
           <div class="dropzone endDropzone" title="drop" style="margin-right:30px;"></div>
-          <p class="desc" id="test" title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
+          <p title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
           <div class="dropzone" title="drag"><img id="drag2" title="B" src="images/creative-commons_cc-by-sa.svg" draggable="true"></div>
           <div class="dropzone endDropzone" title="drop" style="margin-right:30px;"></div>
-          <div title="description" style="float:left;line-height:30px;vertical-align:middle;">= Namensnennung, Weitergabe unter gleichen Bedingungen</div>
+          <p title="description" style="float:left;line-height:30px;vertical-align:middle;">= Namensnennung, Weitergabe unter gleichen Bedingungen</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY NC: </p>
