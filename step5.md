@@ -7,11 +7,7 @@
     ev.dataTransfer.setData('text', ev.target.id);
   }
   function ablegenErlauben(ev) {
-    if(target.title == "drop"){
-      ev.preventDefault();
-      target.title = "drag";
-    }
-    //ev.preventDefault();
+    ev.preventDefault();
   }
   function ablegen(ev) {
     ev.preventDefault();
