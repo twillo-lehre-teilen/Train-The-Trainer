@@ -16,7 +16,9 @@
     while (" " + target.className + " ".indexOf(" dropzone ") == -1) {
         target = target.parentNode;
     }
-    target.appendChild(document.getElementById(data));
+    if (target.is(`:empty`){
+      target.appendChild(document.getElementById(data));
+    }
   }
   window.addEventListener("load", function () {
     var elms = document.querySelectorAll(".dropzone");
@@ -53,7 +55,7 @@
                 userAnswers.push(img[0].title);
               }
               else {
-                userAnswers.push("empty");
+                userAnswers.push("-");
               }
             }
             else {
@@ -66,15 +68,15 @@
         userAnswers.forEach( (answer, answerNumber) => {
           if (answer == correctAnswers[answerNumber]){
             /* if answer is right */
-            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers} ; 1234`;
+            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers}`;
           }
-          else if (answer == "empty"){
+          else if (answer == "-"){
             /* do nothing */
-            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers} ; -`;
+            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers}`;
           }
           else {
             /* if answer is wrong */
-            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers} ; gfjfghfj`;
+            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers}`;
           }
         });
       }
