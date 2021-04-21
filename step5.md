@@ -51,6 +51,8 @@
               let img = dropzone.getElementsByTagName('img');
               if(img.length >= 1){
                 userAnswers.push(img[0].title);
+                showExplanation(1);
+                explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${userAnswers}`;
               }
               else {
                 userAnswers.push("empty");
@@ -66,17 +68,17 @@
           if (answer == correctAnswers[answerNumber]){
             /* if answer is right */
             showExplanation(1);
-            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> 1234`;
+            //explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> 1234`;
           }
           else if (answer == "empty"){
             /* do nothing */
             showExplanation(1);
-            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> -`;
+            //explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> -`;
           }
           else {
             /* if answer is wrong */
             showExplanation(1);
-            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> gfjfghfj`;
+            //explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> gfjfghfj`;
           }
         });
       }
