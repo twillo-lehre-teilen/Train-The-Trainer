@@ -12,7 +12,7 @@
       t = t.parentNode;
     }
     showExplanation(1);
-    explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${t.childNodes.length} ?= ${userAnswers}`;
+    explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${t.childNodes.length}`;
     if (t && t.childNodes.length > 0) {
       return false;
     }
