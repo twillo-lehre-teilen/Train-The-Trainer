@@ -2,25 +2,25 @@
 
 <h2>Drag and Drop</h2>
 
-<div class="zielzone">
+<div class="startzone">
 	<img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true">
 </div>
 <div class="zielzone">
 </div>
 <br>
-<div class="zielzone">
+<div class="startzone">
 	<img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true">
 </div>
 <div class="zielzone">
 </div>
 <br>
-<div class="zielzone">
+<div class="startzone">
 	<img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true">
 </div>
 <div class="zielzone">
 </div>
 <br>
-<div class="zielzone">
+<div class="startzone">
 	<img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true">
 </div>
 <div class="zielzone">
