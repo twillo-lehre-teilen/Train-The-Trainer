@@ -20,12 +20,12 @@
 </script>
 
 <h2>Drag and Drop</h2>
+
+<img draggable="true">     
+
 <p>Drag the image back and forth between the two div elements.</p>
 <div id="box" ondrop="drop(event)" ondragover="allowDrop(event)" style="width:110px;height:110px;padding:10px;text-align:center;magrin:0 auto;border:1px solid #aaaaaa"></div>
 
 <img id="drag1" src="images/creative-commons_cc-zero.svg" title="CC 0" alt="CC 0" draggable="true" ondragstart="drag(event)">
-
-<img id="drag2" src="images/creative-commons_cc-zero.svg" draggable="true" ondragstart="drag(event)">
-
 
 
