@@ -69,13 +69,16 @@
           if (answer == correctAnswers[answerNumber]){
             /* if answer is right */
             labelContainer[answerNumber].querySelector('[title="description"]').style.color = lightgreen;
+            showExplanation(1);   
           }
           else if (answer == "empty"){
             /* do nothing */
+            showExplanation(1);   
           }
           else {
             /* if answer is wrong */
             labelContainer[answerNumber].querySelector('[title="description"]').style.color = red;
+            showExplanation(1);   
           }
         });
       }
