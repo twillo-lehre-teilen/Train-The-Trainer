@@ -2,7 +2,7 @@
 
 <h2 style="margin-bottom:20px">Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
 
-<script>
+<script defer>
   function ziehen(ev) {
     ev.dataTransfer.setData('text', ev.target.id);
   }
@@ -38,7 +38,8 @@
     function showResult(){
       /* for drag-drop questions */
       if(slides[currentSlide].title == "dragdrop") {
-      /* reset previous selections */
+        showExplanation(1);   
+        /* reset previous selections */
         slides[currentSlide].querySelector(".answers").querySelectorAll("label").querySelectorAll('[title="description"').forEach( (description, descriptionNumber) => { 
             descriptionNumber.style.color = yellow;
         });
