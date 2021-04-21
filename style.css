@@ -1108,23 +1108,24 @@ div.quiz-frame{
 }
 /* Drag-and-Drop settings */
 [draggable=true] {
-	cursor: move;
+  cursor: move;
 }
 div.startzone {
-	//float: left;
-	width: 120px;
-	height: 50px;
-	margin: 5px;
-	padding: 10px;
-	border: 1px solid #0A1F40;
-	background: white;
+  clear: both;
+  float: left;	
+  width: 120px;
+  height: 50px;
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #0A1F40;
+  background: white;
 }
 div.zielzone {
-	float: left;
-	width: 120px;
-	height: 50px;
-	margin: 5px;
-	padding: 10px;
-	border: 1px solid #0A1F40;
-	background: white;
+  float: left;
+  width: 120px;
+  height: 50px;
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #0A1F40;
+  background: white;
 }
