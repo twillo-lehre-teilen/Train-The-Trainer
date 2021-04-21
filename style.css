@@ -1110,12 +1110,47 @@ div.quiz-frame{
 [draggable=true] {
 	cursor: move;
 }
-[draggable=false] {
-	cursor: not-allowed;
+
+div {
+	float: left;
+	width: 10em;
+	height: 300px;
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #aaaaaa;
+	background: white;
 }
-#ziel {
-	width: 20em;
-	height: 6em;
-	padding: 1em;
-	border: 1px solid #333;
+
+.zielzone p {
+	float: left;
+	margin: 1em;
+	border-radius: 50%;
+	border: 2px solid #333;
+	width: 2em;
+	height: 2em;
 }
+
+#kugel1 {
+	background: #dfac20;
+}
+
+#kugel2 {
+	background: #3983ab;
+}
+
+#kugel3 {
+	background: #c32e04;
+}
+
+#kugel4 {
+	background: #5a9900;
+}
+
+#kugel5 {
+	background: purple;
+}
+
+#kugel6 {
+	background: white;
+}
+
