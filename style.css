@@ -1124,4 +1124,5 @@ div.dragdropContainer {
   border: 2px solid red;
   line-height: 200px;
   vertical-align: middle;
+  overflow: auto;
 }
