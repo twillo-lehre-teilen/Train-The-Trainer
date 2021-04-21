@@ -224,10 +224,10 @@
       <div class="question">Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</div>
       <div class="answers">
         <label class="dragdropContainer">
-          <p style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </p>
+          <div style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </div>
           <div class="dropzone" title="drag"><img id="drag1" title="A" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
           <div class="dropzone" title="drop" style="margin-right:30px;"></div>
-          <p id="test" title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
+          <div id="test" title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</div>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
