@@ -195,25 +195,25 @@
           <p style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </p>
           <div class="dropzone"><img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
           <div class="dropzone"></div>
-          <p style="float:left;line-height:20px;vertical-align:middle;">=> keine Bearbeitung, Namensnennung</p>
+          <p style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
           <div class="dropzone"><img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true"></div>
           <div class="dropzone"></div>
-          <p style="float:left;line-height:30px;vertical-align:middle;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
+          <p style="float:left;line-height:30px;vertical-align:middle;">= Namensnennung, Weitergabe unter gleichen Bedingungen</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY NC: </p>
           <div class="dropzone"><img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true"></div>
           <div class="dropzone"></div>
-          <p style="float:left;line-height:30px;vertical-align:middle;">=> nicht-kommerziell, Namensnennung</p>
+          <p style="float:left;line-height:30px;vertical-align:middle;">= nicht-kommerziell, Namensnennung</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY: </p>
           <div class="dropzone"><img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true"></div>
           <div class="dropzone"></div>
-          <p style="float:left;line-height:30px;vertical-align:middle;">=> Namensnennung</p>
+          <p style="float:left;line-height:30px;vertical-align:middle;">= Namensnennung</p>
         </label>
       </div>
       <div class="solution">[(A,A),(B,B),(C,C),(D,D)]</div>
