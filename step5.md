@@ -13,7 +13,7 @@
     ev.preventDefault();
     var data = ev.dataTransfer.getData('text');
     var target = ev.target;
-    if(1){
+    if(target.children.length == 0){
       while (" " + target.className + " ".indexOf(" dropzone ") == -1) {
           target = target.parentNode;
       }
