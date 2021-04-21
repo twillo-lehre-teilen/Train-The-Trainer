@@ -4,7 +4,7 @@
 <h2>Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</h2>
 
 <div class="dragdropContainer">
-	<p style="display:inline-block;float:left;width:150px;text-align:left;">CC BY ND: </p>
+	<p style="display:inline-block;float:left;width:120px;text-align:left;">CC BY ND: </p>
 	<div class="dropzone">
 		<img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true">
 	</div>
@@ -14,7 +14,7 @@
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p style="display:inline-block;float:left;width:150px;text-align:left;">CC BY SA: </p>
+	<p style="display:inline-block;float:left;width:120px;text-align:left;">CC BY SA: </p>
 	<div class="dropzone">
 		<img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true">
 	</div>
@@ -24,7 +24,7 @@
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p style="display:inline-block;float:left;width:150px;text-align:left;">CC BY NC: </p>
+	<p style="display:inline-block;float:left;width:120px;text-align:left;">CC BY NC: </p>
 	<div class="dropzone">
 		<img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true">
 	</div>
@@ -34,7 +34,7 @@
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p style="display:inline-block;float:left;width:150px;text-align:left;">CC BY: </p>
+	<p style="display:inline-block;float:left;width:120px;text-align:left;">CC BY: </p>
 	<div class="dropzone">
 		<img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true">
 	</div>
