@@ -8,6 +8,27 @@
     function showResult(){
       /* for drag-drop questions */
       if (slides[currentSlide].title == "dragdrop"){
+        /* get correct answers */
+        var correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(";");
+        /* get answers-container */
+        const answerContainer = slides[currentSlide].querySelector(".answers");
+        /* find user-answers */
+        var userAnswers = [];
+        answerContainer.forEach( (label, labelNumber) => {
+          let dropzoneContainer = label.querySelectorAll(".dropzone");
+          dropzoneContainer.forEach( (dropzone, dropzoneNumber) => {
+            if (dropzone.title = "drop"){
+              let img = dropzone.getElementsByTagName('img');
+              if(img.length >= 1){
+                userAnswers.push(img[0].title);
+              }
+            }
+            else {
+              /* do nothing */
+            }
+          });
+          
+        });
       }
       /* for single-input questions */
       else if(slides[currentSlide].title == "input"){
@@ -193,30 +214,30 @@
       <div class="answers">
         <label class="dragdropContainer">
           <p style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </p>
-          <div class="dropzone"><img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
-          <div class="dropzone"></div>
+          <div class="dropzone" title="drag"><img title="A" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
+          <div class="dropzone" title="drop"></div>
           <p style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
-          <div class="dropzone"><img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true"></div>
-          <div class="dropzone"></div>
+          <div class="dropzone" title="drag"><img title="B" src="images/creative-commons_cc-by-sa.svg" draggable="true"></div>
+          <div class="dropzone" title="drop"></div>
           <p style="float:left;line-height:30px;vertical-align:middle;">= Namensnennung, Weitergabe unter gleichen Bedingungen</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY NC: </p>
-          <div class="dropzone"><img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true"></div>
-          <div class="dropzone"></div>
+          <div class="dropzone" title="drag"><img title="C" src="images/creative-commons_cc-by-nc.svg" draggable="true"></div>
+          <div class="dropzone" title="drop"></div>
           <p style="float:left;line-height:30px;vertical-align:middle;">= nicht-kommerziell, Namensnennung</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY: </p>
-          <div class="dropzone"><img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true"></div>
-          <div class="dropzone"></div>
+          <div class="dropzone" title="drag"><img title="D" src="images/creative-commons_cc-by.svg" draggable="true"></div>
+          <div class="dropzone" title="drop"></div>
           <p style="float:left;line-height:30px;vertical-align:middle;">= Namensnennung</p>
         </label>
       </div>
-      <div class="solution">[(A,A),(B,B),(C,C),(D,D)]</div>
+      <div class="solution">[A,A];[B,B];[C,C];[D,D]</div>
       <div class="explanation"></div>
     </div>
     <div class="slide" title="single-choice">
