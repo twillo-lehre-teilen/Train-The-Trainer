@@ -24,3 +24,5 @@ function drop(ev) {
 </div>
 
 <div class="drop" id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+
+
