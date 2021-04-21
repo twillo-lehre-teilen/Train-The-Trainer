@@ -155,6 +155,41 @@
       <div class="solution">UNESCO</div>
       <div class="explanation">Auf dem UNESCO <i>Forum zu OpenCourseWare für die Hochschulbildung in Entwicklungsländern</i> im Jahr 2002 wurde der Begriff Open Educational Resources erstmalig geprägt (vgl. <a aria-described-by="Link zur Unesco Seite" href="https://unesdoc.unesco.org/ark:/48223/pf0000128515">UNESCO 2002</a>) Die UNESCO griff die Forderungen der aufkommenden OER-Bewegung auch 2012 in ihrer Pariser Erklärung wieder auf. </div>
     </div>
+    <div class="slide" title="dragdrop">
+      <div class="question">Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</div>
+      <div class="answers">
+        <label class="dragdropContainer">
+          <p style="float:left;line-height:20px;vertical-align:middle;width:120px;display:inline-block;">CC BY ND: </p>
+          <div class="dropzone"><img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
+          <div class="dropzone"></div>
+          <p style="float:left;line-height:20px;vertical-align:middle;display:inline-block;">=> keine Bearbeitung, Namensnennung</p>
+        </label>
+        <br style="clear:both;">
+        <label class="dragdropContainer">
+          <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
+          <div class="dropzone"><img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true"></div>
+          <div class="dropzone"></div>
+          <p style="float:left;line-height:30px;vertical-align:middle;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
+        </label>
+        <br style="clear:both;">
+        <label class="dragdropContainer">
+          <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY NC: </p>
+          <div class="dropzone"><img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true"></div>
+          <div class="dropzone"></div>
+          <p style="float:left;line-height:30px;vertical-align:middle;">=> nicht-kommerziell, Namensnennung</p>
+        </label>
+        <br style="clear:both;">
+        <label class="dragdropContainer">
+          <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY: </p>
+          <div class="dropzone"><img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true"></div>
+          <div class="dropzone"></div>
+          <p style="float:left;line-height:30px;vertical-align:middle;">=> Namensnennung</p>
+        </label>
+        <br style="clear:both">
+      </div>
+      <div class="solution">[(A,A),(B,B),(C,C),(D,D)]</div>
+      <div class="explanation"></div>
+    </div>
     <div class="slide" title="single-choice">
       <div class="question">Wie lässt sich OER definieren?*</div>
       <div class="answers">
