@@ -10,10 +10,10 @@
     ev.preventDefault();
   }
   function ablegen(ev) {
-    ev.preventDefault();
-    var data = ev.dataTransfer.getData('text');
-    var target = ev.target;
-    if(target.children.length == 0){
+    if(ev.target.children.length == 0){
+      ev.preventDefault();
+      var data = ev.dataTransfer.getData('text');
+      var target = ev.target;
       while (" " + target.className + " ".indexOf(" dropzone ") == -1) {
           target = target.parentNode;
       }
