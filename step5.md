@@ -73,7 +73,7 @@
             /* if answer is wrong */
             explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers}`;
             labelContainer.querySelector(".desc").style.color = green;
-            labelContainer.querySelector(".desc").innerHTML = "aadsf";
+            labelContainer[answerNumber].querySelector(".desc").innerHTML = "aadsf";
           }
         });
       }
