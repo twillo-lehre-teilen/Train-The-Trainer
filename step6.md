@@ -14,13 +14,13 @@
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p style="float:left;">CC BY SA: </p>
+	<p style="display:inline-block;float:left;">CC BY SA: </p>
 	<div class="dropzone">
 		<img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<p style="float:left;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
+	<p style="display:inline-block;float:left;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
