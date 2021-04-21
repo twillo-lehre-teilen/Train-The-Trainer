@@ -39,10 +39,9 @@
       /* for drag-drop questions */
       if(slides[currentSlide].title == "dragdrop") {  
         /* reset previous selections */
-        showExplanation(1);
         slides[currentSlide].querySelector(".answers").style.color = yellow;
         slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = lightgreen;
-        slides[currentSlide].querySelector(".answers").querySelectorAll("label").getElementById("test").style.color = lightgreen;
+        slides[currentSlide].querySelector(".answers").querySelectorAll("label").getElementById("test").style.color = red;
         showExplanation(1);
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
