@@ -1123,4 +1123,5 @@ div.dragdropContainer {
   line-height: 50px;
   vertical-align: middle;
   text-align: center;
+  border: 2px solid red;
 }
