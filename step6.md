@@ -5,10 +5,10 @@
 
 <div class="dragdropContainer">
 	<p style="display:inline-block;float:left;width:120px;text-align:left;border:2px solid green;line-height:80px;vertical-align:middle;">CC BY ND: </p>
-	<div class="dropzone">
+	<div class="dropzone" style="line-height:80px;vertical-align:middle;">
 		<img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true">
 	</div>
-	<div class="dropzone">
+	<div class="dropzone" style="line-height:80px;vertical-align:middle;">
 	</div>
 	<p style="display:inline-block;float:left;border:2px solid green;line-height:80px;vertical-align:middle;">=> keine Bearbeitung, Namensnennung</p>
 </div>
