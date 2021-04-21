@@ -7,12 +7,12 @@
     ev.dataTransfer.setData('text', ev.target.id);
   }
   function ablegenErlauben(ev) {
-    var t = event.target;
+    var t = ev.target;
     while (t !== null && !t.classList.contains("target")) {
         t = t.parentNode;
     }
     if (t && t.childNodes.length == 0) {
-        event.preventDefault();
+        ev.preventDefault();
     }
     return false;
   }
