@@ -39,8 +39,6 @@
       /* for drag-drop questions */
       if(slides[currentSlide].title == "dragdrop") {  
         /* reset previous selections */
-        document.getElementById("test").style.color = yellow;
-        slides[currentSlide].getElementById("test").style.color = purple;
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
         /* find user-answers */
@@ -53,13 +51,9 @@
               let img = dropzone.getElementsByTagName('img');
               if(img.length >= 1){
                 userAnswers.push(img[0].title);
-                showExplanation(1);
-                explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> DEF`;
               }
               else {
                 userAnswers.push("empty");
-                showExplanation(1);
-                explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ABC`;
               }
             }
             else {
@@ -71,13 +65,19 @@
         userAnswers.forEach( (answer, answerNumber) => {
           if (answer == correctAnswers[answerNumber]){
             /* if answer is right */
+            showExplanation(1);
+            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> 1234`;
             labelContainer[answerNumber].querySelector('[title="description"]').style.color = lightgreen;
           }
           else if (answer == "empty"){
             /* do nothing */
+            showExplanation(1);
+            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> -`;
           }
           else {
             /* if answer is wrong */
+            showExplanation(1);
+            explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> gfjfghfj`;
             labelContainer[answerNumber].querySelector('[title="description"]').style.color = red;
           }
         });
@@ -224,10 +224,10 @@
       <div class="question">Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</div>
       <div class="answers">
         <label class="dragdropContainer">
-          <div style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </div>
+          <p style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </p>
           <div class="dropzone" title="drag"><img id="drag1" title="A" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
           <div class="dropzone" title="drop" style="margin-right:30px;"></div>
-          <div id="test" title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</div>
+          <p id="test" title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
