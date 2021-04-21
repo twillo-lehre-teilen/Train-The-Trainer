@@ -1,31 +1,19 @@
 <h1 style="color:#000000">Schritt 6: Reflexion</h1>
 
 <script>
-  function allowDrop(ev)    
-  {    
-      ev.preventDefault();    
-  }    
-
-  function drag(ev)    
-  {    
-      ev.dataTransfer.setData("text", ev.target.id);    
-  }    
-
-  function drop(ev)    
-  {    
-      ev.preventDefault();    
-      var data = ev.dataTransfer.getData("text");    
-      ev.target.appendChild(document.getElementById(data));    
-  }    
+function onDragStart(event) {
+  event.dataTransfer.setData('text/plain', event.target.id);
+  event.currentTarget.style.backgroundColor = 'yellow';
+}
 </script>
 
 <h2>Drag and Drop</h2>
 
-<img draggable="true">     
-
 <p>Drag the image back and forth between the two div elements.</p>
-<div id="box" ondrop="drop(event)" ondragover="allowDrop(event)" style="width:110px;height:110px;padding:10px;text-align:center;magrin:0 auto;border:1px solid #aaaaaa"></div>
 
-<img id="drag1" src="images/creative-commons_cc-zero.svg" title="CC 0" alt="CC 0" draggable="true" ondragstart="drag(event)">
-
-
+<div class="example-parent">
+  <div class="example-origin">
+    <div id="draggable-1" class="example-draggable" draggable="true" ondragstart="onDragStart(event)">draggable</div>
+  </div>
+  <div class="example-dropzone">dropzone</div>
+</div>
