@@ -52,7 +52,7 @@ function ablegen(ev) {
 	ev.preventDefault();
 	var data = ev.dataTransfer.getData('text');
 	var target = ev.target;
-	while (" " + target.className + " ".indexOf(" zielzone ") == -1) {
+	while (" " + target.className + " ".indexOf(" dropzone ") == -1) {
 	    target = target.parentNode;
 	}
 	target.appendChild(document.getElementById(data));
@@ -60,9 +60,9 @@ function ablegen(ev) {
 window.addEventListener("load", function () {
 	var elms = document.querySelectorAll(".dropzone");
 	for (var i = 0; i < elms.length; i++) {
-		var zielzone = elms[i];
-		zielzone.addEventListener("drop", ablegen);
-		zielzone.addEventListener("dragover", ablegenErlauben);
+		var dropzone = elms[i];
+		dropzone.addEventListener("drop", ablegen);
+		dropzone.addEventListener("dragover", ablegenErlauben);
 	};
 	elms = document.querySelectorAll("[draggable=true]")
 	for (var i = 0; i < elms.length; i++) {
