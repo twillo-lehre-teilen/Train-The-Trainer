@@ -167,28 +167,24 @@
           <div class="dropzone"></div>
           <p style="float:left;line-height:20px;vertical-align:middle;display:inline-block;">=> keine Bearbeitung, Namensnennung</p>
         </label>
-        <br style="clear:both;">
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
           <div class="dropzone"><img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true"></div>
           <div class="dropzone"></div>
           <p style="float:left;line-height:30px;vertical-align:middle;border: 2px solid green;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
         </label>
-        <br style="clear:both;border: 2px solid yellow;">
         <label class="dragdropContainer" style="border:2px solid grey">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY NC: </p>
           <div class="dropzone"><img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true"></div>
           <div class="dropzone"></div>
           <p style="float:left;line-height:30px;vertical-align:middle;">=> nicht-kommerziell, Namensnennung</p>
         </label>
-        <br style="clear:both;">
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY: </p>
           <div class="dropzone"><img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true"></div>
           <div class="dropzone"></div>
           <p style="float:left;line-height:30px;vertical-align:middle;">=> Namensnennung</p>
         </label>
-        <br style="clear:both">
       </div>
       <div class="solution">[(A,A),(B,B),(C,C),(D,D)]</div>
       <div class="explanation"></div>
