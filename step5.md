@@ -10,14 +10,13 @@
       if (slides[currentSlide].title == "dragdrop"){
         /* reset previous selections */
         slides[currentSlide].querySelector(".answers").querySelectorAll("label").querySelectorAll('[title="description"').forEach( (description, descriptionNumber) => { 
-            descriptionNumber.style.color = "#0A1F40";
+            descriptionNumber.style.color = yellow;
         });
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(";");
         /* find user-answers */
         var userAnswers = [];
         const labelContainer = slides[currentSlide].querySelector(".answers").querySelectorAll("label")
-        labelContainer[0].style.color = yellow;
         labelContainer.forEach( (label, labelNumber) => {
           let dropzoneContainer = label.querySelectorAll(".dropzone");
           dropzoneContainer.forEach( (dropzone, dropzoneNumber) => {
