@@ -24,23 +24,23 @@
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<div style="display:inline-block;float:left;width:150px;text-align:left;">CC BY NC: </div>
+	<p style="display:inline-block;float:left;width:150px;text-align:left;">CC BY NC: </p>
 	<div class="dropzone">
 		<img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<div style="display:inline-block;float:left;">=> nicht-kommerziell, Namensnennung</div>
+	<p style="display:inline-block;float:left;">=> nicht-kommerziell, Namensnennung</p>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<div style="display:inline-block;float:left;width:150px;text-align:left;">CC BY: </div>
+	<p style="display:inline-block;float:left;width:150px;text-align:left;">CC BY: </p>
 	<div class="dropzone">
 		<img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<div style="display:inline-block;float:left;">=> Namensnennung</div>
+	<p style="display:inline-block;float:left;">=> Namensnennung</p>
 </div>
 
 <script>
