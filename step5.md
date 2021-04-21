@@ -67,10 +67,12 @@
           else if (answer == "-"){
             /* do nothing */
             explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers}`;
+            labelContainer[0].querySelector(".desc").style.color = red;
           }
           else {
             /* if answer is wrong */
             explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${correctAnswers} ?= ${userAnswers}`;
+            labelContainer.querySelector(".desc").style.color = green;
           }
         });
       }
