@@ -1,25 +1,43 @@
 <h1 style="color:#000000">Schritt 6: Reflexion</h1>
+<h1>HTML5 Drag and Drop 1 -besser</h1>
 
-<h1>HTML5 Drag and Drop - 1</h1>
-<p>Ziehe die Weihnachts-Logos ins Ziel:</p> <img id="drag1" src="https://wiki-test.selfhtml.org/images/8/87/Selfhtml-logo.gif"
-alt="Spinnen-Logo" draggable="false" ondragstart="drag(event)"> <img id="drag2" src="https://wiki-test.selfhtml.org/images/6/63/Selfhtml-logo-Weihnachten-2006_patrick_rudolph.gif"
-alt="Logo-Entwurf von Patrick Rudolph" draggable="true" ondragstart="drag(event)"><img id="drag3" src="https://wiki-test.selfhtml.org/images/d/d7/Selfhtml-logo-Weihnachten-2006-ani_kirsten-evers.gif"
-alt="Logo-Entwurf von Kirsten Evers" draggable="true" ondragstart="drag(event)">
-<div id="ziel" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<div id="div1" class="zielzone">
+	<p draggable="true" id="kugel1"></p>
+	<p draggable="true" id="kugel2"></p>
+	<p draggable="true" id="kugel3"></p>
+</div>
+<div id="div2" class="zielzone">
+	<p draggable="true" id="kugel4"></p>
+	<p draggable="true" id="kugel5"></p>
+	<p draggable="true" id="kugel6"></p>
+</div>
 
 <script>
-function allowDrop(ev) {
-	ev.preventDefault();
-}
-
-function drag(ev) {
-	ev.dataTransfer.setData('text', ev.target.id);
-}
-
-function drop(ev) {
-	ev.preventDefault();
-	var data = ev.dataTransfer.getData('text');
-	ev.target.appendChild(document.getElementById(data));
-}
-
+	function ziehen(ev) {
+		ev.dataTransfer.setData('text', ev.target.id);
+	}
+	function ablegenErlauben(ev) {
+		ev.preventDefault();
+	}
+	function ablegen(ev) {
+		ev.preventDefault();
+		var data = ev.dataTransfer.getData('text');
+		var target = ev.target;
+		while (" " + target.className + " ".indexOf(" zielzone ") == -1) target =
+			target.parentNode;
+		target.appendChild(document.getElementById(data));
+	}
+	window.addEventListener("load", function () {
+		var elms = document.querySelectorAll(".zielzone");
+		for (var i = 0; i < elms.length; i++) {
+			var zielzone = elms[i];
+			zielzone.addEventListener("drop", ablegen);
+			zielzone.addEventListener("dragover", ablegenErlauben);
+		};
+		elms = document.querySelectorAll("[draggable=true]")
+		for (var i = 0; i < elms.length; i++) {
+			var draggable = elms[i];
+			draggable.addEventListener("dragstart", ziehen);
+		};
+	});
 </script>
