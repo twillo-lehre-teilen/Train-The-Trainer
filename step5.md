@@ -39,7 +39,8 @@
       /* for drag-drop questions */
       if(slides[currentSlide].title == "dragdrop") {  
         /* reset previous selections */
-        showExplanation(1);
+        document.getElementById("test").style.color = yellow;
+        slides[currentSlide].getElementById("test").style.color = purple;
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
         /* find user-answers */
