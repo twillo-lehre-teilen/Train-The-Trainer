@@ -12,7 +12,7 @@
       t = t.parentNode;
     }
     if (t && t.childNodes.length > 0) {
-      return false;
+      return true;
     }
     ev.preventDefault();
   }
