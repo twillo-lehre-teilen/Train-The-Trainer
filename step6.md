@@ -1,11 +1,15 @@
 <h1 style="color:#000000">Schritt 6: Reflexion</h1>
 
-<h2>Drag and Drop</h2>
+<h2>Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</h2>
 
-<div class="dropzone">
-	<img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true">
-</div>
-<div class="dropzone">
+<div class="dragdropContainer">
+	<p>CC BY ND:</p>
+	<div class="dropzone">
+		<img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true">
+	</div>
+	<div class="dropzone">
+	</div>
+	<p><i class="fad fa-caret-circle-right"></i> keine Bearbeitung, Namensnennung</p>
 </div>
 <br style="clear:both;">
 <div class="dropzone">
