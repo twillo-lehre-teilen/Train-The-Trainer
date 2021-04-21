@@ -5,6 +5,7 @@
 	<p draggable="true" id="kugel1"></p>
 	<p draggable="true" id="kugel2"></p>
 	<p draggable="true" id="kugel3"></p>
+	<img  id="drag3" src="https://wiki-test.selfhtml.org/images/d/d7/Selfhtml-logo-Weihnachten-2006-ani_kirsten-evers.gif" alt="Logo-Entwurf von Kirsten Evers" draggable="true" ondragstart="drag(event)">
 </div>
 <div id="div2" class="zielzone">
 	<p draggable="true" id="kugel4"></p>
