@@ -47,7 +47,7 @@
         labelContainer.forEach( (label, labelNumber) => {
           let dropzoneContainer = label.querySelectorAll(".dropzone"); 
           dropzoneContainer.forEach( (dropzone, dropzoneNumber) => {
-            if (dropzone.title = "drop"){
+            if (dropzone.title == "drop"){
               let img = dropzone.getElementsByTagName('img');
               if(img.length >= 1){
                 userAnswers.push(img[0].title);
