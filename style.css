@@ -1107,31 +1107,15 @@ div.quiz-frame{
   background-color: #FAFAFC;
 }
 /* Drag-and-Drop settings */
-.example-parent {
-  border: 2px solid #DFA612;
-  color: black;
-  display: flex;
-  font-family: sans-serif;
-  font-weight: bold;
+[draggable=true] {
+	cursor: move;
 }
-
-.example-origin {
-  flex-basis: 100%;
-  flex-grow: 1;
-  padding: 10px;
+[draggable=false] {
+	cursor: not-allowed;
 }
-
-.example-draggable {
-  background-color: #4AAE9B;
-  font-weight: normal;
-  margin-bottom: 10px;
-  margin-top: 10px;
-  padding: 10px;
-}
-
-.example-dropzone {
-  background-color: #6DB65B;
-  flex-basis: 100%;
-  flex-grow: 1;
-  padding: 10px;
+#ziel {
+	width: 20em;
+	height: 6em;
+	padding: 1em;
+	border: 1px solid #333;
 }
