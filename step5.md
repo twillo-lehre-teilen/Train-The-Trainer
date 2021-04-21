@@ -39,6 +39,7 @@
       /* for drag-drop questions */
       if(slides[currentSlide].title == "dragdrop") {  
         /* reset previous selections */
+        slides[currentSlide].querySelector(".question").style.color = lightgreen;
         slides[currentSlide].querySelector(".answers").querySelector("label").style.color = lightgreen;
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
