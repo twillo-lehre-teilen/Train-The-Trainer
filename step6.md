@@ -10,7 +10,7 @@
 	</div>
 	<div class="dropzone">
 	</div>
-	<p style="display:inline-block;float:left;border:2px solid green;line-height:80px;">=> keine Bearbeitung, Namensnennung</p>
+	<p style="display:inline-block;float:left;border:2px solid green;">=> keine Bearbeitung, Namensnennung</p>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
