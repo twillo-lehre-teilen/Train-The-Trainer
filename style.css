@@ -1122,8 +1122,6 @@ div.dropzone {
 div.dragdropContainer {
   height: 80px;
   width: 100%;
-  line-height: 80px;
-  vertical-align: top;
   text-align: center;
   border: 2px solid red;
 }
