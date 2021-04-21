@@ -7,18 +7,23 @@
     ev.dataTransfer.setData('text', ev.target.id);
   }
   function ablegenErlauben(ev) {
-    ev.preventDefault();
+    var t = event.target;
+    while (t !== null && !t.classList.contains("target")) {
+        t = t.parentNode;
+    }
+    if (t && t.childNodes.length == 0) {
+        event.preventDefault();
+    }
+    return false;
   }
   function ablegen(ev) {
-    if(!ev.target.hasChildNodes()){
-      ev.preventDefault();
-      var data = ev.dataTransfer.getData('text');
-      var target = ev.target;
-      while (" " + target.className + " ".indexOf(" dropzone ") == -1) {
-          target = target.parentNode;
-      }
-      target.appendChild(document.getElementById(data));
+    ev.preventDefault();
+    var data = ev.dataTransfer.getData('text');
+    var target = ev.target;
+    while (" " + target.className + " ".indexOf(" dropzone ") == -1) {
+        target = target.parentNode;
     }
+    target.appendChild(document.getElementById(data));
   }
   window.addEventListener("load", function () {
     var elms = document.querySelectorAll(".dropzone");
