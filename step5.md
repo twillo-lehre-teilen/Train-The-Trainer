@@ -8,13 +8,15 @@
   }
   function ablegenErlauben(ev) {
     var t = ev.target;
-  while (t !== null && !t.classList.contains("target")) {
-    t = t.parentNode;
-  }
-  if (t && t.childNodes.length > 0) {
-    return false;
-  }
-  ev.preventDefault()
+    while (t !== null && !t.classList.contains("target")) {
+      t = t.parentNode;
+    }
+    showExplanation(1);
+    explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${t.childNodes.length} ?= ${userAnswers}`;
+    if (t && t.childNodes.length > 0) {
+      return false;
+    }
+    ev.preventDefault()
   }
   function ablegen(ev) {
     ev.preventDefault();
