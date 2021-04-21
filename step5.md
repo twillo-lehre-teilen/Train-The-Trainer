@@ -7,7 +7,6 @@
     ev.dataTransfer.setData('text', ev.target.id);
   }
   function ablegenErlauben(ev) {
-    explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ABV`;
     ev.preventDefault()
   }
   function ablegen(ev) {
