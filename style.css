@@ -1119,29 +1119,3 @@ div.zielzone {
 	border: 1px solid #aaaaaa;
 	background: white;
 }
-div.zielzone p {
-	float: left;
-	margin: 1em;
-	border-radius: 50%;
-	border: 2px solid #333;
-	width: 2em;
-	height: 2em;
-}
-#kugel1 {
-	background: #dfac20;
-}
-#kugel2 {
-	background: #3983ab;
-}
-#kugel3 {
-	background: #c32e04;
-}
-#kugel4 {
-	background: #5a9900;
-}
-#kugel5 {
-	background: purple;
-}
-#kugel6 {
-	background: white;
-}
