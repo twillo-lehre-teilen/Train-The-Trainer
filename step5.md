@@ -39,7 +39,6 @@
       /* for drag-drop questions */
       if(slides[currentSlide].title == "dragdrop") {  
         /* reset previous selections */
-        showExplanation(1); 
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
         /* find user-answers */
@@ -47,6 +46,7 @@
         const labelContainer = slides[currentSlide].querySelector(".answers").querySelectorAll("label")
         labelContainer.forEach( (label, labelNumber) => {
           let dropzoneContainer = label.querySelectorAll(".dropzone");
+          showExplanation(1); 
           dropzoneContainer.forEach( (dropzone, dropzoneNumber) => {
             if (dropzone.title = "drop"){
               let img = dropzone.getElementsByTagName('img');
