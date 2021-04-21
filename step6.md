@@ -4,47 +4,42 @@
 <h2>Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</h2>
 
 <div class="dragdropContainer">
-	<p style="display:inline-block;float:left;width:120px;text-align:left;">CC BY ND: </p>
+	<p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY ND: </p>
 	<div class="dropzone"><img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
 	<div class="dropzone"></div>
-	<p style="display:inline-block;float:left;">=> keine Bearbeitung, Namensnennung</p>
+	<p style="float:left;line-height:30px;vertical-align:middle;">=> keine Bearbeitung, Namensnennung</p>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p style="display:inline-block;float:left;width:120px;text-align:left;">CC BY SA: </p>
+	<p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
 	<div class="dropzone">
 		<img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<p style="display:inline-block;float:left;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
+	<p style="float:left;line-height:30px;vertical-align:middle;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p style="display:inline-block;float:left;width:120px;text-align:left;">CC BY NC: </p>
+	<p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY NC: </p>
 	<div class="dropzone">
 		<img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<p style="display:inline-block;float:left;">=> nicht-kommerziell, Namensnennung</p>
+	<p style="float:left;line-height:30px;vertical-align:middle;">=> nicht-kommerziell, Namensnennung</p>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p style="display:inline-block;float:left;width:120px;text-align:left;">CC BY: </p>
+	<p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY: </p>
 	<div class="dropzone">
 		<img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<p style="display:inline-block;float:left;">=> Namensnennung</p>
+	<p style="float:left;line-height:30px;vertical-align:middle;">=> Namensnennung</p>
 </div>
 <br style="clear:both">
-
-<p style="float:left;line-height:25px;vertical-align:middle;">CC BY ND: </p>
-<div class="dropzone"><img id="drag4" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
-<div class="dropzone"></div>
-<p style="float:left;line-height:30px;vertical-align:middle;">=> keine Bearbeitung, Namensnennung</p>
 
 <script>
 function ziehen(ev) {
