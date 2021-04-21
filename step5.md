@@ -17,7 +17,7 @@
       while (" " + target.className + " ".indexOf(" dropzone ") == -1) {
           target = target.parentNode;
       }
-      target.appendChild(document.getElementById(data).cloneNode(true));
+      target.appendChild(document.getElementById(data));
     }
   }
   window.addEventListener("load", function () {
