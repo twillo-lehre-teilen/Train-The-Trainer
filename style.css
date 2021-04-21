@@ -1110,10 +1110,17 @@ div.quiz-frame{
 [draggable=true] {
 	cursor: move;
 }
+div.zielzone {
+	float: left;
+	width: 10em;
+	height: 300px;
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #aaaaaa;
+	background: white;
+}
 div.zielzone p {
 	float: left;
-	padding: 10px;
-	background: white;
 	margin: 1em;
 	border-radius: 50%;
 	border: 2px solid #333;
@@ -1123,23 +1130,18 @@ div.zielzone p {
 #kugel1 {
 	background: #dfac20;
 }
-
 #kugel2 {
 	background: #3983ab;
 }
-
 #kugel3 {
 	background: #c32e04;
 }
-
 #kugel4 {
 	background: #5a9900;
 }
-
 #kugel5 {
 	background: purple;
 }
-
 #kugel6 {
 	background: white;
 }
