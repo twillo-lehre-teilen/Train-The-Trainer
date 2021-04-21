@@ -1106,3 +1106,18 @@ div.quiz-frame{
   overflow: auto;
   background-color: #FAFAFC;
 }
+/* Drag-and-Drop settings */
+div.drag {
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+}
+div.drop {
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+}
