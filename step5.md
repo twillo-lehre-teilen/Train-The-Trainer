@@ -67,17 +67,14 @@
         userAnswers.forEach( (answer, answerNumber) => {
           if (answer == correctAnswers[answerNumber]){
             /* if answer is right */
-            showExplanation(1);
             //explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> 1234`;
           }
           else if (answer == "empty"){
             /* do nothing */
-            showExplanation(1);
             //explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> -`;
           }
           else {
             /* if answer is wrong */
-            showExplanation(1);
             //explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> gfjfghfj`;
           }
         });
