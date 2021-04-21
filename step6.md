@@ -40,10 +40,10 @@
 	<p style="display:inline-block;float:left;">=> Namensnennung</p>
 </div>
 
-<p style="display:inline-block;float:left;width:120px;text-align:left;border:2px solid green;">CC BY ND: </p>
+<p style="display:inline-block;float:left;">CC BY ND: </p>
 <div class="dropzone"><img id="drag4" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
 <div class="dropzone"></div>
-<p style="display:inline-block;float:left;border:2px solid green;">=> keine Bearbeitung, Namensnennung</p>
+<p style="display:inline-block;float:left;">=> keine Bearbeitung, Namensnennung</p>
 
 <script>
 function ziehen(ev) {
