@@ -8,6 +8,10 @@
     function showResult(){
       /* for drag-drop questions */
       if (slides[currentSlide].title == "dragdrop"){
+        /* reset previous selections */
+        slides[currentSlide].querySelector(".answers").querySelectorAll("label").querySelectorAll('[title="description"').forEach( (description, descriptionNumber) => { 
+            descriptionNumber.style.color = "#0A1F40";
+        });
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(";");
         /* find user-answers */
