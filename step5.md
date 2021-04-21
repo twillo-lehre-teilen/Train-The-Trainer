@@ -45,11 +45,11 @@
         var userAnswers = [];
         const labelContainer = slides[currentSlide].querySelector(".answers").querySelectorAll("label")
         labelContainer.forEach( (label, labelNumber) => {
-          let dropzoneContainer = label.querySelectorAll(".dropzone");
-          showExplanation(1); 
+          let dropzoneContainer = label.querySelectorAll(".dropzone"); 
           dropzoneContainer.forEach( (dropzone, dropzoneNumber) => {
             if (dropzone.title = "drop"){
               let img = dropzone.getElementsByTagName('img');
+              showExplanation(1); 
               if(img.length >= 1){
                 userAnswers.push(img[0].title);
               }
