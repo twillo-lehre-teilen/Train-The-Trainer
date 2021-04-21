@@ -55,6 +55,8 @@
               let img = dropzone.getElementsByTagName('img');
               if(img.length >= 1){
                 userAnswers.push(img[0].title);
+                showExplanation(1);
+                explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> DEF`;
               }
               else {
                 userAnswers.push("empty");
