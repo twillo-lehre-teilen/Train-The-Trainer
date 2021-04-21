@@ -41,6 +41,7 @@
         /* reset previous selections */
         slides[currentSlide].querySelector(".answers").querySelectorAll("p").style.color = lightgreen;
         slides[currentSlide].querySelector(".answers").querySelector("label").style.color = lightgreen;
+        showExplanation(1);
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
         /* find user-answers */
