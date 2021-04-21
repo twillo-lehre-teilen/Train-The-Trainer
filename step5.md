@@ -142,6 +142,36 @@
      showNextSlide();  
     });
   })();
+  /* break */
+  /* break */
+  function ziehen(ev) {
+    ev.dataTransfer.setData('text', ev.target.id);
+  }
+  function ablegenErlauben(ev) {
+    ev.preventDefault();
+  }
+  function ablegen(ev) {
+    ev.preventDefault();
+    var data = ev.dataTransfer.getData('text');
+    var target = ev.target;
+    while (" " + target.className + " ".indexOf(" zielzone ") == -1) {
+        target = target.parentNode;
+    }
+    target.appendChild(document.getElementById(data));
+  }
+  window.addEventListener("load", function () {
+    var elms = document.querySelectorAll(".dropzone");
+    for (var i = 0; i < elms.length; i++) {
+      var zielzone = elms[i];
+      zielzone.addEventListener("drop", ablegen);
+      zielzone.addEventListener("dragover", ablegenErlauben);
+    };
+    elms = document.querySelectorAll("[draggable=true]")
+    for (var i = 0; i < elms.length; i++) {
+      var draggable = elms[i];
+      draggable.addEventListener("dragstart", ziehen);
+    };
+  });
 </script>
 
 <div class="quiz-frame">
@@ -171,7 +201,7 @@
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
           <div class="dropzone"><img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true"></div>
           <div class="dropzone"></div>
-          <p style="float:left;line-height:30px;vertical-align:middle;border: 2px solid green;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
+          <p style="float:left;line-height:30px;vertical-align:middle;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY NC: </p>
