@@ -37,10 +37,8 @@
     /* result funtion */
     function showResult(){
       /* for drag-drop questions */
-      if (slides[currentSlide].title == "dragdrop"){
-      }
       /* for single-input questions */
-      else if(slides[currentSlide].title == "input"){
+      if(slides[currentSlide].title == "input"){
         var answer = slides[currentSlide].querySelector("input").value;
         if (answer.toLowerCase() == slides[currentSlide].querySelector(".solution").innerHTML.toLowerCase()){
           slides[currentSlide].querySelector(".answers").querySelector("label").style.color = "lightgreen";
