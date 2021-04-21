@@ -14,7 +14,7 @@
     if (t && t.childNodes.length > 0) {
       return false;
     }
-    ev.preventDefault()
+    ev.preventDefault();
   }
   function ablegen(ev) {
     ev.preventDefault();
