@@ -40,8 +40,9 @@
       if(slides[currentSlide].title == "dragdrop") {  
         /* reset previous selections */
         showExplanation(1);
-        slides[currentSlide].querySelector(".answers").querySelectorAll("p").style.color = lightgreen;
-        slides[currentSlide].querySelector(".answers").querySelector("label").style.color = lightgreen;
+        slides[currentSlide].querySelector(".answers").style.color = yellow;
+        slides[currentSlide].querySelector(".answers").querySelectorAll("label").style.color = lightgreen;
+        slides[currentSlide].querySelector(".answers").querySelectorAll("label").getElementById("test").style.color = lightgreen;
         showExplanation(1);
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
@@ -222,10 +223,10 @@
       <div class="question">Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</div>
       <div class="answers">
         <label class="dragdropContainer">
-          <p style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </p>
+          <p style="float:left;line-height:20px;vertical-align:middle;width:120px;color:red;">CC BY ND: </p>
           <div class="dropzone" title="drag"><img id="drag1" title="A" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
           <div class="dropzone" title="drop" style="margin-right:30px;"></div>
-          <p title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
+          <p id="test" title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
