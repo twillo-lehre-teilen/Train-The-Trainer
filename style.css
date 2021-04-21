@@ -1110,8 +1110,7 @@ div.quiz-frame{
 [draggable=true] {
   cursor: move;
 }
-div.startzone {
-  clear: both;
+div.dropzone {
   float: left;	
   width: 120px;
   height: 50px;
@@ -1120,12 +1119,4 @@ div.startzone {
   border: 1px solid #0A1F40;
   background: white;
 }
-div.zielzone {
-  float: left;
-  width: 120px;
-  height: 50px;
-  margin: 5px;
-  padding: 10px;
-  border: 1px solid #0A1F40;
-  background: white;
-}
+
