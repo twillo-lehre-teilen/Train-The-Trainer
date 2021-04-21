@@ -217,17 +217,6 @@
 <div class="quiz-frame">
   <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
   <div class="quiz-container">
-    <div class="slide" title="input">
-      <div class="question">Welche Organisation prägte den Begriff "OER" erstmalig?*</div>
-      <div class="answers">
-        <label>
-          Lösung: 
-          <input type="text" id="test" name="question1">
-        </label>
-      </div>
-      <div class="solution">UNESCO</div>
-      <div class="explanation">Auf dem UNESCO <i>Forum zu OpenCourseWare für die Hochschulbildung in Entwicklungsländern</i> im Jahr 2002 wurde der Begriff Open Educational Resources erstmalig geprägt (vgl. <a aria-described-by="Link zur Unesco Seite" href="https://unesdoc.unesco.org/ark:/48223/pf0000128515">UNESCO 2002</a>) Die UNESCO griff die Forderungen der aufkommenden OER-Bewegung auch 2012 in ihrer Pariser Erklärung wieder auf. </div>
-    </div>
     <div class="slide" title="dragdrop">
       <div class="question">Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</div>
       <div class="answers">
@@ -258,6 +247,17 @@
       </div>
       <div class="solution">A,B,C,D</div>
       <div class="explanation"></div>
+    </div>
+    <div class="slide" title="input">
+      <div class="question">Welche Organisation prägte den Begriff "OER" erstmalig?*</div>
+      <div class="answers">
+        <label>
+          Lösung: 
+          <input type="text" id="test" name="question1">
+        </label>
+      </div>
+      <div class="solution">UNESCO</div>
+      <div class="explanation">Auf dem UNESCO <i>Forum zu OpenCourseWare für die Hochschulbildung in Entwicklungsländern</i> im Jahr 2002 wurde der Begriff Open Educational Resources erstmalig geprägt (vgl. <a aria-described-by="Link zur Unesco Seite" href="https://unesdoc.unesco.org/ark:/48223/pf0000128515">UNESCO 2002</a>) Die UNESCO griff die Forderungen der aufkommenden OER-Bewegung auch 2012 in ihrer Pariser Erklärung wieder auf. </div>
     </div>
     <div class="slide" title="single-choice">
       <div class="question">Wie lässt sich OER definieren?*</div>
