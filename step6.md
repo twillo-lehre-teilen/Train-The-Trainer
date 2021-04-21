@@ -40,7 +40,7 @@
 	<p style="display:inline-block;float:left;">=> Namensnennung</p>
 </div>
 
-<p style="float:left;line-height:40px;vertical-align:middle;">CC BY ND: </p>
+<p style="float:left;line-height:30px;vertical-align:middle;">CC BY ND: </p>
 <div class="dropzone"><img id="drag4" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
 <div class="dropzone"></div>
 <p style="float:left;line-height:45px;vertical-align:middle;">=> keine Bearbeitung, Namensnennung</p>
