@@ -13,7 +13,7 @@
             descriptionNumber.style.color = yellow;
         });
         /* get correct answers */
-        const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(";");
+        const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
         /* find user-answers */
         var userAnswers = [];
         const labelContainer = slides[currentSlide].querySelector(".answers").querySelectorAll("label")
