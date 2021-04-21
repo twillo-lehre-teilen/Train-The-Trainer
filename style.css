@@ -1109,9 +1109,9 @@ div.quiz-frame{
 /* Drag-and-Drop settings */
 div.drag, div.drop {
   float: left;
-  width: 150px;
-  height: 70px;
+  width: 125px;
+  height: 50px;
   margin: 20px;
-  padding: 0px;
+  padding: 10px;
   border: 1px solid black;
 }
