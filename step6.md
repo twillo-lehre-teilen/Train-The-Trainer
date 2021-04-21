@@ -1,5 +1,6 @@
 <h1 style="color:#000000">Schritt 6: Reflexion</h1>
 
+<head>
 <style>
 #div1, #div2 {
   float: left;
@@ -25,6 +26,7 @@ function drop(ev) {
   ev.target.appendChild(document.getElementById(data));
 }
 </script>
+</head>
 
 <h2>Drag and Drop</h2>
 <p>Drag the image back and forth between the two div elements.</p>
