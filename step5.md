@@ -16,9 +16,7 @@
     while (" " + target.className + " ".indexOf(" dropzone ") == -1) {
         target = target.parentNode;
     }
-    if (target.is(`:empty`){
-      target.appendChild(document.getElementById(data));
-    }
+    target.appendChild(document.getElementById(data));
   }
   window.addEventListener("load", function () {
     var elms = document.querySelectorAll(".dropzone");
