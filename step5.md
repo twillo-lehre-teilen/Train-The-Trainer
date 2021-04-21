@@ -17,6 +17,7 @@
         /* find user-answers */
         var userAnswers = [];
         const labelContainer = slides[currentSlide].querySelector(".answers").querySelectorAll("label")
+        labelContainer[0].style.color = yellow;
         labelContainer.forEach( (label, labelNumber) => {
           let dropzoneContainer = label.querySelectorAll(".dropzone");
           dropzoneContainer.forEach( (dropzone, dropzoneNumber) => {
