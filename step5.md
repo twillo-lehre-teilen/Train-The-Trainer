@@ -11,9 +11,8 @@
     while (t !== null && !t.classList.contains("target")) {
       t = t.parentNode;
     }
-    explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${t.childNodes.length}`;
+    explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ABV`;
     if (t && t.childNodes.length > 0) {
-      return false;
     }
     ev.preventDefault()
   }
