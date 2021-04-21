@@ -21,9 +21,9 @@
   window.addEventListener("load", function () {
     var elms = document.querySelectorAll(".dropzone");
     for (var i = 0; i < elms.length; i++) {
-      var zielzone = elms[i];
-      zielzone.addEventListener("drop", ablegen);
-      zielzone.addEventListener("dragover", ablegenErlauben);
+      var dropzone = elms[i];
+      dropzone.addEventListener("drop", ablegen);
+      dropzone.addEventListener("dragover", ablegenErlauben);
     };
     elms = document.querySelectorAll("[draggable=true]")
     for (var i = 0; i < elms.length; i++) {
