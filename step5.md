@@ -11,7 +11,6 @@
     while (t !== null && !t.classList.contains("target")) {
       t = t.parentNode;
     }
-    showExplanation(1);
     explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${t.childNodes.length}`;
     if (t && t.childNodes.length > 0) {
       return false;
