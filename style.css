@@ -1108,6 +1108,7 @@ div.quiz-frame{
 }
 /* Drag-and-Drop settings */
 div.drag {
+  float: left;
   width: 100px;
   height: 35px;
   margin: 10px;
@@ -1115,6 +1116,7 @@ div.drag {
   border: 1px solid black;
 }
 div.drop {
+  float: left;
   width: 100px;
   height: 35px;
   margin: 10px;
