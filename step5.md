@@ -3,6 +3,36 @@
 <h2 style="margin-bottom:20px">Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
 
 <script>
+  function ziehen(ev) {
+    ev.dataTransfer.setData('text', ev.target.id);
+  }
+  function ablegenErlauben(ev) {
+    ev.preventDefault();
+  }
+  function ablegen(ev) {
+    ev.preventDefault();
+    var data = ev.dataTransfer.getData('text');
+    var target = ev.target;
+    while (" " + target.className + " ".indexOf(" zielzone ") == -1) {
+        target = target.parentNode;
+    }
+    target.appendChild(document.getElementById(data));
+  }
+  window.addEventListener("load", function () {
+    var elms = document.querySelectorAll(".dropzone");
+    for (var i = 0; i < elms.length; i++) {
+      var zielzone = elms[i];
+      zielzone.addEventListener("drop", ablegen);
+      zielzone.addEventListener("dragover", ablegenErlauben);
+    };
+    elms = document.querySelectorAll("[draggable=true]")
+    for (var i = 0; i < elms.length; i++) {
+      var draggable = elms[i];
+      draggable.addEventListener("dragstart", ziehen);
+    };
+  });
+  /* break */
+  /* break */
   (function(){
     /* result funtion */
     function showResult(){
@@ -142,36 +172,6 @@
      showNextSlide();  
     });
   })();
-  /* break */
-  /* break */
-  function ziehen(ev) {
-    ev.dataTransfer.setData('text', ev.target.id);
-  }
-  function ablegenErlauben(ev) {
-    ev.preventDefault();
-  }
-  function ablegen(ev) {
-    ev.preventDefault();
-    var data = ev.dataTransfer.getData('text');
-    var target = ev.target;
-    while (" " + target.className + " ".indexOf(" zielzone ") == -1) {
-        target = target.parentNode;
-    }
-    target.appendChild(document.getElementById(data));
-  }
-  window.addEventListener("load", function () {
-    var elms = document.querySelectorAll(".dropzone");
-    for (var i = 0; i < elms.length; i++) {
-      var zielzone = elms[i];
-      zielzone.addEventListener("drop", ablegen);
-      zielzone.addEventListener("dragover", ablegenErlauben);
-    };
-    elms = document.querySelectorAll("[draggable=true]")
-    for (var i = 0; i < elms.length; i++) {
-      var draggable = elms[i];
-      draggable.addEventListener("dragstart", ziehen);
-    };
-  });
 </script>
 
 <div class="quiz-frame">
