@@ -49,7 +49,6 @@
           dropzoneContainer.forEach( (dropzone, dropzoneNumber) => {
             if (dropzone.title = "drop"){
               let img = dropzone.getElementsByTagName('img');
-              showExplanation(1); 
               if(img.length >= 1){
                 userAnswers.push(img[0].title);
               }
@@ -63,6 +62,7 @@
           });  
         });
         /* compare answers */
+        showExplanation(1); 
         userAnswers.forEach( (answer, answerNumber) => {
           if (answer == correctAnswers[answerNumber]){
             /* if answer is right */
