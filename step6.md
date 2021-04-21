@@ -1,16 +1,5 @@
 <h1 style="color:#000000">Schritt 6: Reflexion</h1>
 
-<head>
-<style>
-#div1, #div2 {
-  float: left;
-  width: 150px;
-  height: 45px;
-  margin: 10px;
-  padding: 10px;
-  border: 1px solid black;
-}
-</style>
 <script>
 function allowDrop(ev) {
   ev.preventDefault();
@@ -26,16 +15,12 @@ function drop(ev) {
   ev.target.appendChild(document.getElementById(data));
 }
 </script>
-</head>
 
 <h2>Drag and Drop</h2>
 <p>Drag the image back and forth between the two div elements.</p>
 
-<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
-  <img src="images/creative-commons_cc-zero.svg" draggable="true" ondragstart="drag(event)" id="drag1" width="88" height="31">
+<div class="drag" id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+  <img src="images/creative-commons_cc-zero.svg" draggable="true" ondragstart="drag(event)" id="drag1">
 </div>
 
-<div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-
-
-
+<div class="drop" id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
