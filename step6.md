@@ -4,43 +4,43 @@
 <h2>Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</h2>
 
 <div class="dragdropContainer">
-	<div style="display:inline-block;float:left;">CC BY ND:</div>
+	<div style="display:inline-block;float:left;">CC BY ND: </div>
 	<div class="dropzone">
 		<img id="drag1" src="images/creative-commons_cc-by-nd.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<div style="display:inline-block;float:left"><i class="fa fa-caret-circle-right"></i> keine Bearbeitung, Namensnennung</div>
+	<div style="display:inline-block;float:left">=> keine Bearbeitung, Namensnennung</div>
 </div>
+<br style="clear:both;">
 <div class="dragdropContainer">
-	<div>CC BY SA:</div>
-	<br style="clear:both;">
+	<div style="display:inline-block;float:left;">CC BY SA: </div>
 	<div class="dropzone">
 		<img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<div><i class="fad fa-caret-circle-right"></i> Namensnennung, Weitergabe unter gleichen Bedingungen</div>
+	<div style="display:inline-block;float:left;">=> Namensnennung, Weitergabe unter gleichen Bedingungen</div>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p>CC BY NC:</p>
+	<div style="display:inline-block;float:left;">CC BY NC: </div>
 	<div class="dropzone">
 		<img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<p><i class="fa fa-caret-circle-right"></i> nicht-kommerziell, Namensnennung</p>
+	<div style="display:inline-block;float:left;">=> nicht-kommerziell, Namensnennung</div>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p>CC BY:</p>
+	<div style="display:inline-block;float:left;">CC BY: </div>
 	<div class="dropzone">
 		<img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
-	<p><i class="fa fa-caret-circle-right"></i> Namensnennung</p>
+	<div style="display:inline-block;float:left;">=> Namensnennung</div>
 </div>
 
 <script>
