@@ -39,6 +39,7 @@
       /* for drag-drop questions */
       if(slides[currentSlide].title == "dragdrop") {  
         /* reset previous selections */
+        showExplanation(1);
         slides[currentSlide].querySelector(".answers").querySelectorAll("p").style.color = lightgreen;
         slides[currentSlide].querySelector(".answers").querySelector("label").style.color = lightgreen;
         showExplanation(1);
