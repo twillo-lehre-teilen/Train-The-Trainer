@@ -44,7 +44,7 @@
 ---
 <label class="dragdropContainer">
   <p style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </p>
-  <div class="dropzone" title="drag"><img title="A" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
+  <div class="dropzone" title="drag"><img id="drag5" title="A" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
   <div class="dropzone" title="drop" style="margin-right:30px;"></div>
   <p title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
 </label>
