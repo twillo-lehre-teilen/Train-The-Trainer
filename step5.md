@@ -10,7 +10,7 @@
     ev.preventDefault();
   }
   function ablegen(ev) {
-    if(ev.target.children.length == 0){
+    if(ev.target.children.length == 1){
       ev.preventDefault();
       var data = ev.dataTransfer.getData('text');
       var target = ev.target;
