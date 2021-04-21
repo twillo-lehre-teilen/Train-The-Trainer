@@ -67,7 +67,6 @@
             /* if answer is right */
             showExplanation(1);
             explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> 1234`;
-            labelContainer[answerNumber].querySelector('[title="description"]').style.color = lightgreen;
           }
           else if (answer == "empty"){
             /* do nothing */
@@ -78,7 +77,6 @@
             /* if answer is wrong */
             showExplanation(1);
             explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> gfjfghfj`;
-            labelContainer[answerNumber].querySelector('[title="description"]').style.color = red;
           }
         });
       }
