@@ -1126,5 +1126,6 @@ div.dragdropContainer {
 label.dragdropContainer {
   width: 100%;
   height: 80px;
+  margin-top: 0 auto;
   border: 2px solid red;
 }
