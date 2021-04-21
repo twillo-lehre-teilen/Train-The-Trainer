@@ -1,4 +1,5 @@
 <h1 style="color:#000000">Schritt 6: Reflexion</h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <h2>Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</h2>
 
@@ -9,25 +10,34 @@
 	</div>
 	<div class="dropzone">
 	</div>
-	<p><i class="fad fa-caret-circle-right"></i> keine Bearbeitung, Namensnennung</p>
+	<p><i class="fa fa-caret-circle-right"></i> keine Bearbeitung, Namensnennung</p>
+</div>
+<div class="dragdropContainer">
+	<p>CC BY ND:</p>
+	<br style="clear:both;">
+	<div class="dropzone">
+		<img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true">
+	</div>
+	<div class="dropzone">
+	</div>
 </div>
 <br style="clear:both;">
-<div class="dropzone">
-	<img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true">
-</div>
-<div class="dropzone">
-</div>
-<br style="clear:both;">
-<div class="dropzone">
-	<img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true">
-</div>
-<div class="dropzone">
+<div class="dragdropContainer">
+	<p>CC BY ND:</p>
+	<div class="dropzone">
+		<img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true">
+	</div>
+	<div class="dropzone">
+	</div>
 </div>
 <br style="clear:both;">
-<div class="dropzone">
-	<img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true">
-</div>
-<div class="dropzone">
+<div class="dragdropContainer">
+	<p>CC BY ND:</p>
+	<div class="dropzone">
+		<img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true">
+	</div>
+	<div class="dropzone">
+	</div>
 </div>
 
 <script>
