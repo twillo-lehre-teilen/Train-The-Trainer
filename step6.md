@@ -13,31 +13,34 @@
 	<p><i class="fa fa-caret-circle-right"></i> keine Bearbeitung, Namensnennung</p>
 </div>
 <div class="dragdropContainer">
-	<p>CC BY ND:</p>
+	<p>CC BY SA:</p>
 	<br style="clear:both;">
 	<div class="dropzone">
 		<img id="drag2" src="images/creative-commons_cc-by-sa.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
+	<p><i class="fad fa-caret-circle-right"></i> Namensnennung, Weitergabe unter gleichen Bedingungen</p>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p>CC BY ND:</p>
+	<p>CC BY NC:</p>
 	<div class="dropzone">
 		<img id="drag3" src="images/creative-commons_cc-by-nc.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
+	<p><i class="fa fa-caret-circle-right"></i> nicht-kommerziell, Namensnennung</p>
 </div>
 <br style="clear:both;">
 <div class="dragdropContainer">
-	<p>CC BY ND:</p>
+	<p>CC BY:</p>
 	<div class="dropzone">
 		<img id="drag4" src="images/creative-commons_cc-by.svg" draggable="true">
 	</div>
 	<div class="dropzone">
 	</div>
+	<p><i class="fa fa-caret-circle-right"></i> Namensnennung</p>
 </div>
 
 <script>
