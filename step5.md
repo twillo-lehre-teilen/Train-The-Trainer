@@ -7,8 +7,14 @@
     ev.dataTransfer.setData('text', ev.target.id);
   }
   function ablegenErlauben(ev) {
-    ev.preventDefault();
-    explanationContainer.innerHTML = "ABCD";
+    var t = ev.target;
+    //while (t !== null && !t.classList.contains("target")) {
+      //t = t.parentNode;
+    //}
+    if (t && t.childNodes.length > 0) {
+      return false;
+    }
+    ev.preventDefault()
   }
   function ablegen(ev) {
     ev.preventDefault();
