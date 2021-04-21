@@ -60,7 +60,7 @@ function ablegen(ev) {
 	target.appendChild(document.getElementById(data));
 }
 window.addEventListener("load", function () {
-	var elms = document.querySelectorAll(".zielzone");
+	var elms = document.querySelectorAll("div.zielzone");
 	for (var i = 0; i < elms.length; i++) {
 		var zielzone = elms[i];
 		zielzone.addEventListener("drop", ablegen);
