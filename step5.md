@@ -7,6 +7,10 @@
     ev.dataTransfer.setData('text', ev.target.id);
   }
   function ablegenErlauben(ev) {
+    //if(target.title == "drop"){
+      //ev.preventDefault();
+      //target.title = "drag";
+    //}
     ev.preventDefault();
   }
   function ablegen(ev) {
@@ -47,7 +51,7 @@
         labelContainer.forEach( (label, labelNumber) => {
           let dropzoneContainer = label.querySelectorAll(".dropzone"); 
           dropzoneContainer.forEach( (dropzone, dropzoneNumber) => {
-            if (dropzone.hasClass("end")){
+            if (true){
               let img = dropzone.getElementsByTagName('img');
               if(img.length >= 1){
                 userAnswers.push(img[0].title);
