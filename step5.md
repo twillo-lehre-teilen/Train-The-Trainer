@@ -58,6 +58,8 @@
               }
               else {
                 userAnswers.push("empty");
+                showExplanation(1);
+                explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ABC`;
               }
             }
             else {
@@ -222,7 +224,7 @@
       <div class="question">Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</div>
       <div class="answers">
         <label class="dragdropContainer">
-          <p style="float:left;line-height:20px;vertical-align:middle;width:120px;color:red;">CC BY ND: </p>
+          <p style="float:left;line-height:20px;vertical-align:middle;width:120px;color:purple;">CC BY ND: </p>
           <div class="dropzone" title="drag"><img id="drag1" title="A" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
           <div class="dropzone" title="drop" style="margin-right:30px;"></div>
           <p id="test" title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
