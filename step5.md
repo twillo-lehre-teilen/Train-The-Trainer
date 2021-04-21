@@ -7,14 +7,10 @@
     ev.dataTransfer.setData('text', ev.target.id);
   }
   function ablegenErlauben(ev) {
-    var t = ev.target;
-    while (t !== null && !t.classList.contains("target")) {
-      t = t.parentNode;
+    if(target.title == "drop"){
+      ev.preventDefault();
+      target.title = "drag";
     }
-    if (t && t.childNodes.length > 0) {
-      return true;
-    }
-    ev.preventDefault();
   }
   function ablegen(ev) {
     ev.preventDefault();
@@ -54,7 +50,7 @@
         labelContainer.forEach( (label, labelNumber) => {
           let dropzoneContainer = label.querySelectorAll(".dropzone"); 
           dropzoneContainer.forEach( (dropzone, dropzoneNumber) => {
-            if (dropzone.title == "drop"){
+            if (dropzone.hasClass("end")){
               let img = dropzone.getElementsByTagName('img');
               if(img.length >= 1){
                 userAnswers.push(img[0].title);
@@ -229,25 +225,25 @@
         <label class="dragdropContainer">
           <p style="float:left;line-height:20px;vertical-align:middle;width:120px;">CC BY ND: </p>
           <div class="dropzone" title="drag"><img id="drag1" title="A" src="images/creative-commons_cc-by-nd.svg" draggable="true"></div>
-          <div class="dropzone" title="drop" style="margin-right:30px;"></div>
+          <div class="dropzone end" title="drop" style="margin-right:30px;"></div>
           <p id="test" title="description" style="float:left;line-height:20px;vertical-align:middle;">= keine Bearbeitung, Namensnennung</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY SA: </p>
           <div class="dropzone" title="drag"><img id="drag2" title="B" src="images/creative-commons_cc-by-sa.svg" draggable="true"></div>
-          <div class="dropzone" title="drop" style="margin-right:30px;"></div>
+          <div class="dropzone end" title="drop" style="margin-right:30px;"></div>
           <p title="description" style="float:left;line-height:30px;vertical-align:middle;">= Namensnennung, Weitergabe unter gleichen Bedingungen</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY NC: </p>
           <div class="dropzone" title="drag"><img id="drag3" title="C" src="images/creative-commons_cc-by-nc.svg" draggable="true"></div>
-          <div class="dropzone" title="drop" style="margin-right:30px;"></div>
+          <div class="dropzone end" title="drop" style="margin-right:30px;"></div>
           <p title="description" style="float:left;line-height:30px;vertical-align:middle;">= nicht-kommerziell, Namensnennung</p>
         </label>
         <label class="dragdropContainer">
           <p style="float:left;line-height:30px;vertical-align:middle;width:120px;">CC BY: </p>
           <div class="dropzone" title="drag"><img id="drag4" title="D" src="images/creative-commons_cc-by.svg" draggable="true"></div>
-          <div class="dropzone" title="drop" style="margin-right:30px;"></div>
+          <div class="dropzone end" title="drop" style="margin-right:30px;"></div>
           <p title="description" style="float:left;line-height:30px;vertical-align:middle;">= Namensnennung</p>
         </label>
       </div>
