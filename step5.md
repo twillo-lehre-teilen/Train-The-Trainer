@@ -39,6 +39,7 @@
       /* for drag-drop questions */
       if(slides[currentSlide].title == "dragdrop") {  
         /* reset previous selections */
+        slides[currentSlide].querySelector(".answers").querySelector("label").style.color = lightgreen;
         /* get correct answers */
         const correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
         /* find user-answers */
@@ -61,22 +62,18 @@
             }
           });  
         });
-        labelContainer[0].querySelector('[title="description"]').style.color = lightgreen;
         /* compare answers */
         userAnswers.forEach( (answer, answerNumber) => {
           if (answer == correctAnswers[answerNumber]){
             /* if answer is right */
             labelContainer[answerNumber].querySelector('[title="description"]').style.color = lightgreen;
-            showExplanation(1);   
           }
           else if (answer == "empty"){
             /* do nothing */
-            showExplanation(1);   
           }
           else {
             /* if answer is wrong */
             labelContainer[answerNumber].querySelector('[title="description"]').style.color = red;
-            showExplanation(1);   
           }
         });
       }
