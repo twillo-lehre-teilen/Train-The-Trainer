@@ -42,13 +42,13 @@ Um die Etablierung von OER in der Hochschullehre zu stärken, wurde im Rahmen de
 Folgende Funktionen des Portals sind hervorzuheben:
 
 <ul style="list-style-type:none">
-      <li><i class="fa fa-check-circle" style="color:green"></i><b>Individueller Workspace:</b> Langfristige Ablage von Materialien (z.B. über Stellenwechsel hinaus)</li>
-      <li><i class="fa fa-check-circle" style="color:green"></i><b>Upload und Verlinkung:</b> Bereitstellung von OER direkt im Portal oder über die Originalseite</li>
-      <li><i class="fa fa-check-circle" style="color:green"></i><b>Serien- und Sammlungsfunktion:</b> Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte</li>
-      <li><i class="fa fa-check-circle" style="color:green"></i><b>Suchfunktion:</b> Vereinfachte Auffindbarkeit von Materialien</li>
-      <li><i class="fa fa-check-circle" style="color:green"></i><b>Metadaten:</b> Vorkonfigurierte Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung von OER</li>
-      <li><i class="fa fa-check-circle" style="color:green"></i><b>Support:</b> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo</li>
-      <li><i class="fa fa-check-circle" style="color:green"></i><b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder einer anderen Institution</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> <b>Individueller Workspace:</b> Langfristige Ablage von Materialien (z.B. über Stellenwechsel hinaus)</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> <b>Upload und Verlinkung:</b> Bereitstellung von OER direkt im Portal oder über die Originalseite</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> <b>Serien- und Sammlungsfunktion:</b> Zusammenstellung unterschiedlicher OER zu bestimmten Themenbereichen und/oder für spezifische Lehr-Lernkontexte</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> <b>Suchfunktion:</b> Vereinfachte Auffindbarkeit von Materialien</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> <b>Metadaten:</b> Vorkonfigurierte Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung von OER</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> <b>Support:</b> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo</li>
+      <li><i class="fa fa-check-circle" style="color:green"></i> <b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder einer anderen Institution</li>
 </ul>
 
 Der Workflow auf twillo umfasst vier Schritte:
