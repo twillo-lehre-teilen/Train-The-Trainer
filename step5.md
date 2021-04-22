@@ -57,27 +57,28 @@ Der Workflow auf twillo umfasst vier Schritte:
    <button class="accordion">1. Registrierung/Login</button>
    <div class="panel">
      <p>Rufen Sie den Link <a aria-describedby="Link zur Seite des deutschen Forschungsnetzes" href="https://www.twillo.de/" target="_blank">www.twillo.de</a> auf und wählen Sie über den Reiter <b>Zum Portal</b> im Kopfmenü auf den Bereich <b>Einloggen</b> aus. Alternativ klicken Sie hier, um direkt auf die Anmeldemaske von twillo zu gelangen.
-<br><br>
+     <br><br>
 Angehörigen von Hochschulen, die <a aria-describedby="Zum Twillo Portal" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg in das OER-Portal möglich. Klicken Sie unterhalb der Anmeldemaske auf die Option <b>Zur Hochschulauswahl</b>. Wählen Sie in der folgenden Liste Ihre Einrichtung/Institution aus und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein.
-<br><br>
+     <br><br>
 Das folgende Abbildung veranschaulicht den Prozess der Anmeldung per DFN:
 
-<figure>
-  <img src="images/twillo-Login-per-DFN.svg" alt="Abb. XXX: Twillo-Zugang über DFN" title="Abb. XXX: Twillo-Zugang über DFN"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Twillo-Zugang über DFN</figcaption>
-</figure>
+   <figure>
+      <img src="images/twillo-Login-per-DFN.svg" alt="Abb. XXX: Twillo-Zugang über DFN" title="Abb. XXX: Twillo-Zugang über DFN"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Twillo-Zugang über DFN</figcaption>
+   </figure>
 
 <br><br>
 
-<div class="warningbox">
-  <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
-    <br><br>
-    Sollte Ihnen die Anmeldung über die Hochschschulauswahl nicht möglich sein, können Sie sich auch manuell einen Account einrichten lassen. Senden Sie hierfür eine formlose Nachricht mit Ihrem vollständigen Namen, Ihrer E-Mailadresse, Ihrem beruflichen Funktionskontext und Ihrer Institution an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Sie erhalten anschließend zeitnah eine Mail mit Ihren Zugangsdaten.
-  </p>
+  <div class="warningbox">
+    <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
+     <br><br>
+      Sollte Ihnen die Anmeldung über die Hochschschulauswahl nicht möglich sein, können Sie sich auch manuell einen Account einrichten lassen. Senden Sie hierfür eine formlose Nachricht mit Ihrem vollständigen Namen, Ihrer E-Mailadresse, Ihrem beruflichen Funktionskontext und Ihrer Institution an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Sie erhalten anschließend zeitnah eine Mail mit Ihren Zugangsdaten.
+    </p>
+  </div>
 </div>
 
 Nach der ersten Anmeldung im Portal werden Sie in Ihrem <b>Workspace</b> weitergeleitet. Dieser ist als Ordnerstruktur angelegt und bietet Ihnen die Möglichkeit, Ihre eigenen OER zu organisieren. Der Workspace ist Ihr persönlicher Bereich, andere Nutzer*innen haben keinen Zugriff.
-<br>
+<br><br>
 Um von Ihrem Workspace in die Suchumgebung oder den Bereich Sammlungen zu wechseln, öffnen Sie die <b>Bereichsauswahl</b> indem Sie auf den Reiter <b>Workspace</b> oben links klicken.
 
 <h2 style="margin-bottom:20px">Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
