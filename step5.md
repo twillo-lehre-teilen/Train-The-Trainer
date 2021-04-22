@@ -67,6 +67,8 @@ Das folgende Abbildung veranschaulicht den Prozess der Anmeldung per DFN:
   <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Twillo-Zugang über DFN</figcaption>
 </figure>
 
+<br><br>
+
 <div class="warningbox">
   <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
     <br><br>
