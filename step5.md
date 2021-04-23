@@ -88,28 +88,21 @@ Das folgende Abbildung veranschaulicht den Prozess der Anmeldung per DFN:
 
 Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Material in Ihrem <b>Workspace</b>. Zunächst ist es nur für Sie allein sichtbar. Eine Freigabe für andere Nutzer*innen oder die Öffentlichkeit muss gesondert erfolgen (vgl. Punkt 4 - Freigabe).</p>
   </div>
+  <button class="accordion">3. Beschreibung und Kontextualisierung </button>
+  <div class="panel">
+     <p>Im folgenden Schritt geht es darum, die hochgeladenen/verlinkten Bildungsmaterialien durch die Eingabe von Metadaten zu beschreiben. Dies hat zwei Gründe: Erstens werden die Materialien eine umfassende Beschreibung einfach auffindbar (nicht nur auf twillo, sondern auch bei der Nutzung von Suchmaschinen), zweitens wird anderen Lehrende die Nachnutzung vereinfacht, da sie durch eine gute Beschreibung schnell einschätzen können, inwiefern sich das Material für das eigene Lehr-Lernsetting eignet. Automatische Auffindbarkeit und didaktische Kontextualisierung stellen somit zwei wichtige Merkmale dar, die die Qualität von OER im Hinblick auf deren Struktur beeinflussen.</p>
+  <table id="invisible">
+  <tr>
+    <td valign="middle" text-align="left" width="30%">
+      <figure style="float:left;align:middle;">
+        <img src="images/Automatische_Auffinbarkeit.svg" alt="Abb. XXX: Automatische Auffindbarkeit" title="Abb. XXX: Automatische Auffindbarkeit"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Automatische Auffindbarkeit</figcaption>
+      </figure></td>
+    <td valign="middle" text-align="left" width="70%">
+      Offene Bildungsmaterialien sollten möglichst einfach und mit wenig Rechercheaufwand gefunden werden und deshalb möglichst gut beschrieben sein. Hierfür sind prägnante Titel, Beschreibungen und Schlagworte, die Lizenzauszeichnung sowie die Namen der Autor*innen relevante Angaben. Diese Informationen werden auch Metadaten genannt und sorgen für die Möglichkeit der standardisierten, maschinellen Suche innerhalb von Portalen. 
+    </td>
+  </tr>
+</table>
+  </div>
 </div>
 
-<div >
-   <button class="accordion">twillo</button>
-   <div class="panel">
-     <p>Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
-       <a aria-describedby="Link zum twillo-Portal" href="http://www.twillo.de/" target="_blank">www.twillo.de</a>
-     </p>
-     <figure style="align:middle;">
-  <img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb. 6: Screenshot der twillo Suchumgebung"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 6: Screenshot der twillo Suchumgebung</figcaption>
-</figure>
-   </div>
-   <button class="accordion">OERSI</button>
-   <div class="panel">
-     <p>OERSI steht für OER Search Index und ist eine Suchmaschine für offene Bildungsmaterialien, die OER Materialien aus verschiedensten Plattformen und Repositorien auffindbar
-macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
-      <a aria-describedby="Link zum oersi" href="http://oersi.de/" target="_blank">www.oersi.de</a>
-     </p>
-     <figure style="align:middle;">
-  <img src="images/oersi.svg" alt="Abb. 7: Screenshot der OERSI Suchumgebung " title="Abb. 7: Screenshot der OERSI Suchumgebung "/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 7: Screenshot der OERSI Suchumgebung </figcaption>
-</figure>
-   </div>
-</div>
