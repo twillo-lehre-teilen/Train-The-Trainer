@@ -114,6 +114,15 @@ Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Materia
   </tr>
 </table>
   Twillo unterstützt Sie bei der Beschreibung des Material durch standardisierte Eingabefelder. Nachdem Sie - wie unter Punkt 2 beschrieben - neues Material hochgeladen oder verlinkt haben, öffnet sich der Metadatendialog automatisch. Auch können Sie ihn jederzeit aufrufen, indem Sie Ihr Material öffnen und im Menü oben rechts das Feld <b>Infos bearbeiten</b> auswählen. 
+  <figure>
+      <img src="images/Metadatendialog.svg" alt="Abb. XXX: Screenshot des twillo Metadatendialogs" title="Abb. XXX: Screenshot des twillo Metadatendialogs"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot des twillo Metadatendialogs</figcaption>
+  </figure>
+  Die Metadaten-Eingabemaske des Portals gliedert sich in die Bereiche Allgemeine Infomationen, Lizenz, Klassifizierungen, Didaktik und technische Informationen. Zwar sind nur wenige Angaben verpflichtend, wir empfehlen Ihnen allerdings, den Dialog von oben bis unten durchzugehen und möglichst viele Angaben zu machen. Dies verinafacht anderen Personen das Finden und Nutzen Ihres Materials. Metadaten, die eines besonderen Augenmerks bedürfen, werden im folgenden genauer beschrieben.
+  <br><br>
+  <b>Angabe von Urheber*innen und Beteiligten Personen</b>
+  <br><br>
+Im Abschnitt Allgemeine Informationen geben Sie u.a. die Urheber*innen des Material an. Bitte wählen Sie hierfür den Reiter Autoren & Beteiligte aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber*innen einzutragen oder weitere an der Entwicklung des Materials beteiligte Personen (z.B. Herausgeber*innen, Grafiker*innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter weitere Beteiligte unterhalb des Eingabefelds. 
   </div>
 </div>
 
