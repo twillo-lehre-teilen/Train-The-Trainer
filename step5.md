@@ -80,6 +80,7 @@ Das folgende Abbildung veranschaulicht den Prozess der Anmeldung per DFN:
 Nach der ersten Anmeldung im Portal werden Sie in Ihrem <b>Workspace</b> weitergeleitet. Dieser ist als Ordnerstruktur angelegt und bietet Ihnen die Möglichkeit, Ihre eigenen OER zu organisieren. Der Workspace ist Ihr persönlicher Bereich, andere Nutzer*innen haben keinen Zugriff.
 <br><br>
 Um von Ihrem Workspace in die Suchumgebung oder den Bereich Sammlungen zu wechseln, öffnen Sie die <b>Bereichsauswahl</b> indem Sie auf den Reiter <b>Workspace</b> oben links klicken.
+  </div>
 
    <button class="accordion">1. Registrierung/Login</button>
    <div class="panel">
