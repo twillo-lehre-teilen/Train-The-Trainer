@@ -86,7 +86,7 @@ Das folgende Abbildung veranschaulicht den Prozess der Anmeldung per DFN:
   <div class="panel">
      <p>Um Material auf twillo bereitzustellen, wählen Sie in Ihrem Workspace die Schaltfläche <b>+NEU</b> aus. Klicken Sie auf <b>Neues Material</b> und laden Sie Ihr Material per Drag and Drop hoch oder verlinken Sie es durch die Eingabe einer URL. Verlinkungen sind nur dann möglich, wenn das Material bereits auf anderen Plattformen (z.B. YouTube, AV-Portal, SlideWiki, GitHub/GitLab etc.) veröffentlicht ist.
 
-Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Material in Ihrem <b>Workspace</b>. Zunächst ist es nur für Sie allein sichtbar. Eine Freigabe für andere Nutzer*innen oder die Öffentlichkeit muss gesondert erfolgen (vgl. Punkt 4 - Freigabe).</p>
+Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Material in Ihrem <b>Workspace</b>. Zunächst ist es nur für Sie allein sichtbar. Eine Freigabe für andere Nutzer * innen oder die Öffentlichkeit muss gesondert erfolgen (vgl. Punkt 4 - Freigabe).</p>
   </div>
   <button class="accordion">3. Beschreibung und Kontextualisierung </button>
   <div class="panel">
