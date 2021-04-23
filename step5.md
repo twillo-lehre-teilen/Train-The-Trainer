@@ -91,7 +91,7 @@ Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Materia
   <button class="accordion">3. Beschreibung und Kontextualisierung </button>
   <div class="panel">
      <p>Im folgenden Schritt geht es darum, die hochgeladenen/verlinkten Bildungsmaterialien durch die Eingabe von Metadaten zu beschreiben. Dies hat zwei Gründe: Erstens werden die Materialien eine umfassende Beschreibung einfach auffindbar (nicht nur auf twillo, sondern auch bei der Nutzung von Suchmaschinen), zweitens wird anderen Lehrende die Nachnutzung vereinfacht, da sie durch eine gute Beschreibung schnell einschätzen können, inwiefern sich das Material für das eigene Lehr-Lernsetting eignet. Automatische Auffindbarkeit und didaktische Kontextualisierung stellen somit zwei wichtige Merkmale dar, die die Qualität von OER im Hinblick auf deren Struktur beeinflussen.</p>
-  <table id="invisible">
+<table id="invisible">
   <tr>
     <td valign="middle" text-align="left" width="30%">
       <figure style="float:left;align:middle;">
@@ -102,7 +102,18 @@ Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Materia
       Offene Bildungsmaterialien sollten möglichst einfach und mit wenig Rechercheaufwand gefunden werden und deshalb möglichst gut beschrieben sein. Hierfür sind prägnante Titel, Beschreibungen und Schlagworte, die Lizenzauszeichnung sowie die Namen der Autor*innen relevante Angaben. Diese Informationen werden auch Metadaten genannt und sorgen für die Möglichkeit der standardisierten, maschinellen Suche innerhalb von Portalen. 
     </td>
   </tr>
+  <tr>
+    <td valign="middle" text-align="left" width="30%">
+      <figure style="float:left;align:middle;">
+        <img src="images/Didaktische_Kontextualisierung.svg" alt="Abb. XXX: Didaktische Kontextualisierung" title="Abb. XXX: Didaktische Kontextualisierung"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Didaktische Kontextualisierung</figcaption>
+      </figure></td>
+    <td valign="middle" text-align="left" width="70%">
+      Materialien, die für den Bildungskontext erstellt werden, sind für spezifische Zielgruppen und Lehrkontexte konzipiert. Diese Informationen sind häufig nur implizit in den Bildungsmaterialien enthalten, sind aber wichtig für eine erste Einschätzung des Materials von Seiten der Lehrenden, die sie nachnutzen möchten. Das Explizieren von Kontextinformationen für den Lehreinsatz erleichtert die Einschätzung der Passung der Bildungsmaterialien für den jeweiligen Lehrkontext. Damit erhalten Hochschullehrende einen Überblick über den didaktischen Gehalt der Bildungsmaterialien und können davon ausgehend die Verwendung in den eigenen Lehrkontext planen. 
+    </td>
+  </tr>
 </table>
+  Twillo unterstützt Sie bei der Beschreibung des Material durch standardisierte Eingabefelder. Nachdem Sie - wie unter Punkt 2 beschrieben - neues Material hochgeladen oder verlinkt haben, öffnet sich der Metadatendialog automatisch. Auch können Sie ihn jederzeit aufrufen, indem Sie Ihr Material öffnen und im Menü oben rechts das Feld <b>Infos bearbeiten</b> auswählen. 
   </div>
 </div>
 
