@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <script>
   //Script fürs Accordeon
   var acc = document.getElementsByClassName("accordion");
@@ -25,6 +25,7 @@
 </script>
 
 <h1 style="color:#ff8c00">Schritt 5: OER teilen</h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
