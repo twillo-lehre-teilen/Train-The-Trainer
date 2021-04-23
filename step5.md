@@ -89,4 +89,26 @@ Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Materia
   </div>
 </div>
 
-
+<div >
+   <button class="accordion">twillo</button>
+   <div class="panel">
+     <p>Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
+       <a aria-describedby="Link zum twillo-Portal" href="http://www.twillo.de/" target="_blank">www.twillo.de</a>
+     </p>
+     <figure style="align:middle;">
+  <img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb. 6: Screenshot der twillo Suchumgebung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 6: Screenshot der twillo Suchumgebung</figcaption>
+</figure>
+   </div>
+   <button class="accordion">OERSI</button>
+   <div class="panel">
+     <p>OERSI steht für OER Search Index und ist eine Suchmaschine für offene Bildungsmaterialien, die OER Materialien aus verschiedensten Plattformen und Repositorien auffindbar
+macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
+      <a aria-describedby="Link zum oersi" href="http://oersi.de/" target="_blank">www.oersi.de</a>
+     </p>
+     <figure style="align:middle;">
+  <img src="images/oersi.svg" alt="Abb. 7: Screenshot der OERSI Suchumgebung " title="Abb. 7: Screenshot der OERSI Suchumgebung "/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 7: Screenshot der OERSI Suchumgebung </figcaption>
+</figure>
+   </div>
+</div>
