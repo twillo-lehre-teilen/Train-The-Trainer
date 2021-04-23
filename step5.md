@@ -122,7 +122,7 @@ Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Materia
   <br><br>
   <b>Angabe von Urheber*innen und Beteiligten Personen</b>
   <br><br>
-Im Abschnitt Allgemeine Informationen geben Sie u.a. die Urheber*innen des Material an. Bitte wählen Sie hierfür den Reiter Autoren & Beteiligte aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber*innen einzutragen oder weitere an der Entwicklung des Materials beteiligte Personen (z.B. Herausgeber*innen, Grafiker*innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter weitere Beteiligte unterhalb des Eingabefelds. 
+  Im Abschnitt <b>Allgemeine Informationen</b> geben Sie u.a. die Urheber*innen des Material an. Bitte wählen Sie hierfür den Reiter <b>Autoren & Beteiligte</b> aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit <b>mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber*innen</b> einzutragen oder <b>weitere an der Entwicklung des Materials beteiligte Personen</b> (z.B. Herausgeber*innen, Grafiker*innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter <b>weitere Beteiligte</b> unterhalb des Eingabefelds. 
   </div>
 </div>
 
