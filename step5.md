@@ -106,7 +106,7 @@ Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Materia
     <td valign="middle" text-align="left" width="30%">
       <figure style="float:left;align:middle;">
         <img src="images/Didaktische_Kontextualisierung.svg" alt="Abb. XXX: Didaktische Kontextualisierung" title="Abb. XXX: Didaktische Kontextualisierung"/>
-        <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Didaktische Kontextualisierung</figcaption>
+        <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color: red" XXX</font>: Didaktische Kontextualisierung</figcaption>
       </figure></td>
     <td valign="middle" text-align="left" width="70%">
       Materialien, die für den Bildungskontext erstellt werden, sind für spezifische Zielgruppen und Lehrkontexte konzipiert. Diese Informationen sind häufig nur implizit in den Bildungsmaterialien enthalten, sind aber wichtig für eine erste Einschätzung des Materials von Seiten der Lehrenden, die sie nachnutzen möchten. Das Explizieren von Kontextinformationen für den Lehreinsatz erleichtert die Einschätzung der Passung der Bildungsmaterialien für den jeweiligen Lehrkontext. Damit erhalten Hochschullehrende einen Überblick über den didaktischen Gehalt der Bildungsmaterialien und können davon ausgehend die Verwendung in den eigenen Lehrkontext planen. 
