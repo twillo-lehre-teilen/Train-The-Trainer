@@ -76,7 +76,12 @@ Das folgende Abbildung veranschaulicht den Prozess der Anmeldung per DFN:
       Sollte Ihnen die Anmeldung über die Hochschschulauswahl nicht möglich sein, können Sie sich auch manuell einen Account einrichten lassen. Senden Sie hierfür eine formlose Nachricht mit Ihrem vollständigen Namen, Ihrer E-Mailadresse, Ihrem beruflichen Funktionskontext und Ihrer Institution an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Sie erhalten anschließend zeitnah eine Mail mit Ihren Zugangsdaten.
     </p>
   </div>
-  <button class="accordion">1. Registrierung/Login</button>
+
+Nach der ersten Anmeldung im Portal werden Sie in Ihrem <b>Workspace</b> weitergeleitet. Dieser ist als Ordnerstruktur angelegt und bietet Ihnen die Möglichkeit, Ihre eigenen OER zu organisieren. Der Workspace ist Ihr persönlicher Bereich, andere Nutzer*innen haben keinen Zugriff.
+<br><br>
+Um von Ihrem Workspace in die Suchumgebung oder den Bereich Sammlungen zu wechseln, öffnen Sie die <b>Bereichsauswahl</b> indem Sie auf den Reiter <b>Workspace</b> oben links klicken.
+
+   <button class="accordion">1. Registrierung/Login</button>
    <div class="panel">
      <p>Um Material auf twillo bereitzustellen, wählen Sie in Ihrem Workspace die Schaltfläche <b>+NEU</b> aus. Klicken Sie auf <b>Neues Material</b> und laden Sie Ihr Material per Drag and Drop hoch oder verlinken Sie es durch die Eingabe einer URL. Verlinkungen sind nur dann möglich, wenn das Material bereits auf anderen Plattformen (z.B. YouTube, AV-Portal, SlideWiki, GitHub/GitLab etc.) veröffentlicht ist.
 
@@ -84,9 +89,6 @@ Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Materia
   </div>
 </div>
 
-Nach der ersten Anmeldung im Portal werden Sie in Ihrem <b>Workspace</b> weitergeleitet. Dieser ist als Ordnerstruktur angelegt und bietet Ihnen die Möglichkeit, Ihre eigenen OER zu organisieren. Der Workspace ist Ihr persönlicher Bereich, andere Nutzer*innen haben keinen Zugriff.
-<br><br>
-Um von Ihrem Workspace in die Suchumgebung oder den Bereich Sammlungen zu wechseln, öffnen Sie die <b>Bereichsauswahl</b> indem Sie auf den Reiter <b>Workspace</b> oben links klicken.
 
 <h2 style="margin-bottom:20px">Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
 
