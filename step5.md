@@ -122,7 +122,58 @@ Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Materia
   <br><br>
   <b>Angabe von Urheber*innen und Beteiligten Personen</b>
   <br><br>
-  Im Abschnitt <b>Allgemeine Informationen</b> geben Sie u.a. die Urheber*innen des Material an. Bitte wählen Sie hierfür den Reiter <b>Autoren & Beteiligte</b> aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit <b>mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber*innen</b> einzutragen oder <b>weitere an der Entwicklung des Materials beteiligte Personen</b> (z.B. Herausgeber*innen, Grafiker*innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter <b>weitere Beteiligte</b> unterhalb des Eingabefelds. 
+  Im Abschnitt <b>Allgemeine Informationen</b> geben Sie u.a. die Urheber*innen des Material an. Bitte wählen Sie hierfür den Reiter <b>Autoren & Beteiligte</b> aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit <b>mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber*innen</b> einzutragen oder <b>weitere an der Entwicklung des Materials beteiligte Personen</b> (z.B. Herausgeber*innen, Grafiker*innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter <b>weitere Beteiligte</b> unterhalb des Eingabefelds.
+  <figure>
+      <img src="images/Step_1.svg" alt="Abb. XXX: Screenshot Urheber*innenangaben twillo " title="Abb. XXX: Screenshot Urheber*innenangaben twillo "/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Urheber*innenangaben twillo </figcaption>
+  </figure>
+  <br>
+  Wählen Sie im Bereich <b>Beteiligte am Objekt</b> nun den Button <b>Hinzufügen</b>. Es öffnet sich eine neue Eingabemaske, in der Sie alle beteiligten Personen - und/oder Organisation - sowie deren Rolle benennen können. Tragen Sie einen Namen in die Eingabemaske ein und wählen Sie anschließend über das Dropdownmenü im Bereich <b>Tätig als</b> eine passende Funktion an. Speichern Sie Ihre Eingabe mit <b>Übernehmen</b>. Um weitere Beteiligte hinzuzufügen wiederholen Sie die vorangegangenen Schritte.
+  <br>
+  <figure>
+      <img src="images/Step_3.svg" alt="Abb. XXX: Screenshot Urheber*innenangaben twillo " title="Abb. XXX: Screenshot Urheber*innenangaben twillo "/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Urheber*innenangaben twillo </figcaption>
+  </figure>
+  <b>Lizenzangaben</b>
+  <br><br>
+Die Angabe einer Lizenz stellt ein verpflichtendes Metadatum für die Veröffentlichung von Materialien auf twillo dar. <b>Das Portal arbeitet ausschließlich mit dem Creative Commons-Lizenzsystem. Die Bereitstellung anders lizenzierter Materialien ist auf dem Portal nicht vorgesehen</b>. Um eine Lizenz zu wählen, öffnen Sie den Reiter <b>Lizenz verwalten</b>. Im folgenden Fenster haben Sie die Möglichkeit, eine der offensten Lizenzen auszuwählen. Sollte die von Ihnen gewünschte Lizenz nicht dabei sein, bedienen Sie den Schalter <b>Nur OER-Lizenzen</b>, um auch restriktivere CC-Lizenzen wählen zu können.
+  <figure>
+      <img src="images/Lizenzwahl.svg" alt="Abb. XXX: Screenshot Lizenzangaben auf twillo " title="Abb. XXX: Screenshot Lizenzangaben auf twillo "/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Lizenzangaben auf twillo </figcaption>
+  </figure>
+  Vergessen Sie nicht, nach der Wahl einer Lizenz auch die <b>Lizenzversion</b> zu bestimmen und Ihre Angabe zu <b>speichern</b>. 
+  <figure>
+      <img src="images/Lizenzversion.svg" alt="Abb. XXX: Screenshot Wahl der Lizenzversion auf twillo " title="Abb. XXX: Screenshot Wahl der Lizenzversion auf twillo "/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Wahl der Lizenzversion auf twillo </figcaption>
+  </figure>
+  <br><br>
+  <b>Anlegen von Serien (Hinzufügen ergänzender Materialien)</b>
+
+  Sie möchten nicht nur eine einzelne Datei/einen einzelnen Link hinterlegen? Hierfür steht Ihnen auf twillo die <b>Serienfunktion</b> zu Verfügung.  Bitte erstellen Sie nur dann eine Serie, wenn Sie zu einem Bildungsmaterial weitere Materialien ergänzen wollen, die untrennbar zusammengehören, z.B.:
+  <ul>
+    <li>ein anderes Dateiformat des Materials</li>
+    <li>eine Musterlösung zu einem Arbeitsblatt</li>
+    <li>eine Aufgabe zu einem Lehrvideo</li>
+    <li>eine detailierte Beschreibung für die Lehrpraxis</li>
+  </ul>
+Gehen Sie in den Bereich <b>weitere Materialien</b> und ergänzen Sie Materialien über den Button <b>Hinzufügen</b>. Sofern Sie die Angaben nicht händisch anpassen, werden die bei dem Hauptmaterial hinterlegten Informationen inkl. gewählter Lizenz an das ergänzte Material übernommen.
+  <figure>
+      <img src="images/Serienelement.svg" alt="Abb. XXX: Screenshot Serie anlegen auf twillo" title="Abb. XXX: Screenshot Serie anlegen auf twillo"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Serie anlegen auf twillo</figcaption>
+  </figure>
+  <b>Didaktische Angaben</b>
+  <br><br>
+  Im Abschnitt Didaktik können Sie Kontextinformationen für Nutzer* innen des Portals angeben - sofern diese Ihnen bekannt sind. Die hier ausgewählten Beschreibungskategorien sind insbesondere bei der zielgerichteten Materialsuche für den eigenen Lehrkontext hilfreich.
+  <ul>
+    <li>Geben Sie an, in welchem Veranstaltungsformat Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
+    <li>Geben Sie an, für welche Niveaustufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
+    <li>Das Metadatum didaktische Funktion zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:
+      <li>Vermittlung von Lehrinhalten (rezipieren)</li>
+      <li>Erarbeitung/Vertiefung von Lehrinhalten (aktiv aneignen)</li>
+      <li>Einübung spezifischer Inhalte (routinisieren)</li>
+      <li>Herstellung eigener Inhalte/Artefakte (erschaffen)</li>
+      <li>Reflexion der (Lern-)Prozesse (beurteilen)</li></li>
+  </ul>
   </div>
 </div>
 
