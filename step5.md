@@ -167,12 +167,14 @@ Gehen Sie in den Bereich <b>weitere Materialien</b> und ergänzen Sie Materialie
   <ul>
     <li>Geben Sie an, in welchem Veranstaltungsformat Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
     <li>Geben Sie an, für welche Niveaustufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
-    <li>Das Metadatum didaktische Funktion zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:
+    <li>Das Metadatum didaktische Funktion zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:</li>
+      <ol>
       <li>Vermittlung von Lehrinhalten (rezipieren)</li>
       <li>Erarbeitung/Vertiefung von Lehrinhalten (aktiv aneignen)</li>
       <li>Einübung spezifischer Inhalte (routinisieren)</li>
       <li>Herstellung eigener Inhalte/Artefakte (erschaffen)</li>
       <li>Reflexion der (Lern-)Prozesse (beurteilen)</li></li>
+      </ol>
   </ul>
   </div>
 </div>
