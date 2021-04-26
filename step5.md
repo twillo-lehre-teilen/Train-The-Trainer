@@ -170,7 +170,7 @@ Gehen Sie in den Bereich <b>weitere Materialien</b> und ergänzen Sie Materialie
   <b>Didaktische Angaben</b>
   <br><br>
   Im Abschnitt Didaktik können Sie Kontextinformationen für Nutzer* innen des Portals angeben - sofern diese Ihnen bekannt sind. Die hier ausgewählten Beschreibungskategorien sind insbesondere bei der zielgerichteten Materialsuche für den eigenen Lehrkontext hilfreich.
-  <ul>
+  <ul style="list-style-type:circle">
     <li>Geben Sie an, in welchem Veranstaltungsformat Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
     <li>Geben Sie an, für welche Niveaustufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
     <li>Das Metadatum didaktische Funktion zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:</li>
