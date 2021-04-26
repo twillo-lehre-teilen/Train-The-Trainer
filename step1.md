@@ -427,3 +427,4 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
   })();
 </script>
 <script src="accordeon.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/pilotta314/trainthetrainer/accordeon.js"></script>
