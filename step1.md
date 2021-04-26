@@ -426,4 +426,4 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
     });
   })();
 </script>
-
+<script src="accordeon.js"></script>
