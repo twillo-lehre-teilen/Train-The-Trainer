@@ -2,8 +2,7 @@
 
 <h2 style="margin-bottom:20px">Alles klar? Überprüfen Sie Ihr Wissen zu OER und offenen Lizenzen mit folgendem Quiz</h2>
 
-<script defer>
-  location.reload();
+<script>
   function ziehen(ev) {
     ev.dataTransfer.setData('text', ev.target.id);
   }
