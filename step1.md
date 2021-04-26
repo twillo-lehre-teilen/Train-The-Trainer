@@ -50,7 +50,7 @@ Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> ve
 
 Die Lizenzierung wird dadurch vereinfacht, dass eine Vielzahl vorformulierter Lizenzen (mit bestimmten Modulkombinationen) gewählt werden können, die sich erheblich voneinander unterscheiden. So können Urheber\*innen mit ihrer Wahl einer CC-Lizenz die Nutzung ihrer Inhalte entweder relativ stark einschränken oder umfassend ermöglichen. Die u.s Liste gibt einen Überblick über gängige CC-Lizenzen.
 
-<div >
+<div>
    <button class="accordion"><img src="images/creative-commons_cc-zero.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC Zero Lizenz" title="CC Zero Lizenz" height="60"/> <a aria-describedby="Link zur CC Zero Lizenz" href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" target="_blank">zur Lizenz</a></button>
    <div class="panel">
      <p><b>CC 0 = Ohne Bedingungen</b><br>Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.
