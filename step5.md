@@ -169,19 +169,34 @@ Gehen Sie in den Bereich <b>weitere Materialien</b> und ergänzen Sie Materialie
   </figure>
   <b>Didaktische Angaben</b>
   <br><br>
-  Im Abschnitt Didaktik können Sie Kontextinformationen für Nutzer* innen des Portals angeben - sofern diese Ihnen bekannt sind. Die hier ausgewählten Beschreibungskategorien sind insbesondere bei der zielgerichteten Materialsuche für den eigenen Lehrkontext hilfreich.
-  <ul style="list-style-type:circle">
-    <li>Geben Sie an, in welchem Veranstaltungsformat Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
-    <li>Geben Sie an, für welche Niveaustufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
-    <li>Das Metadatum didaktische Funktion zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:</li>
+  Im Abschnitt <b>Didaktik</b> können Sie Kontextinformationen für Nutzer* innen des Portals angeben - sofern diese Ihnen bekannt sind. Die hier ausgewählten Beschreibungskategorien sind insbesondere bei der zielgerichteten Materialsuche für den eigenen Lehrkontext hilfreich.
+  <ul style="list-style-type:disc">
+  <li>Geben Sie an, in welchem <b>Veranstaltungsformat</b> Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
+  <li>Geben Sie an, für welche <b>Niveau</b>stufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
+  <li>Das Metadatum didaktische <b>Funktion</b> zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:</li>
       <ol>
-      <li>Vermittlung von Lehrinhalten (rezipieren)</li>
-      <li>Erarbeitung/Vertiefung von Lehrinhalten (aktiv aneignen)</li>
-      <li>Einübung spezifischer Inhalte (routinisieren)</li>
-      <li>Herstellung eigener Inhalte/Artefakte (erschaffen)</li>
-      <li>Reflexion der (Lern-)Prozesse (beurteilen)</li></li>
+        <li>Vermittlung von Lehrinhalten (rezipieren)</li>
+        <li>Erarbeitung/Vertiefung von Lehrinhalten (aktiv aneignen)</li>
+        <li>Einübung spezifischer Inhalte (routinisieren)</li>
+        <li>Herstellung eigener Inhalte/Artefakte (erschaffen)</li>
+        <li>Reflexion der (Lern-)Prozesse (beurteilen)</li></li>
       </ol>
   </ul>
+  </div>
+  <button class="accordion">Schritt 4: Freigabe</button>
+  <div class="panel">
+  Erst mit der aktiven Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
+  <br>
+  Entweder Sie aktivieren im Abschnitt <b>Lizenz</b> den Schalter <b>Objekt mit dieser Lizenz veröffentlichen</b>
+  <br>
+  oder
+  <br>
+  Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b>. Hier können Sie Ihr OER über den Schalter <b>Material öffentlich freigeben</b> veröffentlichen. Auch haben Sie die Möglichkeit, Ihr Material nur mit bestimmten Nutzer*innen des Portals zu teilen. Wählen Sie hierfür mit der Suchfunktion die gewünschten Personen aus und vergeben Sie über das Dropdownmenü eine Rolle. Vergessen Sie nicht, Ihre Freigabe mit dem Button <b>Einladen</b> zu bestätigen. Die Einladung von Personen kann nur erfolgen, wenn die betreffenden Personen einen twillo Account besitzen.
+  <figure>
+      <img src="images/Freigabe.svg" alt="Abb. XXX: Screenshot Freigabe twillo" title="Abb. XXX: Screenshot Freigabe twillo"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Freigabe twillo</figcaption>
+  </figure>
+  <b>Juhu! Sie haben OER auf twillo veröffentlicht!</b>
   </div>
 </div>
 
