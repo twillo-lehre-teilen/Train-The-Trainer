@@ -174,7 +174,7 @@ Gehen Sie in den Bereich <b>weitere Materialien</b> und ergänzen Sie Materialie
   <li>Geben Sie an, in welchem <b>Veranstaltungsformat</b> Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
   <li>Geben Sie an, für welche <b>Niveau</b>stufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
   <li>Das Metadatum didaktische <b>Funktion</b> zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:</li>
-      <ol>
+      <ol style="list-style-type:disc">
         <li>Vermittlung von Lehrinhalten (rezipieren)</li>
         <li>Erarbeitung/Vertiefung von Lehrinhalten (aktiv aneignen)</li>
         <li>Einübung spezifischer Inhalte (routinisieren)</li>
@@ -183,7 +183,7 @@ Gehen Sie in den Bereich <b>weitere Materialien</b> und ergänzen Sie Materialie
       </ol>
   </ul>
   </div>
-  <button class="accordion">Schritt 4: Freigabe</button>
+  <button class="accordion">4. Freigabe</button>
   <div class="panel">
   Erst mit der aktiven Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
   <br>
