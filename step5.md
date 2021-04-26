@@ -188,9 +188,9 @@ Gehen Sie in den Bereich <b>weitere Materialien</b> und ergänzen Sie Materialie
   Erst mit der aktiven Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
   <br>
   Entweder Sie aktivieren im Abschnitt <b>Lizenz</b> den Schalter <b>Objekt mit dieser Lizenz veröffentlichen</b>
-  <br>
-  oder
-  <br>
+  <br><br>
+  <b>ODER</b>
+  <br><br>
   Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b>. Hier können Sie Ihr OER über den Schalter <b>Material öffentlich freigeben</b> veröffentlichen. Auch haben Sie die Möglichkeit, Ihr Material nur mit bestimmten Nutzer*innen des Portals zu teilen. Wählen Sie hierfür mit der Suchfunktion die gewünschten Personen aus und vergeben Sie über das Dropdownmenü eine Rolle. Vergessen Sie nicht, Ihre Freigabe mit dem Button <b>Einladen</b> zu bestätigen. Die Einladung von Personen kann nur erfolgen, wenn die betreffenden Personen einen twillo Account besitzen.
   <figure>
       <img src="images/Freigabe.svg" alt="Abb. XXX: Screenshot Freigabe twillo" title="Abb. XXX: Screenshot Freigabe twillo"/>
