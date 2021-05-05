@@ -34,6 +34,11 @@ Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten,
 Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting umzugestalten. Gleichzeitig geht es um die Überführung Ihres Materials in die Form von OER. Einen besonderen Schwerpunkt bilden Fragen der Lizenzierung eigener Materialien mit und ohne die Einbindung von Inhalten Dritter. Ziel dieser Einheit ist es, Ihnen die Aufbereitung eigener Materialien in Form von OER Schritt für Schritt näher zu bringen.
 
 </font>
+
+<b>Praxisworkshop (P):</b>
+
+Der Praxisworkshop dient der Diskussion der Inhalte der Schritte 1-3 der Selbstlernphase und bietet Raum zur Klärung von Fragen. Inhaltlich steht die Vermittlung von Grundlagen zu dem Programm LiaScript zur Erstellung von offenen Lehr-/Lerneinheiten im Zentrum des Workshops. Ziel ist es, Ihnen die wichtigsten LiaScript-Funktionen sowie die Basics der Auszeichnungssprache Markdown näher zu bringen.
+
 <font color="#800080">
 <h3>Schritt 4: OER in Systemen abbilden</h3>
 
