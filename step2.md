@@ -200,7 +200,7 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
   </div>
   <button class="accordion">Bilderportale</button>
    <div class="panel">
-   <h4>AV-Pixabay</h4><br>
+   <h4>Pixabay</h4><br>
       Pixabay ist eine bekannte Bilder-Plattform mit frei verfügbaren Bildern und Videos. Sofern nicht anders angegeben stehen alle Bilder unter der plattformeigenen <b>Pixabay Lizenz</b>. Diese Lizenz steht in keiner Verbindung mit dem CC-Lizenzsystem. Möchten Sie Pixabay Bilder verwenden, lesen Sie bitte genau nach, ob die von Ihnen geplante Nutzung erlaubt ist. 
   <table id="warning">
     <tr>
