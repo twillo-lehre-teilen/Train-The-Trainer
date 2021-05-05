@@ -222,7 +222,7 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
   </div>
 </div>
 
-
+<br>
 <div class="warningbox">
   <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
     <br><br>
