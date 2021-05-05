@@ -12,7 +12,7 @@ Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroo
 </figure>
 </center>
 
-<b>Webinar 1 (W1):</b>
+<h2>Webinar 1 (W1):</h2>
 
 Das Train the Trainer Weiterbildungsangebot startet mit einem gemeinsamen Kick-Off. Das Webinar findet online statt und dient der Einführung in das Themenfeld. Ziel ist es, Ihnen die wichtigsten Grundlagen zu Open Educational Resources näher zu bringen und Sie auf die folgende Selbstlerneinheit vorzubereiten.
 
@@ -35,7 +35,7 @@ Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenz
 
 </font>
 
-<b>Praxisworkshop (P):</b>
+<h2>Praxisworkshop (P):</h2>
 
 Der Praxisworkshop dient der Diskussion der Inhalte der Schritte 1-3 der Selbstlernphase und bietet Raum zur Klärung von Fragen. Inhaltlich steht die Vermittlung von Grundlagen zu dem Programm LiaScript zur Erstellung von offenen Lehr-/Lerneinheiten im Zentrum des Workshops. Ziel ist es, Ihnen die wichtigsten LiaScript-Funktionen sowie die Basics der Auszeichnungssprache Markdown näher zu bringen.
 
@@ -61,7 +61,7 @@ Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> näher
 Der letzte Schritt dient der Reflexion Ihrer individuellen Lernreise durch die Welt der OER. Ziel ist die Identifikation von individuellen Chancen und Herausforderungen im Umgang mit OER sowie eine kritische Beurteilung des erstellten Materials.
 </font>
 
-<b>Webinar 2 (W2):</b>
+<h2>Webinar 2 (W2):</h2>
 
 Das abschließende Webinar stellt eine Lessons Learned Einheit dar, in der die zentralen Inhalte des Selbstlernphase noch einmal zusammengefasst werden. Darüber hinaus dient es der Reflexion des individuellen Lern- und Arbeitsprozesses und bietet Raum zur Klärung von Fragen.
 
