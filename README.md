@@ -4,13 +4,17 @@
 
 Diese <b>OER Challenge</b> soll Sie Schritt für Schritt bei der Digitalisierung einer Lehr-Lerneinheit und Aufbereitung dieser in die Form von Open Educational Resources (OER) begleiten.
 
-Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte dieser Selbstlerneinheit.
+Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroom angelegt. Zwei Webinartermine und ein Praxisworkshop dienen als Rahmung einer selbstgesteuerten, praxsorientierten E-Learning-Phase.  Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte der einzelnen Lerneinheiten des Weiterbildungsangebots.
 
 <figure>
     <img src="images/AdvanceOrganizer_TraintheTrainer.svg" alt="Abb. 1: OER Challenge" title="Abb. 1: OER Challenge"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 1: OER Challenge</figcaption>
 </figure>
 </center>
+
+<b>Webinar 1 (W1):</b>
+
+Das Train the Trainer Weiterbildungsangebot startet mit einem gemeinsamen Kick-Off. Das Webinar findet online statt und dient der Einführung in das Themenfeld. Ziel ist es, Ihnen die wichtigsten Grundlagen zu Open Educational Resources näher zu bringen und Sie auf die folgende Selbstlerneinheit vorzubereiten.
 
 <font color="#8b0000">
 <h3>Schritt 1: OER erkennen</h3>
