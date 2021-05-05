@@ -227,6 +227,12 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
   </div>
 </div>
 
+<div class="warningbox">
+  <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
+    <br><br>
+    Unabhängig davon, ob Sie ein OER-Referatorium/-Repositorium oder eine allgemeine Plattform/Suchmaschine nutzen, um Material für Ihre Lehre zu finden, überprüfen Sie in jedem Fall ob die Lizenz des Materials die von Ihnen geplante Nutzung wirklich erlaubt.
+  </p>
+</div>
 
 <table id="warning">
   <tr>
