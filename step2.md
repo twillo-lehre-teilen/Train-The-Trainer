@@ -204,16 +204,10 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
       Pixabay ist eine bekannte Bilder-Plattform mit frei verfügbaren Bildern und Videos. Sofern nicht anders angegeben stehen alle Bilder unter der plattformeigenen <b>Pixabay Lizenz</b>. Diese Lizenz steht in keiner Verbindung mit dem CC-Lizenzsystem. Möchten Sie Pixabay Bilder verwenden, lesen Sie bitte genau nach, ob die von Ihnen geplante Nutzung erlaubt ist. 
   <div class="warningbox">
     <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
-      <br><br><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b></th>
-    </p>
-  </div>
-    <tr>
-      <td>
         Eine Weiterlizenzierung von Pixabay Inhalten ist aufgrund der Pixabay Lizenz problematisch. Wird ein Pixabay Inhalt in ein OER eingebunden, muss der Pixabay Inhalt als Fremdmaterial (mit Pixabay Lizenz) kenntlich gemacht werden. Mehr dazu erfahren Sie unten im Bereich Korrekte Verwendung von OER.<br>
         Nutzen Sie die Pixabay Suche, werden in einer Leiste oberhalb der Ergebnisse Bilder von iStock angezeigt. Diese sind kostenpflichtig und fallen nicht unter offene Ressourcen.
-      </td>
-    </tr>
-  </table>
+      </p>
+  </div>
      <figure style="align:middle;">
       <img src="images/pixabay_suche_pixabay_license.svg" alt="Abb. 24: Screenshot der Pixabay Suchumgebung" title="Abb. 24: Screenshot der Pixabay Suchumgebung"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 24: Screenshot der Pixabay Suchumgebung</figcaption>
@@ -228,7 +222,6 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
   </div>
 </div>
 
-<br><br>
 
 <div class="warningbox">
   <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
