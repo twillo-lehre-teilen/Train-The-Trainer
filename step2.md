@@ -202,10 +202,11 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
    <div class="panel">
    <h4>Pixabay</h4><br>
       Pixabay ist eine bekannte Bilder-Plattform mit frei verfügbaren Bildern und Videos. Sofern nicht anders angegeben stehen alle Bilder unter der plattformeigenen <b>Pixabay Lizenz</b>. Diese Lizenz steht in keiner Verbindung mit dem CC-Lizenzsystem. Möchten Sie Pixabay Bilder verwenden, lesen Sie bitte genau nach, ob die von Ihnen geplante Nutzung erlaubt ist. 
-  <table id="warning">
-    <tr>
-      <th><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b></th>
-    </tr>
+  <div class="warningbox">
+    <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
+      <br><br><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b></th>
+    </p>
+  </div>
     <tr>
       <td>
         Eine Weiterlizenzierung von Pixabay Inhalten ist aufgrund der Pixabay Lizenz problematisch. Wird ein Pixabay Inhalt in ein OER eingebunden, muss der Pixabay Inhalt als Fremdmaterial (mit Pixabay Lizenz) kenntlich gemacht werden. Mehr dazu erfahren Sie unten im Bereich Korrekte Verwendung von OER.<br>
@@ -227,23 +228,14 @@ Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource 
   </div>
 </div>
 
+<br><br>
+
 <div class="warningbox">
   <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
     <br><br>
     Unabhängig davon, ob Sie ein OER-Referatorium/-Repositorium oder eine allgemeine Plattform/Suchmaschine nutzen, um Material für Ihre Lehre zu finden, überprüfen Sie in jedem Fall ob die Lizenz des Materials die von Ihnen geplante Nutzung wirklich erlaubt.
   </p>
 </div>
-
-<table id="warning">
-  <tr>
-    <th><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b></th>
-  </tr>
-  <tr>
-    <td>
-      Unabhängig davon, ob Sie ein OER-Referatorium/-Repositorium oder eine allgemeine Plattform/Suchmaschine nutzen, um Material für Ihre Lehre zu finden, überprüfen Sie in jedem Fall ob die Lizenz des Materials die von Ihnen geplante Nutzung wirklich erlaubt.
-    </td>
-  </tr>
-</table>
 
 ## Korrekte Verwendung von OER
 
