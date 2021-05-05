@@ -60,6 +60,11 @@ Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> näher
 
 Der letzte Schritt dient der Reflexion Ihrer individuellen Lernreise durch die Welt der OER. Ziel ist die Identifikation von individuellen Chancen und Herausforderungen im Umgang mit OER sowie eine kritische Beurteilung des erstellten Materials.
 </font>
+
+<b>Webinar 2 (W2):</b>
+
+Das abschließende Webinar stellt eine Lessons Learned Einheit dar, in der die zentralen Inhalte des Selbstlernphase noch einmal zusammengefasst werden. Darüber hinaus dient es der Reflexion des individuellen Lern- und Arbeitsprozesses und bietet Raum zur Klärung von Fragen.
+
 <br>
 <br>
 <center>
