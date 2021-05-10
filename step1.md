@@ -164,27 +164,27 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
       <div class="explanation">Auf dem UNESCO <i>Forum zu OpenCourseWare für die Hochschulbildung in Entwicklungsländern</i> im Jahr 2002 wurde der Begriff Open Educational Resources erstmalig geprägt (vgl. <a aria-described-by="Link zur Unesco Seite" href="https://unesdoc.unesco.org/ark:/48223/pf0000128515">UNESCO 2002</a>) Die UNESCO griff die Forderungen der aufkommenden OER-Bewegung auch 2012 in ihrer Pariser Erklärung wieder auf. </div>
     </div>
     <div class="slide" title="multiple-choice">
-      <div class="question">Ordnen Sie den CC-Lizenzen die richtige Bedeutung zu</div>
+      <div class="question">Wählen Sie die CC-Lizenzen mit den richtigen Bedeutungen aus</div>
       <div class="answers">
         <label title="A">
           <input type="checkbox" name="question2" value="A">
-          CC BY ND  <=>  Namensnennung, Weitergabe unter gleichen Bedingungen  ?
+          CC BY ND  =  Namensnennung, Weitergabe unter gleichen Bedingungen
         </label>
         <label title="B">
           <input type="checkbox" name="question2" value="B">
-          CC BY SA  <=>  keine Bearbeitung, Namensnennung  ?
+          CC BY SA  =  keine Bearbeitung, Namensnennung
         </label>
         <label title="C">
           <input type="checkbox" name="question2" value="C">
-          CC BY NC  <=>  nicht-kommerziell, Namensnennung  ?
+          CC BY NC  =  nicht-kommerziell, Namensnennung
         </label>
         <label title="D">
           <input type="checkbox" name="question2" value="D">
-          CC BY  <=>  Namensnennung  ?
+          CC BY  =  Namensnennung
         </label>
       </div>
       <div class="solution">C,D</div>
-      <div class="explanation">CC BY ND  <=>  keine Bearbeitung, Namensnennung<br>CC BY SA  <=>  Namensnennung, Weitergabe unter gleichen Bedingungen</div>
+      <div class="explanation">CC BY ND  =  keine Bearbeitung, Namensnennung<br>CC BY SA  =  Namensnennung, Weitergabe unter gleichen Bedingungen</div>
     </div>
     <div class="slide" title="single-choice">
       <div class="question">Wie lässt sich OER definieren?*</div>
