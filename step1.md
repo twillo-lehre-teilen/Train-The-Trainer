@@ -100,7 +100,7 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
     <th><b>Möglichkeiten offener Lizenzierung (am Beispiel Creative Commons)</b></th>
   </tr>
   <tr>
-    <td valign="top">Das Urheberrecht ist ein sog. Ausschließlichkeitsrecht; ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber*innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
+    <td valign="top">Das Urheberrecht ist ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber*innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
       <br><br>
       Die Schrankenbestimmung für Unterricht und Lehre in § 60a UrhG sieht Erleichterungen für Nutzungen eines Lernmaterials in der Hochschule bis zu einem bestimmten Umfang vor (15 % bei Druckwerken; 5 Min bei Videos und Musik).  Nach dem Gesetzestext darf die Nutzung erfolgen:
       <br>
@@ -121,7 +121,7 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
       <br><br>
       Die Lizenzen des hellgrünen Bereichs erlauben ebenfalls das Teilen und Verändern, schließen jedoch die kommerzielle Nutzung aus.  Materialien unter den Lizenzen CC BY NC und CC BY NC SA gehören zum sog. "fair use" Konzept.
       <br><br>
-      Die Lizenzen des gelben Bereichs ermöglichen keine Veränderung am Material. Materialien mit den Lizenzen CC BY ND und CC BY NC ND können somit als "Freeware" bezeichnet werden.
+      Die Lizenzen des gelben Bereichs ermöglichen keine Veränderung am Material. Lediglich das Teilen, Weitergeben ist hier erlaubt.
       <br>
       <figure>
         <img src="images/licence_skala.svg" alt="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)" title="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)"/>
@@ -266,7 +266,7 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
         </label>
         <label title="B">
           <input type="checkbox" name="question9" value="B">
-          Sie sind kostenlos
+          Sie können kostenlos genutzt werden (= kein Entgelt für die EInräumung von Nutzungsrechten)
         </label>
         <label title="C">
           <input type="checkbox" name="question9" value="C">
@@ -274,7 +274,7 @@ Liste Bedingungen von Creative Commons-Lizenzen von twillo, lizenziert unter <a 
         </label>
       </div>
       <div class="solution">A,B</div>
-      <div class="explanation">Als offen gelten Bildungsinhalte, wenn sie kostenlos verfügbar sind und unter einer Lizenz stehen, die die Weiterverwendung ermöglicht.</div>
+      <div class="explanation">Als offen gelten Bildungsinhalte, wenn sie kostenlos genutzt werden können und unter einer Lizenz stehen, die die Weiterverwendung ermöglicht.</div>
     </div>
   </div>
   <div class="explanationContainer"></div>
