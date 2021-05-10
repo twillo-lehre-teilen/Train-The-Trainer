@@ -47,12 +47,12 @@ Für das Auffinden von OER im Internet können zwei zentrale Hinweise in Bezug a
 Neben dem Kriterium des Fundortes kann, wie in der Wissenschaftspraxis auch, z.B. in der Datenbankrecherche, systematisch nach offen lizenzierten Materialien gesucht werden. Dies gilt sowohl für die Nutzung gängiger Suchmaschinen, als auch für die Suche in Repositorien. Folgende Suchstrategien lassen sich für eine zielgerichtete Suche nach OER anwenden:
 
 <ul style="list-style-type:none">
-  <li><i class="fa fa-check-circle" style="color:green"></i> Verwendung von Schlagworten: Denken Sie auch an die Suchtechnik des <b>Trunkierens</b>; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternal*)</li><br>
+  <li><i class="fa fa-check-circle" style="color:green"></i> Verwendung von Schlagworten: Denken Sie auch an die Suchtechnik des <b>Trunkierens</b>; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternalis*)</li><br>
   <li><i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>Suchoperatoren</b>, die aus Datenbanken und dem Bibliothekswesen bekannt sind: UND/AND/+; oder NICHT/NOT/- sowie ODER/OR</li><br>
   <li><i class="fa fa-check-circle" style="color:green"></i> Verwendung der <b>CC-Filter</b> in Suchmaschinen oder Portalen</li><br>
   <li><i class="fa fa-check-circle" style="color:green"></i> Eingabe des Suchbegriffs + <b>Creative Commons</b> oder speziell der <b>Lizenz</b> (CC 0, CC BY etc.)</li><br>
   <li><i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>englischen</b> Begriffen</li><br>
-  <li><i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Materialart, Fach- und Sachgebiet, etc.)</li><br>
+  <li><i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Lizenz, Quelle, Institution, Autor*in, Materialart, Fach- und Sachgebiet, etc.)</li><br>
 
 
 Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf eine zielgerichtete OER-Suche aufgeführt
@@ -311,21 +311,21 @@ Die Grundlagen zum Nachlesen:
 <div >
    <button class="accordion">Wissenswertes zu der Lizenz <b>CC 0</b></button>
    <div class="panel">
-     <p>Möchten Sie Material nutzen, dass CC 0-lizenziert ist, müssen Sie bei der Nachnutzung nicht darauf hinweisen, dass es sich um Fremdmaterial handelt. Im Sinne der guten wissenschaftlichen Praxis sollten Sie den*die Urheber*(in)nen jedoch nennen.
+     <p>Möchten Sie Material nutzen, dass CC 0 freigegeben ist, <b>müssen</b> Sie bei der Nachnutzung <b>nicht</b> darauf hinweisen, dass es sich um Fremdmaterial handelt. Im Sinne der <b>guten wissenschaftlichen Praxis sollten</b> Sie den*die Urheber*(in)nen jedoch nennen.
      </p>
    </div>
    <button class="accordion">Die Besonderheiten des Lizenzmoduls <b>SA</b></button>
    <div class="panel">
      <p>Das Lizenzmodul <b>SA</b> (Share Alike) verweist auf die Weitergabe unter gleichen Bedingungen. Doch was bedeutet das für für die Nutzung von SA-lizenzierten Inhalten in einem eigenen Werk? Hier kommt es darauf an, ob Sie den SA-lizenzierten Inhalt lediglich <b>einbinden</b> oder ihn <b>verändern</b> möchten. Binden Sie ihn (vollständig und unverändert) ein, reicht es aus, den Inhalt als fremdes Material - entlang der TULLU-Regel - kenntlich zu machen. Bearbeiten oder verändern Sie hingegen einen SA-lizenzierten Inhalt, erstellen Sie dadurch quasi ein neues Werk. Dieses neue Werk muss dann unter die gleiche Lizenz gestellt werden, wie das Ausgangsmaterial.
      <br><br>
-     <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Aber Achtung</b>: Bereits ein Zuschnitt oder das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts. Nutzen Sie z.B. eine SA-lizenzierte Grafik und und schneiden nur eine Beschriftung oder ein Icon ab oder ändern die Farbe, muss Ihre Bearbeitung kenntlich gemacht werden und die veränderte Grafik (als neues Werk) unter die gleich  Lizenz gesetzt werden, wie die ursprüngliche Grafik.
+     <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Aber Achtung</b>: Bereits das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts. Nutzen Sie z.B. eine SA-lizenzierte Grafik und entfernen nur eine Beschriftung oder ein Icon, muss Ihre Bearbeitung kenntlich gemacht werden und die veränderte Grafik unter die gleiche Lizenz gesetzt werden, wie die ursprüngliche Grafik.
      </p>
    </div>
   <button class="accordion">Die Besonderheiten des Lizenzmoduls <b>ND</b></button>
    <div class="panel">
-     <p>Bei Materialien, die unter einer Lizenz stehen, die das Modul <b>ND</b> (No Derivatives) enthält, ist es Ihnen erlaubt das Werk zu kopieren und weiterzugeben, solange dies <b>vollständig und unverändert</b> geschieht. Sie dürfen ein ND-lizenzierten Text also z.B. ausdrucken oder herunterladen und in Gänze zur Lektüre an eine Lerngruppe weitergeben. Jegliche Veränderung des Werks ist unzulässig.
+     <p>Bei Materialien, die unter einer Lizenz stehen, die das Modul <b>ND</b> (No Derivatives) enthält, ist es Ihnen erlaubt das Werk zu kopieren und weiterzugeben, solange dies <b>vollständig und unverändert</b> geschieht. Sie dürfen ein ND-lizenzierten Text also z.B. ausdrucken oder herunterladen und in Gänze zur Lektüre an eine Lerngruppe weitergeben. Jegliche Veränderung des Werks (auch eine Übersetzung) ist unzulässig.
      <br><br>
-     <b><i class="fa fa-exclamation-triangle" style="color:black"></i> Aber Achtung</b>: Bereits ein Zuschnitt oder das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts.
+     <b><i class="fa fa-exclamation-triangle" style="color:black"></i> Aber Achtung</b>: Bereits das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts.
      </p>
    </div>
   <button class="accordion">Besonderheiten des Lizenzmoduls <b>NC</b></button>
