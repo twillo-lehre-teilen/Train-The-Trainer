@@ -56,6 +56,47 @@
   <h1>Lessons Learned/Checkliste</h1>
 </center>
 
+<b>Mögliche Stolpersteine bei der Aufbereitung von OER</b>
+
+<div>
+   <button class="accordion">Muss ich immer eine Lizenz angeben</button>
+   <div class="panel">
+     
+   </div>
+   <button class="accordion">Ich stelle ein Lehrvideo zur Verfügung. Was gilt hier als offenes Dateiformat?</button>
+   <div class="panel">
+     
+   </div>
+   <button class="accordion">In meinem Material befinden sich Design-Elemente einer kostenpflichtigen Anwendung. Darf ich das Material nun unter eine CC-Lizenz stellen?</button>
+   <div class="panel">
+     
+   </div>
+   <button class="accordion">Kann ich fremde Inhalte oder Materialien von der Lizenz, die ich ausgewählt habe, ausnehmen?</button>
+   <div class="panel">
+     
+   </div>
+   <button class="accordion">Muss ich wirklich jedes einzelne Material mit einer CC-Lizenz versehen, obwohl mein gesamter Kurs unter einer CC Lizenz steht?</button>
+   <div class="panel">
+     
+   </div>
+   <button class="accordion">Was ist unter offene Dateiformate zu verstehen?</button>
+   <div class="panel">
+     
+   </div>
+   <button class="accordion">Was tue ich, wenn ich ein Material verwende, bei dem die Lizenzversion im Lizenzhinweis nicht vorhanden ist?</button>
+   <div class="panel">
+     
+   </div>
+   <button class="accordion">Welche Angaben muss ich beim Lizenzhinweis angeben?</button>
+   <div class="panel">
+    
+   </div>
+   <button class="accordion">Wie gehe ich mit Zitaten aus urheberrechtlich geschützten Materialien um?</button>
+   <div class="panel">
+    
+   </div>
+</div>
+
 <h2>Checkpunkte</h2>
 
 <ol>
