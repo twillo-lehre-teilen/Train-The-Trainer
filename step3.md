@@ -59,7 +59,7 @@
 <b>Mögliche Stolpersteine bei der Aufbereitung von OER</b>
 
 <div>
-   <button class="accordion">Muss ich immer eine Lizenz angeben</button>
+   <button class="accordion">Muss ich immer eine Lizenz angeben?</button>
    <div class="panel">
      Zu dieser Frage gibt es noch keine Rechtsprechung. Deshalb erfolgt hier die Beantwortung nach allgemeinen Regeln zur Auslegung von Verträgen.
      <br>
