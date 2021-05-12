@@ -58,7 +58,7 @@ Im fünften Schritt wird Ihnen der Workflow des OER-Portals <b>twillo</b> näher
 <font color="#000000">
 <h3>Schritt 6: Reflexion</h3>
 
-Der letzte Schritt dient der Reflexion Ihrer individuellen Lernreise durch die Welt der OER. Ziel ist die Identifikation von individuellen Chancen und Herausforderungen im Umgang mit OER sowie eine kritische Beurteilung des erstellten Materials.
+Der letzte Schritt dient der Reflexion Ihrer individuellen Lernreise durch die Welt der OER. Ziel ist die Identifikation von Chancen und Herausforderungen im Umgang mit OER sowie eine kritische Beurteilung des erstellten Materials.
 </font>
 
 <h2>Webinar 2 (W2):</h2>
