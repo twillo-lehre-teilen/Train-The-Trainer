@@ -61,7 +61,15 @@
 <div>
    <button class="accordion">Muss ich immer eine Lizenz angeben</button>
    <div class="panel">
-     
+     Zu dieser Frage gibt es noch keine Rechtsprechung. Deshalb erfolgt hier die Beantwortung nach allgemeinen Regeln zur Auslegung von Verträgen.
+     <br>
+     Hat der*die Lizenzgeber*in vergessen, die Lizenzversion anzugeben, ist die Lizenz nicht etwa unwirksam. Sie muss vielmehr ausgelegt werden. Die Bereitstellung eines Werks unter einer Lizenz ist ein Angebot zum Abschluss eines Lizenzvertrags. Ein Angebot ist eine Willenserklärung. Willenserklärungen werden nach §§ 133, 157 BGB aus der Sicht eines objektiven Empfängers ausgelegt. Entscheidend ist, wie der Empfänger (=Lizenznehmer*in) die Erklärung unter Berücksichtigung objektiver Umstände und der Verkehrssitte verstehen darf.  
+      <b>Lizenztext<b>
+      <ul style="list-style-type:disc">
+        <li>Geben Sie an, in welchem <b>Veranstaltungsformat</b> Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
+        <li>Geben Sie an, für welche <b>Niveau</b>stufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
+        <li>Das Metadatum didaktische <b>Funktion</b> zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:</li>
+      </ul>  
    </div>
    <button class="accordion">Ich stelle ein Lehrvideo zur Verfügung. Was gilt hier als offenes Dateiformat?</button>
    <div class="panel">
