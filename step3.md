@@ -182,7 +182,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" style="size:55%"/>
+        <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" width="55%" height="55%"/>
       </figure>
     </td>
     <td valign="middle" text-align="left" width="40%">
