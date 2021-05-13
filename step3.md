@@ -172,6 +172,27 @@
 
 <br>
 
+<h3> 1. Fahrplan erstellen</h3>
+
+Didaktische Planung und Strukturierung
+
+Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
+
+<table id="invisible">
+  <tr>
+    <td valign="middle" text-align="left" width="60%">
+      <figure style="float:left;align:middle;">
+        <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes_Material" title="aufgabenorientiertes_Material"/>
+      </figure>
+    </td>
+    <td valign="middle" text-align="left" width="40%">
+      Kleinteiliges Lehrmaterial: Erklärvideo, Text, Audio
+    </td>
+  </tr>
+</table>
+
+
+
 <table id="normal">
   <tr>
     <th>Inhaltliche Aspekte</th>
