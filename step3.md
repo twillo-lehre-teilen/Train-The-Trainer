@@ -182,7 +182,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" style="size:50%"/>
+        <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" style="size:55%"/>
       </figure>
     </td>
     <td valign="middle" text-align="left" width="40%">
@@ -192,7 +192,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material"/>
+        <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material" style="size:70%"/>
       </figure>
     </td>
     <td valign="middle" text-align="left" width="40%">
@@ -202,7 +202,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion"/>
+        <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" style="size:85%"/>
       </figure>
     </td>
     <td valign="middle" text-align="left" width="40%">
@@ -212,7 +212,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs"/>
+        <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" style="size:100%"/>
       </figure>
     </td>
     <td valign="middle" text-align="left" width="40%">
