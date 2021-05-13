@@ -182,7 +182,17 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes_Material" title="aufgabenorientiertes_Material"/>
+        <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial"/>
+      </figure>
+    </td>
+    <td valign="middle" text-align="left" width="40%">
+      Kleinteiliges Lehrmaterial: Erklärvideo, Text, Audio
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="left" width="60%">
+      <figure style="float:left;align:middle;">
+        <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material"/>
       </figure>
     </td>
     <td valign="middle" text-align="left" width="40%">
