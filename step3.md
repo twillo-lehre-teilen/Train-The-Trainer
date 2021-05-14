@@ -180,52 +180,53 @@ Didaktische Planung und Strukturierung
 
 Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
 
-<table id="invisible">
-  <tr>
-    <td valign="middle" text-align="left" width="60%">
-      <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" width="40%" height="40%"/>
-      </figure>
-    </td>
-    <td valign="left" text-align="left" width="40%">
-      Kleinteiliges Lehrmaterial: Erklärvideo, Text, Audio
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" text-align="left" width="60%">
-      <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material" width="55%" height="55%"/>
-      </figure>
-    </td>
-    <td valign="left" text-align="left" width="40%">
-      Aufgabenorientierte Materialien: Erklärvideo + Aufgaben, Text + Arbeitsauftrag, Audio + Quiz
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" text-align="left" width="60%">
-      <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" width="70%" height="70%"/>
-      </figure>
-    </td>
-    <td valign="left" text-align="left" width="40%">
-      Lektionen: thematisch geschlossene Einheiten
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" text-align="left" width="60%">
-      <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
-      </figure>
-    </td>
-    <td valign="left" text-align="left" width="40%">
+  <table id="invisible">
+    <tr>
+      <td valign="middle" text-align="left" width="60%">
+        <figure style="float:left;align:middle;">
+          <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" width="40%" height="40%"/>
+        </figure>
+      </td>
+      <td valign="left" text-align="left" width="40%">
+        Kleinteiliges Lehrmaterial: Erklärvideo, Text, Audio
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" text-align="left" width="60%">
+        <figure style="float:left;align:middle;">
+          <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material" width="55%" height="55%"/>
+        </figure>
+      </td>
+      <td valign="left" text-align="left" width="40%">
+        Aufgabenorientierte Materialien: Erklärvideo + Aufgaben, Text + Arbeitsauftrag, Audio + Quiz
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" text-align="left" width="60%">
+        <figure style="float:left;align:middle;">
+          <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" width="70%" height="70%"/>
+        </figure>
+      </td>
+      <td valign="left" text-align="left" width="40%">
+        Lektionen: thematisch geschlossene Einheiten
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" text-align="left" width="60%">
+        <figure style="float:left;align:middle;">
+          <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
+        </figure>
+      </td>
+      <td valign="left" text-align="left" width="40%">
         Kurse: Gesamtszenarien
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
 
-<b>How To</b>
+  <b>How To</b>
 
 1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs
+ <ul style="list-style-type:disc">
   <li>a) Was wollen Sie erstellen? <br><br>
     Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
     <table>
