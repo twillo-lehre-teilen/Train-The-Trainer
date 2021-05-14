@@ -273,15 +273,17 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 <b>2. Visualisieren Sie Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b><br>
 In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
 
-<div class="slide" title="praesi1">
-  <figure style="float:left;align:middle;">
+<div class="quiz-frame">
+  <div class="slide" title="praesi1">
+    <figure style="float:left;align:middle;">
         <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
-  </figure>
-</div>
-<div class="slide" title="praesi2">
-  <figure style="float:left;align:middle;">
+    </figure>
+  </div>
+  <div class="slide" title="praesi2">
+    <figure style="float:left;align:middle;">
         <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" width="70%" height="70%"/>
-  </figure>
+    </figure>
+  </div>
 </div>
 
 <table id="normal">
