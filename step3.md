@@ -269,7 +269,6 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
       <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
     </ul>
   </li>
-</ul>
 
 <b>2. Visualisieren Sie Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b><br>
 In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
@@ -292,7 +291,7 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
     <button class="quiz" id="next">Nächste Folie</button>
   </div>
 </div>
-
+</div>
 <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
   <div class="panel">
   In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
