@@ -247,6 +247,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
           Lernüberprüfung
         </td>
       </tr>
+    <table/>
   </li>
 </ul>
 
