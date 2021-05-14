@@ -223,7 +223,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   </tr>
 </table>
 
-<h4>How To</h4>
+<b>How To</b>
 
 1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs
   <li>a) Was wollen Sie erstellen? <br><br>
@@ -293,4 +293,14 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
   </div>
 </div>
 </div>
+<button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
+  <div class="panel">
+  In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
+  <b>How To</b><br>
+ <ul style="list-style-type:disc">
+  <li>Hierfür können Sie bei bereits bestehenden Kursen ansetzen, indem Sie erprobte Formate, Materialarten und Aufgabenstellungen identifizieren und diese in digitale Lehr- Lernsettings übersetzen. Es gilt zu klären, welche dieser Inhalte und Materialien wie digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können. </li>
+  <li>Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Modul 2</li>
+  <li>Beginnen Sie mit der Materialerstellung. Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materialien und interaktiven Inhalte (z.B. Vorbereitung eines webbasierten Whiteboard, Foruminhalte etc.) erstellt. Bevor Sie Inhalte und Materialien final fertigstellen, schauen Sie sich den nächsten Handlungspunkt "Transfer in OER Formate" an.</li>
+  </ul>
+  </div>
 </div>
