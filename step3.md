@@ -258,7 +258,9 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
       <li>In welchen Sozialformen finden die Szenarien statt (Plenum, Gruppe, Einzelarbeit)?</li>
       <li>Welche Methoden (Diskussion, Think-Pair-Share, Gruppenpuzzle) und Materialien (Video, Präsentation, Interaktive Elemente wie etwa Chats/Foren) sollen zum Einsatz kommen?</li>
     </ul>
+    <br>
     <b>Interessante Beispiele und Ideen für digitale Szenarien</b> finden Sie in diesen Quellen:
+    <br>
     <ul style="list-style-type:disc">
       <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.): <a aria-describedby="Link zur Quelle" href="https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/" target="_blank">E-Learning</a>
 </li>
