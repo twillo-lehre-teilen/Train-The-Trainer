@@ -222,8 +222,9 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 </table>
 
 <h4>How To</h4>
-
-<b>1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</b>
+<div>
+   <button class="accordion">Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</button>
+   <div class="panel">
 <ul style="list-style-type:none">
   <li>a) Was wollen Sie erstellen? <br><br>
     Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
@@ -290,6 +291,8 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
     <button class="quiz" id="previous">Vorherige Folie</button>
     <button class="quiz" id="next">Nächste Folie</button>
   </div>
+</div>
+</div>
 </div>
 
 <table id="normal">
