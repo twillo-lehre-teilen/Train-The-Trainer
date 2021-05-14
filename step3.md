@@ -212,11 +212,11 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%/>
+        <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
-        Kurse
+        Kurse: Gesamtszenarien
     </td>
   </tr>
 </table>
@@ -248,6 +248,21 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
         </td>
       </tr>
     <table/>
+  </li>
+  <li>
+    b) Wie sollen die Lehr-Lernszenarien jeweils gestaltet sein?  <br>
+    <ul style="list-style-type:disc">
+      <li>Welche Formen von Virtualität werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
+      <li>Bestehen unterschiedliche Grade der Synchronizität in den jeweiligen Phasen (synchrone Webinare, asynchrone Selbstlernphasen)?</li>
+      <li>In welchen Sozialformen finden die Szenarien statt (Plenum, Gruppe, Einzelarbeit)?</li>
+      <li>Welche Methoden (Diskussion, Think-Pair-Share, Gruppenpuzzle) und Materialien (Video, Präsentation, Interaktive Elemente wie etwa Chats/Foren) sollen zum Einsatz kommen?</li>
+    </ul>
+    <b>Interessante Beispiele und Ideen für digitale Szenarien</b> finden Sie in diesen Quellen:
+    <ul style="list-style-type:disc">
+      <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.):</li>
+      <li>Universität Hamburg (2021):</li>
+      <li>Hoffmann, Sarah G/Kiehne, Björn (2016):</li>
+    </ul>
   </li>
 </ul>
 
