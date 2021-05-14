@@ -185,7 +185,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
         <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" width="55%" height="55%"/>
       </figure>
     </td>
-    <td valign="middle" text-align="left" width="40%">
+    <td valign="left" text-align="left" width="40%">
       Kleinteiliges Lehrmaterial: Erklärvideo, Text, Audio
     </td>
   </tr>
@@ -195,7 +195,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
         <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material" width="70%" height="70%"/>
       </figure>
     </td>
-    <td valign="middle" text-align="left" width="40%">
+    <td valign="left" text-align="left" width="40%">
       Aufgabenorientierte Materialien: Erklärvideo + Aufgaben, Text + Arbeitsauftrag, Audio + Quiz
     </td>
   </tr>
@@ -205,7 +205,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
         <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" width="85%" height="85%"/>
       </figure>
     </td>
-    <td valign="middle" text-align="left" width="40%">
+    <td valign="left" text-align="left" width="40%">
       Lektionen: thematisch geschlossene Einheiten
     </td>
   </tr>
@@ -215,7 +215,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
         <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs"/>
       </figure>
     </td>
-    <td valign="middle" text-align="left" width="40%">
+    <td valign="left" text-align="left" width="40%">
       Kurse: Gesamtszenarien
     </td>
   </tr>
