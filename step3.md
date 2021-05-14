@@ -175,7 +175,7 @@
 <div>
    <button class="accordion">1. Fahrplan erstellen</button>
    <div class="panel">
-<ul style="list-style-type:none">
+      <ul style="list-style-type:none">
 Didaktische Planung und Strukturierung
 
 Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
@@ -225,7 +225,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 
 <h4>How To</h4>
 
-Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs
+1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs
   <li>a) Was wollen Sie erstellen? <br><br>
     Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
     <table>
@@ -291,8 +291,6 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
     <button class="quiz" id="previous">Vorherige Folie</button>
     <button class="quiz" id="next">Nächste Folie</button>
   </div>
-</div>
-</div>
 </div>
 </div>
 
