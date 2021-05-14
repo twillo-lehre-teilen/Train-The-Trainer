@@ -216,7 +216,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
-      Kurse: Gesamtszenarien
+        Kurse
     </td>
   </tr>
 </table>
