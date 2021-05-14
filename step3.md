@@ -294,6 +294,7 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
 </div>
 </div>
 </div>
+</div>
 
 <table id="normal">
   <tr>
