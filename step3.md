@@ -287,6 +287,11 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
       </figure>
     </div>
   </div>
+  <div class="explanationContainer"></div>
+  <div style="display:block;text-align:center;">
+    <button class="quiz" id="previous">Vorherige Folie</button>
+    <button class="quiz" id="next">Nächste Folie</button>
+  </div>
 </div>
 
 <table id="normal">
