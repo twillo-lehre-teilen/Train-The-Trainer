@@ -274,15 +274,17 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
 
 <div class="quiz-frame">
-  <div class="slide" title="praesi1">
-    <figure style="float:left;align:middle;">
+  <div class="quiz-container">
+    <div class="slide" title="praesi1">
+      <figure style="float:left;align:middle;">
         <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
-    </figure>
-  </div>
-  <div class="slide" title="praesi2">
-    <figure style="float:left;align:middle;">
+      </figure>
+    </div>
+    <div class="slide" title="praesi2">
+      <figure style="float:left;align:middle;">
         <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" width="70%" height="70%"/>
-    </figure>
+      </figure>
+    </div>
   </div>
 </div>
 
