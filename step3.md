@@ -223,7 +223,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 
 <h4>How To</h4>
 
-<b>Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</b>
+<b>1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</b>
 <ul style="list-style-type:none">
   <li>a) Was wollen Sie erstellen? Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
     <table>
@@ -259,12 +259,16 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
     </ul>
     <b>Interessante Beispiele und Ideen für digitale Szenarien</b> finden Sie in diesen Quellen:
     <ul style="list-style-type:disc">
-      <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.):</li>
-      <li>Universität Hamburg (2021):</li>
-      <li>Hoffmann, Sarah G/Kiehne, Björn (2016):</li>
+      <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.): <a aria-describedby="Link zur Quelle" href="https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/" target="_blank">E-Learning</a>
+</li>
+      <li>Universität Hamburg (2021): <a aria-describedby="Link zur Quelle" href="https://www.uni-hamburg.de/elearning/methoden.html" target="_blank">E-Learning Methoden </a></li>
+      <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
     </ul>
   </li>
 </ul>
+
+<b>2. Visualisieren Sie Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b>
+In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
 
 <table id="normal">
   <tr>
