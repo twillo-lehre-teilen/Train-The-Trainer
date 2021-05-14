@@ -274,7 +274,6 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
 
 <div class="quiz-frame">
-  <h1 class="quiz">Quiz zu OER und offenen Lizenzen</h1>
   <div class="quiz-container">
     <div class="slide" title="praesi1">
       <figure style="float:left;align:middle;">
