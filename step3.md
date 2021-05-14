@@ -225,7 +225,8 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 
 <b>1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</b>
 <ul style="list-style-type:none">
-  <li>a) Was wollen Sie erstellen? Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
+  <li>a) Was wollen Sie erstellen? <br><br>
+    Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
     <table>
       <tr>
         <td valign="middle" text-align="left"">
@@ -250,7 +251,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
     <table/>
   </li>
   <li>
-    b) Wie sollen die Lehr-Lernszenarien jeweils gestaltet sein?  <br>
+    b) Wie sollen die Lehr-Lernszenarien jeweils gestaltet sein?  <br><br>
     <ul style="list-style-type:disc">
       <li>Welche Formen von Virtualität werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
       <li>Bestehen unterschiedliche Grade der Synchronizität in den jeweiligen Phasen (synchrone Webinare, asynchrone Selbstlernphasen)?</li>
