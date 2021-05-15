@@ -175,8 +175,7 @@
 <div>
    <button class="accordion">1. Fahrplan erstellen</button>
    <div class="panel">
-     <p>
-Didaktische Planung und Strukturierung
+     <p>Didaktische Planung und Strukturierung
 <br>
 Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
 <br>
@@ -271,10 +270,11 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
      </p>
   </div>
+  </div>
+  <div>
   <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
   <div class="panel">
-    <p>
-  In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
+    <p>In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
   <b>How To</b><br>
     <ul style="list-style-type:disc">
   <li>Hierfür können Sie bei bereits bestehenden Kursen ansetzen, indem Sie erprobte Formate, Materialarten und Aufgabenstellungen identifizieren und diese in digitale Lehr- Lernsettings übersetzen. Es gilt zu klären, welche dieser Inhalte und Materialien wie digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können. </li>
@@ -285,8 +285,7 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
   </div>
   <button class="accordion">3. Transfomation in OER Formate</button>
   <div class="panel">
-    <p>
-    Sobald die ersten Inhalte und Materialien aufbereitet sind, gilt es diese auch als OER entlang der Merkmale von OER zu finalisieren. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene eine Lizenz stellen möchten, sollten
+    <p>Sobald die ersten Inhalte und Materialien aufbereitet sind, gilt es diese auch als OER entlang der Merkmale von OER zu finalisieren. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene eine Lizenz stellen möchten, sollten
   <ul style="list-style-type:disc">
   <li>frei von urheberrechtlichen Ansprüchen sein,</li>
   <li>für Außenstehende durch eine korrekte Lizenzierung als OER erkennbar sein,</li>
