@@ -17,7 +17,7 @@ Der folgende Podcast "OER in aller Kürze - Teil 1 Merkmale" fasst die wichtigst
     Your browser does not support the audio tag.
   </audio>
   </center>
-  <figcaption style="text-align:center;font-size:14px;">Audio 1: OER in aller Kürze - Teil 1: Merkmale von twillo, lizenziert unter CC 0 (1.0)</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Audio 1: OER in aller Kürze - Teil 1: Merkmale von twillo, lizenziert unter <a aria-describedby="Creative Commons Lizenz CC 0 - Version 1.0" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">CC 0 (1.0)</a></figcaption>
 </figure>
 
 Die Merkmale offene Lizenz, offenes Dateiformat, automatische Auffindbarkeit und didaktische Kontextualisierung sind grundlegende Kriterien zur Bewertung der Offenheit von Bildungsmaterialien. Doch welche Kriterien sollten OER erfüllen, um sowohl strukturell, als auch inhaltlich einen hohen Qualitätsstandard zu erfüllen? Folgender Podcast gibt Ihnen einige Informationen hierzu. Das Skript zum Nachlesen finden Sie <a aria-describedby="Skript zum Podcast OER in aller Kürze - Teil 3 herunterladen" href="https://wiki.tib.eu/confluence/download/attachments/147883536/Skript%20zum%20Podcast%20OER%20in%20aller%20K%C3%BCrze%20-%20Teil%203_Qualit%C3%A4tsdimensionen.docx?version=2&modificationDate=1620830341000&api=v2">Skript zum Podcast OER in aller Kürze - Teil 3_Qualitätsdimensionen.docx</a>
@@ -29,7 +29,7 @@ Die Merkmale offene Lizenz, offenes Dateiformat, automatische Auffindbarkeit und
     Your browser does not support the audio tag.
   </audio>
   </center>
-  <figcaption style="text-align:center;font-size:14px;">Audio 2: OER in aller Kürze - Teil 3: Qualitätsdimensionen von twillo, lizenziert unter CC BY (4.0)</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Audio 2: OER in aller Kürze - Teil 3: Qualitätsdimensionen von twillo, lizenziert unter <a aria-describedby="Creative Commons Lizenz CC BY - Version 4.0" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
 </figure>
 
 <b>Aufgabe:</b> Bitte nehmen Sie sich ein wenig Zeit, um die Qualität Ihrer eigenen OER zu beurteilen. Welche Qualitätsdimensionen erfüllen sie in vollem Umfang, an welchen Stellen sehen Sie Raum für Verbesserungen? Bei Bedarf orientieren Sie sich bei Ihrer Beurteilung gern an den Leitfragen des <a aria-describedby="Twillo-Qualitätschecks - PowerPoint-Präsentation" href="https://www.twillo.de/oer/web/wp-content/uploads/2021/04/Qualitaetscheck.pdf">twillo-Qualitätschecks</a>.
