@@ -175,10 +175,11 @@
 <div>
    <button class="accordion">1. Fahrplan erstellen</button>
    <div class="panel">
+     <p>
 Didaktische Planung und Strukturierung
-
+<br>
 Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
-
+<br>
   <table id="invisible">
     <tr>
       <td valign="middle" text-align="left" width="60%">
@@ -221,9 +222,9 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
       </td>
     </tr>
   </table>
-
+<br>
   <b>How To</b>
-
+<br>
 1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs
  <ul style="list-style-type:none">
   <li>a) Was wollen Sie erstellen? <br><br>
@@ -263,19 +264,20 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
     <b>Interessante Beispiele und Ideen für digitale Szenarien</b> finden Sie in diesen Quellen:
     <br>
     <ul style="list-style-type:disc">
-      <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.): <a aria-describedby="Link zur Quelle" href="https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/" target="_blank">E-Learning</a>
-</li>
+      <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.): <a aria-describedby="Link zur Quelle" href="https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/" target="_blank">E-Learning</a></li>
       <li>Universität Hamburg (2021): <a aria-describedby="Link zur Quelle" href="https://www.uni-hamburg.de/elearning/methoden.html" target="_blank">E-Learning Methoden </a></li>
       <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
     </ul>
   </li>
   </ul>
-
+<br>
 <b>2. Visualisieren Sie Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b><br>
 In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
-</div>
+     </p>
+  </div>
   <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
   <div class="panel">
+    <p>
   In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
   <b>How To</b><br>
     <ul style="list-style-type:disc">
@@ -283,6 +285,7 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
   <li>Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Modul 2</li>
   <li>Beginnen Sie mit der Materialerstellung. Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materialien und interaktiven Inhalte (z.B. Vorbereitung eines webbasierten Whiteboard, Foruminhalte etc.) erstellt. Bevor Sie Inhalte und Materialien final fertigstellen, schauen Sie sich den nächsten Handlungspunkt "Transfer in OER Formate" an.</li>
     </ul>
+    </p>
   </div>
   <button class="accordion">3. Transfomation in OER Formate</button>
   <div class="panel">
