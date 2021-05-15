@@ -37,11 +37,11 @@ Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etab
 #### Abschlussreflexion:
 
 <ol>
-  <li>Bitte überlegen Sie, welche Chancen und Herausforderungen Sie für Ihre eigene Arbeit in der Verwendung von OER sehen. Orientieren Sie sich hierbei bitte an den folgenden Leitfragen:</li>
+  <li>Bitte überlegen Sie, welche Chancen und Herausforderungen Sie für Ihre eigene Arbeit in der Verwendung von OER sehen. Orientieren Sie sich hierbei bitte an den folgenden Leitfragen:</li><br>
     <ul>
       <li>Wo ist die Nutzung von OER besonders hilfreich für mich? Wo sehe ich Stolpersteine?</li>
       <li>Was motiviert mich für die vermehrte Erstellung von OER? Welche Faktoren wirken eher hemmend?</li>
-    </ul>
+    </ul><br>
   <li>Nehmen Sie sich nun ein paar Minuten Zeit, um Ihren Lernprozess zu reflektieren. Die Leitfragen in dem u.s. Arbeitsblatt sollen Sie dabei unterstützen. Bitte bringen Sie Ihre Notizen in das abschließende Webinar mit.</li>
 </ol>
 
