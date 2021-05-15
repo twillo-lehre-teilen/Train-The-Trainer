@@ -68,8 +68,8 @@ Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etab
 Wir freuen uns auf Ihr Feedback!</b>
   
 <figure style="align:middle;">
-     <img src="images/person_with_confetti.svg" alt="Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
-     <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter <a aria-describedby="Creative Commons Lizenz CC BY - Version 4.0" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
+  <img src="images/person_with_confetti.svg" alt="Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter <a aria-describedby="Creative Commons Lizenz CC BY - Version 4.0" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
 </figure>
 
 </center>
