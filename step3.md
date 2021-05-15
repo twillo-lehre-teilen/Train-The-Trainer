@@ -273,29 +273,9 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 <b>2. Visualisieren Sie Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b><br>
 In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
 
-<div class="quiz-frame">
-  <div class="quiz-container">
-    <div class="slide" title="praesi1">
-      <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
-      </figure>
-    </div>
-    <div class="slide" title="praesi2">
-      <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" width="70%" height="70%"/>
-      </figure>
-    </div>
   </div>
-  <div style="display:block;text-align:center;">
-    <button class="quiz" id="previous">Vorherige Folie</button>
-    <button class="quiz" id="next">Nächste Folie</button>
-  </div>
-  </div>
-</div>
-</div>
-heho
-2. Bestandsaufnahme und weitere Planung
-
+  <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
+  <div class="panel">
   In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
   <b>How To</b><br>
     <ul style="list-style-type:disc">
@@ -303,5 +283,7 @@ heho
   <li>Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Modul 2</li>
   <li>Beginnen Sie mit der Materialerstellung. Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materialien und interaktiven Inhalte (z.B. Vorbereitung eines webbasierten Whiteboard, Foruminhalte etc.) erstellt. Bevor Sie Inhalte und Materialien final fertigstellen, schauen Sie sich den nächsten Handlungspunkt "Transfer in OER Formate" an.</li>
     </ul>
+  </div>
+</div>
 
 
