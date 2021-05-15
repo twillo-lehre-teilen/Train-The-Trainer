@@ -170,7 +170,20 @@
   </p>
 </div>
 
-<br>
+<div>
+   <button class="accordion">1. Fahrplan erstellen</button>
+   <div class="panel">
+     <p></p>
+   </div>
+   <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
+   <div class="panel">
+     <p></p>
+   </div>
+   <button class="accordion">3. Transfomation in OER Formate</button>
+   <div class="panel">
+     <p></p>
+   </div>
+<div>
 
 <div>
    <button class="accordion">1. Fahrplan erstellen</button>
