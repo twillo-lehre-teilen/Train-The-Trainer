@@ -58,7 +58,7 @@ Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etab
       <li>Was motiviert mich für die vermehrte Erstellung von OER? Welche Faktoren wirken eher hemmend?</li>
     </ul><br>
   <li>Nehmen Sie sich nun ein paar Minuten Zeit, um Ihren Lernprozess zu reflektieren. Die Leitfragen in dem u.s. Arbeitsblatt sollen Sie dabei unterstützen. Bitte bringen Sie Ihre Notizen in das abschließende Webinar mit.
-    <br>
+    <br><br>
     <center>
     <a aria-describedby="Arbeitsblatt Selbstreflexion herunterladen" href="documents/Arbeitsblatt Selbstreflexion.docx">Arbeitsblatt Selbstreflexion</a>
     </center>
@@ -72,7 +72,7 @@ Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etab
 Wir freuen uns auf Ihr Feedback!</b>
   
 <figure style="align:middle;">
-  <img src="images/person_with_confetti.svg" alt="Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
+  <img src="images/person_with_confetti.svg" alt="Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Person with confetti von Merle Zander und twillo, lizenziert unter <a aria-describedby="Creative Commons Lizenz CC BY - Version 4.0" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
 </figure>
 
