@@ -226,8 +226,8 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <b>How To</b>
 <br>
 1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs
- <ul style="list-style-type:none">
-  <li>a) Was wollen Sie erstellen? <br><br>
+ <br>
+  a) Was wollen Sie erstellen? <br><br>
     Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
     <table>
       <tr>
@@ -251,8 +251,6 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
         </td>
       </tr>
     <table/>
-  </li>
-  <li>
     b) Wie sollen die Lehr-Lernszenarien jeweils gestaltet sein?  <br><br>
     <ul style="list-style-type:disc">
       <li>Welche Formen von Virtualität werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
@@ -268,8 +266,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
       <li>Universität Hamburg (2021): <a aria-describedby="Link zur Quelle" href="https://www.uni-hamburg.de/elearning/methoden.html" target="_blank">E-Learning Methoden </a></li>
       <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
     </ul>
-  </li>
- </ul><br><br>
+
 <b>2. Visualisieren Sie Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b><br>
 In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
      </p>
