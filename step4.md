@@ -15,4 +15,4 @@
     <button class="quiz" id="previous">Vorherige Folie</button>
     <button class="quiz" id="next">Nächste Folie</button>
   </div>
-  </div>
+</div>
