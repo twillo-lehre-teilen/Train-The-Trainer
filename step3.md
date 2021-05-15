@@ -292,9 +292,8 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
   </div>
   </div>
 
-  </div>
-  <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
-  <div class="panel">
+2. Bestandsaufnahme und weitere Planung
+
   In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
   <b>How To</b><br>
     <ul style="list-style-type:disc">
@@ -302,5 +301,5 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
   <li>Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Modul 2</li>
   <li>Beginnen Sie mit der Materialerstellung. Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materialien und interaktiven Inhalte (z.B. Vorbereitung eines webbasierten Whiteboard, Foruminhalte etc.) erstellt. Bevor Sie Inhalte und Materialien final fertigstellen, schauen Sie sich den nächsten Handlungspunkt "Transfer in OER Formate" an.</li>
     </ul>
-  </div>
-</div>
+
+
