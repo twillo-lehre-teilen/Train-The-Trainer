@@ -218,7 +218,14 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
         Kurse: Gesamtszenarien
       </td>
     </tr>
-  </table></p>
+  </table>
+     <br>
+  <b>How To</b>
+<br>
+1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs
+ <br>
+  a) Was wollen Sie erstellen? <br><br>
+    Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br></p>
    </div>
    <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
    <div class="panel">
