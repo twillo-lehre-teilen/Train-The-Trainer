@@ -48,7 +48,7 @@ OER stellen einen freien Zugang zu Bildung und Wissen dar. Da ihre Nutzung allen
 Den Chancen von OER stehen auch einige Herausforderungen gegenüber. So bestehen beispielsweise oftmals Unsicherheiten bezüglich rechtlicher Aspekte bei der Erstellung, Verbreitung und Nutzung von OER. Besonders bei Lehrenden ist die Sorge, unbeabsichtigt eine Urheberrechtsverletzung zu begehen meist groß. Fähigkeiten und Fertigkeiten im Umgang mit OER und freier Software sowie Wissensbestände zu Lizenzierungen scheinen noch immer als Fachkompetenzen zu gelten (vgl. <a aria-describedby="Grimm/Rödel 2018 - PDF" href="https://www.bibb.de/veroeffentlichungen/de/publication/download/8617">Grimm/Rödel 2018</a>). 
 <br><br>
 Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etablierung im hochschulischen Kontext ein erklärtes bildungspolitisches Ziel. In zahlreichen Förderinitiativen auf nationaler und internationaler Ebene werden Strukturen entwickelt, um die Erstellung und Bereitstellung von OER zu fördern und diesbezügliche Hemmnisse abzubauen (vgl. u. a. <a aria-describedby="DIPF o. J." href="https://open-educational-resources.de/">DIPF o. J.</a>).
-<br><br><br>
+<br><br>
 #### Abschlussreflexion:
 
 <ol>
@@ -57,8 +57,12 @@ Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etab
       <li>Wo ist die Nutzung von OER besonders hilfreich für mich? Wo sehe ich Stolpersteine?</li>
       <li>Was motiviert mich für die vermehrte Erstellung von OER? Welche Faktoren wirken eher hemmend?</li>
     </ul><br>
-  <li>Nehmen Sie sich nun ein paar Minuten Zeit, um Ihren Lernprozess zu reflektieren. Die Leitfragen in dem u.s. Arbeitsblatt sollen Sie dabei unterstützen. Bitte bringen Sie Ihre Notizen in das abschließende Webinar mit.<br>
-<a style="text-align:center" aria-describedby="Arbeitsblatt Selbstreflexion herunterladen" href="documents/Arbeitsblatt Selbstreflexion.docx">Arbeitsblatt Selbstreflexion</a></li>
+  <li>Nehmen Sie sich nun ein paar Minuten Zeit, um Ihren Lernprozess zu reflektieren. Die Leitfragen in dem u.s. Arbeitsblatt sollen Sie dabei unterstützen. Bitte bringen Sie Ihre Notizen in das abschließende Webinar mit.
+    <br>
+    <center>
+    <a aria-describedby="Arbeitsblatt Selbstreflexion herunterladen" href="documents/Arbeitsblatt Selbstreflexion.docx">Arbeitsblatt Selbstreflexion</a>
+    </center>
+  </li>
 </ol>
 
 ---
