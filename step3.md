@@ -176,7 +176,49 @@
      <p>Didaktische Planung und Strukturierung
 <br>
 Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
-<br></p>
+<br>
+     <table id="invisible">
+    <tr>
+      <td valign="middle" text-align="left" width="60%">
+        <figure style="float:left;align:middle;">
+          <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" width="40%" height="40%"/>
+        </figure>
+      </td>
+      <td valign="left" text-align="left" width="40%">
+        Kleinteiliges Lehrmaterial: Erklärvideo, Text, Audio
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" text-align="left" width="60%">
+        <figure style="float:left;align:middle;">
+          <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material" width="55%" height="55%"/>
+        </figure>
+      </td>
+      <td valign="left" text-align="left" width="40%">
+        Aufgabenorientierte Materialien: Erklärvideo + Aufgaben, Text + Arbeitsauftrag, Audio + Quiz
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" text-align="left" width="60%">
+        <figure style="float:left;align:middle;">
+          <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" width="70%" height="70%"/>
+        </figure>
+      </td>
+      <td valign="left" text-align="left" width="40%">
+        Lektionen: thematisch geschlossene Einheiten
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" text-align="left" width="60%">
+        <figure style="float:left;align:middle;">
+          <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
+        </figure>
+      </td>
+      <td valign="left" text-align="left" width="40%">
+        Kurse: Gesamtszenarien
+      </td>
+    </tr>
+  </table></p>
    </div>
    <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
    <div class="panel">
