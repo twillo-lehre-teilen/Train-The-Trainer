@@ -288,6 +288,7 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
   </div>
   <button class="accordion">3. Transfomation in OER Formate</button>
   <div class="panel">
+    <p>
     Sobald die ersten Inhalte und Materialien aufbereitet sind, gilt es diese auch als OER entlang der Merkmale von OER zu finalisieren. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene eine Lizenz stellen möchten, sollten
   <ul style="list-style-type:disc">
   <li>frei von urheberrechtlichen Ansprüchen sein,</li>
@@ -299,6 +300,7 @@ In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit 
     <li>bei der Planung von <b>kleinteiligen Lehrmaterialien</b> kann die <a aria-describedby="Link zur Quelle" href="https://tibhannover.gitlab.io/oer/oer-wizard/html/wizard-modal.html" target="_blank">OER-Planungshilfe</a> verwendet werden. Ein Instrument, das Ihnen in wenigen Schritten einen Leitfaden generiert.</li>
   <li>eine weitere OER-Planungshilfe für Kurse bzw. Einheiten stellt die Vorlage mooc-canvas von Sandra Schön und Martin Ebner (CC BY 4.0) dar: <a aria-describedby="Link zur Quelle" href="https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg" target="_blank">https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg</a></li>
   </ul>
+  </p>
   </div>
 </div>
 
