@@ -183,7 +183,7 @@
    <div class="panel">
      <p></p>
    </div>
-<div>
+</div>
 
 <div>
    <button class="accordion">1. Fahrplan erstellen</button>
