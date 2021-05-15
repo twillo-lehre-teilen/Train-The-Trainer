@@ -247,7 +247,14 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
           Lernüberprüfung
         </td>
       </tr>
-    <table/></p>
+    <table/>
+       b) Wie sollen die Lehr-Lernszenarien jeweils gestaltet sein?  <br><br>
+    <ul style="list-style-type:disc">
+      <li>Welche Formen von Virtualität werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
+      <li>Bestehen unterschiedliche Grade der Synchronizität in den jeweiligen Phasen (synchrone Webinare, asynchrone Selbstlernphasen)?</li>
+      <li>In welchen Sozialformen finden die Szenarien statt (Plenum, Gruppe, Einzelarbeit)?</li>
+      <li>Welche Methoden (Diskussion, Think-Pair-Share, Gruppenpuzzle) und Materialien (Video, Präsentation, Interaktive Elemente wie etwa Chats/Foren) sollen zum Einsatz kommen?</li>
+    </ul></p>
    </div>
    <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
    <div class="panel">
