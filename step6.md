@@ -1,4 +1,5 @@
 <h1 style="color:#000000">Schritt 6: Reflexion</h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
@@ -35,14 +36,14 @@ Vor dem Hintergrund der o.g. Aspekte ist die Information über OER und ihre Etab
 <br><br><br>
 #### Abschlussreflexion:
 
-1. Bitte überlegen Sie, welche Chancen und Herausforderungen Sie für Ihre eigene Arbeit in der Verwendung von OER sehen. Orientieren Sie sich hierbei bitte an den folgenden Leitfragen:
-
-<ul>
-  <li>Wo ist die Nutzung von OER besonders hilfreich für mich? Wo sehe ich Stolpersteine?</li>
-  <li>Was motiviert mich für die vermehrte Erstellung von OER? Welche Faktoren wirken eher hemmend?</li>
-</ul>
-
-2. Nehmen Sie sich nun ein paar Minuten Zeit, um Ihren Lernprozess zu reflektieren. Die Leitfragen in dem u.s. Arbeitsblatt sollen Sie dabei unterstützen. Bitte bringen Sie Ihre Notizen in das abschließende Webinar mit.
+<ol>
+  <li>Bitte überlegen Sie, welche Chancen und Herausforderungen Sie für Ihre eigene Arbeit in der Verwendung von OER sehen. Orientieren Sie sich hierbei bitte an den folgenden Leitfragen:</li>
+    <ul>
+      <li>Wo ist die Nutzung von OER besonders hilfreich für mich? Wo sehe ich Stolpersteine?</li>
+      <li>Was motiviert mich für die vermehrte Erstellung von OER? Welche Faktoren wirken eher hemmend?</li>
+    </ul>
+  <li>Nehmen Sie sich nun ein paar Minuten Zeit, um Ihren Lernprozess zu reflektieren. Die Leitfragen in dem u.s. Arbeitsblatt sollen Sie dabei unterstützen. Bitte bringen Sie Ihre Notizen in das abschließende Webinar mit.</li>
+</ol>
 
 <img>
 
