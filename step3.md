@@ -247,7 +247,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
           Lernüberprüfung
         </td>
       </tr>
-    <table/>
+    </table>
        b) Wie sollen die Lehr-Lernszenarien jeweils gestaltet sein?  <br><br>
     <ul style="list-style-type:disc">
       <li>Welche Formen von Virtualität werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
