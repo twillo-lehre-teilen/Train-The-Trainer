@@ -228,22 +228,22 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
     Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
      <table>
       <tr>
-        <td valign="middle" text-align="left"">
+        <td valign="middle" text-align="left">
           Sitzung
         </td>
-        <td valign="middle" text-align="left"">
+        <td valign="middle" text-align="left">
           Lernziel
         </td>
-        <td valign="middle" text-align="left"">
+        <td valign="middle" text-align="left">
           Thema/Inhalte
         </td>
-        <td valign="middle" text-align="left"">
+        <td valign="middle" text-align="left">
           Methode
         </td>
-        <td valign="middle" text-align="left"">
+        <td valign="middle" text-align="left">
           Material/Medien
         </td>
-        <td valign="middle" text-align="left"">
+        <td valign="middle" text-align="left">
           Lernüberprüfung
         </td>
       </tr>
