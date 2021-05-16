@@ -160,6 +160,7 @@
         return;
       }
       /* else for inner accordion */
+      /**
       if (this.classList.contains("inner")){
         for (var j = 0; j < inner.length; j++) {
           inner[j].classList.toggle('activeA', false)
@@ -169,11 +170,12 @@
         this.classList.toggle('activeA', true);
         panel.style.maxHeight = panel.scrollHeight + "px";                 
       }
+      */
       /* else for outer accordion */
       for (var j = 0; j < acc.length; j++) {
         acc[j].classList.toggle('activeA', false)
         var p = acc[j].nextElementSibling;
-        p.style.maxHeight = null;
+        //p.style.maxHeight = null;
       }
       this.classList.toggle('activeA', true);
       panel.style.maxHeight = panel.scrollHeight + "px";
