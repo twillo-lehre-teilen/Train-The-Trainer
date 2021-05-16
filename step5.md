@@ -159,7 +159,7 @@ Der Workflow auf twillo umfasst vier Schritte:
   </div>
   <button class="accordion">4. Freigabe</button>
   <div class="panel">
-    <p><br><br>
+    <p>
       Erst mit der aktiven Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
       <br>
       Entweder Sie aktivieren im Abschnitt <b>Lizenz</b> den Schalter <b>Objekt mit dieser Lizenz veröffentlichen</b>
@@ -172,7 +172,6 @@ Der Workflow auf twillo umfasst vier Schritte:
         <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Freigabe twillo</figcaption>
       </figure>
       <b>Juhu! Sie haben OER auf twillo veröffentlicht!</b>
-      <br><br>
     </p>
   </div>
 </div>
