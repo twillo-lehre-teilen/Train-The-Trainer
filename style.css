@@ -977,7 +977,8 @@ table {
   background-color: inherit;
 }
 #invisible td {
-  border: transparent;
+  border: 1px solid #FFFFFF;
+  border-color: transparent;
   cellspacing: 0;
   padding: 8px;
   padding-left: 25px;
