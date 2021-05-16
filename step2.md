@@ -1,28 +1,3 @@
-<script>
-  //Script fürs Accordeon
-  var acc = document.getElementsByClassName("accordion");
-
-  for (var i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-      var panel = this.nextElementSibling;
-      /* if panel already open */
-      if (panel.style.maxHeight) {
-        this.classList.toggle('activeA', false);
-        panel.style.maxHeight = null;
-        return;
-      }
-      /* else */
-       for (var j = 0; j < acc.length; j++) {
-        acc[j].classList.toggle('activeA', false)
-        var p = acc[j].nextElementSibling;
-        p.style.maxHeight = null;
-      }
-      this.classList.toggle('activeA', true);
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    });
-  }
-</script>
-
 <h1 style="color:#000080">Schritt 2: OER finden und nutzen</h1>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -389,3 +364,29 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
     Sie finden uns <a aria-describedby="Link zum Big Blue Button Raum für die Sprechstunde" href="https://big.elan-ev.de/b/nor-eye-xhz-6us">hier</a>. Hop in, hop off - eine Anmeldung ist nicht nötig!
   </p>
 </div>
+
+
+<script>
+  //Script fürs Accordeon
+  var acc = document.getElementsByClassName("accordion");
+
+  for (var i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      var panel = this.nextElementSibling;
+      /* if panel already open */
+      if (panel.style.maxHeight) {
+        this.classList.toggle('activeA', false);
+        panel.style.maxHeight = null;
+        return;
+      }
+      /* else */
+       for (var j = 0; j < acc.length; j++) {
+        acc[j].classList.toggle('activeA', false)
+        var p = acc[j].nextElementSibling;
+        p.style.maxHeight = null;
+      }
+      this.classList.toggle('activeA', true);
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    });
+  }
+</script>
