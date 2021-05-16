@@ -974,7 +974,7 @@ table {
 }
 /* invisible-table design */
 #invisible tr {
-  background-color: #FFFFFF;
+  background-color: inherit;
 }
 #invisible td {
   border: 1px solid #FFFFFF;
@@ -983,6 +983,9 @@ table {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+/* invisible-table inside accordion */
+.
+/* following table-design are not used */
 /* info-table design */
 #info tr {
   background-color: #e7f3fe;
