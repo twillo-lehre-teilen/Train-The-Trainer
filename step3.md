@@ -58,55 +58,65 @@
         </tr>
       </table>
       <br>
-      <b>How To</b>
-      <br>
-      1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs
-      <br>
-      a) Was wollen Sie erstellen?
-      <br><br>
-      Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
-      <table>
-        <tr>
-          <td valign="middle" text-align="left">
-            Sitzung
-          </td>
-          <td valign="middle" text-align="left">
-            Lernziel
-          </td>
-          <td valign="middle" text-align="left">
-            Thema/Inhalte
-          </td>
-          <td valign="middle" text-align="left">
-            Methode
-          </td>
-          <td valign="middle" text-align="left">
-            Material/Medien
-          </td>
-          <td valign="middle" text-align="left">
-            Lernüberprüfung
-          </td>
-        </tr>
-      </table>
-      b) Wie sollen die Lehr-Lernszenarien jeweils gestaltet sein?  <br><br>
-      <ul style="list-style-type:disc">
-        <li>Welche Formen von Virtualität werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
-        <li>Bestehen unterschiedliche Grade der Synchronizität in den jeweiligen Phasen (synchrone Webinare, asynchrone Selbstlernphasen)?</li>
-        <li>In welchen Sozialformen finden die Szenarien statt (Plenum, Gruppe, Einzelarbeit)?</li>
-        <li>Welche Methoden (Diskussion, Think-Pair-Share, Gruppenpuzzle) und Materialien (Video, Präsentation, Interaktive Elemente wie etwa Chats/Foren) sollen zum Einsatz kommen?</li>
-      </ul>
-      <br>
-      <b>Interessante Beispiele und Ideen für digitale Szenarien</b> finden Sie in diesen Quellen:
-      <br>
-      <ul style="list-style-type:disc">
-        <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.): <a aria-describedby="Link zur Quelle" href="https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/" target="_blank">E-Learning</a></li>
-        <li>Universität Hamburg (2021): <a aria-describedby="Link zur Quelle" href="https://www.uni-hamburg.de/elearning/methoden.html" target="_blank">E-Learning Methoden </a></li>
-        <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
-      </ul>
-      <br>
-      <b>2. Visualisieren Sie Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b>
-      <br>
-      In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
-     </p>
+      <div>
+        <button class="accordion"><b>How To</b></button>
+        <div class="panel">
+          <p>
+            <ol type="1">
+              <li>Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</li>
+                <ol type="a">
+                  <li>Was wollen Sie erstellen?<br><br>Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
+                    <table>
+                      <tr>
+                        <td valign="middle" text-align="left">
+                          Sitzung
+                        </td>
+                        <td valign="middle" text-align="left">
+                          Lernziel
+                        </td>
+                        <td valign="middle" text-align="left">
+                          Thema/Inhalte
+                        </td>
+                        <td valign="middle" text-align="left">
+                          Methode
+                        </td>
+                        <td valign="middle" text-align="left">
+                          Material/Medien
+                        </td>
+                        <td valign="middle" text-align="left">
+                          Lernüberprüfung
+                        </td>
+                      </tr>
+                    </table>
+                  </li>
+                  <li> Wie sollen die Lehr-Lernszenarien jeweils gestaltet sein?<br>
+                    <ul style="list-style-type:disc">
+                      <li>Welche Formen von Virtualität werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
+                      <li>Bestehen unterschiedliche Grade der Synchronizität in den jeweiligen Phasen (synchrone Webinare, asynchrone Selbstlernphasen)?</li>
+                      <li>In welchen Sozialformen finden die Szenarien statt (Plenum, Gruppe, Einzelarbeit)?</li>
+                      <li>Welche Methoden (Diskussion, Think-Pair-Share, Gruppenpuzzle) und Materialien (Video, Präsentation, Interaktive Elemente wie etwa Chats/Foren) sollen zum Einsatz kommen?</li>
+                    </ul>
+                    <br>
+                    <b>Interessante Beispiele und Ideen für digitale Szenarien</b> finden Sie in diesen Quellen:
+                    <br>
+                    <ul style="list-style-type:disc">
+                      <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.): <a aria-describedby="Link zur Quelle" href="https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/" target="_blank">E-Learning</a></li>
+                      <li>Universität Hamburg (2021): <a aria-describedby="Link zur Quelle" href="https://www.uni-hamburg.de/elearning/methoden.html" target="_blank">E-Learning Methoden </a></li>
+                      <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
+                    </ul>
+                  </li>
+                </ol>
+              </li>
+              <li>Visualisieren Sie Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b><br>
+                In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
+                <br>
+                [Platzhalter pptx]
+              </li>
+            </ol>
+          </p>
+        </div>
+      </div>
+    </p>
   </div>
   <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
   <div class="panel">
