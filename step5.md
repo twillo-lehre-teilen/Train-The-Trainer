@@ -179,9 +179,8 @@ Der Workflow auf twillo umfasst vier Schritte:
 
 
 <script>
-  //Script fürs Accordeon
+/* accordeon script file */
   var acc = document.getElementsByClassName("accordion");
-
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
@@ -192,7 +191,7 @@ Der Workflow auf twillo umfasst vier Schritte:
         return;
       }
       /* else */
-       for (var j = 0; j < acc.length; j++) {
+      for (var j = 0; j < acc.length; j++) {
         acc[j].classList.toggle('activeA', false)
         var p = acc[j].nextElementSibling;
         p.style.maxHeight = null;
