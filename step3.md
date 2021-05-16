@@ -160,7 +160,7 @@
         return;
       }
       /* else for inner accordion */
-      if (this.classList.contains("inner"){
+      if (this.classList.contains("inner")){
         for (var j = 0; j < inner.length; j++) {
           inner[j].classList.toggle('activeA', false)
           var p = inner[j].nextElementSibling;
