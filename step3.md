@@ -59,7 +59,7 @@
       </table>
       <br>
       <div>
-        <button class="accordion"><b>How To</b></button>
+        <button class="accordion inner"><b>How To</b></button>
         <div class="panel">
           <p>
             <ol type="1">
@@ -149,6 +149,7 @@
 <script>
 /* accordion script file */
   var acc = document.getElementsByClassName("accordion");
+  var innerAcc = document.getElementsByClassName("accordion inner");
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
@@ -158,7 +159,17 @@
         panel.style.maxHeight = null;
         return;
       }
-      /* else */
+      /* else for inner accordion */
+      if (this.classList.contains("inner"){
+        for (var j = 0; j < inner.length; j++) {
+          inner[j].classList.toggle('activeA', false)
+          var p = inner[j].nextElementSibling;
+          p.style.maxHeight = null;
+        }
+        this.classList.toggle('activeA', true);
+        panel.style.maxHeight = panel.scrollHeight + "px";                 
+      }
+      /* else for outer accordion */
       for (var j = 0; j < acc.length; j++) {
         acc[j].classList.toggle('activeA', false)
         var p = acc[j].nextElementSibling;
