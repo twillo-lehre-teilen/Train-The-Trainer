@@ -8,6 +8,7 @@
   </p>
 </div>
 
+/**
 <div>
   <button class="accordion">1. Fahrplan erstellen</button>
   <div class="panel">
@@ -135,7 +136,7 @@
     </p>
   </div>
 </div>
-
+*/
 
 
 <script>
