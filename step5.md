@@ -159,7 +159,8 @@ Der Workflow auf twillo umfasst vier Schritte:
   </div>
   <button class="accordion">4. Freigabe</button>
   <div class="panel">
-    <p>Erst mit der aktiven Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
+    <p>
+      Erst mit der aktiven Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
       <br>
       Entweder Sie aktivieren im Abschnitt <b>Lizenz</b> den Schalter <b>Objekt mit dieser Lizenz veröffentlichen</b>
       <br><br>
