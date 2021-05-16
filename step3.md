@@ -19,7 +19,7 @@
         <tr>
           <td valign="middle" text-align="left" width="60%">
             <figure style="float:left;align:middle;">
-              <img src="images/Obstkiste_kleinteiliges_Lehrmaterial.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" width="40%" height="40%"/>
+              <img src="" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" width="40%" height="40%"/>
             </figure>
           </td>
           <td valign="left" text-align="left" width="40%">
@@ -29,7 +29,7 @@
         <tr>
           <td valign="middle" text-align="left" width="60%">
             <figure style="float:left;align:middle;">
-              <img src="images/Obstkiste_aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material" width="55%" height="55%"/>
+              <img src="" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material" width="55%" height="55%"/>
             </figure>
           </td>
           <td valign="left" text-align="left" width="40%">
@@ -39,7 +39,7 @@
         <tr>
           <td valign="middle" text-align="left" width="60%">
             <figure style="float:left;align:middle;">
-              <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" width="70%" height="70%"/>
+              <img src="" alt="Lektion" title="Lektion" width="70%" height="70%"/>
             </figure>
           </td>
           <td valign="left" text-align="left" width="40%">
@@ -49,7 +49,7 @@
         <tr>
           <td valign="middle" text-align="left" width="60%">
             <figure style="float:left;align:middle;">
-              <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
+              <img src="" alt="Kurs" title="Kurs" width="85%" height="85%"/>
             </figure>
           </td>
           <td valign="left" text-align="left" width="40%">
