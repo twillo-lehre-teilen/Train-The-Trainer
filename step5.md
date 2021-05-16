@@ -70,7 +70,7 @@ Der Workflow auf twillo umfasst vier Schritte:
   <button class="accordion">3. Beschreibung und Kontextualisierung </button>
   <div class="panel">
     <p>Im folgenden Schritt geht es darum, die hochgeladenen/verlinkten Bildungsmaterialien durch die Eingabe von Metadaten zu beschreiben. Dies hat zwei Gründe: Erstens werden die Materialien eine umfassende Beschreibung einfach auffindbar (nicht nur auf twillo, sondern auch bei der Nutzung von Suchmaschinen), zweitens wird anderen Lehrende die Nachnutzung vereinfacht, da sie durch eine gute Beschreibung schnell einschätzen können, inwiefern sich das Material für das eigene Lehr-Lernsetting eignet. Automatische Auffindbarkeit und didaktische Kontextualisierung stellen somit zwei wichtige Merkmale dar, die die Qualität von OER im Hinblick auf deren Struktur beeinflussen.</p>
-      <table id="invisible" style="background-color:inherit">
+      <table id="invisible" style="background-color:#FAFAFC">
         <tr>
           <td valign="middle" text-align="left" width="30%">
             <figure style="float:left;align:middle;">
