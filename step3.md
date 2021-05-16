@@ -15,7 +15,7 @@
       <br>
       Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
       <br>
-      <table id="invisible" style="background-color:#FAFAFC">
+      <table id="invisible">
         <tr>
           <td valign="middle" text-align="left" width="60%">
             <figure style="float:left;align:middle;">
@@ -23,7 +23,7 @@
             </figure>
           </td>
           <td valign="left" text-align="left" width="40%">
-            Kleinteiliges Lehrmaterial: Erklärvideo, Text, Audio
+            Test:Kleinteiliges Lehrmaterial: Erklärvideo, Text, Audio
           </td>
         </tr>
         <tr>
