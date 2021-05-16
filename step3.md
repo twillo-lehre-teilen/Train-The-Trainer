@@ -15,7 +15,7 @@
       <br>
       Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
       <br>
-      <table id="invisible" class="accordion">
+      <table id="invisible">
         <tr>
           <td valign="middle" text-align="left" width="60%">
             <figure style="float:left;align:middle;">
