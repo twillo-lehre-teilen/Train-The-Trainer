@@ -23,7 +23,7 @@
             </figure>
           </td>
           <td valign="left" text-align="left" width="40%">
-            Test:Kleinteiliges Lehrmaterial: Erklärvideo, Text, Audio
+            Kleinteiliges Lehrmaterial:<br>Erklärvideo, Text, Audio
           </td>
         </tr>
         <tr>
@@ -33,7 +33,7 @@
             </figure>
           </td>
           <td valign="left" text-align="left" width="40%">
-            Aufgabenorientierte Materialien: Erklärvideo + Aufgaben, Text + Arbeitsauftrag, Audio + Quiz
+            Aufgabenorientierte Materialien:<br>Erklärvideo + Aufgaben, Text + Arbeitsauftrag, Audio + Quiz
           </td>
         </tr>
         <tr>
@@ -43,7 +43,7 @@
             </figure>
           </td>
           <td valign="left" text-align="left" width="40%">
-            Lektionen: thematisch geschlossene Einheiten
+            Lektionen:<br>thematisch geschlossene Einheiten
           </td>
         </tr>
         <tr>
@@ -53,7 +53,7 @@
             </figure>
           </td>
           <td valign="left" text-align="left" width="40%">
-            Kurse: Gesamtszenarien
+            Kurse:<br>Gesamtszenarien
           </td>
         </tr>
       </table>
