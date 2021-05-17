@@ -167,7 +167,7 @@
       }
     });
   }
-/* for inner accordions */
+  /* for inner accordions */
   var innerAcc = document.getElementsByName("inner");
   for (var k = 0; i < innerAcc.length; k++) {
     innerAcc[k].style.background = "green";
