@@ -58,7 +58,37 @@
         </tr>
       </table>
       <br>
-      <div>
+    </p>
+  </div>
+  <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
+  <div class="panel">
+    <p>In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
+      <b>How To</b><br>
+      <ul style="list-style-type:disc">
+        <li>Hierfür können Sie bei bereits bestehenden Kursen ansetzen, indem Sie erprobte Formate, Materialarten und Aufgabenstellungen identifizieren und diese in digitale Lehr- Lernsettings übersetzen. Es gilt zu klären, welche dieser Inhalte und Materialien wie digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können. </li>
+        <li>Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Modul 2</li>
+        <li>Beginnen Sie mit der Materialerstellung. Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materialien und interaktiven Inhalte (z.B. Vorbereitung eines webbasierten Whiteboard, Foruminhalte etc.) erstellt. Bevor Sie Inhalte und Materialien final fertigstellen, schauen Sie sich den nächsten Handlungspunkt "Transfer in OER Formate" an.</li>
+      </ul>
+    </p>
+  </div>
+  <button class="accordion">3. Transfomation in OER Formate</button>
+  <div class="panel">
+    <p>Sobald die ersten Inhalte und Materialien aufbereitet sind, gilt es diese auch als OER entlang der Merkmale von OER zu finalisieren. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene eine Lizenz stellen möchten, sollten
+      <ul style="list-style-type:disc">
+        <li>frei von urheberrechtlichen Ansprüchen sein,</li>
+        <li>für Außenstehende durch eine korrekte Lizenzierung als OER erkennbar sein,</li>
+        <li>für eine optimale Nachnutzung in einem möglichst offenen Dateiformat vorliegen.</li>
+      </ul>
+      <b>Für konkrete Planungsschritte zur Überführung von Materialien in OER finden Sie hier zwei Unterstützungstools:</b>
+      <ul style="list-style-type:disc">
+        <li>bei der Planung von <b>kleinteiligen Lehrmaterialien</b> kann die <a aria-describedby="Link zur Quelle" href="https://tibhannover.gitlab.io/oer/oer-wizard/html/wizard-modal.html" target="_blank">OER-Planungshilfe</a> verwendet werden. Ein Instrument, das Ihnen in wenigen Schritten einen Leitfaden generiert.</li>
+        <li>eine weitere OER-Planungshilfe für Kurse bzw. Einheiten stellt die Vorlage mooc-canvas von Sandra Schön und Martin Ebner (CC BY 4.0) dar: <a aria-describedby="Link zur Quelle" href="https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg" target="_blank">https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg</a></li>
+      </ul>
+    </p>
+  </div>
+</div>
+
+<div>
         <button class="collapsible"><b>How To</b></button>
         <div class="colPanel">
           <p>
@@ -116,35 +146,6 @@
           </p>
         </div>
       </div>
-    </p>
-  </div>
-  <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
-  <div class="panel">
-    <p>In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
-      <b>How To</b><br>
-      <ul style="list-style-type:disc">
-        <li>Hierfür können Sie bei bereits bestehenden Kursen ansetzen, indem Sie erprobte Formate, Materialarten und Aufgabenstellungen identifizieren und diese in digitale Lehr- Lernsettings übersetzen. Es gilt zu klären, welche dieser Inhalte und Materialien wie digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können. </li>
-        <li>Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Modul 2</li>
-        <li>Beginnen Sie mit der Materialerstellung. Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materialien und interaktiven Inhalte (z.B. Vorbereitung eines webbasierten Whiteboard, Foruminhalte etc.) erstellt. Bevor Sie Inhalte und Materialien final fertigstellen, schauen Sie sich den nächsten Handlungspunkt "Transfer in OER Formate" an.</li>
-      </ul>
-    </p>
-  </div>
-  <button class="accordion">3. Transfomation in OER Formate</button>
-  <div class="panel">
-    <p>Sobald die ersten Inhalte und Materialien aufbereitet sind, gilt es diese auch als OER entlang der Merkmale von OER zu finalisieren. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene eine Lizenz stellen möchten, sollten
-      <ul style="list-style-type:disc">
-        <li>frei von urheberrechtlichen Ansprüchen sein,</li>
-        <li>für Außenstehende durch eine korrekte Lizenzierung als OER erkennbar sein,</li>
-        <li>für eine optimale Nachnutzung in einem möglichst offenen Dateiformat vorliegen.</li>
-      </ul>
-      <b>Für konkrete Planungsschritte zur Überführung von Materialien in OER finden Sie hier zwei Unterstützungstools:</b>
-      <ul style="list-style-type:disc">
-        <li>bei der Planung von <b>kleinteiligen Lehrmaterialien</b> kann die <a aria-describedby="Link zur Quelle" href="https://tibhannover.gitlab.io/oer/oer-wizard/html/wizard-modal.html" target="_blank">OER-Planungshilfe</a> verwendet werden. Ein Instrument, das Ihnen in wenigen Schritten einen Leitfaden generiert.</li>
-        <li>eine weitere OER-Planungshilfe für Kurse bzw. Einheiten stellt die Vorlage mooc-canvas von Sandra Schön und Martin Ebner (CC BY 4.0) dar: <a aria-describedby="Link zur Quelle" href="https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg" target="_blank">https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg</a></li>
-      </ul>
-    </p>
-  </div>
-</div>
 
 <script>
 /* accordion script file */
