@@ -869,7 +869,7 @@ pre::after {
   top: 0;
 }
 /* Style the buttons that are used to open and close the accordion panel */
-.accordion {
+.accordion, .inner, .outer {
   background-color: #F0F2F6;
   color: #0A1F40;
   font-size: inherit;
@@ -882,7 +882,7 @@ pre::after {
   transition: 0.4s;
 }
 /* Add a background color to the button if it is clicked on (add the .activeA class with JS), and when you move the mouse over it (hover) */
-.activeA, .accordion:hover {
+.activeA, .accordion:hover, .inner:hover, .outer:hover {
   background-color: #D1D8E1;
 }
 /* Style the accordion panel. Note: hidden by default */
@@ -894,7 +894,7 @@ pre::after {
   max-height: 0;
   transition: max-height 0.2s ease-out;
 }
-.accordion:after {
+.accordion:after, .inner:after, .outer:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
   font-size: 13px;
   color: #54B6B5;
