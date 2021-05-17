@@ -216,10 +216,10 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
     coll[k].addEventListener("click", function() {
       this.classList.toggle("activeC");
       var content = this.nextElementSibling;
-      if (content.style.maxHeight){
-        //content.style.maxHeight = null;
+      if (content.style.display === "block"){
+        content.style.display = "none";
       } else {
-        //content.style.maxHeight = initial;
+        content.style.display = "block";
       }
     });
   }
