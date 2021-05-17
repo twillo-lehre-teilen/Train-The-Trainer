@@ -9,7 +9,7 @@
 </div>
 
 <div>
-  <button class="accordion outer">1. Fahrplan erstellen</button>
+  <button class="accordion" class="outer">1. Fahrplan erstellen</button>
   <div class="panel">
     <p>Didaktische Planung und Strukturierung
       <br>
