@@ -930,7 +930,7 @@ pre::after {
   display: block;
   overflow: hidden;
   background-color: #F0F2F6;
-  transition: 0.2s ease-out;
+  /*transition: max-height 0.2s ease-out;*/
 }
 .collapsible:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
