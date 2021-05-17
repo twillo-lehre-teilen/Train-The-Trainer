@@ -213,7 +213,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
 /* collapsible script */
   var coll = document.getElementsByClassName("collapsible");
   for (k = 0; k < coll.length; k++) {
-    coll[k].style.display = "none";
+    coll[k].nextElementSibling.style.display = "none";
     coll[k].addEventListener("click", function() {
       this.classList.toggle("activeC");
       var content = this.nextElementSibling;
