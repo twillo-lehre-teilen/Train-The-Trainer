@@ -929,7 +929,7 @@ pre::after {
   /*max-height: 0;*/
   display: block;
   overflow: hidden;
-  background-color: #FAFAFC;
+  background-color: #F0F2F6;
   /*transition: max-height 0.2s ease-out;*/
 }
 .collapsible:after {
