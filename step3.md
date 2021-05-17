@@ -150,28 +150,26 @@
 /* accordion script file */
   var outerAcc = document.getElementsByClassName("outer");
   for (var i = 0; i < outerAcc.length; i++) {
-    outerAcc[i].style.background = "red";
     outerAcc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
       /* if panel already open */
       if (panel.style.maxHeight) {
         this.classList.toggle('activeA', false);
         panel.style.maxHeight = null;
-        return;
+      } else {
+        for (var j = 0 ; j < acc.length; j++) {
+          outerAcc[j].classList.toggle('activeA', false);
+          var p = outerAcc[j].nextElementSibling;
+          p.style.maxHeight = null;
+        }
+        this.classList.toggle('activeA', true);
+        panel.style.maxHeight = panel.scrollHeight + "px";
       }
-      /* else */
-      for (var j = 0 ; j < acc.length; j++) {
-        outerAcc[j].classList.toggle('activeA', false);
-        var p = outerAcc[j].nextElementSibling;
-        p.style.maxHeight = null;
-      }
-      this.classList.toggle('activeA', true);
-      panel.style.maxHeight = panel.scrollHeight + "px";
     });
   }
 /* for inner accordions */
   var innerAcc = document.getElementsByName("inner");
-  for (var k = 0; i < innerAcc.length; i++) {
+  for (var k = 0; i < innerAcc.length; k++) {
     innerAcc[k].style.background = "green";
     innerAcc[k].addEventListener("click", function() {
       var panel = this.nextElementSibling;
@@ -179,16 +177,15 @@
       if (panel.style.maxHeight) {
         this.classList.toggle('activeA', false);
         panel.style.maxHeight = null;
-        return;
+      } else {
+        for (var l = 0 ; j < acc.length; l++) {
+          innerAcc[l].classList.toggle('activeA', false);
+          var p = innerAcc[l].nextElementSibling;
+          p.style.maxHeight = null;
+        }
+        this.classList.toggle('activeA', true);
+        panel.style.maxHeight = panel.scrollHeight + "px";
       }
-      /* else for outer accordion */
-      for (var l = 0 ; j < acc.length; j++) {
-        innerAcc[l].classList.toggle('activeA', false);
-        var p = innerAcc[l].nextElementSibling;
-        p.style.maxHeight = null;
-      }
-      this.classList.toggle('activeA', true);
-      panel.style.maxHeight = panel.scrollHeight + "px";
     });
   }
 </script>
