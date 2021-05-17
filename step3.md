@@ -9,7 +9,7 @@
 </div>
 
 <div>
-  <button class="accordion outer">1. Fahrplan erstellen</button>
+  <button class="accordion">1. Fahrplan erstellen</button>
   <div class="panel">
     <p>Didaktische Planung und Strukturierung
       <br>
@@ -59,8 +59,8 @@
       </table>
       <br>
       <div>
-        <button class="accordion inner"><b>How To</b></button>
-        <div class="panel">
+        <button class="collapsible"><b>How To</b></button>
+        <div class="content">
           <p>
             <ol type="1">
               <li>Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</li>
@@ -118,7 +118,7 @@
       </div>
     </p>
   </div>
-  <button class="accordion outer">2. Bestandsaufnahme und weitere Planung</button>
+  <button class="accordion">2. Bestandsaufnahme und weitere Planung</button>
   <div class="panel">
     <p>In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
       <b>How To</b><br>
@@ -129,7 +129,7 @@
       </ul>
     </p>
   </div>
-  <button class="accordion outer">3. Transfomation in OER Formate</button>
+  <button class="accordion">3. Transfomation in OER Formate</button>
   <div class="panel">
     <p>Sobald die ersten Inhalte und Materialien aufbereitet sind, gilt es diese auch als OER entlang der Merkmale von OER zu finalisieren. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene eine Lizenz stellen möchten, sollten
       <ul style="list-style-type:disc">
@@ -151,29 +151,32 @@
   var acc = document.getElementsByClassName("accordion");
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
-      var panel = this.nextElementSibling;
-      if (this.classList.contains("inner")){
-        if (panel.style.maxHeight) {
-          this.classList.toggle('activeA', false);
-          panel.style.maxHeight = null;
-        } else {
-          this.classList.toggle('activeA', true);
-          panel.style.maxHeight = auto;
-        }  
-      } else {                               
-        /* if panel already open */
-        if (panel.style.maxHeight) {
-          this.classList.toggle('activeA', false);
-          panel.style.maxHeight = null;
-        } else {
-          for (var j = 0 ; j < acc.length; j++) {
-            acc[j].classList.toggle('activeA', false);
-            var p = acc[j].nextElementSibling;
-            p.style.maxHeight = null;
-          }
-          this.classList.toggle('activeA', true);
-          panel.style.maxHeight = panel.scrollHeight + "px";
+      var panel = this.nextElementSibling;                               
+      /* if panel already open */
+      if (panel.style.maxHeight) {
+        this.classList.toggle('activeA', false);
+        panel.style.maxHeight = null;
+      } else {
+        for (var j = 0 ; j < acc.length; j++) {
+          acc[j].classList.toggle('activeA', false);
+          var p = acc[j].nextElementSibling;
+          p.style.maxHeight = null;
         }
+        this.classList.toggle('activeA', true);
+        panel.style.maxHeight = panel.scrollHeight + "px";
+      }
+    });
+  }
+/* collapsible script */
+  var coll = document.getElementsByClassName("collapsible");
+  for (var j = 0; i < coll.length; j++) {
+    coll[j].addEventListener("click", function() {
+      this.classList.toggle("activeC");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
       }
     });
   }
