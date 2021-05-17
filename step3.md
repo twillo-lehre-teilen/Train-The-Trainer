@@ -148,7 +148,7 @@
 
 <script>
 /* accordion script file */
-  var outerAcc = document.getElementsByClassName("outer");
+  var outerAcc = document.getElementsByClassName("accordion outer");
   for (var i = 0; i < outerAcc.length; i++) {
     outerAcc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
