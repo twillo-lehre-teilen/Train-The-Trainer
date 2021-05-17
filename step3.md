@@ -59,7 +59,7 @@
       </table>
       <br>
       <div>
-        <button class="accordion inner"><b>How To</b></button>
+        <button class="inner"><b>How To</b></button>
         <div class="panel">
           <p>
             <ol type="1">
