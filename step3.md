@@ -169,14 +169,14 @@
   }
 /* collapsible script */
   var coll = document.getElementsByClassName("collapsible");
-  for (var j = 0; i < coll.length; j++) {
-    coll[j].addEventListener("click", function() {
+  for (k = 0; k < coll.length; k++) {
+    coll[k].addEventListener("click", function() {
       this.classList.toggle("activeC");
       var content = this.nextElementSibling;
-      if (content.style.display === "block") {
-        content.style.display = "none";
+      if (content.style.maxHeight){
+        content.style.maxHeight = null;
       } else {
-        content.style.display = "block";
+        content.style.maxHeight = content.scrollHeight + "px";
       }
     });
   }
