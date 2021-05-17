@@ -60,7 +60,7 @@
       <br>    
       <div>
         <button class="collapsible"><b>How To</b></button>
-        <div class="colPanel">
+        <div class="collPanel">
           <p>
             <ol type="1">
               <li>Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</li>
@@ -212,7 +212,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
   }
 /* collapsible script */
   var coll = document.getElementsByClassName("collapsible");
-  for (k = 0; k < coll.length; k++) {
+  for (var k = 0; k < coll.length; k++) {
     coll[k].addEventListener("click", function() {
       this.classList.toggle("activeC");
       var content = this.nextElementSibling;
@@ -222,5 +222,11 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
         content.style.display = "block";
       }
     });
+  }
+  /* manually trigger two click events */
+  const e = new Event("click");
+  for (var l = 0; l < coll.length; l++) {
+    coll[k].dispatchEvent(e);
+    coll[k].dispatchEvent(e);
   }
 </script>
