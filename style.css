@@ -923,7 +923,7 @@ pre::after {
   background-color: #D1D8E1;
 }
 /* Style the collapsible content. Note: hidden by default */
-.content {
+.colPanel {
   font-size: 18px;
   padding: 0 18px;
   display: none;
