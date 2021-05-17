@@ -223,7 +223,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
       }
     });
   }
-  /* manually trigger two click events */
+  /* manually trigger click event */
   const e = new Event("click");
   for (var l = 0; l < coll.length; l++) {
     coll[l].dispatchEvent(e);
