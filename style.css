@@ -869,7 +869,7 @@ pre::after {
   top: 0;
 }
 /* Style the buttons that are used to open and close the accordion panel */
-.accordion, .inner, .outer {
+.accordion{
   background-color: #F0F2F6;
   color: #0A1F40;
   font-size: inherit;
@@ -882,7 +882,7 @@ pre::after {
   transition: 0.4s;
 }
 /* Add a background color to the button if it is clicked on (add the .activeA class with JS), and when you move the mouse over it (hover) */
-.activeA, .accordion:hover, .inner:hover, .outer:hover {
+.activeA, .accordion:hover {
   background-color: #D1D8E1;
 }
 /* Style the accordion panel. Note: hidden by default */
@@ -894,7 +894,7 @@ pre::after {
   max-height: 0;
   transition: max-height 0.2s ease-out;
 }
-.accordion:after, .inner:after, .outer:after {
+.accordion:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
   font-size: 13px;
   color: #54B6B5;
@@ -902,6 +902,42 @@ pre::after {
   margin-left: 5px;
 }
 .activeA:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+/* collapsible */
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+.collapsible:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: white;
+  float: right;
+  margin-left: 5px;
+}
+.activeC:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
 
