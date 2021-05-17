@@ -59,7 +59,7 @@
       </table>
       <br>
       <div>
-        <button class="inner"><b>How To</b></button>
+        <button class="accordion inner"><b>How To</b></button>
         <div class="panel">
           <p>
             <ol type="1">
@@ -148,43 +148,32 @@
 
 <script>
 /* accordion script file */
-  var outerAcc = document.getElementsByClassName("accordion");
-  for (var i = 0; i < outerAcc.length; i++) {
-    outerAcc[i].addEventListener("click", function() {
+  var acc = document.getElementsByClassName("accordion");
+  for (var i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
-      /* if panel already open */
-      if (panel.style.maxHeight) {
-        this.classList.toggle('activeA', false);
-        panel.style.maxHeight = null;
-      } else {
-        for (var j = 0 ; j < acc.length; j++) {
-          outerAcc[j].classList.toggle('activeA', false);
-          var p = outerAcc[j].nextElementSibling;
-          p.style.maxHeight = null;
+      if (this.classList.contains("inner")){
+        if (panel.style.maxHeight) {
+          this.classList.toggle('activeA', false);
+          panel.style.maxHeight = null;
+        } else {
+          this.classList.toggle('activeA', true);
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        }  
+      } else {                               
+        /* if panel already open */
+        if (panel.style.maxHeight) {
+          this.classList.toggle('activeA', false);
+          panel.style.maxHeight = null;
+        } else {
+          for (var j = 0 ; j < acc.length; j++) {
+            acc[j].classList.toggle('activeA', false);
+            var p = acc[j].nextElementSibling;
+            p.style.maxHeight = null;
+          }
+          this.classList.toggle('activeA', true);
+          panel.style.maxHeight = panel.scrollHeight + "px";
         }
-        this.classList.toggle('activeA', true);
-        panel.style.maxHeight = panel.scrollHeight + "px";
-      }
-    });
-  }
-  /* for inner accordions */
-  var innerAcc = document.getElementsByName("inner");
-  for (var k = 0; i < innerAcc.length; k++) {
-    innerAcc[k].style.background = "green";
-    innerAcc[k].addEventListener("click", function() {
-      var panel = this.nextElementSibling;
-      /* if panel already open */
-      if (panel.style.maxHeight) {
-        this.classList.toggle('activeA', false);
-        panel.style.maxHeight = null;
-      } else {
-        for (var l = 0 ; j < acc.length; l++) {
-          innerAcc[l].classList.toggle('activeA', false);
-          var p = innerAcc[l].nextElementSibling;
-          p.style.maxHeight = null;
-        }
-        this.classList.toggle('activeA', true);
-        panel.style.maxHeight = panel.scrollHeight + "px";
       }
     });
   }
