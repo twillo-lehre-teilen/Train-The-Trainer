@@ -926,7 +926,7 @@ pre::after {
 .colPanel {
   font-size: 18px;
   padding: 0 18px;
-  /*max-height: 0;*/
+  max-height: 0;
   overflow: hidden;
   background-color: #FAFAFC;
   transition: max-height 0.2s ease-out;
