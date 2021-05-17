@@ -158,7 +158,7 @@
           panel.style.maxHeight = null;
         } else {
           this.classList.toggle('activeA', true);
-          panel.style.height = 1000px;
+          panel.style.height = auto;
         }  
       } else {                               
         /* if panel already open */
