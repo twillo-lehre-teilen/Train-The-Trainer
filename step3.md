@@ -227,6 +227,5 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
   const e = new Event("click");
   for (var l = 0; l < coll.length; l++) {
     coll[l].dispatchEvent(e);
-    coll[l].dispatchEvent(e);
   }
 </script>
