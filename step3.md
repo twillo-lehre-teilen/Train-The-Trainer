@@ -148,7 +148,7 @@
 
 <script>
 /* accordion script file */
-  var outerAcc = document.getElementsByClassName("accordion outer");
+  var outerAcc = document.querySelectorAll(".accordion, .outer");
   for (var i = 0; i < outerAcc.length; i++) {
     outerAcc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
@@ -169,7 +169,7 @@
     });
   }
 /* for inner accordions */
-  var innerAcc = document.getElementsByClassName("inner");
+  var innerAcc = document.querySelectorAll(".accordion, .inner");
   for (var i = 0; i < innerAcc.length; i++) {
     innerAcc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
