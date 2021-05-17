@@ -59,7 +59,7 @@
       </table>
       <br>
       <div>
-        <button class="accordion inner"><b>How To</b></button>
+        <button class="inner"><b>How To</b></button>
         <div class="panel">
           <p>
             <ol type="1">
@@ -149,7 +149,6 @@
 <script>
 /* accordion script file */
   var acc = document.getElementsByClassName("accordion");
-  var innerAcc = document.getElementsByClassName("accordion inner");
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
@@ -170,7 +169,7 @@
     });
   }
 /* for inner accordions */
-  var innerAcc = document.getElementsByClassName("accordion inner");
+  var innerAcc = document.getElementsByClassName("inner");
   for (var i = 0; i < innerAcc.length; i++) {
     innerAcc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
