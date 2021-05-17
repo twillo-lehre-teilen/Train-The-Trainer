@@ -9,7 +9,7 @@
 </div>
 
 <div>
-  <button class="accordion" class="outer">1. Fahrplan erstellen</button>
+  <button class="accordion" name="outer">1. Fahrplan erstellen</button>
   <div class="panel">
     <p>Didaktische Planung und Strukturierung
       <br>
@@ -59,7 +59,7 @@
       </table>
       <br>
       <div>
-        <button class="accordion inner"><b>How To</b></button>
+        <button class="accordion" name="inner"><b>How To</b></button>
         <div class="panel">
           <p>
             <ol type="1">
@@ -118,7 +118,7 @@
       </div>
     </p>
   </div>
-  <button class="accordion outer">2. Bestandsaufnahme und weitere Planung</button>
+  <button class="accordion" name="outer">2. Bestandsaufnahme und weitere Planung</button>
   <div class="panel">
     <p>In einem weiteren Schritt erfolgt eine Bestandsaufnahme der vorhandenen (teils noch nicht OER-konformen) Inhalte und Materialien. Das Rad muss dabei nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück.
       <b>How To</b><br>
@@ -129,7 +129,7 @@
       </ul>
     </p>
   </div>
-  <button class="accordion outer">3. Transfomation in OER Formate</button>
+  <button class="accordion" name="outer">3. Transfomation in OER Formate</button>
   <div class="panel">
     <p>Sobald die ersten Inhalte und Materialien aufbereitet sind, gilt es diese auch als OER entlang der Merkmale von OER zu finalisieren. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene eine Lizenz stellen möchten, sollten
       <ul style="list-style-type:disc">
@@ -148,7 +148,7 @@
 
 <script>
 /* accordion script file */
-  var outerAcc = document.querySelectorAll(".outer");
+  var outerAcc = document.getElementsByName("outer");
   for (var i = 0; i < outerAcc.length; i++) {
     outerAcc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
@@ -169,7 +169,7 @@
     });
   }
 /* for inner accordions */
-  var innerAcc = document.querySelectorAll(".inner");
+  var innerAcc = document.getElementsByName("inner");
   for (var i = 0; i < innerAcc.length; i++) {
     innerAcc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
