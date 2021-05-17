@@ -129,7 +129,7 @@
       </ul>
     </p>
   </div>
-  <button class="accordion">3. Transfomation in OER Formate</button>
+  <button class="accordion">3. Transfer in OER Formate</button>
   <div class="panel">
     <p>Sobald die ersten Inhalte und Materialien aufbereitet sind, gilt es diese auch als OER entlang der Merkmale von OER zu finalisieren. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene eine Lizenz stellen möchten, sollten
       <ul style="list-style-type:disc">
@@ -142,6 +142,14 @@
         <li>bei der Planung von <b>kleinteiligen Lehrmaterialien</b> kann die <a aria-describedby="Link zur Quelle" href="https://tibhannover.gitlab.io/oer/oer-wizard/html/wizard-modal.html" target="_blank">OER-Planungshilfe</a> verwendet werden. Ein Instrument, das Ihnen in wenigen Schritten einen Leitfaden generiert.</li>
         <li>eine weitere OER-Planungshilfe für Kurse bzw. Einheiten stellt die Vorlage mooc-canvas von Sandra Schön und Martin Ebner (CC BY 4.0) dar: <a aria-describedby="Link zur Quelle" href="https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg" target="_blank">https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg</a></li>
       </ul>
+    <h3>Nutzung von Tools und Software für OER </h3>
+    <ul style="list-style-type:disc">
+      <li>Bei der Erstellung von Materialien mit Softwareanwendungen und Diensten ist im Hinblick auf OER besondere Aufmerksamkeit geboten: Werden Elemente (z.B. Designs, Grafiken, Animationen) aus der Software/dem Dienst in einem damit erstellten Werk sichtbar, muss geprüft werden, ob das Werk unter einer CC-Lizenz gestellt werden darf. Oftmals sind die genannten Elemente Eigentum der Software-Anbieter*innen oder deren Lizenzgeber*innen und somit urheber- oder markenrechtlich geschützt. Das heißt, dass ausschließlich die jeweiligen Rechteinhaber*innen - nicht aber die Endnutzer*innen - über eine Weiterlizenzierung entscheden dürfen.
+Als Beispiel möchten wir die Animationssoftware Powtoon heranziehen: Erstellen Sie beispielsweise ein Video mit der Software und verwenden Grafiken oder Animationen, die Ihnen über den Dienst bereitgestellt werden, so dürfen Sie Ihr Video nach dem Export nicht unter eine CC-Lizenz stellen. Die Grafiken und Animationen bleiben Eigentum des Anbieters - Ihnen ist nur die Nutzung, nicht aber die Weiterlizenzierung erlaubt.
+
+Nähere Informationen entnehmen Sie bitte den AGBs der von Ihnen favorisierten Anwendung oder Dienste. Sind Sie sich bzgl. bestimmter Software unsicher, wenden Sie sich gern an <a aria-describedby="Link um Mail zu schreiben" href="mailto:support.twillo@tib.eu" target="_blank">support.twillo@tib.eu</a> - wir beraten Sie gern. </li>
+      <li>Generel sollten Sie bei dem Einsatz von webbasierten Anwendungen darauf achten, dass auch die Zielgruppe für die Sie Inhalte erstellen (Quizze, Abstimmungen, Whiteboards, etc.) keine Registrierungen vornehmen müssen, um auf die Inhalte zugreifen zu können. Prüfen Sie vorab die Konditionen: Sind Registrierungen verpflichtend? Fallen Kosten an?</li>
+    </ul>
     </p>
   </div>
 </div>
