@@ -168,5 +168,16 @@
     });
   }
 /* collapsible script */
-
+  var coll = document.getElementsByClassName("collapsible");
+  for (var j = 0; i < coll.length; j++) {
+    coll[j].addEventListener("click", function() {
+      this.classList.toggle("activeC");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
 </script>
