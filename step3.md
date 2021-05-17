@@ -152,6 +152,7 @@
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
+      panel.style.background = "green";
       if (this.classList.contains("inner")){
         this.style.background = "red";
         if (panel.style.maxHeight) {
