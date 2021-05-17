@@ -152,15 +152,16 @@
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
-      panel.style.background = "green";
       if (this.classList.contains("inner")){
-        this.style.background = "red";
         if (panel.style.maxHeight) {
           this.classList.toggle('activeA', false);
           panel.style.maxHeight = null;
         } else {
+          this.style.background = "red";
           this.classList.toggle('activeA', true);
+          this.style.background = "yellow";
           panel.style.maxHeight = panel.scrollHeight + "px";
+          this.style.background = "green";
         }  
       } else {                               
         /* if panel already open */
