@@ -150,6 +150,7 @@
 /* accordion script file */
   var outerAcc = document.getElementsByClassName("outer");
   for (var i = 0; i < outerAcc.length; i++) {
+    outerAcc[i].style.background = "red";
     outerAcc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
       /* if panel already open */
@@ -171,6 +172,7 @@
 /* for inner accordions */
   var innerAcc = document.getElementsByName("inner");
   for (var k = 0; i < innerAcc.length; i++) {
+    innerAcc[k].style.background = "green";
     innerAcc[k].addEventListener("click", function() {
       var panel = this.nextElementSibling;
       /* if panel already open */
