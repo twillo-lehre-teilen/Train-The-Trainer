@@ -60,7 +60,7 @@
       <br>
       <div>
         <button class="collapsible"><b>How To</b></button>
-        <div class="content">
+        <div class="colPanel">
           <p>
             <ol type="1">
               <li>Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</li>
