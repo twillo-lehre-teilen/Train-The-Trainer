@@ -927,7 +927,7 @@ pre::after {
   font-size: 18px;
   padding: 0 18px;
   /*max-height: 0;*/
-  display: none;
+  display: block;
   overflow: hidden;
   background-color: #FAFAFC;
   /*transition: max-height 0.2s ease-out;*/
