@@ -150,6 +150,40 @@ Als Beispiel möchten wir die Animationssoftware Powtoon heranziehen: Erstellen 
 Nähere Informationen entnehmen Sie bitte den AGBs der von Ihnen favorisierten Anwendung oder Dienste. Sind Sie sich bzgl. bestimmter Software unsicher, wenden Sie sich gern an <a aria-describedby="Link um Mail zu schreiben" href="mailto:support.twillo@tib.eu" target="_blank">support.twillo@tib.eu</a> - wir beraten Sie gern. </li>
       <li>Generel sollten Sie bei dem Einsatz von webbasierten Anwendungen darauf achten, dass auch die Zielgruppe für die Sie Inhalte erstellen (Quizze, Abstimmungen, Whiteboards, etc.) keine Registrierungen vornehmen müssen, um auf die Inhalte zugreifen zu können. Prüfen Sie vorab die Konditionen: Sind Registrierungen verpflichtend? Fallen Kosten an?</li>
     </ul>
+    <table id="invisible">
+        <tr>
+          <td valign="middle" text-align="left" width="25%">
+            <figure style="float:left;align:middle;">
+              <img src="images/offene_lizenz.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
+            </figure>
+          </td>
+          <td valign="middle" text-align="left" width="75%">
+            <b>Merkmal: Offene Lizenz</b>
+
+OER sind freie Bildungsmaterialien, die mit einer offenen Lizenz versehen sind, die Dritten explizit Nutzungsrechte einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.
+
+Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
+          </td>
+        </tr>
+        <tr>
+          <td valign="middle" text-align="left" width="25%">
+            <figure style="float:left;align:middle;">
+              <img src="images/offenes_format.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
+            </figure>
+          </td>
+          <td valign="middle" text-align="left" width="75%">
+            	
+
+<b>Merkmal Offenes Dateiformat<br><br>
+
+Die Bereitstellung des Materials in einem möglichst offenen Dateiformat:</b>
+
+Neben dem Merkmal der offenen Lizenzierung, gibt es noch ein weiteres Merkmal, das hier als unspezifisch bezeichnet wird und somit grundlegend für eine einfache Handhabung im Sinne einer OER-Practices von Bedeutung ist. Unspezifisch meint hier, dass der Aspekt offenes Dateiformat nicht zwangsläufig erfüllt sein muss, um als OER zu gelten, es erleichtert jedoch mögliche Bearbeitungen und geringfügige Anpassungen an den Materialien.
+
+Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere nicht erlaubt (ND), kann das Merkmal des offenen Dateiformats vernachlässigt werden.
+          </td>
+        </tr>
+    </table>
     </p>
   </div>
 </div>
