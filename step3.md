@@ -154,7 +154,7 @@ Nähere Informationen entnehmen Sie bitte den AGBs der von Ihnen favorisierten A
         <tr>
           <td valign="middle" text-align="left" width="25%">
             <figure style="float:left;align:middle;">
-              <img src="images/offene_lizenz.svg" alt="Kurs" title="Kurs"/>
+              <img src="images/offene_lizenz.svg" alt="symbolbild offene Lizenz" title="Kurs"/>
             </figure>
           </td>
           <td valign="middle" text-align="left" width="75%">
@@ -168,7 +168,7 @@ Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert a
         <tr>
           <td valign="middle" text-align="left" width="25%">
             <figure style="float:left;align:middle;">
-              <img src="images/offenes_format.svg" alt="Kurs" title="Kurs"/>
+              <img src="images/offenes_format.svg" alt="Symbolbild offenes Format" title="Kurs"/>
             </figure>
           </td>
           <td valign="middle" text-align="left" width="75%">
