@@ -157,11 +157,8 @@
           this.classList.toggle('activeA', false);
           panel.style.maxHeight = null;
         } else {
-          this.style.background = "red";
           this.classList.toggle('activeA', true);
-          this.style.background = "yellow";
-          panel.style.maxHeight = panel.scrollHeight + "px";
-          this.style.background = "green";
+          panel.style.height = 1000px;
         }  
       } else {                               
         /* if panel already open */
