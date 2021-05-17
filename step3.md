@@ -174,7 +174,7 @@ Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert a
           <td valign="middle" text-align="left" width="75%">
             	
 
-<b>Merkmal Offenes Dateiformat<br><br>
+<b>Merkmal Offenes Dateiformat<br>
 
 Die Bereitstellung des Materials in einem möglichst offenen Dateiformat:</b>
 
