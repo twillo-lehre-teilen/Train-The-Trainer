@@ -926,9 +926,10 @@ pre::after {
 .colPanel {
   font-size: 18px;
   padding: 0 18px;
-  display: none;
+  max-height: 0;
   overflow: hidden;
   background-color: #FAFAFC;
+  transition: max-height 0.2s ease-out;
 }
 .collapsible:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
