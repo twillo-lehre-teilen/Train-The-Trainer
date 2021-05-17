@@ -153,6 +153,7 @@
     acc[i].addEventListener("click", function() {
       var panel = this.nextElementSibling;
       if (this.classList.contains("inner")){
+        this.style.background = "red";
         if (panel.style.maxHeight) {
           this.classList.toggle('activeA', false);
           panel.style.maxHeight = null;
