@@ -226,7 +226,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
   /* manually trigger two click events */
   const e = new Event("click");
   for (var l = 0; l < coll.length; l++) {
-    coll[k].dispatchEvent(e);
-    coll[k].dispatchEvent(e);
+    coll[l].dispatchEvent(e);
+    coll[l].dispatchEvent(e);
   }
 </script>
