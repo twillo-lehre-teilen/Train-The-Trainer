@@ -159,23 +159,32 @@
         panel.style.maxHeight = null;
         return;
       }
-      /* else for inner accordion */
-      /**
-      if (this.classList.contains("inner")){
-        for (var j = 0; j < inner.length; j++) {
-          inner[j].classList.toggle('activeA', false)
-          var p = inner[j].nextElementSibling;
-          p.style.maxHeight = null;
-        }
-        this.classList.toggle('activeA', true);
-        panel.style.maxHeight = panel.scrollHeight + "px";                 
-      }
-      */
       /* else for outer accordion */
       for (var j = 0; j < acc.length; j++) {
         acc[j].classList.toggle('activeA', false)
         var p = acc[j].nextElementSibling;
-        //p.style.maxHeight = null;
+        p.style.maxHeight = null;
+      }
+      this.classList.toggle('activeA', true);
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    });
+  }
+/* for inner accordions */
+  var innerAcc = document.getElementsByClassName("accordion inner");
+  for (var i = 0; i < innerAcc.length; i++) {
+    innerAcc[i].addEventListener("click", function() {
+      var panel = this.nextElementSibling;
+      /* if panel already open */
+      if (panel.style.maxHeight) {
+        this.classList.toggle('activeA', false);
+        panel.style.maxHeight = null;
+        return;
+      }
+      /* else for outer accordion */
+      for (var j = 0; j < acc.length; j++) {
+        innerAcc[j].classList.toggle('activeA', false)
+        var p = innerAcc[j].nextElementSibling;
+        p.style.maxHeight = null;
       }
       this.classList.toggle('activeA', true);
       panel.style.maxHeight = panel.scrollHeight + "px";
