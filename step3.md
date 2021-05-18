@@ -62,7 +62,6 @@
         <div class="collPanel">
           <p>
             <h5>1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt</h5>
-            <br><br>
             Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien; planen Sie, welche Inhalte von den Teilnehmenden wann und wie erlernt werden sollen.
             <br><br>
             Legen Sie zunächst die Themen der unterschiedlichen Sitzungen/Lerneinheiten fest und formulieren Sie Lernziele. Welche Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln?
@@ -187,7 +186,6 @@
             </ul>
             <br>
             <h5>2. Visualisieren Sie nun Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</h5>
-            <br><br>
             In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
             <br><br>
             <center>
