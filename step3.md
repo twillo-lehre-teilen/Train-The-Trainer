@@ -11,8 +11,7 @@
 <div>
   <button class="accordion">1. Didaktische Planung und Strukturierung</button>
   <div class="panel">
-    <p>Didaktische Planung und Strukturierung
-      <br>
+    <p>
       Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
       <br>
       <table id="invisible">
@@ -63,11 +62,11 @@
         <div class="collPanel">
           <p>
             <b>1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt</b>
-            <br>
+            <br><br>
             Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien; planen Sie, welche Inhalte von den Teilnehmenden wann und wie erlernt werden sollen.
-            <br>
+            <br><br>
             Legen Sie zunächst die Themen der unterschiedlichen Sitzungen/Lerneinheiten fest und formulieren Sie Lernziele. Welche Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln?
-            <br>
+            <br><br>
             Überlegen Sie anschließend, wie die einzelnen Sitzungen/Einheiten jeweils gestaltet sein sollen:
             <ul style="list-style-type:disc">
               <li>Welche Formen von <b>Virtualität</b> werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
@@ -78,13 +77,14 @@
             </ul>
             <br>
             <div class="infobox">
-              <p><i class="fas fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b>
+              <p><i class="fa fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b>
                 <br><br>
                 Das Rad muss bei der Gestaltung eines Lehr-Lernsettings nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück. Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Schritt 2 und planen Sie bereits erprobte Formate, Materialarten und Aufgabenstellungen in Ihr OER-Projekt ein.
               </p>
             </div>
             <br>
             Ordnen Sie Ihre Überlegungen in tabellarischer Form. Als Beispiel können Sie die folgende Tabelle hinzuziehen:
+            <br><br>
             <table>
               <tr>
                 <th valign="middle" text-align="center">
@@ -172,7 +172,7 @@
             </table>
             <br>
             <div class="infobox">
-              <p><i class="fas fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b>
+              <p><i class="fa fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b>
                 <br><br>
                 Für digitale Lehr-Lernsettings gilt es insbesondere zu überlgenen, <b>welche</b> Inhalte und Materialien <b>wie</b> digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können.
               </p>
@@ -187,9 +187,9 @@
             </ul>
             <br>
             <b>2. Visualisieren Sie nun Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b>
-            <br>
+            <br><br>
             In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
-            <br>
+            <br><br>
             <center>
               <a aria-describedby="Vorlage Fahrplan Advance Organizer - PowerPoint Download" href="documents/Vorlage Fahrplan Advance Organizer.pptx">Arbeitsblatt Selbstreflexion</a>
             </center>
