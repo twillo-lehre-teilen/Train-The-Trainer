@@ -9,7 +9,7 @@
 </div>
 
 <div>
-  <button class="accordion">1. Fahrplan erstellen</button>
+  <button class="accordion">1. Didaktische Planung und Strukturierung</button>
   <div class="panel">
     <p>Didaktische Planung und Strukturierung
       <br>
@@ -62,57 +62,135 @@
         <button class="collapsible"><b>How To</b></button>
         <div class="collPanel">
           <p>
-            <ol type="1">
-              <li>Entwickeln Sie einen Fahrplan für Ihr OER-Projekt /Kurs</li>
-                <ol type="a">
-                  <li>Was wollen Sie erstellen?<br><br>Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien, legen Sie fest, welche Inhalte vermittelt werden sollen. Welcher Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln. Skizzieren Sie tabellarisch, wie die einzelnen Inhaltseinheiten angeboten werden sollen.<br>
-                    <table>
-                      <tr>
-                        <td valign="middle" text-align="left">
-                          Sitzung
-                        </td>
-                        <td valign="middle" text-align="left">
-                          Lernziel
-                        </td>
-                        <td valign="middle" text-align="left">
-                          Thema/Inhalte
-                        </td>
-                        <td valign="middle" text-align="left">
-                          Methode
-                        </td>
-                        <td valign="middle" text-align="left">
-                          Material/Medien
-                        </td>
-                        <td valign="middle" text-align="left">
-                          Lernüberprüfung
-                        </td>
-                      </tr>
-                    </table>
-                  </li>
-                  <li> Wie sollen die Lehr-Lernszenarien jeweils gestaltet sein?<br>
-                    <ul style="list-style-type:disc">
-                      <li>Welche Formen von Virtualität werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
-                      <li>Bestehen unterschiedliche Grade der Synchronizität in den jeweiligen Phasen (synchrone Webinare, asynchrone Selbstlernphasen)?</li>
-                      <li>In welchen Sozialformen finden die Szenarien statt (Plenum, Gruppe, Einzelarbeit)?</li>
-                      <li>Welche Methoden (Diskussion, Think-Pair-Share, Gruppenpuzzle) und Materialien (Video, Präsentation, Interaktive Elemente wie etwa Chats/Foren) sollen zum Einsatz kommen?</li>
-                    </ul>
-                    <br>
-                    <b>Interessante Beispiele und Ideen für digitale Szenarien</b> finden Sie in diesen Quellen:
-                    <br>
-                    <ul style="list-style-type:disc">
-                      <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.): <a aria-describedby="Link zur Quelle" href="https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/" target="_blank">E-Learning</a></li>
-                      <li>Universität Hamburg (2021): <a aria-describedby="Link zur Quelle" href="https://www.uni-hamburg.de/elearning/methoden.html" target="_blank">E-Learning Methoden </a></li>
-                      <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
-                    </ul>
-                  </li>
-                </ol>
-              </li>
-              <li>Visualisieren Sie Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b><br>
-                In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
-                <br>
-                [Platzhalter pptx]
-              </li>
-            </ol>
+            <b>1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt</b>
+            <br>
+            Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien; planen Sie, welche Inhalte von den Teilnehmenden wann und wie erlernt werden sollen.
+            <br>
+            Legen Sie zunächst die Themen der unterschiedlichen Sitzungen/Lerneinheiten fest und formulieren Sie Lernziele. Welche Aspekte machen das Kernwissen aus? Welcher Teil eignet sich um in das Thema einzuführen und welche Inhalte sind für Vertiefungen oder als Exkurse zu behandeln?
+            <br>
+            Überlegen Sie anschließend, wie die einzelnen Sitzungen/Einheiten jeweils gestaltet sein sollen:
+            <ul style="list-style-type:disc">
+              <li>Welche Formen von <b>Virtualität</b> werden in einzelnen Phasen gewählt (Präsenzveranstaltung, virtuelle Veranstaltung, e-Learning)?</li>
+              <li>Bestehen unterschiedliche Grade der <b>Synchronizität</b> in den jeweiligen Phasen (synchrone Webinare, asynchrone Selbstlernphasen)?</li>
+              <li>Welche <b>Methoden</b> (Diskussion, Think-Pair-Share, Gruppenpuzzle) sollen zum Einsatz kommen? Wie kann eine <b>Lernüberprüfung/Ergebnissicherung</b> gestaltet sein?</li>
+              <li>In welchen <b>Sozialformen</b> finden die einzelnen Szenarien statt (Plenum, Gruppe, Einzelarbeit)?</li>
+              <li>Welche <b>Materialien</b> (Video, Präsentation, Podcast, Arbeitsblatt, Skipt) und/oder <b>Medien</b> sollen in den einzelnen Szenarien zum Einsatz kommen?</li>
+            </ul>
+            <br>
+            <div class="infobox">
+              <p><i class="fas fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b>
+                <br><br>
+                Das Rad muss bei der Gestaltung eines Lehr-Lernsettings nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück. Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Schritt 2 und planen Sie bereits erprobte Formate, Materialarten und Aufgabenstellungen in Ihr OER-Projekt ein.
+              </p>
+            </div>
+            <br>
+            Ordnen Sie Ihre Überlegungen in tabellarischer Form. Als Beispiel können Sie die folgende Tabelle hinzuziehen:
+            <table>
+              <tr>
+                <th valign="middle" text-align="center">
+                  Sitzung/Einheit
+                </th>
+                <th valign="middle" text-align="center">
+                  Thema/Inhalt
+                </th>
+                <th valign="middle" text-align="center">
+                  Lernziel
+                </th>
+                <th valign="middle" text-align="center">
+                  Virtualität
+                </th>
+                <th valign="middle" text-align="center">
+                  Methode
+                </th>
+                <th valign="middle" text-align="center">
+                  Lernüberprüfung/Ergebnissicherung
+                </th>
+                <th valign="middle" text-align="center">
+                  Material
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  Kick-Off
+                </td>
+                <td>
+                  <ul>
+                    <li>Definition von OER</li>
+                  </ul>
+                </td>
+                <td>
+                  TN lernen die grundlegenden Merkmale von OER
+                </td>
+                <td>
+                  Webinar
+                </td>
+                <td>
+                  <ul>
+                    <li>Brainstorming</li>
+                    <li>Karikatur-Analyse (in Kleingruppen)
+                  </ul>
+                </td>
+                <td>
+                  <ul>
+                    <li>Ergebnisdiskussion im Plenum<li>
+                  </ul>
+                </td>
+                <td>
+                  <ul>
+                    <li>Präsentation</li>
+                    <li>Skript</li>
+                    <li>Arbeitsblatt Karikatur-Analyse</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  OER erkennen
+                </td>
+                <td>
+                  <ul>
+                    <li>offene Lizenzierung</li>
+                    <li>Grundlagen des Urheberrechts</li>
+                  </ul>
+                </td>
+                <td>
+                  TN können OER eindeutig von geschlossenen Bildungsmaterialien abgrenzen
+                </td>
+                <td>
+                  asynchrone Selbstlerneinheit
+                </td>
+                <td>
+                  ...
+                </td>
+                <td>
+                  ...
+                </td>
+                <td>
+                  ...
+                </td>
+              </tr>
+            </table>
+            <br>
+            <div class="infobox">
+              <p><i class="fas fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b>
+                <br><br>
+                Für digitale Lehr-Lernsettings gilt es insbesondere zu überlgenen, <b>welche</b> Inhalte und Materialien <b>wie</b> digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können.
+              </p>
+            </div>
+            <br>
+            <b>Interessante Beispiele und Ideen für digitale Szenarien</b> finden Sie in diesen Quellen:
+            <br>
+            <ul style="list-style-type:disc">
+              <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.): <a aria-describedby="Link zur Quelle" href="https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/" target="_blank">E-Learning</a></li>
+              <li>Universität Hamburg (2021): <a aria-describedby="Link zur Quelle" href="https://www.uni-hamburg.de/elearning/methoden.html" target="_blank">E-Learning Methoden </a></li>
+              <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
+            </ul>
+            <br>
+            <b>2. Visualisieren Sie nun Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b>
+            <br>
+            In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
+            <br>
+            [Platzhalter pptx]
           </p>
         </div>
       </div>
