@@ -209,9 +209,8 @@
       </ul>
       <br>
       <div class="infobox">
-        <p><i class="fas fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b>
-          <br><br>
-          Für die Überführung von Materialien in OER finden Sie hier zwei Unterstützungstools:
+        <p><i class="fa fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b> Für die Überführung von Materialien in OER finden Sie hier zwei Unterstützungstools:
+          <br>
           <ol>
             <li>Bei der Planung von <b>kleinteiligen Lehrmaterialien</b> kann die OER-Planungshilfe verwendet werden. Ein Instrument, das Ihnen in wenigen Schritten einen Leitfaden generiert.</li>
             <li>Bei der Erstellung von Kursen bzw. Einheiten können Sie die Vorlage mooc-canvas von Sandra Schön und Martin Ebner (lizenziert unter CC BY 4.0) zu Rate ziehen</li>
