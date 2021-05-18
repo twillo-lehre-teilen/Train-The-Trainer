@@ -61,7 +61,7 @@
         <button class="collapsible"><b>How To</b></button>
         <div class="collPanel">
           <p>
-            <b>1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt</b>
+            ##### 1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt
             <br><br>
             Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien; planen Sie, welche Inhalte von den Teilnehmenden wann und wie erlernt werden sollen.
             <br><br>
@@ -178,7 +178,7 @@
               </p>
             </div>
             <br>
-            <b>Interessante Beispiele und Ideen für digitale Szenarien</b> finden Sie in diesen Quellen:
+            Interessante Beispiele und Ideen für digitale Szenarien finden Sie z.B. in folgenden Quellen:
             <br>
             <ul style="list-style-type:disc">
               <li>Hochschuldidaktik der Ruhr-Universität Bochum (o.J.): <a aria-describedby="Link zur Quelle" href="https://dbs-lin.ruhr-uni-bochum.de/lehreladen/e-learning-technik-in-der-lehre/" target="_blank">E-Learning</a></li>
@@ -186,7 +186,7 @@
               <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
             </ul>
             <br>
-            <b>2. Visualisieren Sie nun Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b>
+            ##### 2. Visualisieren Sie nun Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)
             <br><br>
             In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
             <br><br>
@@ -218,6 +218,7 @@
         </p>
       </div>
       ---
+      
       <b>How To</b><br>
       <ul style="list-style-type:disc">
         <li>Hierfür können Sie bei bereits bestehenden Kursen ansetzen, indem Sie erprobte Formate, Materialarten und Aufgabenstellungen identifizieren und diese in digitale Lehr- Lernsettings übersetzen. Es gilt zu klären, welche dieser Inhalte und Materialien wie digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können. </li>
