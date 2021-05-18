@@ -61,7 +61,7 @@
         <button class="collapsible"><b>How To</b></button>
         <div class="collPanel">
           <p>
-            ##### 1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt
+            <h5>1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt</h5>
             <br><br>
             Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien; planen Sie, welche Inhalte von den Teilnehmenden wann und wie erlernt werden sollen.
             <br><br>
@@ -186,7 +186,7 @@
               <li>Hoffmann, Sarah G/Kiehne, Björn (2016): <a aria-describedby="Link zur Quelle" href="http://Ideen für die HochschullehreEin Methodenreader" target="_blank">Ideen für die Hochschullehre - Ein Methodenreader</a></li>
             </ul>
             <br>
-            ##### 2. Visualisieren Sie nun Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)
+            <h5>2. Visualisieren Sie nun Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</h5>
             <br><br>
             In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
             <br><br>
