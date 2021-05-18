@@ -190,7 +190,9 @@
             <br>
             In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
             <br>
-            [Platzhalter pptx]
+            <center>
+              <a aria-describedby="Vorlage Fahrplan Advance Organizer - PowerPoint Download" href="documents/Vorlage Fahrplan Advance Organizer.pptx">Arbeitsblatt Selbstreflexion</a>
+            </center>
           </p>
         </div>
       </div>
