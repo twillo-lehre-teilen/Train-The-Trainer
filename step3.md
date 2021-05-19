@@ -250,58 +250,60 @@
               </td>
             </tr>
           </table>
-          <br>    
-          <div>
-            <button class="collapsible"><b>How To</b></button>
-            <div class="collPanel">
-              <p>
-                <h5>1. Eigenes Bildungsmaterial auf Fremdanteile prüfen</h5>
-                Gehen Sie Ihre Materialien gründlich durch. Prüfen Sie, welche Inhalte Ihres Materials nicht von Ihnen selbst stammen.
-                <br>
-                <ul>
-                  <li><b>Sie haben urheberrechtlich geschütztes Material verwendet?</b><br>
-                    Ist das Material im Rahmen der Zitationsreglungen eingebunden (und korrekt zitiert), kann es im Material verbleiben. Andernfalls müssen Sie die geschützten Inhalte entfernen oder ersetzen.</li>
-                  <li><b>Sie haben CC-lizenziertes Material verwendet?</b><br>
-                    Prüfen Sie die Nutzungsbedingungen und machen Sie es als fremder Inhalt kenntlich (Lizenzhinweise einfügen nach TULLU)</li>
-                  <li><b>Es sind Fremdmaterial aus Software enthalten?</b><br>
-                    Wenn Sie verwenden Designelemente oder Templates von Softwareanwendungen/Diensten verwenden, müssen Sie in den Nutzungsbedingungen prüfen, ob Sie die mit der Anwendung erstellten Materialien unter eine CC-Lizenz stellen dürfen</li>
-                </ul>
-                <br>
-                <br>
-                <i class="fas fa-lightbulb" style="color:yellow"></i> <b>Hinweis:</b> Bei der Erstellung von Materialien mit Softwareanwendungen und Diensten ist im Hinblick auf OER besondere Aufmerksamkeit geboten: Werden Elemente (z.B. Designs, Grafiken, Animationen) aus der Software/dem Dienst in einem damit erstellten Werk sichtbar, muss geprüft werden, ob das Werk unter einer CC-Lizenz gestellt werden darf. Oftmals sind die genannten Elemente Eigentum der Software-Anbieter*innen oder deren Lizenzgeber*innen und somit urheber- oder markenrechtlich geschützt. Das heißt, dass ausschließlich die jeweiligen Rechteinhaber*innen - nicht aber die Endnutzer*innen - über eine Weiterlizenzierung entscheden dürfen.
-                <br><br>
-                Als Beispiel möchten wir die Animationssoftware Powtoon heranziehen: Erstellen Sie beispielsweise ein Video mit der Software und verwenden Grafiken oder Animationen, die Ihnen über den Dienst bereitgestellt werden, so dürfen Sie Ihr Video nach dem Export nicht unter eine CC-Lizenz stellen. Die Grafiken und Animationen bleiben Eigentum des Anbieters - Ihnen ist nur die Nutzung, nicht aber die Weiterlizenzierung erlaubt.
-                <br><br>
-                Generel sollten Sie bei dem Einsatz von webbasierten Anwendungen darauf achten, dass auch die Zielgruppe für die Sie Inhalte erstellen (Quizze, Abstimmungen, Whiteboards, etc.) keine Registrierungen vornehmen müssen, um auf die Inhalte zugreifen zu können. Prüfen Sie vorab die Konditionen: Sind Registrierungen verpflichtend? Fallen Kosten an?
-                <br><br>
-                Nähere Informationen entnehmen Sie bitte den AGB der von Ihnen favorisierten Anwendung oder Dienste. Sind Sie sich bzgl. bestimmter Software unsicher, wenden Sie sich gern an <a aria-describedby="Twillo Kontakt E-Mail Adresse" href="mailto:support.oer-nds@tin.eu">support.oer-nds@tib.eu</a> - wir beraten Sie gern.
-                <br><br>
-                <h5>2. Material lizenzieren</h5>
-                Überlegen Sie, welche Lizenz zu Ihrem Werk passt. Bringen Sie einen Lizenzhinweis an Ihrem Material an. Beachten Sie dabei die Regeln zur korrekten Lizenzierung eigener Materialien. Der Lizenzhinweis <b>muss</b> mindestens eine Information zu der gewählten <b>Lizenz</b> und der <b>Lizenzversion</b> enthalten. Sollten Inhalte in Ihrem Material enthalten sein, die unter einer anderen Lizenz stehen, weisen Sie unbedingt darauf hin.
-                <br><br>
-                Ein ausführlicher Lizenzhinweis (mit <b>Lizenzicon</b>, <b>Urheber*innenangabe</b> und <b>Verlinkung des Lizenztexts</b>) erleichtert Dritten die Nachnutzung Ihrer Materialien und schafft Sicherheit. An folgendem Beispiel für einen ausführlichen Lizenzhinweis können Sie sich bei der Lizenzierung Ihrer eigenen Materialien orientieren.
-                <br><br>
-                <table class="invisible">
-                  <tr>
-                    <td width="30%">
-                      <img>
-                    </td>
-                    <td valign="middle" text-align="left" width="70%">
-                      Dieser digitale Leitfaden vom OER-Portal twillo ist - sofern nicht anders an einzelnen Inhalten angegeben - lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> 
-                    </td>
-                  </tr>
-                </table>
-                <br><br>
-                <h5>3. Ein offenes Dateiformat wählen</h5>
-                Überführen Sie Ihre Materialien zum Schluss in offene Dateiformate. Für Einzelmaterialien, die unter eine Lizenz gestellt werden, die eine Bearbeitung zulassen, sollten editierbare Dateiformate (odt, docx, pptx, etc.) gewählt werden. Um mögliche Kompatibilitätsprobleme oder Layoutfehlern entgegen zu wirken, können zusätzlich geschlossene Dateiformate (z.B. PDF) zur Verfügung gestellt werden.
-                <br><br>
-                Für die Erstellung von komplexeren Materialien im Lektions- oder Kursformat können  Systeme wie Gitlab, Github oder LiaScript verwendet werden. Hier legen Sie Projekte quelloffen an und gestalten Ihre Lektionen und Kurse webbasiert. Über eine html-Seite können sie öffentlich zugänglich gemacht werden und stehen damit zur Nachnutzung zur Verfügung.
-              </p>
-            </div>
-          </div>
         </p>
       </div>
-      
+      <br>    
+      <div>
+        <button class="collapsible"><b>How To</b></button>
+        <div class="collPanel">
+          <p>
+            <h5>1. Eigenes Bildungsmaterial auf Fremdanteile prüfen</h5>
+            Gehen Sie Ihre Materialien gründlich durch. Prüfen Sie, welche Inhalte Ihres Materials nicht von Ihnen selbst stammen.
+            <br>
+            <ul>
+              <li><b>Sie haben urheberrechtlich geschütztes Material verwendet?</b><br>
+                Ist das Material im Rahmen der Zitationsreglungen eingebunden (und korrekt zitiert), kann es im Material verbleiben. Andernfalls müssen Sie die geschützten Inhalte entfernen oder ersetzen.</li>
+              <li><b>Sie haben CC-lizenziertes Material verwendet?</b><br>
+                Prüfen Sie die Nutzungsbedingungen und machen Sie es als fremder Inhalt kenntlich (Lizenzhinweise einfügen nach TULLU)</li>
+              <li><b>Es sind Fremdmaterial aus Software enthalten?</b><br>
+                Wenn Sie verwenden Designelemente oder Templates von Softwareanwendungen/Diensten verwenden, müssen Sie in den Nutzungsbedingungen prüfen, ob Sie die mit der Anwendung erstellten Materialien unter eine CC-Lizenz stellen dürfen</li>
+            </ul>
+            <br>
+            <i class="fas fa-lightbulb" style="color:yellow"></i> <b>Hinweis:</b> Bei der Erstellung von Materialien mit Softwareanwendungen und Diensten ist im Hinblick auf OER besondere Aufmerksamkeit geboten: Werden Elemente (z.B. Designs, Grafiken, Animationen) aus der Software/dem Dienst in einem damit erstellten Werk sichtbar, muss geprüft werden, ob das Werk unter einer CC-Lizenz gestellt werden darf. Oftmals sind die genannten Elemente Eigentum der Software-Anbieter*innen oder deren Lizenzgeber*innen und somit urheber- oder markenrechtlich geschützt. Das heißt, dass ausschließlich die jeweiligen Rechteinhaber*innen - nicht aber die Endnutzer*innen - über eine Weiterlizenzierung entscheden dürfen.
+            <br><br>
+            Als Beispiel möchten wir die Animationssoftware Powtoon heranziehen: Erstellen Sie beispielsweise ein Video mit der Software und verwenden Grafiken oder Animationen, die Ihnen über den Dienst bereitgestellt werden, so dürfen Sie Ihr Video nach dem Export nicht unter eine CC-Lizenz stellen. Die Grafiken und Animationen bleiben Eigentum des Anbieters - Ihnen ist nur die Nutzung, nicht aber die Weiterlizenzierung erlaubt.
+            <br><br>
+            Generel sollten Sie bei dem Einsatz von webbasierten Anwendungen darauf achten, dass auch die Zielgruppe für die Sie Inhalte erstellen (Quizze, Abstimmungen, Whiteboards, etc.) keine Registrierungen vornehmen müssen, um auf die Inhalte zugreifen zu können. Prüfen Sie vorab die Konditionen: Sind Registrierungen verpflichtend? Fallen Kosten an?
+            <br><br>
+            Nähere Informationen entnehmen Sie bitte den AGB der von Ihnen favorisierten Anwendung oder Dienste. Sind Sie sich bzgl. bestimmter Software unsicher, wenden Sie sich gern an <a aria-describedby="Twillo Kontakt E-Mail Adresse" href="mailto:support.oer-nds@tin.eu">support.oer-nds@tib.eu</a> - wir beraten Sie gern.
+            <br><br>
+            ---
+            <h5>2. Material lizenzieren</h5>
+            Überlegen Sie, welche Lizenz zu Ihrem Werk passt. Bringen Sie einen Lizenzhinweis an Ihrem Material an. Beachten Sie dabei die Regeln zur korrekten Lizenzierung eigener Materialien. Der Lizenzhinweis <b>muss</b> mindestens eine Information zu der gewählten <b>Lizenz</b> und der <b>Lizenzversion</b> enthalten. Sollten Inhalte in Ihrem Material enthalten sein, die unter einer anderen Lizenz stehen, weisen Sie unbedingt darauf hin.
+            <br><br>
+            Ein ausführlicher Lizenzhinweis (mit <b>Lizenzicon</b>, <b>Urheber*innenangabe</b> und <b>Verlinkung des Lizenztexts</b>) erleichtert Dritten die Nachnutzung Ihrer Materialien und schafft Sicherheit. An folgendem Beispiel für einen ausführlichen Lizenzhinweis können Sie sich bei der Lizenzierung Ihrer eigenen Materialien orientieren.
+            <br><br>
+            <table class="invisible">
+              <tr>
+                <td width="20%">
+                  <img src="images/creative-commons_cc-by.svg" alt="Lizenz CC BY" title="Lizenz CC BY">
+                </td>
+                <td valign="middle" text-align="left" width="80%">
+                  Dieser digitale Leitfaden vom OER-Portal twillo ist - sofern nicht anders an einzelnen Inhalten angegeben - lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> 
+                </td>
+              </tr>
+            </table>
+            <br>
+            ---
+            <h5>3. Ein offenes Dateiformat wählen</h5>
+            Überführen Sie Ihre Materialien zum Schluss in offene Dateiformate. Für Einzelmaterialien, die unter eine Lizenz gestellt werden, die eine Bearbeitung zulassen, sollten editierbare Dateiformate (odt, docx, pptx, etc.) gewählt werden. Um mögliche Kompatibilitätsprobleme oder Layoutfehlern entgegen zu wirken, können zusätzlich geschlossene Dateiformate (z.B. PDF) zur Verfügung gestellt werden.
+            <br><br>
+            Für die Erstellung von komplexeren Materialien im Lektions- oder Kursformat können  Systeme wie Gitlab, Github oder LiaScript verwendet werden. Hier legen Sie Projekte quelloffen an und gestalten Ihre Lektionen und Kurse webbasiert. Über eine html-Seite können sie öffentlich zugänglich gemacht werden und stehen damit zur Nachnutzung zur Verfügung.
+          </p>
+        </div>
+      </div>
+    </p>
+  </div>
       ---
       
       <b>How To</b><br>
