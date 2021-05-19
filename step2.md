@@ -284,32 +284,36 @@ Die Grundlagen zum Nachlesen:
 
 <b>Ausnahmen und Sonderfälle</b>
 <div>
-   <button class="accordion">Wissenswertes zu der Lizenz <b>CC 0</b></button>
-   <div class="panel">
-     <p>Möchten Sie Material nutzen, dass CC 0 freigegeben ist, <b>müssen</b> Sie bei der Nachnutzung <b>nicht</b> darauf hinweisen, dass es sich um Fremdmaterial handelt. Im Sinne der <b>guten wissenschaftlichen Praxis sollten</b> Sie den*die Urheber*(in)nen jedoch nennen.
-     </p>
-   </div>
-   <button class="accordion">Die Besonderheiten des Lizenzmoduls <b>SA</b></button>
-   <div class="panel">
-     <p>Das Lizenzmodul <b>SA</b> (Share Alike) verweist auf die Weitergabe unter gleichen Bedingungen. Doch was bedeutet das für für die Nutzung von SA-lizenzierten Inhalten in einem eigenen Werk? Hier kommt es darauf an, ob Sie den SA-lizenzierten Inhalt lediglich <b>einbinden</b> oder ihn <b>verändern</b> möchten. Binden Sie ihn (vollständig und unverändert) ein, reicht es aus, den Inhalt als fremdes Material - entlang der TULLU-Regel - kenntlich zu machen. Bearbeiten oder verändern Sie hingegen einen SA-lizenzierten Inhalt, erstellen Sie dadurch quasi ein neues Werk. Dieses neue Werk muss dann unter die gleiche Lizenz gestellt werden, wie das Ausgangsmaterial.
-     <br><br>
-     <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Aber Achtung</b>: Bereits das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts. Nutzen Sie z.B. eine SA-lizenzierte Grafik und entfernen nur eine Beschriftung oder ein Icon, muss Ihre Bearbeitung kenntlich gemacht werden und die veränderte Grafik unter die gleiche Lizenz gesetzt werden, wie die ursprüngliche Grafik.
-     </p>
-   </div>
+  <button class="accordion">Wissenswertes zu der Lizenz <b>CC 0</b></button>
+  <div class="panel">
+    <p>
+      Möchten Sie Material nutzen, dass CC 0 freigegeben ist, <b>müssen</b> Sie bei der Nachnutzung <b>nicht</b> darauf hinweisen, dass es sich um Fremdmaterial handelt. Im Sinne der <b>guten wissenschaftlichen Praxis sollten</b> Sie den*die Urheber*(in)nen jedoch nennen.
+    </p>
+  </div>
+  <button class="accordion">Die Besonderheiten des Lizenzmoduls <b>SA</b></button>
+  <div class="panel">
+    <p>
+      Das Lizenzmodul <b>SA</b> (Share Alike) verweist auf die Weitergabe unter gleichen Bedingungen. Doch was bedeutet das für für die Nutzung von SA-lizenzierten Inhalten in einem eigenen Werk? Hier kommt es darauf an, ob Sie den SA-lizenzierten Inhalt lediglich <b>einbinden</b> oder ihn <b>verändern</b> möchten. Binden Sie ihn (vollständig und unverändert) ein, reicht es aus, den Inhalt als fremdes Material - entlang der TULLU-Regel - kenntlich zu machen. Bearbeiten oder verändern Sie hingegen einen SA-lizenzierten Inhalt, erstellen Sie dadurch quasi ein neues Werk. Dieses neue Werk muss dann unter die gleiche Lizenz gestellt werden, wie das Ausgangsmaterial.
+      <br><br>
+      <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Aber Achtung</b>: Bereits das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts. Nutzen Sie z.B. eine SA-lizenzierte Grafik und entfernen nur eine Beschriftung oder ein Icon, muss Ihre Bearbeitung kenntlich gemacht werden und die veränderte Grafik unter die gleiche Lizenz gesetzt werden, wie die ursprüngliche Grafik.
+    </p>
+  </div>
   <button class="accordion">Die Besonderheiten des Lizenzmoduls <b>ND</b></button>
-   <div class="panel">
-     <p>Bei Materialien, die unter einer Lizenz stehen, die das Modul <b>ND</b> (No Derivatives) enthält, ist es Ihnen erlaubt das Werk zu kopieren und weiterzugeben, solange dies <b>vollständig und unverändert</b> geschieht. Sie dürfen ein ND-lizenzierten Text also z.B. ausdrucken oder herunterladen und in Gänze zur Lektüre an eine Lerngruppe weitergeben. Jegliche Veränderung des Werks (auch eine Übersetzung) ist unzulässig.
-     <br><br>
-     <b><i class="fa fa-exclamation-triangle" style="color:black"></i> Aber Achtung</b>: Bereits das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts.
-     </p>
-   </div>
+  <div class="panel">
+    <p>
+      Bei Materialien, die unter einer Lizenz stehen, die das Modul <b>ND</b> (No Derivatives) enthält, ist es Ihnen erlaubt das Werk zu kopieren und weiterzugeben, solange dies <b>vollständig und unverändert</b> geschieht. Sie dürfen ein ND-lizenzierten Text also z.B. ausdrucken oder herunterladen und in Gänze zur Lektüre an eine Lerngruppe weitergeben. Jegliche Veränderung des Werks (auch eine Übersetzung) ist unzulässig.
+      <br><br>
+      <b><i class="fa fa-exclamation-triangle" style="color:black"></i> Aber Achtung</b>: Bereits das Entfernen von bestimmten Elementen gilt als Veränderung eines Inhalts.
+    </p>
+  </div>
   <button class="accordion">Besonderheiten des Lizenzmoduls <b>NC</b></button>
-   <div class="panel">
-     <p>Materialien, die unter einer Lizenz stehen, die das Modul <b>NC</b> (Non-Commercial) enthalten dürfen nicht kommerziell genutzt werden. Wichtig ist, dass sich diese Angabe <b>nicht auf die*den Nutzer*in</b>, sondern auf den <b>Zweck der Nutzung</b> bezieht.
-     <br><br>
-Werden Sie z.B. im Rahmen eines Lehrauftrags an einer staatlichen Hochschule dafür bezahlt, eine Lehrveranstaltung für Studierende eines bestimmten Studiengangs durchzuführen, dürfen Sie NC lizenziertes Material in diesem Kontext nutzen. Diese Lehrveranstaltung ist kein kommerzieller Zweck. Möchten Sie ein CC-lizenzierten Text z.B. in ein Buch integrieren und es anschließend verkaufen, ist dies mit NC lizenzierten Materialien nicht erlaubt. Auch ein Werbeflyer für eine private Hochschule oder ein Unternehmen darf keine NC-lizenzierten Materialien enthalten.
-     </p>
-   </div>
+  <div class="panel">
+    <p>
+      Materialien, die unter einer Lizenz stehen, die das Modul <b>NC</b> (Non-Commercial) enthalten dürfen nicht kommerziell genutzt werden. Wichtig ist, dass sich diese Angabe <b>nicht auf die*den Nutzer*in</b>, sondern auf den <b>Zweck der Nutzung</b> bezieht.
+      <br><br>
+      Werden Sie z.B. im Rahmen eines Lehrauftrags an einer staatlichen Hochschule dafür bezahlt, eine Lehrveranstaltung für Studierende eines bestimmten Studiengangs durchzuführen, dürfen Sie NC lizenziertes Material in diesem Kontext nutzen. Diese Lehrveranstaltung ist kein kommerzieller Zweck. Möchten Sie ein CC-lizenzierten Text z.B. in ein Buch integrieren und es anschließend verkaufen, ist dies mit NC lizenzierten Materialien nicht erlaubt. Auch ein Werbeflyer für eine private Hochschule oder ein Unternehmen darf keine NC-lizenzierten Materialien enthalten.
+    </p>
+  </div>
 </div>
 
 ## Alles klar? Überprüfen Sie Ihr Wissen zur Kenntlichmachung von OER in eigenen Werken anhand der folgenden kleinen Übung:
@@ -319,39 +323,42 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
 <iframe src="https://wordwall.net/embed/e6f68854c1574b36bcb959a6aed1b082?themeId=1&templateId=5" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 
 <div>
-   <button class="accordion"><b>Erläuterungen zu den Lösungen</b></button>
-   <div class="panel">
-     <figure style="align:middle;">
-        <img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
-     </figure>
-     <p><b>Fehlerhaft!</b>
-       <br><br>
-       In diesem Lizenzhinweis fehlt eine Angabe der <b>Lizenzversion</b>. Außerdem wurde weder ein <b>Link zu dem Lizenztext</b>, noch ein <b>Link zum Ursprungsort</b> der Grafik hinterlegt.
-     </p>
+  <button class="accordion"><b>Erläuterungen zu den Lösungen</b></button>
+  <div class="panel">
+    <figure style="align:middle;">
+      <img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
+    </figure>
+    <p>
+      <b>Fehlerhaft!</b>
+      <br><br>
+      In diesem Lizenzhinweis fehlt eine Angabe der <b>Lizenzversion</b>. Außerdem wurde weder ein <b>Link zu dem Lizenztext</b>, noch ein <b>Link zum Ursprungsort</b> der Grafik hinterlegt.
+    </p>
     <hr style="height: 2px; background-color: #0B2161; border: 0;" /> 
     <figure style="align:middle;">
-        <img src="images/richtig.svg" alt="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel" title="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel"/>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel</figcaption>
+      <img src="images/richtig.svg" alt="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel" title="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel</figcaption>
     </figure>
-     <p><b>Korrekt!</b>
-       <br><br>
-       In diesem Beispiel wurde der Lizenzhinweis korrekt gesetzt. Der <b>Titel</b> der Grafik und der <b>Urheber/Rechteinhaber</b> wurden angegeben. Ein Hinweis auf die <b>Lizenz</b> und die <b>Lizenzversion</b> wurden angegeben und <b>Links zum Lizenztext</b> sowie <b>Ursprungsort</b> gesetzt.
-       <br><br>
-       <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b> Da es sich in diesem Beispiel um die <b>Version 4.0 der CC BY Lizenz</b> handelt, bei der die <b>Angabe eines Titels optional</b> ist, wäre folgende Angabe ebenfalls möglich:
-       <br><br>
-       <b><a aria-describedby="Link zu Twillo" href="http://www.twillo.de/">Grafik</a> von twillo, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></b>
-     </p>
-   <hr style="height: 2px; background-color: #0B2161; border: 0;" /> 
-   <figure style="align:middle;">
-        <img src="images/falsch2.svg" alt="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
-     </figure>
-     <p><b>Fehlerhaft!</b>
-     <br><br>
-       In diesem Lizenzhinweis fehlt eine Angabe, um welche <b>Lizenz und Lizenzversion</b> es sich genau handelt. Außerdem fehlt ein <b>Link zu dem Lizenztext</b>.
-     </p>
-   </div>
+    <p>
+      <b>Korrekt!</b>
+      <br><br>
+      In diesem Beispiel wurde der Lizenzhinweis korrekt gesetzt. Der <b>Titel</b> der Grafik und der <b>Urheber/Rechteinhaber</b> wurden angegeben. Ein Hinweis auf die <b>Lizenz</b> und die <b>Lizenzversion</b> wurden angegeben und <b>Links zum Lizenztext</b> sowie <b>Ursprungsort</b> gesetzt.
+      <br><br>
+      <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b> Da es sich in diesem Beispiel um die <b>Version 4.0 der CC BY Lizenz</b> handelt, bei der die <b>Angabe eines Titels optional</b> ist, wäre folgende Angabe ebenfalls möglich:
+      <br><br>
+      <b><a aria-describedby="Link zu Twillo" href="http://www.twillo.de/">Grafik</a> von twillo, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></b>
+    </p>
+    <hr style="height: 2px; background-color: #0B2161; border: 0;" /> 
+    <figure style="align:middle;">
+      <img src="images/falsch2.svg" alt="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
+    </figure>
+    <p>
+      <b>Fehlerhaft!</b>
+      <br><br>
+      In diesem Lizenzhinweis fehlt eine Angabe, um welche <b>Lizenz und Lizenzversion</b> es sich genau handelt. Außerdem fehlt ein <b>Link zu dem Lizenztext</b>.
+    </p>
+  </div>
 </div>
 
 <br>
@@ -367,7 +374,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
 
 
 <script>
-  /* accordion script file */
+  /* accordion script */
   var acc = document.getElementsByClassName("accordion");
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
