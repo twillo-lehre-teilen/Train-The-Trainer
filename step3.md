@@ -406,5 +406,5 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
   for (var l = 0; l < coll.length; l++) {
     coll[l].dispatchEvent(e);
   }
-  /*document.getElementById("123").innerHTML = "Height: ";*/
+  document.getElementById("123").innerHTML = "Height: ";
 </script>
