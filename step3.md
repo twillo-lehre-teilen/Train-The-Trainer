@@ -405,6 +405,5 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
   const e = new Event("click");
   for (var l = 0; l < coll.length; l++) {
     coll[l].dispatchEvent(e);
-  }
-  document.getElementById("123").innerHTML = "Height: " +  coll[0].nextElementSibling.scrollHeight + " " + acc[0].next(".collapsible").nextElementSibling.scrollHeight;
+  };
 </script>
