@@ -160,21 +160,15 @@
   })();
 </script>
 
-<div class="quiz-frame">
-  <div class="quiz-container">
-    <div class="slide" title="praesi1">
-      <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_Kurs.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
-      </figure>
-    </div>
-    <div class="slide" title="praesi2">
-      <figure style="float:left;align:middle;">
-        <img src="images/Obstkiste_Lektion.svg" alt="Lektion" title="Lektion" width="70%" height="70%"/>
-      </figure>
-    </div>
-  </div>
-  <div style="display:block;text-align:center;">
-    <button class="quiz" id="previous">Vorherige Folie</button>
-    <button class="quiz" id="next">Nächste Folie</button>
-  </div>
+<h1>Schritt 4  OER in Systemen abbilden</h1>
+
+<div class="infobox">
+  <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
+    <br><br>
+    Im vierten Schritt werden Sie durch die wichtigsten Funktionen der offenen Anwendung <b>LiaScript</b> geführt, in der Sie Ihre OER in eine Kursstruktur bringen und bereitstellen können. Sie erfahren zudem, wie sie die in offenen Systemen befindlichen Inhalte in Lernmanagementsysteme einbetten können.
+
+Darüber hinaus werden die Vor- und Nachteile von Lernmanagementsystemen (LMS) für die Erstellung von OER beleuchtet. Zudem werden Wege aufgezeigt, wie in LMS erstellte Kurse auch öffentlich bereitgestellt werden können.
+
+Ziel dieser Einheit ist es, Ihnen vielfältige Möglichkeiten zu vermitteln,  Lektions- oder Kursstruktur mit Hilfe von Webanwendung in Form von OER bereitszustellen.
+  </p>
 </div>
