@@ -23,7 +23,7 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
   <tr>
     <td valign="middle" text-align="left" width="30%">
       <figure style="float:left;align:middle;">
-        <img src="images/Offene Lizenz.svg" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
+        <img src="images/offene_lizenz.svg" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 3: Offene Lizenz</figcaption>
       </figure></td>
     <td valign="middle" text-align="left" width="70%">
