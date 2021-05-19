@@ -192,14 +192,14 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
 
 <figure style="align:middle;">
   <img src="images/file-settings.svg " alt="Screenshot: File - Settings auswählen" title="Screenshot: File - Settings auswählen"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot: Atom Einstellungen</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 36: Screenshot der Atom Einstellungen</figcaption>
 </figure>
 
 In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie <b>liascript-preview</b> in das Suchfeld ein. Erscheint das Plugin in den Suchergebnisse, starten Sie die Installation mit einem Klick auf den Button <b>install</b>.
 
 <figure style="align:middle;">
   <img src="images/install_plugin.svg" alt="Screenshot: LiaScript Plugin installieren" title="Screenshot: LiaScript Plugin installieren"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot: LiaScript Plugin installieren</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 37: Screenshot der Installation des LiaScript-Plugins in Atom</figcaption>
 </figure>
     </p>
   </div>
@@ -208,12 +208,12 @@ In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie
     <p>Um ein neues Lernmodul anzulegen, öffnen Sie den Reiter <b>File</b> und wählen Sie <b>New file</b> aus <b>oder</b> drücken Sie die Tastenkombination Strg und N. Auf der rechten Seite der Atom Umgebung öffnet sich nun ein Eingabefeld.  Hier geben Sie eine Überschrift zu Ihrem Lernmodul ein. <b>Wichtig:</b> Da in der Anwendung mit Markdown gearbeitet werden muss, vergessen Sie bitte nicht einen Hashtag vor Ihre Überschrift zu setzen. Beispiel: <b># Mein LiaScript Kurs</b>. Speichern Sie das Dokument anschließend unter <b>File</b> und <b>Save</b> oder durch die Tastenkombination <b>Strg und S</b>. Es öffnet sich ein Fenster mit dem Sie einen Dateinamen bestimmen und einen Speicheroft für das Dokument auswählen können.
     <figure style="align:middle;">
       <img src="images/New_file.svg" alt="Screenshot: Neues Dokument in Atom erstellen" title="Screenshot: Neues Dokument in Atom erstellen"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot: Neues Dokument in Atom erstellen</figcaption>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 38: Screenshot Erstellung eines Dokuments in Atom</figcaption>
     </figure>
       Aktivieren Sie nun das LiaScript Plugin. Wählen Sie unter <b>Packages</b> im Kopfmenü den Reiter <b>liascript-preview</b> und dann <b>Toggle</b>. Rehts neben dem Eingabefeld erscheint nun eine Vorschau Ihres Kurses. Bei jedem Speichern (<b>File</b> und <b>Save</b> im Kopfmenü oder Tastenkombination Strg und S) aktualisiert sich die Vorschau automatisch. Um die Ansicht zu vergrößern, können Sie die <b>Welcome-Registerkarte</b> schließen.
     <figure style="align:middle;">
       <img src="images/Atom_Preview.svg" alt="Screenshot: LiaScript Preview aktivieren" title="Screenshot: LiaScript Preview aktivieren"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot: LiaScript Vorschau in Atom aktivieren</figcaption>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 39: Screenshot LiaScript Vorschau in Atom</figcaption>
     </figure>
     </p>
   </div>
