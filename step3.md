@@ -385,7 +385,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
           p.style.maxHeight = null;
         }
         this.classList.toggle('activeA', true);
-        panel.style.maxHeight = (panel.scrollHeight) + "px";
+        panel.style.maxHeight = (panel.scrollHeight + coll[0].scrollHeight) + "px";
       }
     });
   }
@@ -406,5 +406,5 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
   for (var l = 0; l < coll.length; l++) {
     coll[l].dispatchEvent(e);
   }
-  document.getElementById("123").innerHTML = "Height: " +  coll[0].scrollHeight;
+  document.getElementById("123").innerHTML = "Height: " +  coll[0].nextElementSibling..scrollHeight;
 </script>
