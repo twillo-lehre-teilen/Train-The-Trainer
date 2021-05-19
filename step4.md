@@ -233,4 +233,8 @@ Zuallererst müssen Sie sich dafür einen GitHub Account erstellen. Besuchen Sie
       Zum Abschluss müssen Sie nun lediglich noch Ihre E-Mail-Adresse verifizieren. Dafür erhalten Sie eine E-Mail von GitHub mit dem Betreff "[GitHub] Please verify your email address.". Dort klicken Sie auf den Button "Verify email address", um ihr E-Mail Adresse zu bestätigen und ihren GitHub-Account zu aktivieren.
   </p>
   </div>
+  <button class="accordion">Atom mit Git verknüpfen</button>
+  <div class="panel">
+  <p>Das Git-Package ist in Atom vorinstalliert, sodass es einfach direkt über den Reiter packages → <b>GitHub</b> → <b>Toggle GitHub</b> / <b>Toggle Git</b> ausgewählt werden kann. Wählen Sie zunächst <b>Toggle GitHub</b> aus.</p>
+  </div>
 </div>
