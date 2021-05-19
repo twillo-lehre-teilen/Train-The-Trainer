@@ -379,10 +379,13 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
         this.classList.toggle('activeA', false);
         panel.style.maxHeight = null;
       } else {
-        for (var j = 0 ; j < acc.length; j++) {
+        for (var j = 0; j < acc.length; j++) {
           acc[j].classList.toggle('activeA', false);
           var p = acc[j].nextElementSibling;
           p.style.maxHeight = null;
+        }
+        for (var k = 0; k < coll.length; k++) {
+          coll[k].nextElementSibling.style.maxHeight = null;                                
         }
         this.classList.toggle('activeA', true);
         panel.style.maxHeight = (panel.scrollHeight + maxCollHeight) + "px";
@@ -390,11 +393,11 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
     });
   }
   /* collapsible script */
-  for (var k = 0; k < coll.length; k++) {
-    if (coll[k].nextElementSibling.scrollHeight > maxCollHeight){
-      maxCollHeight = coll[k].nextElementSibling.scrollHeight;
+  for (var l = 0; k < coll.length; k++) {
+    if (coll[l].nextElementSibling.scrollHeight > maxCollHeight){
+      maxCollHeight = coll[l].nextElementSibling.scrollHeight;
     }
-    coll[k].addEventListener("click", function() {
+    coll[l].addEventListener("click", function() {
       this.classList.toggle("activeC");
       var content = this.nextElementSibling;
       if (content.style.maxHeight){
