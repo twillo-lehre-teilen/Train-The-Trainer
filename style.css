@@ -892,7 +892,7 @@ pre::after {
   background-color: #FAFAFC;
   overflow: hidden;
   max-height: 0;
-  transition: max-height 0.2s ease-out;
+  transition: max-height 0.4s ease-out;
 }
 .accordion:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
@@ -929,7 +929,7 @@ pre::after {
   max-height: 0;
   overflow: hidden;
   background-color: #F0F2F6;
-  transition: max-height 0.2s ease-out;
+  transition: max-height 0.4s ease-out;
 }
 .collapsible:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
