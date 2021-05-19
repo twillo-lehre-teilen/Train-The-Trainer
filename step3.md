@@ -280,12 +280,12 @@
             <br><br>
             Ein ausführlicher Lizenzhinweis (mit <b>Lizenzicon</b>, <b>Urheber*innenangabe</b> und <b>Verlinkung des Lizenztexts</b>) erleichtert Dritten die Nachnutzung Ihrer Materialien und schafft Sicherheit. An folgendem Beispiel für einen ausführlichen Lizenzhinweis können Sie sich bei der Lizenzierung Ihrer eigenen Materialien orientieren.
             <br><br>
-            <table class="invisible">
+            <table id="invisible">
               <tr>
-                <td width="20%">
+                <td width="15%">
                   <img src="images/creative-commons_cc-by.svg" alt="Lizenz CC BY" title="Lizenz CC BY">
                 </td>
-                <td valign="middle" text-align="left" width="80%">
+                <td valign="middle" text-align="left" width="85%">
                   Dieser digitale Leitfaden vom OER-Portal twillo ist - sofern nicht anders an einzelnen Inhalten angegeben - lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> 
                 </td>
               </tr>
