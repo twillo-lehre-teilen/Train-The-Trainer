@@ -217,7 +217,7 @@
         <tr>
           <td width="20%">
             <figure>
-              <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz" width="60%" height="60%">
+              <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz" width="80%" height="80%">
               <figcaption style="text-align:center;font-size:14px;">Abb. 34: Offene Lizenz</figcaption>
             </figure>
           </td>
@@ -231,7 +231,7 @@
         <tr>
           <td width="20%">
             <figure>
-              <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat" width="60%" height="60%">
+              <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat" width="80%" height="80%">
               <figcaption style="text-align:center;font-size:14px;">Abb. 35: Offenes Dateiformat</figcaption>
             </figure>
           </td>
