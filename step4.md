@@ -188,7 +188,13 @@ Um Ihnen den Umgang mit LiaScript so leicht wie möglich zu machen, empfehlen wi
 <b>LiaScript Plugin installieren:</b><br> Öffnen Sie Atom und wählen Sie in der Menüleiste oben unter <b>File</b> den Reiter <b>Settings</b>.
 
 <figure style="align:middle;">
-  <img src="images/
-file-settings.svg " alt="Screenshot: File - Settings auswählen" title="Screenshot: File - Settings auswählen"/>
+  <img src="images/file-settings.svg " alt="Screenshot: File - Settings auswählen" title="Screenshot: File - Settings auswählen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot: Atom Einstellungen</figcaption>
+</figure>
+
+In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie <b>liascript-preview</b> in das Suchfeld ein. Erscheint das Plugin in den Suchergebnisse, starten Sie die Installation mit einem Klick auf den Button <b>install</b>.
+
+<figure style="align:middle;">
+  <img src="images/install_plugin.svg" alt="Screenshot: LiaScript Plugin installieren" title="Screenshot: LiaScript Plugin installieren"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot: LiaScript Plugin installieren</figcaption>
 </figure>
