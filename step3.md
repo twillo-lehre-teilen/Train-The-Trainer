@@ -213,16 +213,15 @@
           </ol>
         </p>
       </div>
-      <br>
       <table id="invisible">
         <tr>
-          <td width="30%">
+          <td width="20%">
             <figure>
               <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz" width="60%" height="60%">
               <figcaption style="text-align:center;font-size:14px;">Abb. 34: Offene Lizenz</figcaption>
             </figure>
           </td>
-          <td text-align="left" width="70%">
+          <td text-align="left" width="80%">
             <h5>Merkmal: Offene Lizenz</h5>
             OER sind freie Bildungsmaterialien, die mit einer offenen Lizenz versehen sind, die Dritten explizit Nutzungsrechte einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.
             <br><br>
@@ -230,13 +229,13 @@
           </td>
         </tr>
         <tr>
-          <td width="30%">
+          <td width="20%">
             <figure>
               <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat" width="60%" height="60%">
               <figcaption style="text-align:center;font-size:14px;">Abb. 35: Offenes Dateiformat</figcaption>
             </figure>
           </td>
-          <td text-align="left" width="70%">
+          <td text-align="left" width="80%">
             <h5>Merkmal Offenes Dateiformat</h5>
             <b>Die Bereitstellung des Materials in einem möglichst offenen dateiformat:</b>
             <br><br>
