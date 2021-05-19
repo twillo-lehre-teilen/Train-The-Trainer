@@ -218,13 +218,13 @@
         <p>
           <table class="invisible">
             <tr>
-              <td width="40%">
+              <td width="30%">
                 <figure>
                   <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz">
                   <figcaption style="text-align:center;font-size:14px;">Abb. 34: Offene Lizenz</figcaption>
                 </figure>
               </td>
-              <td text-align="left" width="60%">
+              <td text-align="left" width="70%">
                 <h5>Merkmal: Offene Lizenz</h5>
                 OER sind freie Bildungsmaterialien, die mit einer offenen Lizenz versehen sind, die Dritten explizit Nutzungsrechte einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.
                 <br><br>
@@ -232,13 +232,13 @@
               </td>
             </tr>
             <tr>
-              <td width="40%">
+              <td width="30%">
                 <figure>
                   <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat">
                   <figcaption style="text-align:center;font-size:14px;">Abb. 35: Offenes Dateiformat</figcaption>
                 </figure>
               </td>
-              <td text-align="left" width="60%">
+              <td text-align="left" width="70%">
                 <h5>Merkmal Offenes Dateiformat</h5>
                 <b>Die Bereitstellung des Materials in einem möglichst offenen dateiformat:</b>
                 <br><br>
@@ -279,7 +279,6 @@
             Generel sollten Sie bei dem Einsatz von webbasierten Anwendungen darauf achten, dass auch die Zielgruppe für die Sie Inhalte erstellen (Quizze, Abstimmungen, Whiteboards, etc.) keine Registrierungen vornehmen müssen, um auf die Inhalte zugreifen zu können. Prüfen Sie vorab die Konditionen: Sind Registrierungen verpflichtend? Fallen Kosten an?
             <br><br>
             Nähere Informationen entnehmen Sie bitte den AGB der von Ihnen favorisierten Anwendung oder Dienste. Sind Sie sich bzgl. bestimmter Software unsicher, wenden Sie sich gern an <a aria-describedby="Twillo Kontakt E-Mail Adresse" href="mailto:support.oer-nds@tin.eu">support.oer-nds@tib.eu</a> - wir beraten Sie gern.
-            <br><br>
             <hr>
             <h5>2. Material lizenzieren</h5>
             Überlegen Sie, welche Lizenz zu Ihrem Werk passt. Bringen Sie einen Lizenzhinweis an Ihrem Material an. Beachten Sie dabei die Regeln zur korrekten Lizenzierung eigener Materialien. Der Lizenzhinweis <b>muss</b> mindestens eine Information zu der gewählten <b>Lizenz</b> und der <b>Lizenzversion</b> enthalten. Sollten Inhalte in Ihrem Material enthalten sein, die unter einer anderen Lizenz stehen, weisen Sie unbedingt darauf hin.
@@ -296,7 +295,6 @@
                 </td>
               </tr>
             </table>
-            <br>
             <hr>
             <h5>3. Ein offenes Dateiformat wählen</h5>
             Überführen Sie Ihre Materialien zum Schluss in offene Dateiformate. Für Einzelmaterialien, die unter eine Lizenz gestellt werden, die eine Bearbeitung zulassen, sollten editierbare Dateiformate (odt, docx, pptx, etc.) gewählt werden. Um mögliche Kompatibilitätsprobleme oder Layoutfehlern entgegen zu wirken, können zusätzlich geschlossene Dateiformate (z.B. PDF) zur Verfügung gestellt werden.
