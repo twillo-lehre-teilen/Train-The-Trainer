@@ -407,5 +407,5 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
     coll[l].dispatchEvent(e);
   }
   var but = document.getElementById("123");
-  but.innerHTML = "Height: " + coll[0].scrollHeight + " " + coll[0].height();
+  but.innerHTML = "Height: " + coll[0].scrollHeight);
 </script>
