@@ -397,16 +397,11 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
     coll[k].addEventListener("click", function() {
       this.classList.toggle("activeC");
       var content = this.nextElementSibling;
-      if (content.style.display === "block"){
-        content.style.display = "none";
+      if (content.style.maxHeight){
+        content.style.maxHeight = null;
       } else {
-        content.style.display = "block";
+        content.style.maxHeight = content.scrollHeight + "px";
       }
     });
   }
-  /* manually trigger click event */
-  const e = new Event("click");
-  for (var l = 0; l < coll.length; l++) {
-    coll[l].dispatchEvent(e);
-  };
 </script>
