@@ -216,7 +216,7 @@
       <br>
       <div class="infobox">
         <p>
-          <table class="invisible">
+          <table id="invisible">
             <tr>
               <td width="30%">
                 <figure>
