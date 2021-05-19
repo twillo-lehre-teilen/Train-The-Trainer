@@ -370,6 +370,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
   /* collect all elements */
   var acc = document.getElementsByClassName("accordion");
   var coll = document.getElementsByClassName("collapsible");
+  var maxCollHeight = 1000;
   /* accordion script file */
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
@@ -385,12 +386,15 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
           p.style.maxHeight = null;
         }
         this.classList.toggle('activeA', true);
-        panel.style.maxHeight = (panel.scrollHeight + coll[1].nextElementSibling.scrollHeight) + "px";
+        panel.style.maxHeight = (panel.scrollHeight + maxCollHeight) + "px";
       }
     });
   }
   /* collapsible script */
   for (var k = 0; k < coll.length; k++) {
+    if (coll[k].nextElementSibling.scrollHeight > maxCollHeight){
+      maxCollHeight = coll[k].nextElementSibling.scrollHeight;
+    }
     coll[k].addEventListener("click", function() {
       this.classList.toggle("activeC");
       var content = this.nextElementSibling;
