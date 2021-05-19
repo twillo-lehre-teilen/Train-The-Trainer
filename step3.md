@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <button class="accordion">1. Didaktische Planung und Strukturierung</button>
+  <button class="accordion" id="button">1. Didaktische Planung und Strukturierung</button>
   <div class="panel">
     <p>
       Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahrplan behilflich sein. Überlegen Sie sich zunächst, um welche Granularität es sich bei Ihrem OER-Projekt handelt. Skizzieren Sie, was Sie konkret planen und welche Inhalte und Materialien dafür erstellt oder (neu-)aufbereitet werden müssen.
@@ -405,4 +405,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
   for (var l = 0; l < coll.length; l++) {
     coll[l].dispatchEvent(e);
   }
+  var but = document.getELementById("button");
+  var h = coll[0].height();
+  but.innerHTML = h;
 </script>
