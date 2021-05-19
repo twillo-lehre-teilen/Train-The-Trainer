@@ -219,8 +219,7 @@ Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frag
 <b>Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müssen Sie kenntlich machen, dass es sich um fremde Inhalte handelt.</b> Analog zur klassischen Zitation im wissenschaftlichen Arbeiten gibt es bei der Nachnutzung von OER bestimmte Vorgaben. In der sogenannten "TULLU-Regel" werden diese für Sie zusammengefasst.  Das folgende Video erklärt Ihnen die Regel in aller Kürze:
 
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aBM9zpuRh1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=aBM9zpuRh1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Wie nutzt man OER"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aBM9zpuRh1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Wie nutzt man OER"></iframe>
   <figcaption style="text-align:center;font-size:14px;">Video 2: <a aria-describedby="Link zum Video (YouTube)" href="https://www.youtube.com/watch?v=aBM9zpuRh1I">Wie nutzt man OER</a> von OERinForm, lizenziert unter <a aria-describedby="Link zur Seite (Creative Commons)" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY SA (4.0)</a></figcaption>
 </figure>
 
