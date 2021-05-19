@@ -390,7 +390,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
         }
         this.classList.toggle('activeA', true);
         panel.style.maxHeight = (panel.scrollHeight + maxCollHeight) + "px";
-        window.scrollTo(0, this.offset().top);
+        window.scrollTo(0, acc[0].offset().top);
       }
     });
   }
