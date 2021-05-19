@@ -217,4 +217,20 @@ In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie
     </figure>
     </p>
   </div>
+  <button class="accordion">GitHub Account erstellen</button>
+  <div class="panel">
+    <p>Um Ihren LiaScript Kurs schnell und einfach öffentlich bereitzustellen, empfehlen wir Ihnen die Plattform <b>GitHub</b>. Hier können Sie ihren erstellten Kurs <b>kostenfrei</b> ablegen, um anschließend mit LiaScript eine URL für den Kurs zu generieren.
+Zuallererst müssen Sie sich dafür einen GitHub Account erstellen. Besuchen Sie hierfür die Seite: <a aria-describedby="Link zum GitHub-Download" href="www.github.com" target="_blank">www.github.com</a> und klicken Sie oben rechts auf "<b>Sign Up</b>".
+    <figure style="align:middle;">
+      <img src="images/github_acc_1.svg" alt="Screenshot: GitHub Startseite" title="Screenshot: GitHub Startseite"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot GitHub Startseite</figcaption>
+    </figure>
+      In dem folgenden Fenster tragen Sie einen <b>Usernamen</b>, ihre <b>E-Mail</b> und ein <b>Passwort/b> ein. Mit einem Klick auf den Button "<b>Create Account</b>" erstellen Sie sich Ihren eigenen Account.
+    <figure style="align:middle;">
+      <img src="images/github_acc_2.svg" alt="Screenshot: Account anlegen" title="Screenshot: Account anlegen"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot GitHub Account anlegen</figcaption>
+    </figure>
+      Zum Abschluss müssen Sie nun lediglich noch Ihre E-Mail-Adresse verifizieren. Dafür erhalten Sie eine E-Mail von GitHub mit dem Betreff "[GitHub] Please verify your email address.". Dort klicken Sie auf den Button "Verify email address", um ihr E-Mail Adresse zu bestätigen und ihren GitHub-Account zu aktivieren.
+  </p>
+  </div>
 </div>
