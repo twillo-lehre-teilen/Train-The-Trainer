@@ -378,7 +378,6 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
       if (panel.style.maxHeight) {
         this.classList.toggle('activeA', false);
         panel.style.maxHeight = null;
-        window.scrollTo(0, 0);
       } else {
         for (var j = 0; j < acc.length; j++) {
           acc[j].classList.toggle('activeA', false);
@@ -391,7 +390,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
         }
         this.classList.toggle('activeA', true);
         panel.style.maxHeight = (panel.scrollHeight + maxCollHeight) + "px";
-        /*window.scrollTo(0, 0);*/
+        window.scrollTo(0, this.offset().top);
       }
     });
   }
