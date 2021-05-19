@@ -346,17 +346,17 @@
       <b>Lizenzicon:</b><br>
       Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. 
       <br>
-      <table>
+      <table id="normal">
         <tr>
-          <th>
+          <th width="70%">
             Für Ersteller*innen eines Materials gilt:
           </th>
-          <th>
+          <th width="30%">
             Für Nutzer*innen eines fremden Materials gilt:
           </th>
         </tr>
         <tr>
-          <td>
+          <td width="70%">
             Bei den eigenen Bildungsmaterials muss in jedem Fall die Lizenz und die Lizenzversion
             angebracht werden. Wenn die Lizenz mit dem Modul <i>Namensnennung</i> gewählt wurde, sollte zusätzlich der eigene Name (und zwar so wie er bei einer Nachnutzung mitgeführt werden soll) angegeben werden (Diese Angaben unterstützen bei der Nachnutzung Ihres Materials).
             <br>
@@ -366,7 +366,7 @@
               <li>BY <i class="fa fa-long-arrow-right"></i> Name, der angeführt werden soll</li>
             </ul>
           </td>
-          <td>
+          <td width="30%">
             Wenn Sie Materialien oder Inhalte von anderen Personen nachnutzen, halten Sie sich an die TULLU+V-Regel
             <br>
             <ul>
@@ -390,12 +390,11 @@
       Hat der*die Lizenzgeber*in vergessen, die Lizenzversion anzugeben, ist die Lizenz nicht etwa unwirksam. Sie muss vielmehr ausgelegt werden. Die Bereitstellung eines Werks unter einer Lizenz ist ein Angebot zum Abschluss eines Lizenzvertrags. Ein Angebot ist eine Willenserklärung. Willenserklärungen werden nach §§ 133, 157 BGB aus der Sicht eines objektiven Empfängers ausgelegt. Entscheidend ist, wie der Empfänger (=Lizenznehmer*in) die Erklärung unter Berücksichtigung objektiver Umstände und der Verkehrssitte verstehen darf.
       <br><br>
       <b>Lizenztext</b>
-      <ul style="margin-top:0px">
+      <ul style="padding-top:0px">
         <li>Setzt der*die Lizenzgeber*in einen Link zum Lizenztext, dann geht klar aus diesem Link hervor, welche Lizenzversion gemeint ist.</li>
       </ul>
       <br>
-      <b>Jahr der Lizenzierung</b>
-      <br><br>
+      <b>Jahr der Lizenzierung</b><br>
       Fehlt ein solcher Link, kann man objektive Umstände zur Auslegung heranziehen. Dabei könnte man <b>auf das Jahr der Lizenzierung abstellen</b>. Bei älteren Lizenzierungen liegt es nah, dass die alte Version 3.0 oder älter gemeint ist - je nachdem, welche Version in welchem Jahr galt. Bei neueren Lizenzierungen ist
       <br>
       <ul>
