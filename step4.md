@@ -210,7 +210,7 @@ In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie
       <img src="images/New_file.svg" alt="Screenshot: Neues Dokument in Atom erstellen" title="Screenshot: Neues Dokument in Atom erstellen"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot: Neues Dokument in Atom erstellen</figcaption>
     </figure>
-  Aktivieren Sie nun das LiaScript Plugin. Wählen Sie unter Packages im Kopfmenü den Reiter liascript-preview und dann Toggle. Rehts neben dem Eingabefeld erscheint nun eine Vorschau Ihres Kurses. Bei jedem Speichern (File und Save im Kopfmenü oder Tastenkombination Strg und S) aktualisiert sich die Vorschau automatisch. Um die Ansicht zu vergrößern, können Sie die Welcome-Registerkarte schließen.
+      Aktivieren Sie nun das LiaScript Plugin. Wählen Sie unter <b>Packages</b> im Kopfmenü den Reiter <b>liascript-preview</b> und dann <b>Toggle</b>. Rehts neben dem Eingabefeld erscheint nun eine Vorschau Ihres Kurses. Bei jedem Speichern (<b>File</b> und <b>Save</b> im Kopfmenü oder Tastenkombination Strg und S) aktualisiert sich die Vorschau automatisch. Um die Ansicht zu vergrößern, können Sie die <b>Welcome-Registerkarte</b> schließen.
     <figure style="align:middle;">
       <img src="images/Atom_Preview.svg" alt="Screenshot: LiaScript Preview aktivieren" title="Screenshot: LiaScript Preview aktivieren"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot: LiaScript Vorschau in Atom aktivieren</figcaption>
