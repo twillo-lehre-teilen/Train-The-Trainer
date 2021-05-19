@@ -283,7 +283,7 @@ Die Grundlagen zum Nachlesen:
 <font size="3">Tabelle TULLU+V von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font>
 
 <b>Ausnahmen und Sonderfälle</b>
-<div >
+<div>
    <button class="accordion">Wissenswertes zu der Lizenz <b>CC 0</b></button>
    <div class="panel">
      <p>Möchten Sie Material nutzen, dass CC 0 freigegeben ist, <b>müssen</b> Sie bei der Nachnutzung <b>nicht</b> darauf hinweisen, dass es sich um Fremdmaterial handelt. Im Sinne der <b>guten wissenschaftlichen Praxis sollten</b> Sie den*die Urheber*(in)nen jedoch nennen.
@@ -367,7 +367,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
 
 
 <script>
-/* accordeon script file */
+  /* accordeon script file */
   var acc = document.getElementsByClassName("accordion");
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function() {
@@ -380,7 +380,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
       }
       /* else */
       for (var j = 0; j < acc.length; j++) {
-        acc[j].classList.toggle('activeA', false)
+        acc[j].classList.toggle('activeA', false);
         var p = acc[j].nextElementSibling;
         p.style.maxHeight = null;
       }
