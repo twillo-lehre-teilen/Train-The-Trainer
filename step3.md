@@ -302,7 +302,7 @@
     </p>
   </div>
 </div>
----
+<hr>
 <h2>FAQ zu möglichen Stolpersteinen bei der Aufbereitung von OER</h2>
 
 <div>
