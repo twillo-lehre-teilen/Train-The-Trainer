@@ -214,42 +214,38 @@
         </p>
       </div>
       <br>
-      <div class="infobox">
-        <p>
-          <table id="invisible">
-            <tr>
-              <td width="30%">
-                <figure>
-                  <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz">
-                  <figcaption style="text-align:center;font-size:14px;">Abb. 34: Offene Lizenz</figcaption>
-                </figure>
-              </td>
-              <td text-align="left" width="70%">
-                <h5>Merkmal: Offene Lizenz</h5>
-                OER sind freie Bildungsmaterialien, die mit einer offenen Lizenz versehen sind, die Dritten explizit Nutzungsrechte einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.
-                <br><br>
-                Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
-              </td>
-            </tr>
-            <tr>
-              <td width="30%">
-                <figure>
-                  <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat">
-                  <figcaption style="text-align:center;font-size:14px;">Abb. 35: Offenes Dateiformat</figcaption>
-                </figure>
-              </td>
-              <td text-align="left" width="70%">
-                <h5>Merkmal Offenes Dateiformat</h5>
-                <b>Die Bereitstellung des Materials in einem möglichst offenen dateiformat:</b>
-                <br><br>
-                Neben dem Merkmal der offenen Lizenzierung, gibt es noch ein weiteres Merkmal, das hier als unspezifisch bezeichnet wird und somit grundlegend für eine einfache Handhabung im Sinne einer OER-Practices von Bedeutung ist. Unspezifisch meint hier, dass der Aspekt offenes Dateiformat nicht zwangsläufig erfüllt sein muss, um als OER zu gelten, es erleichtert jedoch mögliche Bearbeitungen und geringfügige Anpassungen an den Materialien.
-                <br><br>
-                Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere nicht erlaubt (ND), kann das Merkmal des offenen Dateiformats vernachlässigt werden.
-              </td>
-            </tr>
-          </table>
-        </p>
-      </div>
+      <table id="invisible">
+        <tr>
+          <td width="30%">
+            <figure>
+              <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz" width="60%" height="60%">
+              <figcaption style="text-align:center;font-size:14px;">Abb. 34: Offene Lizenz</figcaption>
+            </figure>
+          </td>
+          <td text-align="left" width="70%">
+            <h5>Merkmal: Offene Lizenz</h5>
+            OER sind freie Bildungsmaterialien, die mit einer offenen Lizenz versehen sind, die Dritten explizit Nutzungsrechte einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.
+            <br><br>
+            Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
+          </td>
+        </tr>
+        <tr>
+          <td width="30%">
+            <figure>
+              <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat" width="60%" height="60%">
+              <figcaption style="text-align:center;font-size:14px;">Abb. 35: Offenes Dateiformat</figcaption>
+            </figure>
+          </td>
+          <td text-align="left" width="70%">
+            <h5>Merkmal Offenes Dateiformat</h5>
+            <b>Die Bereitstellung des Materials in einem möglichst offenen dateiformat:</b>
+            <br><br>
+            Neben dem Merkmal der offenen Lizenzierung, gibt es noch ein weiteres Merkmal, das hier als unspezifisch bezeichnet wird und somit grundlegend für eine einfache Handhabung im Sinne einer OER-Practices von Bedeutung ist. Unspezifisch meint hier, dass der Aspekt offenes Dateiformat nicht zwangsläufig erfüllt sein muss, um als OER zu gelten, es erleichtert jedoch mögliche Bearbeitungen und geringfügige Anpassungen an den Materialien.
+            <br><br>
+            Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere nicht erlaubt (ND), kann das Merkmal des offenen Dateiformats vernachlässigt werden.
+          </td>
+        </tr>
+      </table>
       <br>    
       <div>
         <button class="collapsible"><b>How To</b></button>
