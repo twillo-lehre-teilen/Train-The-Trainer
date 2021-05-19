@@ -77,7 +77,7 @@
             </ul>
             <br>
             <div class="infobox">
-              <p><i class="fa fa-lightbulb-o fa-lg" style="color:yellow"></i>  <b>Hinweis:</b> 
+              <p><i class="fa fa-lightbulb-o fa-lg" style="color:ffea00"></i>  <b>Hinweis:</b> 
                 Das Rad muss bei der Gestaltung eines Lehr-Lernsettings nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück. Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Schritt 2 und planen Sie bereits erprobte Formate, Materialarten und Aufgabenstellungen in Ihr OER-Projekt ein.
               </p>
             </div>
