@@ -77,7 +77,7 @@
             </ul>
             <br>
             <div class="infobox">
-              <p><i class="fa fa-lightbulb-o fa-lg" style="color:ffea00"></i>  <b>Hinweis:</b> 
+              <p><i class="fa fa-lightbulb-o fa-lg"></i>  <b>Hinweis:</b> 
                 Das Rad muss bei der Gestaltung eines Lehr-Lernsettings nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück. Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Schritt 2 und planen Sie bereits erprobte Formate, Materialarten und Aufgabenstellungen in Ihr OER-Projekt ein.
               </p>
             </div>
@@ -171,7 +171,7 @@
             </table>
             <br>
             <div class="infobox">
-              <p><i class="fa fa-lightbulb-o fa-lg" style="color:yellow"></i>  <b>Hinweis:</b> 
+              <p><i class="fa fa-lightbulb-o fa-lg"></i>  <b>Hinweis:</b> 
                 Für digitale Lehr-Lernsettings gilt es insbesondere zu überlgenen, <b>welche</b> Inhalte und Materialien <b>wie</b> digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können.
               </p>
             </div>
@@ -206,7 +206,7 @@
       </ul>
       <br>
       <div class="infobox">
-        <p><i class="fa fa-lightbulb-o fa-lg" style="color:yellow"></i>  <b>Hinweis:</b> Für die Überführung von Materialien in OER finden Sie hier zwei Unterstützungstools:
+        <p><i class="fa fa-lightbulb-o fa-lg"></i>  <b>Hinweis:</b> Für die Überführung von Materialien in OER finden Sie hier zwei Unterstützungstools:
           <br>
           <ol>
             <li>Bei der Planung von <b>kleinteiligen Lehrmaterialien</b> kann die <a aria-describedby="OER PLanungshilfe" href="https://tibhannover.gitlab.io/oer/oer-wizard/html/wizard-modal.html">OER-Planungshilfe</a> verwendet werden. Ein Instrument, das Ihnen in wenigen Schritten einen Leitfaden generiert.</li>
@@ -265,7 +265,7 @@
             <br>
             <div class="infobox">
               <p>
-                <i class="fa fa-lightbulb-o" style="color:yellow"></i> <b>Hinweis:</b> 
+                <i class="fa fa-lightbulb-o"></i> <b>Hinweis:</b> 
                 Bei der Erstellung von Materialien mit Softwareanwendungen und Diensten ist im Hinblick auf OER besondere Aufmerksamkeit geboten: Werden Elemente (z.B. Designs, Grafiken, Animationen) aus der Software/dem Dienst in einem damit erstellten Werk sichtbar, muss geprüft werden, ob das Werk unter einer CC-Lizenz gestellt werden darf. Oftmals sind die genannten Elemente Eigentum der Software-Anbieter*innen oder deren Lizenzgeber*innen und somit urheber- oder markenrechtlich geschützt. Das heißt, dass ausschließlich die jeweiligen Rechteinhaber*innen - nicht aber die Endnutzer*innen - über eine Weiterlizenzierung entscheden dürfen.
               </p>
             </div>
