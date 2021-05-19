@@ -217,7 +217,7 @@
         <tr>
           <td width="20%">
             <figure>
-              <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz" width="80%" height="80%">
+              <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz" width="90%" height="90%">
               <figcaption style="text-align:center;font-size:14px;">Abb. 34: Offene Lizenz</figcaption>
             </figure>
           </td>
@@ -231,7 +231,7 @@
         <tr>
           <td width="20%">
             <figure>
-              <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat" width="80%" height="80%">
+              <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat" width="90%" height="90%">
               <figcaption style="text-align:center;font-size:14px;">Abb. 35: Offenes Dateiformat</figcaption>
             </figure>
           </td>
@@ -282,10 +282,10 @@
             <br><br>
             <table id="invisible">
               <tr>
-                <td width="15%">
+                <td width="12%">
                   <img src="images/creative-commons_cc-by.svg" alt="Lizenz CC BY" title="Lizenz CC BY">
                 </td>
-                <td valign="middle" text-align="left" width="85%">
+                <td valign="middle" text-align="left" width="88%">
                   Dieser digitale Leitfaden vom OER-Portal twillo ist - sofern nicht anders an einzelnen Inhalten angegeben - lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> 
                 </td>
               </tr>
