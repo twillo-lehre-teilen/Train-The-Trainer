@@ -348,15 +348,15 @@
       <br>
       <table id="normal">
         <tr>
-          <th width="70%">
+          <th width="60%">
             Für Ersteller*innen eines Materials gilt:
           </th>
-          <th width="30%">
+          <th width="40%">
             Für Nutzer*innen eines fremden Materials gilt:
           </th>
         </tr>
         <tr>
-          <td width="70%">
+          <td width="60%">
             Bei den eigenen Bildungsmaterials muss in jedem Fall die Lizenz und die Lizenzversion
             angebracht werden. Wenn die Lizenz mit dem Modul <i>Namensnennung</i> gewählt wurde, sollte zusätzlich der eigene Name (und zwar so wie er bei einer Nachnutzung mitgeführt werden soll) angegeben werden (Diese Angaben unterstützen bei der Nachnutzung Ihres Materials).
             <br>
@@ -366,7 +366,7 @@
               <li>BY <i class="fa fa-long-arrow-right"></i> Name, der angeführt werden soll</li>
             </ul>
           </td>
-          <td width="30%">
+          <td width="40%">
             Wenn Sie Materialien oder Inhalte von anderen Personen nachnutzen, halten Sie sich an die TULLU+V-Regel
             <br>
             <ul>
@@ -395,10 +395,8 @@
       </ul>
       <br>
       <b>Jahr der Lizenzierung</b><br>
-      Fehlt ein solcher Link, kann man objektive Umstände zur Auslegung heranziehen. Dabei könnte man <b>auf das Jahr der Lizenzierung abstellen</b>. Bei älteren Lizenzierungen liegt es nah, dass die alte Version 3.0 oder älter gemeint ist - je nachdem, welche Version in welchem Jahr galt. Bei neueren Lizenzierungen ist
-      <br>
       <ul>
-        <li>vermutlich die neue Version gewollt.</li>
+        <li>Fehlt ein solcher Link, kann man objektive Umstände zur Auslegung heranziehen. Dabei könnte man <b>auf das Jahr der Lizenzierung abstellen</b>. Bei älteren Lizenzierungen liegt es nah, dass die alte Version 3.0 oder älter gemeint ist - je nachdem, welche Version in welchem Jahr galt. Bei neueren Lizenzierungen ist vermutlich die neue Version gewollt.</li>
         <li>Es ist zu empfehlen bei der*dem <b>Lizenzgeber*in nachzufragen</b>.</li>
       </ul>
       <br>
