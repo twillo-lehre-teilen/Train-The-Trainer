@@ -300,16 +300,10 @@
       </div>
     </p>
   </div>
-      ---
-      
-      <b>How To</b><br>
-      <ul style="list-style-type:disc">
-        <li>Hierfür können Sie bei bereits bestehenden Kursen ansetzen, indem Sie erprobte Formate, Materialarten und Aufgabenstellungen identifizieren und diese in digitale Lehr- Lernsettings übersetzen. Es gilt zu klären, welche dieser Inhalte und Materialien wie digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können. </li>
-        <li>Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Modul 2</li>
-        <li>Beginnen Sie mit der Materialerstellung. Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materialien und interaktiven Inhalte (z.B. Vorbereitung eines webbasierten Whiteboard, Foruminhalte etc.) erstellt. Bevor Sie Inhalte und Materialien final fertigstellen, schauen Sie sich den nächsten Handlungspunkt "Transfer in OER Formate" an.</li>
-      </ul>
-    </p>
-  </div>
+</div>
+
+<!--
+</div>
   <button class="accordion">3. Transfer in OER Formate</button>
   <div class="panel">
     <p>Sobald die ersten Inhalte und Materialien aufbereitet sind, gilt es diese auch als OER entlang der Merkmale von OER zu finalisieren. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene eine Lizenz stellen möchten, sollten
@@ -368,7 +362,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
     </p>
   </div>
 </div>
-
+-->
 
 <script>
 /* accordion script file */
