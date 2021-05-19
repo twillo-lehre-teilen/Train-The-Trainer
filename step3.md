@@ -207,14 +207,101 @@
       </ul>
       <br>
       <div class="infobox">
-        <p><i class="fa fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b> Für die Überführung von Materialien in OER finden Sie hier zwei Unterstützungstools:
+        <p><i class="fas fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b> Für die Überführung von Materialien in OER finden Sie hier zwei Unterstützungstools:
           <br>
           <ol>
-            <li>Bei der Planung von <b>kleinteiligen Lehrmaterialien</b> kann die OER-Planungshilfe verwendet werden. Ein Instrument, das Ihnen in wenigen Schritten einen Leitfaden generiert.</li>
-            <li>Bei der Erstellung von Kursen bzw. Einheiten können Sie die Vorlage mooc-canvas von Sandra Schön und Martin Ebner (lizenziert unter CC BY 4.0) zu Rate ziehen</li>
+            <li>Bei der Planung von <b>kleinteiligen Lehrmaterialien</b> kann die <a aria-describedby="OER PLanungshilfe" href="https://tibhannover.gitlab.io/oer/oer-wizard/html/wizard-modal.html">OER-Planungshilfe</a> verwendet werden. Ein Instrument, das Ihnen in wenigen Schritten einen Leitfaden generiert.</li>
+            <li>Bei der Erstellung von Kursen bzw. Einheiten können Sie die Vorlage <a aria-describedby="Link zur Vorlage" href="https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg">mooc-canvas</a> von Sandra Schön und Martin Ebner (lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>) zu Rate ziehen</li>
           </ol>
         </p>
       </div>
+      <br>
+      <div class="infobox">
+        <p>
+          <table class="invisible">
+            <tr>
+              <td width="40%">
+                <figure>
+                  <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz">
+                  <figcaption style="text-align:center;font-size:14px;">Abb. 34: Offene Lizenz</figcaption>
+                </figure>
+              </td>
+              <td text-align="left" width="60%">
+                <h5>Merkmal: Offene Lizenz</h5>
+                OER sind freie Bildungsmaterialien, die mit einer offenen Lizenz versehen sind, die Dritten explizit Nutzungsrechte einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.
+                <br><br>
+                Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
+              </td>
+            </tr>
+            <tr>
+              <td width="40%">
+                <figure>
+                  <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat">
+                  <figcaption style="text-align:center;font-size:14px;">Abb. 35: Offenes Dateiformat</figcaption>
+                </figure>
+              </td>
+              <td text-align="left" width="60%">
+                <h5>Merkmal Offenes Dateiformat</h5>
+                <b>Die Bereitstellung des Materials in einem möglichst offenen dateiformat:</b>
+                <br><br>
+                Neben dem Merkmal der offenen Lizenzierung, gibt es noch ein weiteres Merkmal, das hier als unspezifisch bezeichnet wird und somit grundlegend für eine einfache Handhabung im Sinne einer OER-Practices von Bedeutung ist. Unspezifisch meint hier, dass der Aspekt offenes Dateiformat nicht zwangsläufig erfüllt sein muss, um als OER zu gelten, es erleichtert jedoch mögliche Bearbeitungen und geringfügige Anpassungen an den Materialien.
+                <br><br>
+                Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere nicht erlaubt (ND), kann das Merkmal des offenen Dateiformats vernachlässigt werden.
+              </td>
+            </tr>
+          </table>
+          <br>    
+          <div>
+            <button class="collapsible"><b>How To</b></button>
+            <div class="collPanel">
+              <p>
+                <h5>1. Eigenes Bildungsmaterial auf Fremdanteile prüfen</h5>
+                Gehen Sie Ihre Materialien gründlich durch. Prüfen Sie, welche Inhalte Ihres Materials nicht von Ihnen selbst stammen.
+                <br>
+                <ul>
+                  <li><b>Sie haben urheberrechtlich geschütztes Material verwendet?</b><br>
+                    Ist das Material im Rahmen der Zitationsreglungen eingebunden (und korrekt zitiert), kann es im Material verbleiben. Andernfalls müssen Sie die geschützten Inhalte entfernen oder ersetzen.</li>
+                  <li><b>Sie haben CC-lizenziertes Material verwendet?</b><br>
+                    Prüfen Sie die Nutzungsbedingungen und machen Sie es als fremder Inhalt kenntlich (Lizenzhinweise einfügen nach TULLU)</li>
+                  <li><b>Es sind Fremdmaterial aus Software enthalten?</b><br>
+                    Wenn Sie verwenden Designelemente oder Templates von Softwareanwendungen/Diensten verwenden, müssen Sie in den Nutzungsbedingungen prüfen, ob Sie die mit der Anwendung erstellten Materialien unter eine CC-Lizenz stellen dürfen</li>
+                </ul>
+                <br>
+                <br>
+                <i class="fas fa-lightbulb" style="color:yellow"></i> <b>Hinweis:</b> Bei der Erstellung von Materialien mit Softwareanwendungen und Diensten ist im Hinblick auf OER besondere Aufmerksamkeit geboten: Werden Elemente (z.B. Designs, Grafiken, Animationen) aus der Software/dem Dienst in einem damit erstellten Werk sichtbar, muss geprüft werden, ob das Werk unter einer CC-Lizenz gestellt werden darf. Oftmals sind die genannten Elemente Eigentum der Software-Anbieter*innen oder deren Lizenzgeber*innen und somit urheber- oder markenrechtlich geschützt. Das heißt, dass ausschließlich die jeweiligen Rechteinhaber*innen - nicht aber die Endnutzer*innen - über eine Weiterlizenzierung entscheden dürfen.
+                <br><br>
+                Als Beispiel möchten wir die Animationssoftware Powtoon heranziehen: Erstellen Sie beispielsweise ein Video mit der Software und verwenden Grafiken oder Animationen, die Ihnen über den Dienst bereitgestellt werden, so dürfen Sie Ihr Video nach dem Export nicht unter eine CC-Lizenz stellen. Die Grafiken und Animationen bleiben Eigentum des Anbieters - Ihnen ist nur die Nutzung, nicht aber die Weiterlizenzierung erlaubt.
+                <br><br>
+                Generel sollten Sie bei dem Einsatz von webbasierten Anwendungen darauf achten, dass auch die Zielgruppe für die Sie Inhalte erstellen (Quizze, Abstimmungen, Whiteboards, etc.) keine Registrierungen vornehmen müssen, um auf die Inhalte zugreifen zu können. Prüfen Sie vorab die Konditionen: Sind Registrierungen verpflichtend? Fallen Kosten an?
+                <br><br>
+                Nähere Informationen entnehmen Sie bitte den AGB der von Ihnen favorisierten Anwendung oder Dienste. Sind Sie sich bzgl. bestimmter Software unsicher, wenden Sie sich gern an <a aria-describedby="Twillo Kontakt E-Mail Adresse" href="mailto:support.oer-nds@tin.eu">support.oer-nds@tib.eu</a> - wir beraten Sie gern.
+                <br><br>
+                <h5>2. Material lizenzieren</h5>
+                Überlegen Sie, welche Lizenz zu Ihrem Werk passt. Bringen Sie einen Lizenzhinweis an Ihrem Material an. Beachten Sie dabei die Regeln zur korrekten Lizenzierung eigener Materialien. Der Lizenzhinweis <b>muss</b> mindestens eine Information zu der gewählten <b>Lizenz</b> und der <b>Lizenzversion</b> enthalten. Sollten Inhalte in Ihrem Material enthalten sein, die unter einer anderen Lizenz stehen, weisen Sie unbedingt darauf hin.
+                <br><br>
+                Ein ausführlicher Lizenzhinweis (mit <b>Lizenzicon</b>, <b>Urheber*innenangabe</b> und <b>Verlinkung des Lizenztexts</b>) erleichtert Dritten die Nachnutzung Ihrer Materialien und schafft Sicherheit. An folgendem Beispiel für einen ausführlichen Lizenzhinweis können Sie sich bei der Lizenzierung Ihrer eigenen Materialien orientieren.
+                <br><br>
+                <table class="invisible">
+                  <tr>
+                    <td width="30%">
+                      <img>
+                    </td>
+                    <td valign="middle" text-align="left" width="70%">
+                      Dieser digitale Leitfaden vom OER-Portal twillo ist - sofern nicht anders an einzelnen Inhalten angegeben - lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> 
+                    </td>
+                  </tr>
+                </table>
+                <br><br>
+                <h5>3. Ein offenes Dateiformat wählen</h5>
+                Überführen Sie Ihre Materialien zum Schluss in offene Dateiformate. Für Einzelmaterialien, die unter eine Lizenz gestellt werden, die eine Bearbeitung zulassen, sollten editierbare Dateiformate (odt, docx, pptx, etc.) gewählt werden. Um mögliche Kompatibilitätsprobleme oder Layoutfehlern entgegen zu wirken, können zusätzlich geschlossene Dateiformate (z.B. PDF) zur Verfügung gestellt werden.
+                <br><br>
+                Für die Erstellung von komplexeren Materialien im Lektions- oder Kursformat können  Systeme wie Gitlab, Github oder LiaScript verwendet werden. Hier legen Sie Projekte quelloffen an und gestalten Ihre Lektionen und Kurse webbasiert. Über eine html-Seite können sie öffentlich zugänglich gemacht werden und stehen damit zur Nachnutzung zur Verfügung.
+              </p>
+            </div>
+          </div>
+        </p>
+      </div>
+      
       ---
       
       <b>How To</b><br>
