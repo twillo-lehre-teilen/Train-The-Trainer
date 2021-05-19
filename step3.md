@@ -384,8 +384,8 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
           p.style.maxHeight = null;
         }
         this.classList.toggle('activeA', true);
-        panel.style.maxHeight = none;
-        /*panel.style.maxHeight = (panel.scrollHeight + coll[i].height()) + "px";*/
+        /*panel.style.maxHeight = none;*/
+        panel.style.maxHeight = (panel.scrollHeight + coll[i].height()) + "px";
       }
     });
   }
