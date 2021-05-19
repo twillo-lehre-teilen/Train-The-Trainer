@@ -5,8 +5,8 @@
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
     <br><br>
     Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten, um gezielt nach OER zu suchen. In diesem Zuge lernen Sie die wichtigsten Suchmaschinen, Portale und Repositorien für OER kennen. Zudem erhalten Sie Informationen über die Einbindung von CC-lizenzierten Inhalten in Ihre eigenen Werke und erfahren was dabei zu beachten ist. Ziel der Einheit ist es, Ihnen mehr Sicherheit bei der Nachnutzung bestehender OER zu geben.
-  <br><br>
-  <b>Workload: 45 Minuten</b>
+    <br><br>
+    <b>Workload: 45 Minuten</b>
   </p>
 </div>
 
@@ -28,7 +28,7 @@ Neben dem Kriterium des Fundortes kann, wie in der Wissenschaftspraxis auch, z.B
   <li><i class="fa fa-check-circle" style="color:green"></i> Eingabe des Suchbegriffs + <b>Creative Commons</b> oder speziell der <b>Lizenz</b> (CC 0, CC BY etc.)</li><br>
   <li><i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>englischen</b> Begriffen</li><br>
   <li><i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Lizenz, Quelle, Institution, Autor*in, Materialart, Fach- und Sachgebiet, etc.)</li><br>
-
+</ul>
 
 Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf eine zielgerichtete OER-Suche aufgeführt
 
