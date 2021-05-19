@@ -265,7 +265,7 @@
             <br>
             <div class="infobox">
               <p>
-                <i class="fa fa-lightbulb-o"></i> <b>Hinweis:</b> 
+                <i class="fa fa-lightbulb-o fa-lg"></i> <b>Hinweis:</b> 
                 Bei der Erstellung von Materialien mit Softwareanwendungen und Diensten ist im Hinblick auf OER besondere Aufmerksamkeit geboten: Werden Elemente (z.B. Designs, Grafiken, Animationen) aus der Software/dem Dienst in einem damit erstellten Werk sichtbar, muss geprüft werden, ob das Werk unter einer CC-Lizenz gestellt werden darf. Oftmals sind die genannten Elemente Eigentum der Software-Anbieter*innen oder deren Lizenzgeber*innen und somit urheber- oder markenrechtlich geschützt. Das heißt, dass ausschließlich die jeweiligen Rechteinhaber*innen - nicht aber die Endnutzer*innen - über eine Weiterlizenzierung entscheden dürfen.
               </p>
             </div>
