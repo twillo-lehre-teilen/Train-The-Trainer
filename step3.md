@@ -385,7 +385,8 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
           p.style.maxHeight = null;
         }
         for (var k = 0; k < coll.length; k++) {
-          coll[k].nextElementSibling.style.maxHeight = null;                                
+          var c = coll[k].nextElementSibling;
+          c.style.maxHeight = null;                                
         }
         this.classList.toggle('activeA', true);
         panel.style.maxHeight = (panel.scrollHeight + maxCollHeight) + "px";
@@ -393,7 +394,7 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
     });
   }
   /* collapsible script */
-  for (var l = 0; k < coll.length; k++) {
+  for (var l = 0; l < coll.length; l++) {
     if (coll[l].nextElementSibling.scrollHeight > maxCollHeight){
       maxCollHeight = coll[l].nextElementSibling.scrollHeight;
     }
