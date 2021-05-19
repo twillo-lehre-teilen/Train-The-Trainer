@@ -406,6 +406,5 @@ Haben Sie sich für eine Lizenz entschieden, die eine Bearbeitung durch andere n
     coll[l].dispatchEvent(e);
   }
   var but = document.getELementById("button");
-  var h = coll[0].height();
-  but.innerHTML = h + " " + coll[0].scrollHeight;
+  but.innerHTML = "Height: " + coll[0].scrollHeight;
 </script>
