@@ -76,8 +76,7 @@
             </ul>
             <br>
             <div class="infobox">
-              <p><i class="fa fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b>
-                <br><br>
+              <p><i class="fas fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b> 
                 Das Rad muss bei der Gestaltung eines Lehr-Lernsettings nicht immer neu erfunden werden. Vieles ist bereits erprobt und hat sich in der Lehre bewährt, greifen Sie darauf zurück. Recherchieren Sie, ob bereits offene Materialien von anderen Lehrenden vorliegen. Nutzen Sie die Suchstrategien aus Schritt 2 und planen Sie bereits erprobte Formate, Materialarten und Aufgabenstellungen in Ihr OER-Projekt ein.
               </p>
             </div>
@@ -112,29 +111,29 @@
                 <td>
                   Kick-Off
                 </td>
-                <td>
+                <td valign="top">
                   <ul>
                     <li>Definition von OER</li>
                   </ul>
                 </td>
-                <td>
+                <td valign="top">
                   TN lernen die grundlegenden Merkmale von OER
                 </td>
-                <td>
+                <td valign="top">
                   Webinar
                 </td>
-                <td>
+                <td valign="top">
                   <ul>
                     <li>Brainstorming</li>
                     <li>Karikatur-Analyse (in Kleingruppen)
                   </ul>
                 </td>
-                <td>
+                <td valign="top">
                   <ul>
                     <li>Ergebnisdiskussion im Plenum<li>
                   </ul>
                 </td>
-                <td>
+                <td valign="top">
                   <ul>
                     <li>Präsentation</li>
                     <li>Skript</li>
@@ -146,33 +145,32 @@
                 <td>
                   OER erkennen
                 </td>
-                <td>
+                <td valign="top">
                   <ul>
                     <li>offene Lizenzierung</li>
                     <li>Grundlagen des Urheberrechts</li>
                   </ul>
                 </td>
-                <td>
+                <td valign="top">
                   TN können OER eindeutig von geschlossenen Bildungsmaterialien abgrenzen
                 </td>
-                <td>
+                <td valign="top">
                   asynchrone Selbstlerneinheit
                 </td>
-                <td>
+                <td valign="top">
                   ...
                 </td>
-                <td>
+                <td valign="top">
                   ...
                 </td>
-                <td>
+                <td valign="top">
                   ...
                 </td>
               </tr>
             </table>
             <br>
             <div class="infobox">
-              <p><i class="fa fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b>
-                <br><br>
+              <p><i class="fas fa-lightbulb" style="color:yellow"></i>  <b>Hinweis:</b> 
                 Für digitale Lehr-Lernsettings gilt es insbesondere zu überlgenen, <b>welche</b> Inhalte und Materialien <b>wie</b> digitalisiert werden und in einen Kurses/eine Lektion als kleinteilige Lehrmaterialien (z.B. Präsentation, Lehrvideo oder Audio) oder aufgabenorientierte Materialien (Arbeitsaufträge, Quizze, etc.) eingebunden werden können.
               </p>
             </div>
