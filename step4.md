@@ -179,9 +179,10 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
 
 <h2>LiaScript Workflow mit Atom</h2>
 
-<b>Getting Started: Installation</b>
-<br><br>
-Um Ihnen den Umgang mit LiaScript so leicht wie möglich zu machen, empfehlen wir Ihnen den Texteditor <b>Atom</b> in Verbindung mit einem LiaScript Plugin zu nutzen. Auf diese Weise können Sie Ihre Kursstruktur auf dem Desktop erstellen, eine Vorschau ansehen und den Kurs erst dann öffentlich zugänglich machen, wenn Sie damit zufrieden sind. <br>
+<div >
+   <button class="accordion">Getting Started: Installation</button>
+   <div class="panel">
+     <p>Um Ihnen den Umgang mit LiaScript so leicht wie möglich zu machen, empfehlen wir Ihnen den Texteditor <b>Atom</b> in Verbindung mit einem LiaScript Plugin zu nutzen. Auf diese Weise können Sie Ihre Kursstruktur auf dem Desktop erstellen, eine Vorschau ansehen und den Kurs erst dann öffentlich zugänglich machen, wenn Sie damit zufrieden sind. <br>
 
 <b>Atom installieren:</b><br> Besuchen Sie die Seite <a aria-describedby="Link zum Atom-Download" href="https://atom.io/" target="_blank">https://atom.io/</a>, laden Sie Atom herunter und führen Sie die Installation aus.<br>
 <br>
@@ -198,3 +199,6 @@ In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie
   <img src="images/install_plugin.svg" alt="Screenshot: LiaScript Plugin installieren" title="Screenshot: LiaScript Plugin installieren"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot: LiaScript Plugin installieren</figcaption>
 </figure>
+    </p>
+  </div>
+</div>
