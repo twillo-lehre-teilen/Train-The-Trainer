@@ -347,14 +347,14 @@
       Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. 
       <br>
       <table>
-        <th>
-          <td>
+        <tr>
+          <th>
             Für Ersteller*innen eines Materials gilt:
-          </td>
-          <td>
+          </th>
+          <th>
             Für Nutzer*innen eines fremden Materials gilt:
-          </td>
-        </th>
+          </th>
+        </tr>
         <tr>
           <td>
             Bei den eigenen Bildungsmaterials muss in jedem Fall die Lizenz und die Lizenzversion
@@ -390,10 +390,12 @@
       Hat der*die Lizenzgeber*in vergessen, die Lizenzversion anzugeben, ist die Lizenz nicht etwa unwirksam. Sie muss vielmehr ausgelegt werden. Die Bereitstellung eines Werks unter einer Lizenz ist ein Angebot zum Abschluss eines Lizenzvertrags. Ein Angebot ist eine Willenserklärung. Willenserklärungen werden nach §§ 133, 157 BGB aus der Sicht eines objektiven Empfängers ausgelegt. Entscheidend ist, wie der Empfänger (=Lizenznehmer*in) die Erklärung unter Berücksichtigung objektiver Umstände und der Verkehrssitte verstehen darf.
       <br><br>
       <b>Lizenztext</b>
-      <ul>
+      <ul style="margin-top:0px">
         <li>Setzt der*die Lizenzgeber*in einen Link zum Lizenztext, dann geht klar aus diesem Link hervor, welche Lizenzversion gemeint ist.</li>
       </ul>
-      <b>Jahr der Lizenzierung</b><br>
+      <br>
+      <b>Jahr der Lizenzierung</b>
+      <br><br>
       Fehlt ein solcher Link, kann man objektive Umstände zur Auslegung heranziehen. Dabei könnte man <b>auf das Jahr der Lizenzierung abstellen</b>. Bei älteren Lizenzierungen liegt es nah, dass die alte Version 3.0 oder älter gemeint ist - je nachdem, welche Version in welchem Jahr galt. Bei neueren Lizenzierungen ist
       <br>
       <ul>
@@ -404,8 +406,8 @@
       <u><b>Fall 1:</b></u> A erstellt eine Grafik und vergisst die Lizenzversion anzugeben. B übernimmt die Grafik. Was folgt rechtlich?
       <br><br>
       In diesem Fall wäre es seitens des Lizenzgebers (A) treuwidrig, den Lizenznehmer (B) in Anspruch zu nehmen (§ 242 BGB), denn er hat selbst keine Angabe zur Lizenzversion gemacht. Dem Lizenznehmer entstehen also durch die Säumnis des Lizenzgebers keine rechtlichen Nachteile.
-      <br><br>
-      <u><i>Fall 2:</i></u> A erstellt eine Grafik und gibt die Lizenzversion an. B übernimmt die Grafik und vergisst die Lizenzversion anzugeben. Was folgt rechtlich?
+      <br><br><br>
+      <u><b>Fall 2:</b></u> A erstellt eine Grafik und gibt die Lizenzversion an. B übernimmt die Grafik und vergisst die Lizenzversion anzugeben. Was folgt rechtlich?
       <br><br>
       In diesem Fall kommt der Lizenznehmer (B) seinen Pflichten aus dem Lizenzvertrag nur dann nach, wenn er einen Link zum Lizenztext setzt. Aus dem Lizenztext ist ersichtlich, welche Version gemeint ist.  Hat er dagegen keinen Link zum Lizenztext gesetzt, hat er dadurch seine Pflichten aus dem Lizenzvertrag verletzt. Er hat - nach der neuen Lizenzversion (4.0) - 30 Tage ab Kenntnis des Verstoßes Zeit, seinen Verstoß zu beheben. Nach Ablauf dieser Zeit entfällt die Lizenz automatisch. Entfernt der Lizenznehmer das - nunmehr geschlossen (alle Rechte vorbehalten) geschütztes - Werk dann nicht umgehend aus dem Internet, kann er vom Lizenzgeber abgemahnt und auf Unterlassung verklagt werden. 
     </p>
