@@ -55,11 +55,10 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
     </td>
   </tr>
 </table>
-<br>
 
-<h4>How To</h4>
+<h3>How To</h3>
 <div>
-  <button class="accordion"><b>1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt</b></button>
+  <button class="accordion">1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt</button>
   <div class="panel">
     <p>
       Ob einen Kurs, eine Lektion, Aufgaben oder kleinteilige Lehrmaterialien; planen Sie, welche Inhalte von den Teilnehmenden wann und wie erlernt werden sollen.
@@ -184,7 +183,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
       </ul>
     </p>
   </div>
-  <button class="accordion"><b>2. Visualisieren Sie nun Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</b></button>
+  <button class="accordion">2. Visualisieren Sie nun Ihr (Gesamt-)Szenario und erstellen Sie eine Übersicht für die Zielgruppe (z. B. Advance Organizer)</button>
   <div class="panel">
     <p>
       In diesem Foliensatz finden Sie eine Vorlage für Kurs- und Lektionsformate mit konkreten Beispielen.
@@ -246,8 +245,8 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
     </td>
   </tr>
 </table>
-<br>
-<h4>How To</h4>
+
+<h3>How To</h3>
 <div>
   <button class="accordion"><b>1. Eigenes Bildungsmaterial auf Fremdanteile prüfen</b></button>
   <div class="panel">
