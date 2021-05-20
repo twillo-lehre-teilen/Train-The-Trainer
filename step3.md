@@ -195,7 +195,7 @@
       </div>
     </p>
   </div>
-  <button class="accordion">2. Transfer in OER Button</button>
+  <button class="accordion">2. Transfer in OER</button>
   <div class="panel">
     <p>
       Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materialien und interaktiven Inhalte (z.B. Vorbereitung eines webbasierten Whiteboard, Foruminhalte etc.) entlang der Merkmale von OER erstellt bzw. aufbereitet. Hierfür sollten Sie drei wesentliche Aspekte beachten: Die erstellten Bildungsmaterialien, die Sie unter eine offene Lizenz stellen möchten, müssen
