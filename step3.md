@@ -58,8 +58,8 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
 
 <h3>How To</h3>
 <div>
-  <div>How To</div>
-  <button>How To</button>
+  <div class="accordion">How To</div>
+  <button class="accordion">How To</button>
   <button class="accordion">1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt</button>
   <div class="panel">
     <p>
