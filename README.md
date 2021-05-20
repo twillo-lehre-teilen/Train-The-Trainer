@@ -7,7 +7,7 @@ Diese <b>OER Challenge</b> soll Sie Schritt für Schritt bei der Digitalisierung
 Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroom angelegt. Zwei Webinartermine und ein Praxisworkshop dienen als Rahmung einer selbstgesteuerten, praxsorientierten E-Learning-Phase.  Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte der einzelnen Lerneinheiten des Weiterbildungsangebots.
 
 <figure>
-    <img src="images/AdvanceOrganizer_TraintheTrainer.svg" alt="Abb. 1: OER Challenge" title="Abb. 1: OER Challenge"/>
+    <img src="images/AdvanceOrganizer_TraintheTrainer.svg" alt="Abb. 1: OER Challenge" title="Abb. 1: OER Challenge" width="120%" height="120%"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 1: OER Challenge</figcaption>
 </figure>
 </center>
