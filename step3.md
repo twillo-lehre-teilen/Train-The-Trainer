@@ -248,7 +248,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
 
 <h3>How To</h3>
 <div>
-  <button class="accordion"><b>1. Eigenes Bildungsmaterial auf Fremdanteile prüfen</b></button>
+  <button class="accordion">1. Eigenes Bildungsmaterial auf Fremdanteile prüfen</button>
   <div class="panel">
     <p>
       Gehen Sie Ihre Materialien gründlich durch. Prüfen Sie, welche Inhalte Ihres Materials nicht von Ihnen selbst stammen.
