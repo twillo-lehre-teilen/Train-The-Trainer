@@ -56,9 +56,8 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   </tr>
 </table>
 
-<h3>How To</h3>
 <div>
-  <button style="background-color:#D1D8E1;color:#0A1F40;font-size:inherit;padding:18px;width:100%;text-align:left;border:none;outline:none;"><b>How To</b></button>
+  <button style="background-color:#bcc2ca;color:#0A1F40;font-size:inherit;padding:18px;width:100%;text-align:left;border:none;outline:none;"><b>How To</b></button>
   <button class="accordion">1. Entwickeln Sie einen Fahrplan für Ihr OER-Projekt</button>
   <div class="panel">
     <p>
@@ -247,8 +246,8 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
   </tr>
 </table>
 
-<h3>How To</h3>
 <div>
+  <div style="background-color:#bcc2ca;color:#0A1F40;font-size:inherit;padding:18px;width:100%;text-align:left;border:none;outline:none;"><b>How To</b></div>
   <button class="accordion">1. Eigenes Bildungsmaterial auf Fremdanteile prüfen</button>
   <div class="panel">
     <p>
