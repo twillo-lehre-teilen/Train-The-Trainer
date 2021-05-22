@@ -347,7 +347,7 @@ Hier müssten Sie, wie in Abb. 45 erkennbar, Ihre Kursdatei unter dem Reiter <b>
 
 1. <b>Fetch</b> anklicken: Um Komplikationen mit verschiedenen Versionen zu vermeiden, sollten Sie dies an dieser Stelle immer noch einmal tun.
 
-       2. Die Änderung sollte im Reiter <b>Git</b> nun bereits im Berech <b>Unstaged Changes</b> angezeigt werden. Überführen Sie alle Änderungen in den Bereich <b>Staged changes</b>, indem Sie <b>Stage all</b> anklicken.
+2. Die Änderung sollte im Reiter <b>Git</b> nun bereits im Berech <b>Unstaged Changes</b> angezeigt werden. Überführen Sie alle Änderungen in den Bereich <b>Staged changes</b>, indem Sie <b>Stage all</b> anklicken.
   <figure style="align:middle;">
     <img src="images/atom_stage3.svg" alt="Screenshot Unstaged Changes in Staged Changes überführen" title="Screenshot Unstaged Changes in Staged Changes überführen"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 54: Screenshot Unstaged Changes in Staged Changes überführen</figcaption>
@@ -373,6 +373,19 @@ Hier müssten Sie, wie in Abb. 45 erkennbar, Ihre Kursdatei unter dem Reiter <b>
     <img src="images/git_link_kopieren.svg" alt="Screenshot Kopieren des des Repository-Links" title="Screenshot Kopieren des des Repository-Links"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 57: Screenshot Kopieren des des Repository-Links</figcaption>
   </figure>
+  Besuchen Sie anschließend die LiaScript-Website: <a aria-describedby="Link zur LiaScript Seite" href="https://liascript.github.io/">https://liascript.github.io/</a>.
+
+Hier fügen Sie den kopierten Link in das Eingabefeld ein und klicken zum Abschluss auf <b>Load Course</b>. Der Kurs wird nun von LiaScript erstellt und die Kursseite sollte sich in kürze automatisch öffnen. <b>Unter der obigen URL ist der Kurs nun jederzeit aufrufbar</b>.
      </p>
+  <figure style="align:middle;">
+    <img src="images/liascript_2.svg" alt="Screenshot LiaScript Startseite" title="Screenshot LiaScript Startseite"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 58: Screenshot LiaScript Startseite</figcaption>
+  </figure>
+<b>Herzlichen Glückwunsch! Sie haben Ihren ersten eigenen Kurs erfolgreich mit LiaScript erstellt.</b>
+<i class="fa fa-lightbulb-o fa-lg">Hinweis: LiaScript hat es Ihnen angetan? Das folgende Video gibt Ihnen umfassende, weiterführende Informationen rund um die Funktionen des Dienstes
+ <figure>
+  <iframe width="560" height="315" src="https://youtu.be/-JyKxvAkAP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
+  <figcaption style="text-align:center;font-size:14px;">Video : <a aria-describedby="Link zum Video über LiaScript (YouTube)" href="https://youtu.be/-JyKxvAkAP0">Workshop LiaScrip</a> von Sebastian Zug und André Dietrich</figcaption>
+</figure>
    </div>
 </div>
