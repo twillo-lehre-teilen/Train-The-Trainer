@@ -265,18 +265,46 @@ Hier ein Beispiel, in dem eine Quizfrage (mit Hinweisen + Erklärung) nach Vorga
   </div>
   <button class="accordion">4. Verbindung zu GitHub herstellen</button>
   <div class="panel">
-    <p>Um Ihren LiaScript Kurs schnell und einfach öffentlich bereitzustellen, empfehlen wir Ihnen die Plattform <b>GitHub</b>. Hier können Sie ihren erstellten Kurs <b>kostenfrei</b> ablegen, um anschließend mit LiaScript eine URL für den Kurs zu generieren.
-Zuallererst müssen Sie sich dafür einen GitHub Account erstellen. Besuchen Sie hierfür die Seite: <a aria-describedby="Link zum GitHub-Download" href="www.github.com" target="_blank">www.github.com</a> und klicken Sie oben rechts auf "<b>Sign Up</b>".
+    <p>Bisher ist Ihr Kurs nur lokal gespeichert, liegt also auf Ihrem Computer. Um Ihren LiaScript Kurs nun auch im Internet öffentlich bereitzustellen zu können, empfehlen wir Ihnen die Plattform <b>GitHub</b>. Hier können Sie ihren erstellten Kurs <b>kostenfrei</b> ablegen, um anschließend mit LiaScript einen Link zu Ihrem Kurs zu generieren.
+      
+      <b>GitHub Anmeldung</b>
+
+Zuallererst müssen Sie sich dafür einen GitHub Account erstellen. Besuchen Sie hierfür die Seite www.github.com und klicken Sie oben rechts auf <b>Sign Up</b>.
+
+      In dem folgenden Fenster tragen Sie einen <b>Usernamen</b>, ihre <b>E-Mail</b> und ein <b>Passwort</b> ein. Mit einem Klick auf den Button <b>Create Account</b> erstellen Sie sich Ihren eigenen Account.
+
+      Zum Abschluss müssen Sie nun lediglich noch Ihre E-Mail-Adresse <b>verifizieren</b>. Dafür erhalten Sie eine E-Mail von GitHub mit dem Betreff <b>[GitHub] Please verify your email address</b>. Dort klicken Sie auf den Button <b>Verify email address</b>. Nun werden Sie auf eine Seite geführt, die die Verifizierung Ihres Accounts bestätigt.
     <figure style="align:middle;">
-      <img src="images/github_acc_1.svg" alt="Screenshot: GitHub Startseite" title="Screenshot: GitHub Startseite"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot GitHub Startseite</figcaption>
+      <img src="images/github_acc_1.svg" alt="Screenshot GitHub Verified Email Address" title="Screenshot GitHub Verified Email Address"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 43: Screenshot GitHub Verified Email Address</figcaption>
     </figure>
-      In dem folgenden Fenster tragen Sie einen <b>Usernamen</b>, ihre <b>E-Mail</b> und ein <b>Passwort/b> ein. Mit einem Klick auf den Button "<b>Create Account</b>" erstellen Sie sich Ihren eigenen Account.
-    <figure style="align:middle;">
-      <img src="images/github_acc_2.svg" alt="Screenshot: Account anlegen" title="Screenshot: Account anlegen"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. XXX: Screenshot GitHub Account anlegen</figcaption>
-    </figure>
-      Zum Abschluss müssen Sie nun lediglich noch Ihre E-Mail-Adresse verifizieren. Dafür erhalten Sie eine E-Mail von GitHub mit dem Betreff "[GitHub] Please verify your email address.". Dort klicken Sie auf den Button "Verify email address", um ihr E-Mail Adresse zu bestätigen und ihren GitHub-Account zu aktivieren.
+      
+      <b>Verknüpfung von GitHub mit Atom</b>
+
+Atom stellt ein Bindeglied zwischen LiaScript und GitHub dar. Mit einer Verbindung von Atom mit GitHUb wird Ihnen die Möglichkeit gegeben, Inhalte durch Atom in Ihren Kurs  einzubinden und über GitHub zu veröffentlichen. D.h. durch das LiaScript Plugin und die Verbindung mit GitHub wird Atom zu einem Werkzeug, mit dem Sie einerseits Ihren Kurs  gestalten können während Sie eine Vorschau erhalten und andererseits auch eine Veröffentlichung im Internet vornehmen können.
+
+Öffnen Sie Atom. Das Git-Package ist hier vorinstalliert, sodass es einfach direkt über die Reiter <b>packages → GitHub → Toggle GitHub</b> ausgewählt werden kann. Wählen Sie zunächst <b>Toggle GitHub</b> aus.
+      <figure style="align:middle;">
+        <img src="images/ScreenshotToggleGitHub.svg" alt="Screenshot der Verknüpfung von GitHub" title="Screenshot der Verknüpfung von GitHub"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 44: Screenshot der Verknüpfung von GitHub</figcaption>
+      </figure>
+      Nun öffnet sich der Reiter <b>GitHub</b>. Klicken Sie auf den angezeigten Link, um ein <b>Token</b> (also quasi einen Authentifizierungscode) zu generieren, welches ihren GitHub Account mit Atom verknüpft. Geben Sie das Token in das dafür vorgesehene Feld ein.
+      <figure style="align:middle;">
+        <img src="images/2ConnectToGitHub.svg" alt="Screenshot Generierung eines Tokens" title="Screenshot Generierung eines Tokens"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 45: Screenshot Generierung eines Tokens</figcaption>
+      </figure>
+      <figure style="align:middle;">
+        <img src="images/atom_auth.svg" alt="Screenshot Authorisieren von GitHub in Atom" title="Screenshot Authorisieren von GitHub in Atom"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 46: Screenshot Authorisieren von GitHub in Atom</figcaption>
+      </figure>
+      <figure style="align:middle;">
+        <img src="images/3GenerateToken.svg" alt="Screenshot Eingabe des GitHub-Token" title="Screenshot Eingabe des GitHub-Token"/>
+        <figcaption style="text-align:center;font-size:14px;">Abb. 47: Screenshot Eingabe des GitHub-Token</figcaption>
+      </figure>
   </p>
+  </div>
+  <button class="accordion">5. Ablageort für Ihren Kurs im Internet anlegen</button>
+  <div class="panel">
+    <p></p>
   </div>
 </div>
