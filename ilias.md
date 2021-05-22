@@ -69,9 +69,10 @@ In der Präsentationsansicht kann das Ilias-Element nun im Bereich <b>Download</
 <b>Hinweis</b>: Sollte es Ihnen nicht möglich sein, Ihre Ilias-Inhalte zur Ansicht öffentlich zu machen (s. Punkt Öffentliche Zugänglichkeit schaffen), stellt eine Exportdatei quasi "die Katze im Sack" dar. Versuchen Sie in diesem Fall unbedingt eine Möglichkeit zu finden, potentielle Nutzer*innen Ihrer Materialien darüber zu informieren, was sie in der Zip-Datei erwartet. Stellen Sie z.B. eine kurzes Video als Vorschau bereit, umschreiben Sie den Kurs detailliert und/oder arbeiten Sie mit Screenshots.
 
 <h4>Importieren von Ilias-Elementen in die eigene Ilias Umgebung</h4>
-
+<p>
 Die Integration von Ilias-Exportdateien in die eigene Ilias-Umgebung ist sehr einfach. Öffnen Sie Ihren Kurs, öffnen Sie den Reiter <b>Neues Objekt hinzufügen</b> und wählen Sie den Inhalt aus, den Sie importieren möchten. Im folgenden Fenster ermöglicht Ihnen die <b>Option 2</b> den Import.
 <figure style="float:left;align:middle;">
   <img src="images/Ilias_10.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 67: Screenshot LUH-Ilias</figcaption>
 </figure>
+</p>
