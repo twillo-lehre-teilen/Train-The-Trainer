@@ -301,6 +301,18 @@ Atom stellt ein Bindeglied zwischen LiaScript und GitHub dar. Mit einer Verbindu
   </div>
   <button class="accordion">5. Ablageort für Ihren Kurs im Internet anlegen</button>
   <div class="panel">
-    <p></p>
+  <p>In dem Reiter <b>GitHub</b> in Atom können Sie nun durch Klicken auf <b>initialize and publish on GitHub</b> ein neues Repository für ihren Kurs anlegen. Ein Repository ist der Ablageort für ihre Kursdateien auf Git im Internet.
+    <figure style="align:middle;">
+      <img src="images/CreateRepository.svg" alt="Screenshot Repository anlegen" title="Screenshot Repository anlegen"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 48: Repository anlegen</figcaption>
+    </figure></p>
+  Nach dem Anlegen des Repositorys müssen über Atom noch zwei kleine Schritte getätigt werden (<b>commit</b> und <b>push</b>), um auch Ihre Kursdatei erfolgreich im Repository abzulegen.
+
+Was hat es mit diesen Schritten auf sich? Wenn Sie in Atom an Ihrem Kurs arbeiten und die Änderungen <b>speichern</b>, änderen Sie nur das Kursdokument, das lokal auf Ihrem Computer abgelegt ist. Mit <b>commit</b> informieren Sie quasi den Dienst GitHub über die Änderungen und weisen an, dass auch Git die Änderungen übernehmen soll. Mit <b>push</b> setzen Sie die Änderungen dann öffentlich.
+
+Um die Schritte <b>commit</b> und <b>push</b> das erste mal auszuführen, wechseln Sie in Atom zunächst in den Reiter <b>Git</b> (direkt neben dem Reiter GitHub).
+
+
+Hier müssten Sie, wie in Abb. 45 erkennbar, Ihre Kursdatei unter dem Reiter <b>Unstaged Changes</b> sehen. Klicken Sie nun zuerst auf den Button <b>Stage All</b>, den Sie an der rechten Seite finden.
   </div>
 </div>
