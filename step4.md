@@ -335,4 +335,34 @@ Hier müssten Sie, wie in Abb. 45 erkennbar, Ihre Kursdatei unter dem Reiter <b>
   </figure>
   </p>
   </div>
+  <div >
+   <button class="accordion">6. Kursinhalte ändern oder weiterbearbeiten</button>
+   <div class="panel">
+     <p>Das schwierigste haben Sie geschafft! Wenn Sie ihren Kurs nun weiter bearbeiten, aktualisieren oder generell verändern wollen, können Sie dies bequem in Atom tun. Wenn Sie ihren Kurs in Atom öffnen, klicken Sie bitte jedes Mal bevor sie etwas ändern auf <b>fetch</b> (rechts unten in der Ecke). Hierdurch wird wird sichergestellt, dass Sie immer mit der neuesten Version Ihres Kurses weiterarbeiten.
+  <figure style="align:middle;">
+    <img src="images/atom_fetch.svg" alt="Screenshot Funktion Fetch" title="Screenshot Funktion Fetch"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 53: Screenshot Funktion Fetch</figcaption>
+  </figure>
+  Haben Sie eine Änderung vorgenommen und gespeichert, wird Ihnen diese zunächst in der LiaScript-Vorschau angezeigt. Sind sie zufrieden mit dem Ergebnis und möchten die Änderung in den Kurs übernehmen, müssen Sie erneut die Schritte <b>commit</b> und <b>push</b> ausführen. Gehen Sie hierbei wie folgt vor:
+
+1. <b>Fetch</b> anklicken: Um Komplikationen mit verschiedenen Versionen zu vermeiden, sollten Sie dies an dieser Stelle immer noch einmal tun.
+
+       2. Die Änderung sollte im Reiter <b>Git</b> nun bereits im Berech <b>Unstaged Changes</b> angezeigt werden. Überführen Sie alle Änderungen in den Bereich <b>Staged changes</b>, indem Sie <b>Stage all</b> anklicken.
+  <figure style="align:middle;">
+    <img src="images/atom_stage3.svg" alt="Screenshot Unstaged Changes in Staged Changes überführen" title="Screenshot Unstaged Changes in Staged Changes überführen"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 54: Screenshot Unstaged Changes in Staged Changes überführen</figcaption>
+  </figure>
+3. Schreiben Sie erneut einen kleinn Kommentar in das Eingabefeld, durch den Sie beschreiben, welche Äderungen Sie vorgenommen haben. Auf diese Weise behalten Sie Überblick über die Versionshistorie.
+  <figure style="align:middle;">
+    <img src="images/atom_commit.svg" alt="Screenshot beispielhafter Kommentar" title="Screenshot beispielhafter Kommentar"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 55: Screenshot beispielhafter Kommentar</figcaption>
+  </figure>
+4. Klicken Sie auf <b>Commit</b> und dann auf <b>Push</b>.
+  <figure style="align:middle;">
+    <img src="images/atom_push2.svg" alt="Screenshot der Reiter Commit und Push" title="Screenshot der Reiter Commit und Push"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 56: Screenshot der Reiter Commit und Push</figcaption>
+  </figure>
+  <b>Hurra! Ihre Änderungen wurden in Ihr Repository übernommen!</b>
+     </p>
+  </div>
 </div>
