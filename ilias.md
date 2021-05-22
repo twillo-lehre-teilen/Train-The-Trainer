@@ -22,7 +22,7 @@ Im Präsentationsmodus sind die Metadaten und der Lizenzvermerk nun unter dem Re
     <img src="images/Ilias_4.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 62: Screenshot LUH-Ilias</figcaption>
   </figure>
-<i class="fa fa-exclamation-triangle"> <b>Wichtig</b>: Auch wenn Sie einen Lizenzhinweis für Ihre Ilias-Inhalte gesetzt haben, sollten Sie nicht darauf verzichten, an den ggf. dort eingebundenen Einzelmaterialien (z.B. Dokumenten oder Videos) ebenfalls einen Lizenzhinweis anzubringen. Denken Sie zudem unbedingt daran, Fremdmaterialien als solche kenntlich zu machen (s. Schritt 2, Kapitel Korrekte Verwendung von OER).
+<i class="fa fa-exclamation-triangle" style="color:blue"> <b>Wichtig</b>: Auch wenn Sie einen Lizenzhinweis für Ihre Ilias-Inhalte gesetzt haben, sollten Sie nicht darauf verzichten, an den ggf. dort eingebundenen Einzelmaterialien (z.B. Dokumenten oder Videos) ebenfalls einen Lizenzhinweis anzubringen. Denken Sie zudem unbedingt daran, Fremdmaterialien als solche kenntlich zu machen (s. Schritt 2, Kapitel Korrekte Verwendung von OER).
 
 <h3>Öffentliche Zugänglichkeit schaffen</h3>
 
@@ -54,7 +54,7 @@ In der Präsentationsansicht kann das Ilias-Element nun im Bereich <b>Download</
     <img src="images/Ilias_9.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 66: Screenshot LUH-Ilias</figcaption>
   </figure>
-<i class="fa fa-exclamation-triangle"> <b>Wichtig</b>: Leider kommt es derzeit oftmals zu Kompabilitätsproblemen bei der Integration von Exportdateien eines bestimmten LMS in eine andere Umgebung. Dies ist teilweise sogar zwischen verschiedenen Versionen des gleichen LMS der Fall. Aus diesem Grund empfehlen wir Ihnen neben der Bereitstellung einer Exportdatei auch die einzelnen Inhalte (z.B. Quizfragen, Skripte, Videos, Aufgabenstellungen) Ihres Ilias-Kurses über das twillo-Portal bereit zu stellen (s. Schritt 5).
+<i class="fa fa-exclamation-triangle" style="color:blue"> <b>Wichtig</b>: Leider kommt es derzeit oftmals zu Kompabilitätsproblemen bei der Integration von Exportdateien eines bestimmten LMS in eine andere Umgebung. Dies ist teilweise sogar zwischen verschiedenen Versionen des gleichen LMS der Fall. Aus diesem Grund empfehlen wir Ihnen neben der Bereitstellung einer Exportdatei auch die einzelnen Inhalte (z.B. Quizfragen, Skripte, Videos, Aufgabenstellungen) Ihres Ilias-Kurses über das twillo-Portal bereit zu stellen (s. Schritt 5).
 <i class="fa fa-lightbulb-o fa-lg"></i> <b>Hinweis</b>: Sollte es Ihnen nicht möglich sein, Ihre Ilias-Inhalte zur Ansicht öffentlich zu machen (s. Punkt Öffentliche Zugänglichkeit schaffen), stellt eine Exportdatei quasi "die Katze im Sack" dar. Versuchen Sie in diesem Fall unbedingt eine Möglichkeit zu finden, potentielle Nutzer*innen Ihrer Materialien darüber zu informieren, was sie in der Zip-Datei erwartet. Stellen Sie z.B. eine kurzes Video als Vorschau bereit, umschreiben Sie den Kurs detailliert und/oder arbeiten Sie mit Screenshots.
 
 <h4>Importieren von Ilias-Elementen in die eigene Ilias Umgebung</h4>
