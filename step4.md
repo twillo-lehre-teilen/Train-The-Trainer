@@ -381,11 +381,12 @@ Hier fügen Sie den kopierten Link in das Eingabefeld ein und klicken zum Abschl
     <figcaption style="text-align:center;font-size:14px;">Abb. 58: Screenshot LiaScript Startseite</figcaption>
   </figure>
 <b>Herzlichen Glückwunsch! Sie haben Ihren ersten eigenen Kurs erfolgreich mit LiaScript erstellt.</b>
-<i class="fa fa-lightbulb-o fa-lg"> Hinweis: LiaScript hat es Ihnen angetan? Das folgende Video gibt Ihnen umfassende, weiterführende Informationen rund um die Funktionen des Dienstes
+
+Hinweis: LiaScript hat es Ihnen angetan? Das folgende Video gibt Ihnen umfassende, weiterführende Informationen rund um die Funktionen des Dienstes
  <figure>
-  <iframe width="560" height="315" src="https://youtu.be/-JyKxvAkAP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
+  <iframe width="560" height="415" src="https://youtu.be/-JyKxvAkAP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
   <figcaption style="text-align:center;font-size:14px;">Video : <a aria-describedby="Link zum Video über LiaScript (YouTube)" href="https://youtu.be/-JyKxvAkAP0">Workshop LiaScrip</a> von Sebastian Zug und André Dietrich</figcaption>
-</figure>
+ </figure>
   </p>
   </div>
 </div>
