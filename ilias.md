@@ -43,27 +43,27 @@ Um ein Ilias Element zu exportieren, öffnen Sie es und wählen Sie den Reiter <
     <img src="images/Ilias_5.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 63: Screenshot LUH-Ilias</figcaption>
   </figure>
-  
+<p>  
 Wählen Sie in dem Dropdown Menü das gewünsche Dateiformat aus und klicken Sie auf <b>Exportdatei erzeugen</b>. Nach einer kurzen Wartezeit steht Ihnen eine Zip-Datei zur Verfügung, die Sie über den Reiter <b>Download</b> abspeichern können.
-
+</p>
   <figure style="float:left;align:middle;">
     <img src="images/Ilias_7.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 64: Screenshot LUH-Ilias</figcaption>
   </figure>
-  
+<p>
 Um den direkten Download Ihrer Ilias-Inhalte für all diejenigen zu ermöglichen, die auf Ihre Ilias-Inhalte zugreifen können, setzen Sie ein <b>Häkchen</b> bei Ihrer Exportdatei und wählen Sie anschließend im Dropdownmenü die Option <b>Öffentlicher Zugriff</b>. Bestätigen Sie Ihre Auswahl mit dem Button <b>Ausführen</b>.
-
+</p>
   <figure style="float:left;align:middle;">
     <img src="images/Ilias_8.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 65: Screenshot LUH-Ilias</figcaption>
   </figure>
-  
+<p> 
 In der Präsentationsansicht kann das Ilias-Element nun im Bereich <b>Download</b> des Kopfmenüs heruntergeaden werden.
   <figure style="float:left;align:middle;">
     <img src="images/Ilias_9.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 66: Screenshot LUH-Ilias</figcaption>
   </figure>
-
+</p>
 <b>Wichtig</b>: Leider kommt es derzeit oftmals zu Kompabilitätsproblemen bei der Integration von Exportdateien eines bestimmten LMS in eine andere Umgebung. Dies ist teilweise sogar zwischen verschiedenen Versionen des gleichen LMS der Fall. Aus diesem Grund empfehlen wir Ihnen neben der Bereitstellung einer Exportdatei auch die einzelnen Inhalte (z.B. Quizfragen, Skripte, Videos, Aufgabenstellungen) Ihres Ilias-Kurses über das twillo-Portal bereit zu stellen (s. Schritt 5).
 
 <b>Hinweis</b>: Sollte es Ihnen nicht möglich sein, Ihre Ilias-Inhalte zur Ansicht öffentlich zu machen (s. Punkt Öffentliche Zugänglichkeit schaffen), stellt eine Exportdatei quasi "die Katze im Sack" dar. Versuchen Sie in diesem Fall unbedingt eine Möglichkeit zu finden, potentielle Nutzer*innen Ihrer Materialien darüber zu informieren, was sie in der Zip-Datei erwartet. Stellen Sie z.B. eine kurzes Video als Vorschau bereit, umschreiben Sie den Kurs detailliert und/oder arbeiten Sie mit Screenshots.
