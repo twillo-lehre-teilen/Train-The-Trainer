@@ -22,7 +22,7 @@ Im Präsentationsmodus sind die Metadaten und der Lizenzvermerk nun unter dem Re
     <img src="images/Ilias_4.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 62: Screenshot LUH-Ilias</figcaption>
   </figure>
-<p><i class="fa fa-exclamation-triangle"> <b>Wichtig</b>: Auch wenn Sie einen Lizenzhinweis für Ihre Ilias-Inhalte gesetzt haben, sollten Sie nicht darauf verzichten, an den ggf. dort eingebundenen Einzelmaterialien (z.B. Dokumenten oder Videos) ebenfalls einen Lizenzhinweis anzubringen. Denken Sie zudem unbedingt daran, Fremdmaterialien als solche kenntlich zu machen (s. Schritt 2, Kapitel Korrekte Verwendung von OER).</p>
+<i class="fa fa-exclamation-triangle"> <b>Wichtig</b>: Auch wenn Sie einen Lizenzhinweis für Ihre Ilias-Inhalte gesetzt haben, sollten Sie nicht darauf verzichten, an den ggf. dort eingebundenen Einzelmaterialien (z.B. Dokumenten oder Videos) ebenfalls einen Lizenzhinweis anzubringen. Denken Sie zudem unbedingt daran, Fremdmaterialien als solche kenntlich zu machen (s. Schritt 2, Kapitel Korrekte Verwendung von OER).
 
 <h3>Öffentliche Zugänglichkeit schaffen</h3>
 
