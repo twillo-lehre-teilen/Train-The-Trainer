@@ -203,7 +203,7 @@ In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie
 </figure>
     </p>
   </div>
-  <button class="accordion">2. Lernmodul (Dokument) anlegen</button>
+  <button class="accordion">2. Lernmodul (Kursdokument) anlegen</button>
   <div class="panel">
     <p>Um ein neues Lernmodul anzulegen, öffnen Sie den Reiter <b>File</b> und wählen Sie <b>New file</b> aus <b>oder</b> drücken Sie die Tastenkombination Strg und N. Auf der rechten Seite der Atom Umgebung öffnet sich nun ein Eingabefeld.  Hier geben Sie eine Überschrift zu Ihrem Lernmodul ein. <b>Wichtig:</b> Da in der Anwendung mit Markdown gearbeitet werden muss, vergessen Sie bitte nicht einen Hashtag vor Ihre Überschrift zu setzen. Beispiel: <b># Mein LiaScript Kurs</b>. Speichern Sie das Dokument anschließend unter <b>File</b> und <b>Save</b> oder durch die Tastenkombination <b>Strg und S</b>. Es öffnet sich ein Fenster mit dem Sie einen Dateinamen bestimmen und einen Speicheroft für das Dokument auswählen können.
     <figure style="align:middle;">
@@ -217,9 +217,51 @@ In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie
     </figure>
     </p>
   </div>
-  <button class="accordion">3. Inhalte in Kurs einfügen</button>
+  <button class="accordion">3. Kurs strukturieren, Inhalte einfügen</button>
   <div class="panel">
-  <p></p>
+  <p>Ist Ihr Lernmodul/Kursdokument angelegt, können Sie beginnen, Inhalte und Materialien einzufügen. Hierfür müssen Sie auf <b>Markdown</b> zurückgreifen. Sie haben noch keine Erfahrungen mit der Auszeichungssprache gesammelt? Keine Sorge! "Auszeichnungssprache" klingt schlimmer als es ist, Sie müssen hier <b>keine</b> Programmiersprache o.Ä. erlernen. Im folgenden führen wir Sie durch die Gestaltung Ihres Kurses mit Markdown - Sie werden sehen, es ist nicht schwer.
+
+    <b>Anlegen von Kapiteln:</b>
+
+Zur Strukturierung Ihres Kurses in Kapitel und Unterkapitel legen Sie Überschriften und Unterüberschriften an. In Markdown wird eine Hauptüberschrift mit einem Hashtag, eine Überschrift zweiter Ordnung mit zwei Hashtags usw. gekennzeichnet. Hier ein kleines Beispiel, wie man Überschriften hinzufügt:
+    <figure style="align:middle;">
+      <img src="images/Lia_beispiel_unterueberschrift.svg" alt="Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs" title="Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 40. Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs</figcaption>
+    </figure>
+    
+    <b>Hinzufügen und Formatieren von Texten:</b>
+
+Schreiben Sie Texte und Anweisungen einfach direkt unter die Überschrift, unter der Sie sie platzieren möchten. Die Formatierung von Texten können Sie durch Markdown-Syntax im Prinzip des Copy und Paste vornehmen. LiaScript sorgt automatisch für ein ansprechendes Layout. Speichern Sie Ihre Eingabe, so können Sie das Aussehen Ihrer Eingabe in der LiaScript Vorschau überprüfen.
+
+Hier ein paar einfache Beispiele zur Formatierung von Texten:
+    <ul style="list-style-type:disc">
+      <li>Sie möchten ein Wort fett setzen? Zeichnen Sie es wie folgt aus **Beispiel** oder __Beispiel__</li>
+      <li>Sie möchten ein Wort kursiv setzen? Zeichnen Sie es wie folgt aus: *Beispiel* oder _Beispiel_</li>
+      <li>Sie möchten einen Link einfügen? Zeichnen Sie Ihn wie folgt aus: [Linktext](Link)</li>
+      <li>Sie möchten eine Liste einfügen? Zeichnen Sie die Aufzählung wie folgt aus:</li>
+    </ul>
+    
+    <figure style="align:middle;">
+      <img src="images/Lia_beispiel_liste.svg" alt="Screenshot Anlegen einer Liste in Markdown" title="Screenshot Anlegen einer Liste in Markdown"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 41: Screenshot Anlegen einer Liste in Markdown</figcaption>
+    </figure>
+    
+    <i class="fa fa-lightbulb-o fa-lg"></i> Hinweis: Einen Überblick über die wichtigste Markdown-Syntax zum Kopieren und Einfügen finden Sie hier:
+    <ul style="list-style-type:disc">
+      <li><a aria-describedby="Link zum Markdown Cheat Sheet" href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatcheat</a> von Adam Pritchard, lizenziert unter <a aria-describedby="Link zur Quelle" href="https://creativecommons.org/licenses/by/3.0/legalcode">CC BY (3.0, unported)</a></li>
+      <li><a aria-describedby="Link zum Markdown Guide" href="https://www.markdownguide.org/">Markdown Guide</a> von Matt Cone, lizenziert unter <a aria-describedby="Link zur Quelle" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></li>
+    </ul>
+    
+    <b>Hinzufügen weiterer Elemente:</b>
+
+LiaScript ist insbesondere dafür geeignet, interaktive Lernobjekte in Ihren Kursstruktur zu integrieren. <b>Kopieren Sie die Syntax, die Sie dafür benötigen aus dem digitalen <a aria-describedby="Link zu LiaScript Handbuch" href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1">LiaScript Handbuch</a> von André Dietrich, Sebastian Zug, Karl Fessel und Steve Rehm</b>. Das Handbuch ist explizit dafür vorgesehen, Ihnen bei der Integration von Elementen in LiaScript zu helfen.
+
+Hier ein Beispiel, in dem eine Quizfrage (mit Hinweisen + Erklärung) nach Vorgave des Handbuchs erstellt werden kann.
+    <figure style="align:middle;">
+      <img src="images/Lia_beispiel_quiz.svg" alt="Screenshot Erstellung eines Quiz mit LiaScript" title="Screenshot Erstellung eines Quiz mit LiaScript"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. 42: Screenshot Erstellung eines Quiz mit LiaScript</figcaption>
+    </figure>    
+    </p>
   </div>
   <button class="accordion">4. Verbindung zu GitHub herstellen</button>
   <div class="panel">
