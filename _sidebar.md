@@ -12,6 +12,12 @@
 
 * [4: OER in Systemen abbilden](step4.md)
 
+  * [Lernmanagementsysteme und OER](lms_und_oer.md)
+
+   * [Ilias](ilias.md)
+   * [Moodle](moodle.md)
+   * [Courseware](courseware.md)
+
 * [5: OER teilen](step5.md)
 
 * [6: Reflexion](step6.md)
