@@ -43,16 +43,19 @@ Um ein Ilias Element zu exportieren, öffnen Sie es und wählen Sie den Reiter <
     <img src="images/Ilias_5.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 63: Screenshot LUH-Ilias</figcaption>
   </figure>
-  Wählen Sie in dem Dropdown Menü das gewünsche Dateiformat aus und klicken Sie auf <b>Exportdatei erzeugen</b>. Nach einer kurzen Wartezeit steht Ihnen eine Zip-Datei zur Verfügung, die Sie über den Reiter <b>Download</b> abspeichern können.
+  
+Wählen Sie in dem Dropdown Menü das gewünsche Dateiformat aus und klicken Sie auf <b>Exportdatei erzeugen</b>. Nach einer kurzen Wartezeit steht Ihnen eine Zip-Datei zur Verfügung, die Sie über den Reiter <b>Download</b> abspeichern können.
   <figure style="float:left;align:middle;">
     <img src="images/Ilias_7.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 64: Screenshot LUH-Ilias</figcaption>
   </figure>
+  
 Um den direkten Download Ihrer Ilias-Inhalte für all diejenigen zu ermöglichen, die auf Ihre Ilias-Inhalte zugreifen können, setzen Sie ein <b>Häkchen</b> bei Ihrer Exportdatei und wählen Sie anschließend im Dropdownmenü die Option <b>Öffentlicher Zugriff</b>. Bestätigen Sie Ihre Auswahl mit dem Button <b>Ausführen</b>.
   <figure style="float:left;align:middle;">
     <img src="images/Ilias_8.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 65: Screenshot LUH-Ilias</figcaption>
   </figure>
+  
 In der Präsentationsansicht kann das Ilias-Element nun im Bereich <b>Download</b> des Kopfmenüs heruntergeaden werden.
   <figure style="float:left;align:middle;">
     <img src="images/Ilias_9.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
