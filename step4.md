@@ -376,7 +376,6 @@ Hier müssten Sie, wie in Abb. 45 erkennbar, Ihre Kursdatei unter dem Reiter <b>
   Besuchen Sie anschließend die LiaScript-Website: <a aria-describedby="Link zur LiaScript Seite" href="https://liascript.github.io/">https://liascript.github.io/</a>.
 
 Hier fügen Sie den kopierten Link in das Eingabefeld ein und klicken zum Abschluss auf <b>Load Course</b>. Der Kurs wird nun von LiaScript erstellt und die Kursseite sollte sich in kürze automatisch öffnen. <b>Unter der obigen URL ist der Kurs nun jederzeit aufrufbar</b>.
-     </p>
   <figure style="align:middle;">
     <img src="images/liascript_2.svg" alt="Screenshot LiaScript Startseite" title="Screenshot LiaScript Startseite"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 58: Screenshot LiaScript Startseite</figcaption>
@@ -387,5 +386,6 @@ Hier fügen Sie den kopierten Link in das Eingabefeld ein und klicken zum Abschl
   <iframe width="560" height="315" src="https://youtu.be/-JyKxvAkAP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
   <figcaption style="text-align:center;font-size:14px;">Video : <a aria-describedby="Link zum Video über LiaScript (YouTube)" href="https://youtu.be/-JyKxvAkAP0">Workshop LiaScrip</a> von Sebastian Zug und André Dietrich</figcaption>
 </figure>
-   </div>
+  </p>
+  </div>
 </div>
