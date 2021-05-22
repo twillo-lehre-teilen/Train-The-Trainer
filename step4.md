@@ -239,8 +239,7 @@ Hier ein paar einfache Beispiele zur Formatierung von Texten:
       <li>Sie möchten ein Wort kursiv setzen? Zeichnen Sie es wie folgt aus: *Beispiel* oder _Beispiel_</li>
       <li>Sie möchten einen Link einfügen? Zeichnen Sie Ihn wie folgt aus: [Linktext](Link)</li>
       <li>Sie möchten eine Liste einfügen? Zeichnen Sie die Aufzählung wie folgt aus:</li>
-    </ul>
-    
+    </ul>    
     <figure style="align:middle;">
       <img src="images/Lia_beispiel_liste.svg" alt="Screenshot Anlegen einer Liste in Markdown" title="Screenshot Anlegen einer Liste in Markdown"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 41: Screenshot Anlegen einer Liste in Markdown</figcaption>
