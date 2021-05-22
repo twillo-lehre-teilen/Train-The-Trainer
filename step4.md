@@ -305,7 +305,7 @@ Atom stellt ein Bindeglied zwischen LiaScript und GitHub dar. Mit einer Verbindu
     <figure style="align:middle;">
       <img src="images/CreateRepository.svg" alt="Screenshot Repository anlegen" title="Screenshot Repository anlegen"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 48: Repository anlegen</figcaption>
-    </figure></p>
+    </figure>
   Nach dem Anlegen des Repositorys müssen über Atom noch zwei kleine Schritte getätigt werden (<b>commit</b> und <b>push</b>), um auch Ihre Kursdatei erfolgreich im Repository abzulegen.
 
 Was hat es mit diesen Schritten auf sich? Wenn Sie in Atom an Ihrem Kurs arbeiten und die Änderungen <b>speichern</b>, änderen Sie nur das Kursdokument, das lokal auf Ihrem Computer abgelegt ist. Mit <b>commit</b> informieren Sie quasi den Dienst GitHub über die Änderungen und weisen an, dass auch Git die Änderungen übernehmen soll. Mit <b>push</b> setzen Sie die Änderungen dann öffentlich.
@@ -314,5 +314,25 @@ Um die Schritte <b>commit</b> und <b>push</b> das erste mal auszuführen, wechse
 
 
 Hier müssten Sie, wie in Abb. 45 erkennbar, Ihre Kursdatei unter dem Reiter <b>Unstaged Changes</b> sehen. Klicken Sie nun zuerst auf den Button <b>Stage All</b>, den Sie an der rechten Seite finden.
+  <figure style="align:middle;">
+    <img src="images/atom_git_stage.svg" alt="Screenshot Ablage der Kursdatei unter Unstaged Changes" title="Screenshot Ablage der Kursdatei unter Unstaged Changes"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 49: Screenshot Ablage der Kursdatei unter Unstaged Changes</figcaption>
+  </figure>
+    Nach der Wahl des Buttons <b>Stage All</b> wechselt Ihre Datei weiter unten in den Bereich <b>Staged Changes</b> (vgl. Abb. 46). Schreiben Sie als nächstes einen <b>kleinen Kommentar</b> ins untere Textfeld, mit dem Sie den Commit beschreiben (z.B. Neuerungen, Veränderungen, Korrekturen). Klicken Sie anschließend auf <b>Create detached commit</b> (bzw. <b>Commit to branch</b>), um den Commit fertig zu stellen.
+  <figure style="align:middle;">
+    <img src="images/atom_git_stage2.svg" alt="Screenshot Anzeige der Kursdatei unter Staged Changes" title="Screenshot Anzeige der Kursdatei unter Staged Changes"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 50: Screenshot Anzeige der Kursdatei unter Staged Changes</figcaption>
+  </figure>
+    Nun können Sie unten in der Fußleiste auf <b>Push</b> klicken, um all Ihre Änderungen mit Ihrem Repository zu synchronisieren - ergo, sie im Netz sichtbar zu machen.
+  <figure style="align:middle;">
+    <img src="images/atom_git_push.svg" alt="Screenshot Pushen der Änderungen" title="Screenshot Pushen der Änderungen"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 51: Screenshot Pushen der Änderungen</figcaption>
+  </figure>
+Überprüfen Sie, ob alles geklappt hat, indem Sie im Browser Ihr GitHub Profil aufrufen und dort Ihren Kurs auswählen. Hier sollte Ihr Repository nun wie folgt aussehen.
+  <figure style="align:middle;">
+    <img src="images/atom_git_repo.svg" alt="Screenshot Anzeige Ihres Repositories auf GitHub" title="Screenshot Anzeige Ihres Repositories auf GitHub"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 52: Screenshot Anzeige Ihres Repositories auf GitHub</figcaption>
+  </figure>
+  </p>
   </div>
 </div>
