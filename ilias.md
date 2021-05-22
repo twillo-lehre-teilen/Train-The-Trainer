@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="/your-path-to-fontawesome/css/all.css" rel="stylesheet">
 <h2>Metadaten und Lizenzhinweis an Ihren Ilias-Inhalten anbringen</h2>
 
 Ilias arbeitet hierfür mit dem Creative Commons Lizenzsystem und vereinfacht Ihnen die Anbringung eines Lizenzhinweises. Öffnen Sie das Ilias-Element, das Sie freigeben möchten (in unserem Beispiel handelt es sich um ein Lernmodul) und wählen Sie den Reiter <b>Seite bearbeiten</b> aus.
