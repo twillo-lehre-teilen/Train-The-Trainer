@@ -181,7 +181,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
 
 <h2>LiaScript Workflow mit Atom</h2>
 
-<div >
+<div>
    <button class="accordion">1. Getting Started: Installation</button>
    <div class="panel">
      <p>Um Ihnen den Umgang mit LiaScript so leicht wie möglich zu machen, empfehlen wir Ihnen den Texteditor <b>Atom</b> in Verbindung mit einem LiaScript Plugin zu nutzen. Auf diese Weise können Sie Ihre Kursstruktur auf dem Desktop erstellen, eine Vorschau ansehen und den Kurs erst dann öffentlich zugänglich machen, wenn Sie damit zufrieden sind. <br>
@@ -365,4 +365,14 @@ Hier müssten Sie, wie in Abb. 45 erkennbar, Ihre Kursdatei unter dem Reiter <b>
   <b>Hurra! Ihre Änderungen wurden in Ihr Repository übernommen!</b>
      </p>
   </div>
+  <div >
+   <button class="accordion">7. Link erstellen, um Kurs mit Lernenden zu teilen</button>
+   <div class="panel">
+     <p>Um eine URL für den Kurs mit LiaScript zu erstellen, die Sie dann mit Lernenden oder Kolleg*innen teilen können, wird der <b>Link zu Ihrem Repository</b> benötigt. Gehen Sie in Ihrem Browser auf Ihr Profil in GitHub. Wählen Sie dort Ihren Kurs aus und klicken Sie anschließend mit einem Rechtsklick auf die <b>.md</b> Datei Ihres Kurses. Hier können Sie die Option <b>Adresse des Links kopieren</b> auswählen.
+  <figure style="align:middle;">
+    <img src="images/git_link_kopieren.svg" alt="Screenshot Kopieren des des Repository-Links" title="Screenshot Kopieren des des Repository-Links"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 57: Screenshot Kopieren des des Repository-Links</figcaption>
+  </figure>
+     </p>
+   </div>
 </div>
