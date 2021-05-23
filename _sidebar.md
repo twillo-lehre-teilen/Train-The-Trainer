@@ -12,8 +12,6 @@
 
 * [4: OER in Systemen abbilden](step4.md)
 
-* [Lernmanagementsysteme und OER](lms_und_oer.md)
-
    * [Ilias](ilias.md)
    
    * [Moodle](moodle.md)
