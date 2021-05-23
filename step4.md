@@ -211,7 +211,9 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <img src="images/atom_push2.svg" alt="Screenshot der Reiter Commit und Push" title="Screenshot der Reiter Commit und Push"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 56: Screenshot der Reiter Commit und Push</figcaption>
       </figure>
-      <b>Hurra! Ihre Änderungen wurden in Ihr Repository übernommen!</b>
+      <center>
+        <b>Hurra! Ihre Änderungen wurden in Ihr Repository übernommen!</b>
+      </center>
     </p>
   </div>
   <button class="accordion">7. Link erstellen, um Kurs mit Lernenden zu teilen</button>
@@ -229,7 +231,9 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <img src="images/liascript_2.svg" alt="Screenshot LiaScript Startseite" title="Screenshot LiaScript Startseite"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 58: Screenshot LiaScript Startseite</figcaption>
       </figure>
-      <b>Herzlichen Glückwunsch! Sie haben Ihren ersten eigenen Kurs erfolgreich mit LiaScript erstellt.</b>
+      <center>
+        <b>Herzlichen Glückwunsch! Sie haben Ihren ersten eigenen Kurs erfolgreich mit LiaScript erstellt.</b>
+      </center>
       <br><br>
       <div class="infobox">
         <p>
