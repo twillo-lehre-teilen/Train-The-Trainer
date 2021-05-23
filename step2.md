@@ -230,7 +230,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
   </p>
 </div>
 
-## Korrekte Verwendung von OER
+<h2 id="korrekteVerwendung">Korrekte Verwendung von OER</h2>
 
 Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frage, was Sie bei der Nachnutzung dieser beachten müssen. Der erste Blick sollte hier auf die Lizenz des Materials gerichtet werden.
 
