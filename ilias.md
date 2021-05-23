@@ -29,7 +29,7 @@ Im Präsentationsmodus sind die Metadaten und der Lizenzvermerk nun unter dem Re
 <br><br>
 <div class="warningbox">
   <p>
-    <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig</b>: Auch wenn Sie einen Lizenzhinweis für Ihre Ilias-Inhalte gesetzt haben, sollten Sie nicht darauf verzichten, an den ggf. dort eingebundenen Einzelmaterialien (z.B. Dokumenten oder Videos) ebenfalls einen Lizenzhinweis anzubringen. Denken Sie zudem unbedingt daran, Fremdmaterialien als solche kenntlich zu machen (s. <a aria-describedby="Link zu Korrekte Verwendung von OER" href="./#/step2.md#korrekteVerwendung">Schritt 2, Kapitel Korrekte Verwendung von OER</a>).
+    <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig</b>: Auch wenn Sie einen Lizenzhinweis für Ihre Ilias-Inhalte gesetzt haben, sollten Sie nicht darauf verzichten, an den ggf. dort eingebundenen Einzelmaterialien (z.B. Dokumenten oder Videos) ebenfalls einen Lizenzhinweis anzubringen. Denken Sie zudem unbedingt daran, Fremdmaterialien als solche kenntlich zu machen (s. Schritt 2, <a aria-describedby="Link zu Korrekte Verwendung von OER" href="./#/step2.md#korrekteVerwendung">Kapitel Korrekte Verwendung von OER</a>).
   </p>
 </div>
 
