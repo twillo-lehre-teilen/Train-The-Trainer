@@ -67,7 +67,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <h6>Anlegen von Kapiteln:</h6>
       Zur Strukturierung Ihres Kurses in Kapitel und Unterkapitel legen Sie Überschriften und Unterüberschriften an. In Markdown wird eine Hauptüberschrift mit einem Hashtag, eine Überschrift zweiter Ordnung mit zwei Hashtags usw. gekennzeichnet. Hier ein kleines Beispiel, wie man Überschriften hinzufügt:
       <figure style="align:middle;">
-        <img src="images/Lia_beispiel_unterueberschrift.svg" alt="Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs" title="Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs"/>
+        <img src="images/lia_beispiel_unterueberschrift.svg" alt="Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs" title="Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 40. Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs</figcaption>
       </figure>
       <br>
@@ -82,7 +82,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <li>Sie möchten eine Liste einfügen? Zeichnen Sie die Aufzählung wie folgt aus:</li>
       </ul>    
       <figure style="align:middle;">
-        <img src="images/Lia_beispiel_liste.svg" alt="Screenshot Anlegen einer Liste in Markdown" title="Screenshot Anlegen einer Liste in Markdown"/>
+        <img src="images/lia_beispiel_liste.svg" alt="Screenshot Anlegen einer Liste in Markdown" title="Screenshot Anlegen einer Liste in Markdown"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 41: Screenshot Anlegen einer Liste in Markdown</figcaption>
       </figure>
       <div class="infobox">
@@ -100,7 +100,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <br><br>
       Hier ein Beispiel, in dem eine Quizfrage (mit Hinweisen + Erklärung) nach Vorgave des Handbuchs erstellt werden kann.
       <figure style="align:middle;">
-        <img src="images/Lia_beispiel_quiz.svg" alt="Screenshot Erstellung eines Quiz mit LiaScript" title="Screenshot Erstellung eines Quiz mit LiaScript"/>
+        <img src="images/lia_beispiel_quiz.svg" alt="Screenshot Erstellung eines Quiz mit LiaScript" title="Screenshot Erstellung eines Quiz mit LiaScript"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 42: Screenshot Erstellung eines Quiz mit LiaScript</figcaption>
       </figure>    
     </p>
