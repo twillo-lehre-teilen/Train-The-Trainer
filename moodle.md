@@ -38,7 +38,7 @@ Um anderen Personen, trotz der Geschlossenheit der LMS, einen Einblick in Ihren 
 
 Beispiel für eine Kurseinsicht über Screenshots im pdf Dateiformat.
 
-Beachten Sie bei den Aufnahmen (Screencast oder Screenshots), dass weder Daten der Teilnehmer*innen etwa personenbezogene Daten noch erzeugte Inhalte (etwa Chat- oder Forenbeiträge) enthalten sind. Es ist dringend zu empfehlen den moodle-Kurs lediglich als <b>Ansichtsobjekt</b> zu behandeln. Geben Sie außerdem für potentielle Nutzer*innen an, um welche moodle-Version es sich bei Ihrer Umgebung handelt und ob in Ihrem Kurs weitere Funktionen, die nicht standardmäßig bei moodle vorhanden sind, sondern über Plugins angebunden sind, vorliegen. (z.B. BigBlueButton, H5P,  Formeleditoren etc.)
+Beachten Sie bei den Aufnahmen (Screencast oder Screenshots), dass weder Daten der Teilnehmer\*innen etwa personenbezogene Daten noch erzeugte Inhalte (etwa Chat- oder Forenbeiträge) enthalten sind. Es ist dringend zu empfehlen den moodle-Kurs lediglich als <b>Ansichtsobjekt</b> zu behandeln. Geben Sie außerdem für potentielle Nutzer*innen an, um welche moodle-Version es sich bei Ihrer Umgebung handelt und ob in Ihrem Kurs weitere Funktionen, die nicht standardmäßig bei moodle vorhanden sind, sondern über Plugins angebunden sind, vorliegen. (z.B. BigBlueButton, H5P,  Formeleditoren etc.)
 
 ---
 <h2>Exportdatei bereitstellen</h2>
