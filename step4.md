@@ -32,7 +32,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <img src="images/file-settings.svg " alt="Screenshot: File - Settings auswählen" title="Screenshot: File - Settings auswählen"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 36: Screenshot der Atom Einstellungen</figcaption>
       </figure>
-      <br><br>
+      <br>
       In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie <b>liascript-preview</b> in das Suchfeld ein. Erscheint das Plugin in den Suchergebnisse, starten Sie die Installation mit einem Klick auf den Button <b>install</b>.
       <br><br>
       <figure style="align:middle;">
@@ -49,6 +49,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <img src="images/New_file.svg" alt="Screenshot: Neues Dokument in Atom erstellen" title="Screenshot: Neues Dokument in Atom erstellen"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 38: Screenshot Erstellung eines Dokuments in Atom</figcaption>
       </figure>
+      <br>
       Aktivieren Sie nun das LiaScript Plugin. Wählen Sie unter <b>Packages</b> im Kopfmenü den Reiter <b>liascript-preview</b> und dann <b>Toggle</b>. Rehts neben dem Eingabefeld erscheint nun eine Vorschau Ihres Kurses. Bei jedem Speichern (<b>File</b> und <b>Save</b> im Kopfmenü oder Tastenkombination Strg und S) aktualisiert sich die Vorschau automatisch. Um die Ansicht zu vergrößern, können Sie die <b>Welcome-Registerkarte</b> schließen.
       <figure style="align:middle;">
         <img src="images/Atom_Preview.svg" alt="Screenshot: LiaScript Preview aktivieren" title="Screenshot: LiaScript Preview aktivieren"/>
@@ -62,15 +63,15 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       Ist Ihr Lernmodul/Kursdokument angelegt, können Sie beginnen, Inhalte und Materialien einzufügen. Hierfür müssen Sie auf <b>Markdown</b> zurückgreifen. Sie haben noch keine Erfahrungen mit der Auszeichungssprache gesammelt? Keine Sorge! "Auszeichnungssprache" klingt schlimmer als es ist, Sie müssen hier <b>keine</b> Programmiersprache o.Ä. erlernen. Im folgenden führen wir Sie durch die Gestaltung Ihres Kurses mit Markdown - Sie werden sehen, es ist nicht schwer.
       <br><br>
       <b>Anlegen von Kapiteln:</b>
-      <br><br>
+      <br>
       Zur Strukturierung Ihres Kurses in Kapitel und Unterkapitel legen Sie Überschriften und Unterüberschriften an. In Markdown wird eine Hauptüberschrift mit einem Hashtag, eine Überschrift zweiter Ordnung mit zwei Hashtags usw. gekennzeichnet. Hier ein kleines Beispiel, wie man Überschriften hinzufügt:
       <figure style="align:middle;">
         <img src="images/Lia_beispiel_unterueberschrift.svg" alt="Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs" title="Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 40. Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs</figcaption>
       </figure>
-      <br><br>
+      <br>
       <b>Hinzufügen und Formatieren von Texten:</b>
-      <br><br>
+      <br>
       Schreiben Sie Texte und Anweisungen einfach direkt unter die Überschrift, unter der Sie sie platzieren möchten. Die Formatierung von Texten können Sie durch Markdown-Syntax im Prinzip des Copy und Paste vornehmen. LiaScript sorgt automatisch für ein ansprechendes Layout. Speichern Sie Ihre Eingabe, so können Sie das Aussehen Ihrer Eingabe in der LiaScript Vorschau überprüfen.
       <br><br>
       Hier ein paar einfache Beispiele zur Formatierung von Texten:
@@ -93,8 +94,9 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
           </ul>
         </p>
       </div>
-      <b>Hinzufügen weiterer Elemente:</b>
       <br><br>
+      <b>Hinzufügen weiterer Elemente:</b>
+      <br>
       LiaScript ist insbesondere dafür geeignet, interaktive Lernobjekte in Ihren Kursstruktur zu integrieren. <b>Kopieren Sie die Syntax, die Sie dafür benötigen aus dem digitalen <a aria-describedby="Link zu LiaScript Handbuch" href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1">LiaScript Handbuch</a> von André Dietrich, Sebastian Zug, Karl Fessel und Steve Rehm</b>. Das Handbuch ist explizit dafür vorgesehen, Ihnen bei der Integration von Elementen in LiaScript zu helfen.
       <br><br>
       Hier ein Beispiel, in dem eine Quizfrage (mit Hinweisen + Erklärung) nach Vorgave des Handbuchs erstellt werden kann.
@@ -110,7 +112,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       Bisher ist Ihr Kurs nur lokal gespeichert, liegt also auf Ihrem Computer. Um Ihren LiaScript Kurs nun auch im Internet öffentlich bereitzustellen zu können, empfehlen wir Ihnen die Plattform <b>GitHub</b>. Hier können Sie ihren erstellten Kurs <b>kostenfrei</b> ablegen, um anschließend mit LiaScript einen Link zu Ihrem Kurs zu generieren.
       <br><br>     
       <b>GitHub Anmeldung</b>
-      <br><br>
+      <br>
       Zuallererst müssen Sie sich dafür einen GitHub Account erstellen. Besuchen Sie hierfür die Seite www.github.com und klicken Sie oben rechts auf <b>Sign Up</b>.
       <br><br>
       In dem folgenden Fenster tragen Sie einen <b>Usernamen</b>, ihre <b>E-Mail</b> und ein <b>Passwort</b> ein. Mit einem Klick auf den Button <b>Create Account</b> erstellen Sie sich Ihren eigenen Account.
@@ -120,9 +122,9 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <img src="images/github_acc_1.svg" alt="Screenshot GitHub Verified Email Address" title="Screenshot GitHub Verified Email Address"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 43: Screenshot GitHub Verified Email Address</figcaption>
       </figure>
-      <br><br>     
+      <br>    
       <b>Verknüpfung von GitHub mit Atom</b>
-      <br><br>
+      <br>
       Atom stellt ein Bindeglied zwischen LiaScript und GitHub dar. Mit einer Verbindung von Atom mit GitHUb wird Ihnen die Möglichkeit gegeben, Inhalte durch Atom in Ihren Kurs  einzubinden und über GitHub zu veröffentlichen. D.h. durch das LiaScript Plugin und die Verbindung mit GitHub wird Atom zu einem Werkzeug, mit dem Sie einerseits Ihren Kurs  gestalten können während Sie eine Vorschau erhalten und andererseits auch eine Veröffentlichung im Internet vornehmen können.
       <br><br>
       Öffnen Sie Atom. Das Git-Package ist hier vorinstalliert, sodass es einfach direkt über die Reiter <b>packages → GitHub → Toggle GitHub</b> ausgewählt werden kann. Wählen Sie zunächst <b>Toggle GitHub</b> aus.
@@ -130,6 +132,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <img src="images/ScreenshotToggleGitHub.svg" alt="Screenshot der Verknüpfung von GitHub" title="Screenshot der Verknüpfung von GitHub"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 44: Screenshot der Verknüpfung von GitHub</figcaption>
       </figure>
+      <br>
       Nun öffnet sich der Reiter <b>GitHub</b>. Klicken Sie auf den angezeigten Link, um ein <b>Token</b> (also quasi einen Authentifizierungscode) zu generieren, welches ihren GitHub Account mit Atom verknüpft. Geben Sie das Token in das dafür vorgesehene Feld ein.
       <figure style="align:middle;">
         <img src="images/2ConnectToGitHub.svg" alt="Screenshot Generierung eines Tokens" title="Screenshot Generierung eines Tokens"/>
@@ -228,7 +231,11 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       </figure>
       <b>Herzlichen Glückwunsch! Sie haben Ihren ersten eigenen Kurs erfolgreich mit LiaScript erstellt.</b>
       <br><br>
-      <i class="fa fa-lightbulb-o fa-lg"></i><b>Hinweis</b>: LiaScript hat es Ihnen angetan? Das folgende Video gibt Ihnen umfassende, weiterführende Informationen rund um die Funktionen des Dienstes
+      <div class="infobox">
+        <p>
+          <i class="fa fa-lightbulb-o fa-lg"></i><b>Hinweis</b>: LiaScript hat es Ihnen angetan? Das folgende Video gibt Ihnen umfassende, weiterführende Informationen rund um die Funktionen des Dienstes
+        </p>
+      </div>
       <figure>
         <iframe width="560" height="415" src="https://youtu.be/-JyKxvAkAP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
         <figcaption style="text-align:center;font-size:14px;">Video : <a aria-describedby="Link zum Video über LiaScript (YouTube)" href="https://youtu.be/-JyKxvAkAP0">Workshop LiaScrip</a> von Sebastian Zug und André Dietrich</figcaption>
@@ -236,6 +243,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     </p>
   </div>
 </div>
+
 ---
 <h2>Lernmanagementsysteme und OER</h2>
 
@@ -243,7 +251,12 @@ An Hochschulen werden in der Regel Lernmanagementsysteme (z.B. Moodle, Ilias, St
 
 Für die hochschulische Lehre bieten LMS auf diese Weise große Vorteile. Zu einem Problem wird jedoch, dass der Zugang zu LMS-Kursen für Lehrende in der Regel mit dem Ende einer Beschäftigung an der Hochschule erlischt. Mit Blick auf Open Educational Resources, stellt die Geschlossenheit von LMS eine weitere große Herausforderung dar. Das öffentliche Teilen des gesamten Kurses sowie die Schaffung von Möglichkeiten für eine Nachnutzung der Strukturen und Inhalte wird erschwert. Welche Möglichkeiten Sie dennoch haben, Ihre LMS-Lerneinheiten als OER zu teilen, erfahren Sie im folgenden:
 
-
+<center>
+  <a aria-describedby="Link zu Ilias" href="./ilias.md" style="float:left">Ilias</a>
+  <a aria-describedby="Link zu Moodle" href="./moodle.md" style="float:left">Moodle</a>
+  <a aria-describedby="Link zu Stud.IP Courseware" href="./courseware.md" style="float:left">Stud.IP Courseware</a>
+</center>
+  
 <script>
   /* accordion script */
   var acc = document.getElementsByClassName("accordion");
