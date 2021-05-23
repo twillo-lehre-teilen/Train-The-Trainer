@@ -254,8 +254,8 @@ Für die hochschulische Lehre bieten LMS auf diese Weise große Vorteile. Zu ein
 
 <div style="display:block;text-align:center">
   <a aria-describedby="Link zu Ilias" href="./#/ilias.md" style="padding:20px;">Ilias</a>
-  <a aria-describedby="Link zu Moodle" href="./moodle" style="padding:20px;">Moodle</a>
-  <a aria-describedby="Link zu Stud.IP Courseware" href="courseware" style="padding:20px;">Stud.IP Courseware</a>
+  <a aria-describedby="Link zu Moodle" href="./#/moodle.md" style="padding:20px;">Moodle</a>
+  <a aria-describedby="Link zu Stud.IP Courseware" href="./#/courseware.md" style="padding:20px;">Stud.IP Courseware</a>
 </div>
   
 <script>
