@@ -23,7 +23,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
   <div class="panel">
     <p>
       Um Ihnen den Umgang mit LiaScript so leicht wie möglich zu machen, empfehlen wir Ihnen den Texteditor <b>Atom</b> in Verbindung mit einem LiaScript Plugin zu nutzen. Auf diese Weise können Sie Ihre Kursstruktur auf dem Desktop erstellen, eine Vorschau ansehen und den Kurs erst dann öffentlich zugänglich machen, wenn Sie damit zufrieden sind.
-       <br><br>
+      <br>
       <h6>Atom installieren:</h6>
       Besuchen Sie die Seite <a aria-describedby="Link zum Atom-Download" href="https://atom.io/" target="_blank">https://atom.io/</a>, laden Sie Atom herunter und führen Sie die Installation aus.<br>
       <br>
@@ -253,9 +253,9 @@ An Hochschulen werden in der Regel Lernmanagementsysteme (z.B. Moodle, Ilias, St
 Für die hochschulische Lehre bieten LMS auf diese Weise große Vorteile. Zu einem Problem wird jedoch, dass der Zugang zu LMS-Kursen für Lehrende in der Regel mit dem Ende einer Beschäftigung an der Hochschule erlischt. Mit Blick auf Open Educational Resources, stellt die Geschlossenheit von LMS eine weitere große Herausforderung dar. Das öffentliche Teilen des gesamten Kurses sowie die Schaffung von Möglichkeiten für eine Nachnutzung der Strukturen und Inhalte wird erschwert. Welche Möglichkeiten Sie dennoch haben, Ihre LMS-Lerneinheiten als OER zu teilen, erfahren Sie im folgenden:
 
 <div style="display:block;text-align:center">
-  <a aria-describedby="Link zu Ilias" href="./ilias.md" style="padding:20px;">Ilias</a>
-  <a aria-describedby="Link zu Moodle" href="./moodle.md" style="padding:20px;">Moodle</a>
-  <a aria-describedby="Link zu Stud.IP Courseware" href="./courseware.md" style="padding:20px;">Stud.IP Courseware</a>
+  <a aria-describedby="Link zu Ilias" href="ilias.md" style="padding:20px;">Ilias</a>
+  <a aria-describedby="Link zu Moodle" href="./moodle" style="padding:20px;">Moodle</a>
+  <a aria-describedby="Link zu Stud.IP Courseware" href="courseware" style="padding:20px;">Stud.IP Courseware</a>
 </div>
   
 <script>
