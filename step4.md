@@ -31,7 +31,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       Öffnen Sie Atom und wählen Sie in der Menüleiste oben unter <b>File</b> den Reiter <b>Settings</b>.
       <br><br>
       <figure style="align:middle;">
-        <img src="images/file-settings.svg " alt="Screenshot: File - Settings auswählen" title="Screenshot: File - Settings auswählen"/>
+        <img src="images/file_settings.svg " alt="Screenshot: File - Settings auswählen" title="Screenshot: File - Settings auswählen"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 36: Screenshot der Atom Einstellungen</figcaption>
       </figure>
       <br>
@@ -48,13 +48,13 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       Um ein neues Lernmodul anzulegen, öffnen Sie den Reiter <b>File</b> und wählen Sie <b>New file</b> aus <b>oder</b> drücken Sie die Tastenkombination Strg und N. Auf der rechten Seite der Atom Umgebung öffnet sich nun ein Eingabefeld.  Hier geben Sie eine Überschrift zu Ihrem Lernmodul ein. <b>Wichtig:</b> Da in der Anwendung mit Markdown gearbeitet werden muss, vergessen Sie bitte nicht einen Hashtag vor Ihre Überschrift zu setzen. Beispiel: <b># Mein LiaScript Kurs</b>. Speichern Sie das Dokument anschließend unter <b>File</b> und <b>Save</b> oder durch die Tastenkombination <b>Strg und S</b>. Es öffnet sich ein Fenster mit dem Sie einen Dateinamen bestimmen und einen Speicheroft für das Dokument auswählen können.
       <figure style="align:middle;">
-        <img src="images/New_file.svg" alt="Screenshot: Neues Dokument in Atom erstellen" title="Screenshot: Neues Dokument in Atom erstellen"/>
+        <img src="images/new_file.svg" alt="Screenshot: Neues Dokument in Atom erstellen" title="Screenshot: Neues Dokument in Atom erstellen"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 38: Screenshot Erstellung eines Dokuments in Atom</figcaption>
       </figure>
       <br>
       Aktivieren Sie nun das LiaScript Plugin. Wählen Sie unter <b>Packages</b> im Kopfmenü den Reiter <b>liascript-preview</b> und dann <b>Toggle</b>. Rehts neben dem Eingabefeld erscheint nun eine Vorschau Ihres Kurses. Bei jedem Speichern (<b>File</b> und <b>Save</b> im Kopfmenü oder Tastenkombination Strg und S) aktualisiert sich die Vorschau automatisch. Um die Ansicht zu vergrößern, können Sie die <b>Welcome-Registerkarte</b> schließen.
       <figure style="align:middle;">
-        <img src="images/Atom_Preview.svg" alt="Screenshot: LiaScript Preview aktivieren" title="Screenshot: LiaScript Preview aktivieren"/>
+        <img src="images/atom_preview.svg" alt="Screenshot: LiaScript Preview aktivieren" title="Screenshot: LiaScript Preview aktivieren"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 39: Screenshot LiaScript Vorschau in Atom</figcaption>
       </figure>
     </p>
@@ -126,13 +126,13 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <br><br>
       Öffnen Sie Atom. Das Git-Package ist hier vorinstalliert, sodass es einfach direkt über die Reiter <b>packages → GitHub → Toggle GitHub</b> ausgewählt werden kann. Wählen Sie zunächst <b>Toggle GitHub</b> aus.
       <figure style="align:middle;">
-        <img src="images/ScreenshotToggleGitHub.svg" alt="Screenshot der Verknüpfung von GitHub" title="Screenshot der Verknüpfung von GitHub"/>
+        <img src="images/screenshotToggleGitHub.svg" alt="Screenshot der Verknüpfung von GitHub" title="Screenshot der Verknüpfung von GitHub"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 44: Screenshot der Verknüpfung von GitHub</figcaption>
       </figure>
       <br>
       Nun öffnet sich der Reiter <b>GitHub</b>. Klicken Sie auf den angezeigten Link, um ein <b>Token</b> (also quasi einen Authentifizierungscode) zu generieren, welches ihren GitHub Account mit Atom verknüpft. Geben Sie das Token in das dafür vorgesehene Feld ein.
       <figure style="align:middle;">
-        <img src="images/2ConnectToGitHub.svg" alt="Screenshot Generierung eines Tokens" title="Screenshot Generierung eines Tokens"/>
+        <img src="images/connectToGitHub.svg" alt="Screenshot Generierung eines Tokens" title="Screenshot Generierung eines Tokens"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 45: Screenshot Generierung eines Tokens</figcaption>
       </figure>
       <figure style="align:middle;">
@@ -140,7 +140,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <figcaption style="text-align:center;font-size:14px;">Abb. 46: Screenshot Authorisieren von GitHub in Atom</figcaption>
       </figure>
       <figure style="align:middle;">
-        <img src="images/3GenerateToken.svg" alt="Screenshot Eingabe des GitHub-Token" title="Screenshot Eingabe des GitHub-Token"/>
+        <img src="images/generateToken.svg" alt="Screenshot Eingabe des GitHub-Token" title="Screenshot Eingabe des GitHub-Token"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 47: Screenshot Eingabe des GitHub-Token</figcaption>
       </figure>
     </p>
@@ -150,7 +150,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       In dem Reiter <b>GitHub</b> in Atom können Sie nun durch Klicken auf <b>initialize and publish on GitHub</b> ein neues Repository für ihren Kurs anlegen. Ein Repository ist der Ablageort für ihre Kursdateien auf Git im Internet.
       <figure style="align:middle;">
-        <img src="images/CreateRepository.svg" alt="Screenshot Repository anlegen" title="Screenshot Repository anlegen"/>
+        <img src="images/createRepository.svg" alt="Screenshot Repository anlegen" title="Screenshot Repository anlegen"/>
         <figcaption style="text-align:center;font-size:14px;">Abb. 48: Repository anlegen</figcaption>
       </figure>
       Nach dem Anlegen des Repositorys müssen über Atom noch zwei kleine Schritte getätigt werden (<b>commit</b> und <b>push</b>), um auch Ihre Kursdatei erfolgreich im Repository abzulegen.
