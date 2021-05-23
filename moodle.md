@@ -33,7 +33,7 @@ Um interessierten Personen die Möglichkeit zu geben, Ihre in moodle angelegten 
 Um anderen Personen, trotz der Geschlossenheit der LMS, einen Einblick in Ihren OER-Kurs bzw. Teile des Kurses zu ermöglichen, bietet sich an, ein Dokument auf Basis von Screenshots oder ein Screencast mit den abgebildetet Inhalten samt Erklärungen zusätzlich bereitzustellen. Diese Einsicht Ihres Kurses erleichtert die Nachnutzung enorm: Dritte können sich vor einem Upload Ihre angelegten Strukturen und Inhalte ansehen und entscheiden, ob sie auch für ihre eigenes Lehr-Lernsetting geeignet wären.
 
 <center>
-  <a aria-describedby="PDF downlaod" href="documents/moodle.pdf">Moodle-Kurs: Template Forschendes Lernen</a>
+  <a aria-describedby="Moodle-Kurs Template Forschendes Lernen - PDF download" href="documents/Kurseinsicht Forschendes Lernen_Moodleumgebung.pdf">Moodle-Kurs: Template Forschendes Lernen</a>
 </center>
 
 Beispiel für eine Kurseinsicht über Screenshots im pdf Dateiformat.
