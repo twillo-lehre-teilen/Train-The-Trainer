@@ -22,7 +22,7 @@ Auch die Materialien, die nicht von Ihnen stammen, können hier mit den jeweilig
 
 <div class="warningbox">
   <p>
-    <b>Wichtig:<b> Auch wenn Sie einen Lizenzhinweis für Ihre Moodle-Inhalte gesetzt haben, sollten Sie nicht darauf verzichten, an den ggf. dort eingebundenen Einzelmaterialien (z.B. Dokumenten oder Videos) ebenfalls einen Lizenzhinweis anzubringen. Denken Sie zudem unbedingt daran, Fremdmaterialien als solche kenntlich zu machen (s. Schritt 2, <a aria-describedby="Link zum Kapitel Korrekte Verwendung von OER" href="./#/step2.md#korrekteVerwendung">Kapitel Korrekte Verwendung von OER</a>).
+    <i class="fa fa-lightbulb-o fa-lg"></i> <b>Wichtig:</b> Auch wenn Sie einen Lizenzhinweis für Ihre Moodle-Inhalte gesetzt haben, sollten Sie nicht darauf verzichten, an den ggf. dort eingebundenen Einzelmaterialien (z.B. Dokumenten oder Videos) ebenfalls einen Lizenzhinweis anzubringen. Denken Sie zudem unbedingt daran, Fremdmaterialien als solche kenntlich zu machen (s. Schritt 2, <a aria-describedby="Link zum Kapitel Korrekte Verwendung von OER" href="./#/step2.md#korrekteVerwendung">Kapitel Korrekte Verwendung von OER</a>).
   </p>
 </div>
 
