@@ -67,7 +67,7 @@ Beachten Sie bei den Aufnahmen (Screencast oder Screenshots), dass weder Daten d
 </figure>
 
 <figure style="align:middle;">
-  <img src="images/moodles_Sicherung_Fertigstellen3.svg" alt="Abb. 74: Screenshot moodle Sicherungsdialog 4" title="Abb. 74: Screenshot moodle Sicherungsdialog 4"/>
+  <img src="images/moodle_Sicherung_Fertigstellen3.svg" alt="Abb. 74: Screenshot moodle Sicherungsdialog 4" title="Abb. 74: Screenshot moodle Sicherungsdialog 4"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 74: Screenshot moodle Sicherungsdialog 4</figcaption>
 </figure>
 
