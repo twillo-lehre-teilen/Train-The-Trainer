@@ -124,7 +124,7 @@ Liste <i>Bedingungen von Creative Commons-Lizenzen</i> von twillo, lizenziert un
       Die Lizenzen des gelben Bereichs ermöglichen keine Veränderung am Material. Lediglich das Teilen, Weitergeben ist hier erlaubt.
       <br>
       <figure>
-        <img src="images/licence_skala.svg" alt="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)" title="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)"/>
+        <a href="images/licence_skala.svg" target="_blank"><img src="images/licence_skala.svg" alt="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)" title="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 5: <a aria-describedby="Link zur Quelle der Abbildung 5" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg">Creative Commons License Spectrum</a> von Shaddim, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
       </figure>
     </td>
