@@ -5,25 +5,25 @@
 
 Ilias arbeitet hierfür mit dem Creative Commons Lizenzsystem und vereinfacht Ihnen die Anbringung eines Lizenzhinweises. Öffnen Sie das Ilias-Element, das Sie freigeben möchten (in unserem Beispiel handelt es sich um ein Lernmodul) und wählen Sie den Reiter <b>Seite bearbeiten</b> aus.
 <figure style="align:middle;">
-  <img src="images/Ilias_1.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
+  <a href="images/Ilias_1.svg" target="_blank"><img src="images/Ilias_1.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 59: Screenshot LUH-Ilias</figcaption>
 </figure>
 
 Wählen Sie im Kopfmenü den Reiter Metadaten.
 <figure style="align:middle;">
-  <img src="images/Ilias_2.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
+  <a href="images/Ilias_2.svg" target="_blank"><img src="images/Ilias_2.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 60: Screenshot LUH-Ilias</figcaption>
 </figure>
 
 Die folgende Eingabemaske gibt Ihnen die Möglichkeit, Ihre <b>Inhalte zu beschreiben</b> und zu <b>verschlagworten</b>. Weiter unten haben Sie die Möglichkeit, eine <b>CC-Lizenz</b> auszuwählen. Sofern Sie sich für eine Lizenz mit dem Modul <b>BY</b> entscheiden, vergessen Sie auf keinen Fall, in dem Feld Autoren eine Angabe zu den <b>Urheber\*innen/Rechteinhaber\*innen</b> zu machen, die bei einer Nachnutzung genannt werden sollen. Speichern Sie Ihre Eingabe.
 <figure style="align:middle;">
-  <img src="images/Ilias_3.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
+  <a href="images/Ilias_3.svg" target="_blank"><img src="images/Ilias_3.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 61: Screenshot LUH-Ilias</figcaption>
 </figure>
 
 Im Präsentationsmodus sind die Metadaten und der Lizenzvermerk nun unter dem Reiter <b>Info</b> für alle Personen, die auf den den Inhalt zugreifen können, einsehbar.
 <figure style="align:middle;">
-  <img src="images/Ilias_4.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
+  <a href="images/Ilias_4.svg" target="_blank"><img src="images/Ilias_4.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 62: Screenshot LUH-Ilias</figcaption>
 </figure>
 
@@ -47,27 +47,27 @@ Um Dritten nicht nur die Ansicht Ihrer Ilias-Inhalte, sondern auch deren <b>Nach
 
 Um ein Ilias Element zu exportieren, öffnen Sie es und wählen Sie den Reiter <b>Seite bearbeiten</b> im Kopfmenü (Wenn Sie ein komplettes <b>Ilias-Lernmodul</b> exportieren möchten, wählen Sie anschließend die oberste Einheit des Lernmoduls aus). Klicken Sie auf den Reiter <b>Export</b>.
   <figure style="align:middle;">
-    <img src="images/Ilias_5.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
+    <a href="images/Ilias_5.svg" target="_blank"><img src="images/Ilias_5.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/></a>
     <figcaption style="text-align:center;font-size:14px;">Abb. 63: Screenshot LUH-Ilias</figcaption>
   </figure>
 <p>  
 Wählen Sie in dem Dropdown Menü das gewünsche Dateiformat aus und klicken Sie auf <b>Exportdatei erzeugen</b>. Nach einer kurzen Wartezeit steht Ihnen eine Zip-Datei zur Verfügung, die Sie über den Reiter <b>Download</b> abspeichern können.
 </p>
   <figure style="align:middle;">
-    <img src="images/Ilias_7.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
+    <a href="images/Ilias_7.svg" target="_blank"><img src="images/Ilias_7.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/></a>
     <figcaption style="text-align:center;font-size:14px;">Abb. 64: Screenshot LUH-Ilias</figcaption>
   </figure>
 <p>
 Um den direkten Download Ihrer Ilias-Inhalte für all diejenigen zu ermöglichen, die auf Ihre Ilias-Inhalte zugreifen können, setzen Sie ein <b>Häkchen</b> bei Ihrer Exportdatei und wählen Sie anschließend im Dropdownmenü die Option <b>Öffentlicher Zugriff</b>. Bestätigen Sie Ihre Auswahl mit dem Button <b>Ausführen</b>.
 </p>
   <figure style="align:middle;">
-    <img src="images/Ilias_8.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
+    <a href="images/Ilias_8.svg" target="_blank"><img src="images/Ilias_8.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/></a>
     <figcaption style="text-align:center;font-size:14px;">Abb. 65: Screenshot LUH-Ilias</figcaption>
   </figure>
 <p> 
 In der Präsentationsansicht kann das Ilias-Element nun im Bereich <b>Download</b> des Kopfmenüs heruntergeaden werden.
   <figure style="align:middle;">
-    <img src="images/Ilias_9.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
+    <a href="images/Ilias_9.svg" target="_blank"><img src="images/Ilias_9.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/></a>
     <figcaption style="text-align:center;font-size:14px;">Abb. 66: Screenshot LUH-Ilias</figcaption>
   </figure>
 </p>
@@ -89,7 +89,7 @@ In der Präsentationsansicht kann das Ilias-Element nun im Bereich <b>Download</
 <p>
 Die Integration von Ilias-Exportdateien in die eigene Ilias-Umgebung ist sehr einfach. Öffnen Sie Ihren Kurs, öffnen Sie den Reiter <b>Neues Objekt hinzufügen</b> und wählen Sie den Inhalt aus, den Sie importieren möchten. Im folgenden Fenster ermöglicht Ihnen die <b>Option 2</b> den Import.
 <figure style="align:middle;">
-  <img src="images/Ilias_10.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/>
+  <a href="images/Ilias_10.svg" target="_blank"><img src="images/Ilias_10.svg" alt="Screenshot LUH-Ilias" title="Screenshot LUH-Ilias"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 67: Screenshot LUH-Ilias</figcaption>
 </figure>
 </p>
