@@ -217,7 +217,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
   <tr>
     <td width="20%">
       <figure>
-        <img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz" width="90%" height="90%">
+        <a href="images/offene_lizenz.svg" target="_blank"><img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz" width="90%" height="90%"></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 34: Offene Lizenz</figcaption>
       </figure>
     </td>
@@ -231,7 +231,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
   <tr>
     <td width="20%">
       <figure>
-        <img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat" width="90%" height="90%">
+        <a href="images/offenes_format.svg" target="_blank"><img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat" width="90%" height="90%"></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 35: Offenes Dateiformat</figcaption>
       </figure>
     </td>
