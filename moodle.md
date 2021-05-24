@@ -11,12 +11,12 @@ In Moodle hochgeladene Dateien können mit Metadaten und Lizenzhinweisen angerei
 Auch die Materialien, die nicht von Ihnen stammen, können hier mit den jeweiligen korrekten Daten angereichert werden.
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien" title="Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien"/>
+  <img src="images/Metadaten moodle.svg" alt="Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien" title="Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien</figcaption>
 </figure>
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien" title="Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien"/>
+  <img src="images/lizenzhinweis moodle.svg" alt="Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien" title="Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien</figcaption>
 </figure>
 
@@ -47,32 +47,32 @@ Beachten Sie bei den Aufnahmen (Screencast oder Screenshots), dass weder Daten d
 <b>Dateigröße Maximal 640 MB</b>
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 70: Screenshot moodle Sicherungsfunktion" title="Abb. 70: Screenshot moodle Sicherungsfunktion"/>
+  <img src="images/moodle_Sicherung.svg" alt="Abb. 70: Screenshot moodle Sicherungsfunktion" title="Abb. 70: Screenshot moodle Sicherungsfunktion"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 70: Screenshot moodle Sicherungsfunktion</figcaption>
 </figure>
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 71: Screenshot moodle Sicherungsdialog 1" title="Abb. 71: Screenshot moodle Sicherungsdialog 1"/>
+  <img src="images/moodle_Sicherung_Einstellungen1.svg" alt="Abb. 71: Screenshot moodle Sicherungsdialog 1" title="Abb. 71: Screenshot moodle Sicherungsdialog 1"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 71: Screenshot moodle Sicherungsdialog 1</figcaption>
 </figure>
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 72: Screenshot moodle Sicherungsdialog 2" title="Abb. 72: Screenshot moodle Sicherungsdialog 2"/>
+  <img src="images/moodle_Sicherung_Einstellungen2.svg" alt="Abb. 72: Screenshot moodle Sicherungsdialog 2" title="Abb. 72: Screenshot moodle Sicherungsdialog 2"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 72: Screenshot moodle Sicherungsdialog 2</figcaption>
 </figure>
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 73: Screenshot moodle Sicherungsdialog 3" title="Abb. 73: Screenshot moodle Sicherungsdialog 3"/>
+  <img src="images/moodle_Sicherung_Kontrollieren3.svg" alt="Abb. 73: Screenshot moodle Sicherungsdialog 3" title="Abb. 73: Screenshot moodle Sicherungsdialog 3"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 73: Screenshot moodle Sicherungsdialog 3</figcaption>
 </figure>
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 74: Screenshot moodle Sicherungsdialog 4" title="Abb. 74: Screenshot moodle Sicherungsdialog 4"/>
+  <img src="images/moodles_Sicherung_Fertigstellen3.svg" alt="Abb. 74: Screenshot moodle Sicherungsdialog 4" title="Abb. 74: Screenshot moodle Sicherungsdialog 4"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 74: Screenshot moodle Sicherungsdialog 4</figcaption>
 </figure>
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 75: Screenshot moodle mbz-Datei herunterladen" title="Abb. 75: Screenshot moodle mbz-Datei herunterladen"/>
+  <img src="images/moodle_Sicherung_Datei6.svg" alt="Abb. 75: Screenshot moodle mbz-Datei herunterladen" title="Abb. 75: Screenshot moodle mbz-Datei herunterladen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 75: Screenshot moodle mbz-Datei herunterladen</figcaption>
 </figure>
 
@@ -85,42 +85,42 @@ Um Exportdateien in Ihre eigene Moodle-Umgebung zu integrieren, müssen Sie entw
 Klicken im Bereich Administration auf <b>Wiederherstellen</b>.
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 76: Screenshot moodle Wiederherstellen" title="Abb. 76: Screenshot moodle Wiederherstellen"/>
+  <img src="images/moodle_import.svg" alt="Abb. 76: Screenshot moodle Wiederherstellen" title="Abb. 76: Screenshot moodle Wiederherstellen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 76: Screenshot moodle Wiederherstellen</figcaption>
 </figure>
 
 Wählen Sie den entsprechenden Kurs aus, in der der OER- Kurs importiert werden soll. Fahren Sie mit <b>weiter</b> fort.
   
 <figure style="align:middle;">
-  <img src="" alt="Abb. 77: Screenshot moodle Kursbereich wählen" title="Abb. 77: Screenshot moodle Kursbereich wählen"/>
+  <img src="images/moodle_import2.svg" alt="Abb. 77: Screenshot moodle Kursbereich wählen" title="Abb. 77: Screenshot moodle Kursbereich wählen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 77: Screenshot moodle Kursbereich wählen</figcaption>
 </figure>
 
 Wählen Sie im oberen Bereich <b>Sicherungsdatei importieren</b> im Upload-Feld <b>Datei wählen</b>. 
   
 <figure style="align:middle;">
-  <img src="" alt="Abb. 78: Screenshot moodle Datei-upload" title="Abb. 78: Screenshot moodle Datei-upload"/>
+  <img src="images/moodle_import3.svg" alt="Abb. 78: Screenshot moodle Datei-upload" title="Abb. 78: Screenshot moodle Datei-upload"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 78: Screenshot moodle Datei-upload</figcaption>
 </figure>
 
 Fügen Sie die lokal gespeicherte mbz-Datei ein oder ziehen Sie die Datei per Drag & Drop in das Feld hinein.
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 79: Screenshot moodle Upload-Dialog aufrufen" title="Abb. 79: Screenshot moodle Upload-Dialog aufrufen"/>
+  <img src="images/moodle_import4.svg" alt="Abb. 79: Screenshot moodle Upload-Dialog aufrufen" title="Abb. 79: Screenshot moodle Upload-Dialog aufrufen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 79: Screenshot moodle Upload-Dialog aufrufen</figcaption>
 </figure>
 
 Beim Upload können Sie die Metadaten des OER- Kurses einfügen (Titel der OER, Autor*in und CC Lizenz). Bestätigen Sie den Vorgang mit <b>Datei hochladen</b>.
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 80: Screenshot moodle Datei beschreiben und hochladen" title="Abb. 80: Screenshot moodle Datei beschreiben und hochladen"/>
+  <img src="images/moodle_import5.svg" alt="Abb. 80: Screenshot moodle Datei beschreiben und hochladen" title="Abb. 80: Screenshot moodle Datei beschreiben und hochladen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 80: Screenshot moodle Datei beschreiben und hochladen</figcaption>
 </figure>
 
 Nun werden Sie durch den Wiederherstellungsprozess geführt und durchlaufen einige Schritte, um die ausgewählte Datei im gewünschten Moodle - Kursraum zu importieren.
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 81: Screenshot moodle Übersicht über den OER Kurs" title="Abb. 81: Screenshot moodle Übersicht über den OER Kurs"/>
+  <img src="images/moodle_import6.svg" alt="Abb. 81: Screenshot moodle Übersicht über den OER Kurs" title="Abb. 81: Screenshot moodle Übersicht über den OER Kurs"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 81: Screenshot moodle Übersicht über den OER Kurs</figcaption>
 </figure>
 
@@ -138,13 +138,13 @@ Nun werden Sie durch den Wiederherstellungsprozess geführt und durchlaufen eini
 </ul>
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 82: Screenshot moodle Wiederherstellung ausführen" title="Abb. 82: Screenshot moodle Wiederherstellung ausführen"/>
+  <img src="images/moodle_import10.svg" alt="Abb. 82: Screenshot moodle Wiederherstellung ausführen" title="Abb. 82: Screenshot moodle Wiederherstellung ausführen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 82: Screenshot moodle Wiederherstellung ausführen</figcaption>
 </figure>
 
 In einem letzten Schritt gelangen Sie dann zum Kurs.
 
 <figure style="align:middle;">
-  <img src="" alt="Abb. 83: Screenshot moodle Kursansicht" title="Abb. 83: Screenshot moodle Kursansicht"/>
+  <img src="images/moodle_import11.svg" alt="Abb. 83: Screenshot moodle Kursansicht" title="Abb. 83: Screenshot moodle Kursansicht"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 83: Screenshot moodle Kursansicht</figcaption>
 </figure>
