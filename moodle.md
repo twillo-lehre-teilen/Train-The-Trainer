@@ -11,12 +11,12 @@ In Moodle hochgeladene Dateien können mit Metadaten und Lizenzhinweisen angerei
 Auch die Materialien, die nicht von Ihnen stammen, können hier mit den jeweiligen korrekten Daten angereichert werden.
 
 <figure style="align:middle;">
-  <a href="" target"_blank"><img src="images/Metadaten moodle.svg" alt="Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien" title="Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien"/>
+  <a href="" target"_blank"><img src="images/Metadaten moodle.svg" alt="Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien" title="Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 68: Screenshot moodle Metadaten bei hochgeladenen Dateien</figcaption>
 </figure>
 
 <figure style="align:middle;">
-  <a href="" target"_blank"><img src="images/lizenzhinweis moodle.svg" alt="Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien" title="Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien"/>
+  <a href="" target"_blank"><img src="images/lizenzhinweis moodle.svg" alt="Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien" title="Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 69: Screenshot moodle Lizenzauswahl bei hochgeladenen Dateien</figcaption>
 </figure>
 
