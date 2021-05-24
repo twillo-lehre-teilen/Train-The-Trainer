@@ -45,7 +45,7 @@ Der Workflow auf twillo umfasst vier Schritte:
       Das folgende Abbildung veranschaulicht den Prozess der Anmeldung per DFN:
       <br>
       <figure>
-        <img src="images/twillo-Login-per-DFN.svg" alt="Abb. XXX: Twillo-Zugang über DFN" title="Abb. XXX: Twillo-Zugang über DFN"/>
+        <a href="images/twillo-Login-per-DFN.svg" target="_blank"><img src="images/twillo-Login-per-DFN.svg" alt="Abb. XXX: Twillo-Zugang über DFN" title="Abb. XXX: Twillo-Zugang über DFN"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Twillo-Zugang über DFN</figcaption>
       </figure>
       <br><br>
@@ -74,7 +74,7 @@ Der Workflow auf twillo umfasst vier Schritte:
         <tr>
           <td valign="middle" text-align="left" width="30%">
             <figure style="float:left;align:middle;">
-              <img src="images/Automatische_Auffinbarkeit.svg" alt="Abb. XXX: Automatische Auffindbarkeit" title="Abb. XXX: Automatische Auffindbarkeit"/>
+              <a href="images/Automatische_Auffinbarkeit.svg" target="_blank"><img src="images/Automatische_Auffinbarkeit.svg" alt="Abb. XXX: Automatische Auffindbarkeit" title="Abb. XXX: Automatische Auffindbarkeit"/></a>
               <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Automatische Auffindbarkeit</figcaption>
             </figure></td>
           <td valign="middle" text-align="left" width="70%">
@@ -84,7 +84,7 @@ Der Workflow auf twillo umfasst vier Schritte:
         <tr>
           <td valign="middle" text-align="left" width="30%">
             <figure style="float:left;align:middle;">
-              <img src="images/Didaktische_Kontextualisierung.svg" alt="Abb. XXX: Didaktische Kontextualisierung" title="Abb. XXX: Didaktische Kontextualisierung"/>
+              <a href="images/Didaktische_Kontextualisierung.svg" target="_blank"><img src="images/Didaktische_Kontextualisierung.svg" alt="Abb. XXX: Didaktische Kontextualisierung" title="Abb. XXX: Didaktische Kontextualisierung"/></a>
               <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Didaktische Kontextualisierung</figcaption>
             </figure></td>
           <td valign="middle" text-align="left" width="70%">
@@ -94,7 +94,7 @@ Der Workflow auf twillo umfasst vier Schritte:
       </table>
       Twillo unterstützt Sie bei der Beschreibung des Material durch standardisierte Eingabefelder. Nachdem Sie - wie unter Punkt 2 beschrieben - neues Material hochgeladen oder verlinkt haben, öffnet sich der Metadatendialog automatisch. Auch können Sie ihn jederzeit aufrufen, indem Sie Ihr Material öffnen und im Menü oben rechts das Feld <b>Infos bearbeiten</b> auswählen. 
       <figure>
-          <img src="images/Metadatendialog.svg" alt="Abb. XXX: Screenshot des twillo Metadatendialogs" title="Abb. XXX: Screenshot des twillo Metadatendialogs"/>
+          <a href="images/Metadatendialog.svg" target="_blank"><img src="images/Metadatendialog.svg" alt="Abb. XXX: Screenshot des twillo Metadatendialogs" title="Abb. XXX: Screenshot des twillo Metadatendialogs"/></a>
           <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot des twillo Metadatendialogs</figcaption>
       </figure>
       Die Metadaten-Eingabemaske des Portals gliedert sich in die Bereiche Allgemeine Infomationen, Lizenz, Klassifizierungen, Didaktik und technische Informationen. Zwar sind nur wenige Angaben verpflichtend, wir empfehlen Ihnen allerdings, den Dialog von oben bis unten durchzugehen und möglichst viele Angaben zu machen. Dies verinafacht anderen Personen das Finden und Nutzen Ihres Materials. Metadaten, die eines besonderen Augenmerks bedürfen, werden im folgenden genauer beschrieben.
@@ -103,26 +103,26 @@ Der Workflow auf twillo umfasst vier Schritte:
       <br><br>
       Im Abschnitt <b>Allgemeine Informationen</b> geben Sie u.a. die Urheber*innen des Material an. Bitte wählen Sie hierfür den Reiter <b>Autoren & Beteiligte</b> aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit <b>mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber*innen</b> einzutragen oder <b>weitere an der Entwicklung des Materials beteiligte Personen</b> (z.B. Herausgeber*innen, Grafiker*innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter <b>weitere Beteiligte</b> unterhalb des Eingabefelds.
       <figure>
-          <img src="images/Step_1.svg" alt="Abb. XXX: Screenshot Urheber*innenangaben twillo " title="Abb. XXX: Screenshot Urheber*innenangaben twillo "/>
+          <a href="images/Step_1.svg" target="_blank"><img src="images/Step_1.svg" alt="Abb. XXX: Screenshot Urheber*innenangaben twillo " title="Abb. XXX: Screenshot Urheber*innenangaben twillo "/></a>
           <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Urheber*innenangaben twillo </figcaption>
       </figure>
       <br>
       Wählen Sie im Bereich <b>Beteiligte am Objekt</b> nun den Button <b>Hinzufügen</b>. Es öffnet sich eine neue Eingabemaske, in der Sie alle beteiligten Personen - und/oder Organisation - sowie deren Rolle benennen können. Tragen Sie einen Namen in die Eingabemaske ein und wählen Sie anschließend über das Dropdownmenü im Bereich <b>Tätig als</b> eine passende Funktion an. Speichern Sie Ihre Eingabe mit <b>Übernehmen</b>. Um weitere Beteiligte hinzuzufügen wiederholen Sie die vorangegangenen Schritte.
       <br>
       <figure>
-          <img src="images/Step_3.svg" alt="Abb. XXX: Screenshot Urheber*innenangaben twillo " title="Abb. XXX: Screenshot Urheber*innenangaben twillo "/>
+          <a href="images/Step_3.svg" target="_blank"><img src="images/Step_3.svg" alt="Abb. XXX: Screenshot Urheber*innenangaben twillo " title="Abb. XXX: Screenshot Urheber*innenangaben twillo "/></a>
           <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Urheber*innenangaben twillo </figcaption>
       </figure>
       <b>Lizenzangaben</b>
       <br><br>
       Die Angabe einer Lizenz stellt ein verpflichtendes Metadatum für die Veröffentlichung von Materialien auf twillo dar. <b>Das Portal arbeitet ausschließlich mit dem Creative Commons-Lizenzsystem. Die Bereitstellung anders lizenzierter Materialien ist auf dem Portal nicht vorgesehen</b>. Um eine Lizenz zu wählen, öffnen Sie den Reiter <b>Lizenz verwalten</b>. Im folgenden Fenster haben Sie die Möglichkeit, eine der offensten Lizenzen auszuwählen. Sollte die von Ihnen gewünschte Lizenz nicht dabei sein, bedienen Sie den Schalter <b>Nur OER-Lizenzen</b>, um auch restriktivere CC-Lizenzen wählen zu können.
       <figure>
-          <img src="images/Lizenzwahl.svg" alt="Abb. XXX: Screenshot Lizenzangaben auf twillo " title="Abb. XXX: Screenshot Lizenzangaben auf twillo "/>
+          <a href="images/Lizenzwahl.svg" target="_blank"><img src="images/Lizenzwahl.svg" alt="Abb. XXX: Screenshot Lizenzangaben auf twillo " title="Abb. XXX: Screenshot Lizenzangaben auf twillo "/></a>
           <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Lizenzangaben auf twillo </figcaption>
       </figure>
       Vergessen Sie nicht, nach der Wahl einer Lizenz auch die <b>Lizenzversion</b> zu bestimmen und Ihre Angabe zu <b>speichern</b>. 
       <figure>
-          <img src="images/Lizenzversion.svg" alt="Abb. XXX: Screenshot Wahl der Lizenzversion auf twillo " title="Abb. XXX: Screenshot Wahl der Lizenzversion auf twillo "/>
+          <a href="images/Lizenzversion.svg" target="_blank"><img src="images/Lizenzversion.svg" alt="Abb. XXX: Screenshot Wahl der Lizenzversion auf twillo " title="Abb. XXX: Screenshot Wahl der Lizenzversion auf twillo "/></a>
           <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Wahl der Lizenzversion auf twillo </figcaption>
       </figure>
       <br><br>
@@ -137,7 +137,7 @@ Der Workflow auf twillo umfasst vier Schritte:
       </ul>
       Gehen Sie in den Bereich <b>weitere Materialien</b> und ergänzen Sie Materialien über den Button <b>Hinzufügen</b>. Sofern Sie die Angaben nicht händisch anpassen, werden die bei dem Hauptmaterial hinterlegten Informationen inkl. gewählter Lizenz an das ergänzte Material übernommen.
       <figure>
-          <img src="images/Serienelement.svg" alt="Abb. XXX: Screenshot Serie anlegen auf twillo" title="Abb. XXX: Screenshot Serie anlegen auf twillo"/>
+          <a href="images/Serienelement.svg" target="_blank"><img src="images/Serienelement.svg" alt="Abb. XXX: Screenshot Serie anlegen auf twillo" title="Abb. XXX: Screenshot Serie anlegen auf twillo"/></a>
           <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Serie anlegen auf twillo</figcaption>
       </figure>
       <b>Didaktische Angaben</b>
@@ -168,7 +168,7 @@ Der Workflow auf twillo umfasst vier Schritte:
       <br><br>
       Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b>. Hier können Sie Ihr OER über den Schalter <b>Material öffentlich freigeben</b> veröffentlichen. Auch haben Sie die Möglichkeit, Ihr Material nur mit bestimmten Nutzer*innen des Portals zu teilen. Wählen Sie hierfür mit der Suchfunktion die gewünschten Personen aus und vergeben Sie über das Dropdownmenü eine Rolle. Vergessen Sie nicht, Ihre Freigabe mit dem Button <b>Einladen</b> zu bestätigen. Die Einladung von Personen kann nur erfolgen, wenn die betreffenden Personen einen twillo Account besitzen.
       <figure>
-        <img src="images/Freigabe.svg" alt="Abb. XXX: Screenshot Freigabe twillo" title="Abb. XXX: Screenshot Freigabe twillo"/>
+        <a href="images/Freigabe.svg" target="_blank"><img src="images/Freigabe.svg" alt="Abb. XXX: Screenshot Freigabe twillo" title="Abb. XXX: Screenshot Freigabe twillo"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. <font style="color:red">XXX</font>: Screenshot Freigabe twillo</figcaption>
       </figure>
       <b>Juhu! Sie haben OER auf twillo veröffentlicht!</b>
