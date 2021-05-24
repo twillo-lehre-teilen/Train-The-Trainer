@@ -11,7 +11,7 @@ Die öffentliche Zugänglichkeit Ihres Kurses erleichtert die Nachnutzung enorm:
 Es gibt verschiedene Wege Inhalte und ganze Kurse aus Courseware zu exportieren, um Sie anschließend auf anderen Plattformen bereitzustellen oder in die lokale Stud.IP-Installation eines anderen Standortes einzubinden. Ab der Stud.IP-Version 4.6 ist auch ein HTML-Export möglich, so dass die Lerninhalte im Browser angesehen und ausgeführt werden können. Für den Export Ihrer Inhalte wählen Sie im entsprechenden Kurs zunächst den Reiter Verwaltung.
 
 <figure style="align:middle;">
-  <img src="images/cw_admin.svg" alt="Abb. 84: Screenshot Courseware Verwaltung" title="Abb. 84: Screenshot Courseware Verwaltung"/>
+  <a href="images/cw_admin.svg" target="_blank"><img src="images/cw_admin.svg" alt="Abb. 84: Screenshot Courseware Verwaltung" title="Abb. 84: Screenshot Courseware Verwaltung"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 84: Screenshot Courseware Verwaltung</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ Es gibt verschiedene Wege Inhalte und ganze Kurse aus Courseware zu exportieren,
 Um ein Export-Archiv herunter zu laden, wählen Sie die entsprechende Option und speichern die Datei lokal auf Ihrem Gerät.
 
 <figure style="align:middle;">
-  <img src="images/cw_archiveExport.svg" alt="Abb. 85: Screenshot Courseware Export-Archiv herunterladen" title="Abb. 85: Screenshot Courseware Export-Archiv herunterladen"/>
+  <a href="images/cw_archiveExport.svg" target="_blank"><img src="images/cw_archiveExport.svg" alt="Abb. 85: Screenshot Courseware Export-Archiv herunterladen" title="Abb. 85: Screenshot Courseware Export-Archiv herunterladen"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 85: Screenshot Courseware Export-Archiv herunterladen</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Um ein Export-Archiv herunter zu laden, wählen Sie die entsprechende Option und
 Für den HTML-Export wählen Sie die entsprechende Option und speichern die Datei zunächst lokal auf Ihrem Gerät. Der HTML-Export kann ganz einfach gestartet werden, indem aus dem Verzeichnis die index.html Datei in Ihrem bevorzugten Browser geöffnet wird. 
 
 <figure style="align:middle;">
-  <img src="images/cw_htmlExport.svg" alt="Abb. 86: Screenshot Courseware HTML-Export herunterladen" title="Abb. 86: Screenshot Courseware HTML-Export herunterladen"/>
+  <a href="images/cw_htmlExport.svg" target="_blank"><img src="images/cw_htmlExport.svg" alt="Abb. 86: Screenshot Courseware HTML-Export herunterladen" title="Abb. 86: Screenshot Courseware HTML-Export herunterladen"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 86: Screenshot Courseware HTML-Export herunterladen</figcaption>
 </figure>
 
@@ -37,14 +37,14 @@ Für den HTML-Export wählen Sie die entsprechende Option und speichern die Date
 Sie können <i>in einer Stud.IP-Veranstaltung Courseware-Inhalte aus früheren Veranstaltungen importieren</i>. Dazu wählen Sie die Option "Aus Veranstaltung importieren" und wählen anschließend die Veranstaltung aus, aus welcher Sie den Inhalt einbinden möchten.
 
 <figure style="align:middle;">
-  <img src="images/cw_import.svg" alt="Abb. 87: Screenshot Courseware-Inhalt importieren" title="Abb. 87: Screenshot Courseware-Inhalt importieren"/>
+  <a href="images/cw_import.svg" target="_blank"><img src="images/cw_import.svg" alt="Abb. 87: Screenshot Courseware-Inhalt importieren" title="Abb. 87: Screenshot Courseware-Inhalt importieren"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 87: Screenshot Courseware-Inhalt importieren</figcaption>
 </figure>
 
 Courseware-Inhalte, die Ihnen zur Verfügung gestellt worden sind, können <i>über den Archiv-Import nachgenutzt</i> werden. Sobald Sie das entsprechende Verzeichnis importiert haben, können Sie den Kurs auch beliebig bearbeiten und Inhalte ergänzen, austauschen oder entfernen. Dabei ist es auch möglich, Inhalte aus früheren Versionen von Courseware in Stud.IP 4.6 zu importieren. Die entsprechenden Optionen stehen Ihnen im Menü zur Verfügung:
 
 <figure style="align:middle;">
-  <img src="images/cw_archiveImport.svg" alt="Abb. 88: Screenshot Courseware-Archiv importieren" title="Abb. 88: Screenshot Courseware-Archiv importieren"/>
+  <a href="images/cw_archiveImport.svg" target="_blank"><img src="images/cw_archiveImport.svg" alt="Abb. 88: Screenshot Courseware-Archiv importieren" title="Abb. 88: Screenshot Courseware-Archiv importieren"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 88: Screenshot Courseware-Archiv importieren</figcaption>
 </figure>
 
