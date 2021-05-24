@@ -67,7 +67,7 @@ Beachten Sie bei den Aufnahmen (Screencast oder Screenshots), dass weder Daten d
 </figure>
 
 <figure style="align:middle;">
-  <a href="images/moodle_Sicherung_Fertigstellen3.svg" target="_blank"><img src="images/moodle_Sicherung_Fertigstellen3.svg" alt="Abb. 74: Screenshot moodle Sicherungsdialog 4" title="Abb. 74: Screenshot moodle Sicherungsdialog 4"/></a>
+  <a href="images/moodle_Sicherung_Fertigstellen5.svg" target="_blank"><img src="images/moodle_Sicherung_Fertigstellen5.svg" alt="Abb. 74: Screenshot moodle Sicherungsdialog 4" title="Abb. 74: Screenshot moodle Sicherungsdialog 4"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 74: Screenshot moodle Sicherungsdialog 4</figcaption>
 </figure>
 
