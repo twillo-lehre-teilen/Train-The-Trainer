@@ -53,7 +53,7 @@ Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf e
       Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
       <a aria-describedby="Link zum twillo-Portal" href="http://www.twillo.de/" target="_blank">www.twillo.de</a>
       <figure style="align:middle;">
-        <img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb. 6: Screenshot der twillo Suchumgebung"/>
+        <a href="images/twillo_suche.svg" target="_blank"><img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb. 6: Screenshot der twillo Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 6: Screenshot der twillo Suchumgebung</figcaption>
       </figure>
     </p>
@@ -65,7 +65,7 @@ Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf e
 macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       <a aria-describedby="Link zum oersi" href="http://oersi.de/" target="_blank">www.oersi.de</a>
       <figure style="align:middle;">
-        <img src="images/oersi.svg" alt="Abb. 7: Screenshot der OERSI Suchumgebung " title="Abb. 7: Screenshot der OERSI Suchumgebung "/>
+        <a href="images/oersi.svg" target="_blank"><img src="images/oersi.svg" alt="Abb. 7: Screenshot der OERSI Suchumgebung " title="Abb. 7: Screenshot der OERSI Suchumgebung "/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 7: Screenshot der OERSI Suchumgebung </figcaption>
       </figure>
     </p>
@@ -76,7 +76,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       Bei X5GON handelt es sich um eine Plattform, die OER aus verschiedensten Quellen und Repositorien auffindbar macht.
       <a aria-describedby="Link zur X5GON Plattform" href="http://discovery.x5gon.org/" target="_blank">discovery.x5gon.org</a>
       <figure style="align:middle;">
-        <img src="images/x5gon.svg" alt="Abb. 8: Screenshot der X5GON Suchumgebung" title="Abb. 8: Screenshot der X5GON Suchumgebung"/>
+        <a href="images/x5gon.svg" target="_blank"><img src="images/x5gon.svg" alt="Abb. 8: Screenshot der X5GON Suchumgebung" title="Abb. 8: Screenshot der X5GON Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 8: Screenshot der X5GON Suchumgebung</figcaption>
       </figure>
     </p>
@@ -87,7 +87,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       OERhörnchen ist eine Suchmaschine für OER Materialien, die gezielt offene Lehr-/Lernmaterialien von ausgewählten Bildungsprojekten auffindbar macht.
       <a aria-describedby="Link zur OERhörnchen Suchmaschine" href="http://oerhoernchen.de/" target="_blank">www.oerhoernchen.de</a>
       <figure style="align:middle;">
-        <img src="images/oerhoernchen.svg" alt="Abb. 9: Screenshot der OERhörnchen Suchumgebung" title="Abb. 9: Screenshot der OERhörnchen Suchumgebung"/>
+        <a href="images/oerhoernchen.svg" target="_blank"><img src="images/oerhoernchen.svg" alt="Abb. 9: Screenshot der OERhörnchen Suchumgebung" title="Abb. 9: Screenshot der OERhörnchen Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 9: Screenshot der OERhörnchen Suchumgebung</figcaption>
       </figure>
     </p>
@@ -98,7 +98,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       CCsearch ist eine Suchmaschine für Materialien, die mit Creative Commons Lizenzen ausgezeichnet sind.
      <a aria-describedby="Link zur CCsearch Suchmaschine" href="http://ccsearch.creativecommons.org/" target="_blank">ccsearch.creativecommons.org</a>
       <figure style="align:middle;">
-        <img src="images/ccsearch_oer_suche.svg" alt="Abb. 10: Screenshot der CCsearch Suchumgebung" title="Abb. 10: Screenshot der CCsearch Suchumgebung"/>
+        <a href="images/ccsearch_oer_suche.svg" target="_blank"><img src="images/ccsearch_oer_suche.svg" alt="Abb. 10: Screenshot der CCsearch Suchumgebung" title="Abb. 10: Screenshot der CCsearch Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 10: Screenshot der CCsearch Suchumgebung</figcaption>
       </figure>
     </p>
@@ -109,7 +109,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       Wikimedia Commons ist eine Plattform, auf der offene lizenzierte Inhalte zur Nutzung bereit stehen.
       <a aria-describedby="Link zur Wikimedia Commons Plattform" href="http://commons.wikimedia.org/" target="_blank">commons.wikimedia.org</a>
       <figure style="align:middle;">
-        <img src="images/commonswikimedia.svg" alt="Abb. 11: Screenshot der Wikimedia Commons Suchumgebung" title="Abb. 11: Screenshot der Wikimedia Commons Suchumgebung"/>
+        <a href="images/commonswikimedia.svg" target="_blank"><img src="images/commonswikimedia.svg" alt="Abb. 11: Screenshot der Wikimedia Commons Suchumgebung" title="Abb. 11: Screenshot der Wikimedia Commons Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 11: Screenshot der Wikimedia Commons Suchumgebung</figcaption>
       </figure>
     </p>
@@ -120,7 +120,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       SlideWiki ist eine Open-Source-Plattform auf der Vorträge und Präsentationen unter einer offenen Lizenz bereitgestellt werden.
       <a aria-describedby="Link zu Slidewiki" href="https://slidewiki.org/" target="_blank">https://slidewiki.org/</a>
       <figure style="align:middle;">
-        <img src="images/slidewiki.svg" alt="Abb. 12: Screenshot der SlideWiki Suchumgebung" title="Abb. 12: Screenshot der SlideWiki Suchumgebung"/>
+        <a href="images/slidewiki.svg" target="_blank"><img src="images/slidewiki.svg" alt="Abb. 12: Screenshot der SlideWiki Suchumgebung" title="Abb. 12: Screenshot der SlideWiki Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 12: Screenshot der SlideWiki Suchumgebung</figcaption>
       </figure>
     </p>
@@ -135,17 +135,17 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
     <p>
       <h4>duckduckgo</h4><br>Duckduckgo ist eine Suchmaschine und stellt eine Alternative zu google dar. Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Lediglich bei Videos kann der Suchfilter Creative Commons angewendet werden.
       <figure style="align:middle;">
-        <img src="images/duckduckgo_OER Suche.svg" alt="Abb. 13: Screenshot der duckduckgo Suchumgebung" title="Abb. 13: Screenshot der duckduckgo Suchumgebung"/>
+        <a href="images/duckduckgo_OER Suche.svg" target="_blank"><img src="images/duckduckgo_OER Suche.svg" alt="Abb. 13: Screenshot der duckduckgo Suchumgebung" title="Abb. 13: Screenshot der duckduckgo Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot der duckduckgo Suchumgebung</figcaption>
       </figure>
       <br>
       <h4>Google</h4><br>Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 14). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 15).<br>
       <figure style="align:middle;">
-        <img src="images/google_oer_suche1.svg" alt="Abb. 14: Screenshot der google Suchumgebung" title="Abb. 14: Screenshot der google Suchumgebung"/>
+        <a href="images/google_oer_suche1.svg" target="_blank"><img src="images/google_oer_suche1.svg" alt="Abb. 14: Screenshot der google Suchumgebung" title="Abb. 14: Screenshot der google Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 14: Screenshot der Google Suchumgebung</figcaption>
       </figure>
       <figure style="align:middle;">
-        <img src="images/google_oer_suche2.svg" alt="Abb. 15.: Screenshot der Google-Suchfilter" title="Abb. 15.: Screenshot der Google-Suchfilter"/>
+        <a href="images/google_oer_suche2.svg" target="_blank"><img src="images/google_oer_suche2.svg" alt="Abb. 15.: Screenshot der Google-Suchfilter" title="Abb. 15.: Screenshot der Google-Suchfilter"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 15.: Screenshot der Google-Suchfilter</figcaption>
       </figure>
     </p>
@@ -155,43 +155,43 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
     <p>
       <h4>AV-Portal</h4><br>Im AV-Portal der Technischen Informationsibliothek (TIB) Hannover finden Sie eine Vielzahl wissenschaftlicher Filme. Zu allen Fachbereichen sind sowohl Vorträge, als auch Erklär- und Lernvideos vertreten. Es besteht auch die Möglichkeit, eigene wissenschaftliche Filme über das Portal zu veröffentlichen. Die zielgerichtete Suche nach OER- Materialien im AV- Portal erfolgt zunächst über die Eingabe des Begriffes in der Suchleiste (z.B. Begriff Paternalismus).
       <figure style="align:middle;">
-        <img src="images/AV_Portal_OER_Suche_screenshot1.svg" alt="Abb. 16: Screenshot der AV-Portal Suchumgebung" title="Abb. 16: Screenshot der AV-Portal Suchumgebung"/>
+        <a href="images/AV_Portal_OER_Suche_screenshot1.svg" target="_blank"><img src="images/AV_Portal_OER_Suche_screenshot1.svg" alt="Abb. 16: Screenshot der AV-Portal Suchumgebung" title="Abb. 16: Screenshot der AV-Portal Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 16: Screenshot der AV-Portal Suchumgebung</figcaption>
       </figure>
       In einem weiteren Schritt können die Ergebnistreffer durch verschiedene Filteroptionen im linken Seitenmenü eingegrenzt werden. Für die Suche nach OER Materialien, muss im Bereich "Wiederverwendung" der Filter "Open-Access" aktiviert werden.
       <figure style="align:middle;">
-        <img src="images/AV_Portal_OER_Suche_screenshot2.svg" alt="Abb. 17: Screenshot der AV-Portal Filteroptionen" title="Abb. 17: Screenshot der AV-Portal Filteroptionen"/>
+        <a href="images/AV_Portal_OER_Suche_screenshot2.svg" target="_blank"><img src="images/AV_Portal_OER_Suche_screenshot2.svg" alt="Abb. 17: Screenshot der AV-Portal Filteroptionen" title="Abb. 17: Screenshot der AV-Portal Filteroptionen"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot der AV-Portal Filteroptionen</figcaption>
       </figure>
       Angaben dazu, um welche Lizenz es sich konkret bei einem Video handelt, finden Sie nach einer Anwahl des gewünschten Videos in den Metadaten.
       <figure style="align:middle;">
-        <img src="images/AV_Portal_OER_Suche_screenshot3.svg" alt="Abb. 18: Screenshot der AV-Portal Lizenzangaben" title="Abb. 18: Screenshot der AV-Portal Lizenzangaben"/>
+        <a href="images/AV_Portal_OER_Suche_screenshot3.svg" target="_blank"><img src="images/AV_Portal_OER_Suche_screenshot3.svg" alt="Abb. 18: Screenshot der AV-Portal Lizenzangaben" title="Abb. 18: Screenshot der AV-Portal Lizenzangaben"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot der AV-Portal Lizenzangaben</figcaption>
       </figure>
       <br>
       <h4>Vimeo</h4><br>Die zielgerichtete Suche nach OER-Materialien auf der Videoplattform Vimeo erfolgt zunächst über die Eingabe des Begriffes in der Suchleiste (z.B. Begriff Systemtheor*). In einem weiteren Schritt können die Ergebnistreffer durch verschiedene Filteroptionenim linken Seitenmenü eingegrenzt werden.
       <figure style="align:middle;">
-        <img src="images/vimeo_oer_suche_screenshot1.svg" alt="Abb. 19: Screenshot der Vimeo Suchumgebung" title="Abb. 19: Screenshot der Vimeo Suchumgebung"/>
+        <a href="images/vimeo_oer_suche_screenshot1.svg" target="_blank"><img src="images/vimeo_oer_suche_screenshot1.svg" alt="Abb. 19: Screenshot der Vimeo Suchumgebung" title="Abb. 19: Screenshot der Vimeo Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 19: Screenshot der Vimeo Suchumgebung</figcaption>
       </figure>
       Für die Suche nach OER Materialien klicken Sie auf "mehr", um weitere Filteroptionen anwählen zu können. Dort finden Sie den Filter "Lizenz" mit verschiedenen Lizenzoptionen.
   Bereits durch die ausgegraute Lizenzen wird sichtbar, dass keine Videoressource zu dem Suchbegriff vorhanden ist, die unter CC BY lizenziert ist.
       <figure style="align:middle;">
-        <img src="images/vimeo_oer_suche_screenshot2.svg" alt="Abb. 20: Screenshot der Vimeo Lizenz-Filteroptionen" title="Abb. 20: Screenshot der Vimeo Lizenz-Filteroptionen"/>
+        <a href="images/vimeo_oer_suche_screenshot2.svg" target="_blank"><img src="images/vimeo_oer_suche_screenshot2.svg" alt="Abb. 20: Screenshot der Vimeo Lizenz-Filteroptionen" title="Abb. 20: Screenshot der Vimeo Lizenz-Filteroptionen"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 20: Screenshot der Vimeo Lizenz-Filteroptionen</figcaption>
       </figure>
       Um die Lizenzangaben eines ausgewählten Videos zu überpüfen, klicken Sie unterhalb der Videoanzeige auf den Button "mehr".
       <figure style="align:middle;">
-        <img src="images/vimeo_oer_suche_screenshot3.svg" alt="Abb. 21: Screenshot der Vimeo Lizenz-Information" title="Abb. 21: Screenshot der Vimeo Lizenz-Information"/>
+        <a href="images/vimeo_oer_suche_screenshot3.svg" target="_blank"><img src="images/vimeo_oer_suche_screenshot3.svg" alt="Abb. 21: Screenshot der Vimeo Lizenz-Information" title="Abb. 21: Screenshot der Vimeo Lizenz-Information"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 21: Screenshot der Vimeo Lizenz-Information</figcaption>
       </figure>
       <h4>Youtube</h4><br>Geben Sie den Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option "Filter" und schränken Sie die Ergebnisse im Bereich "Eigenschaften" durch die Wahl der Option "Creative Commons" ein.
       <figure style="align:middle;">
-        <img src="images/youtube_oer_suche.svg" alt="Abb. 22: Screenshot der YouTube Suchumgebung" title="Abb. 22: Screenshot der YouTube Suchumgebung"/>
+        <a href="images/youtube_oer_suche.svg" target="_blank"><img src="images/youtube_oer_suche.svg" alt="Abb. 22: Screenshot der YouTube Suchumgebung" title="Abb. 22: Screenshot der YouTube Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 22: Screenshot der YouTube Suchumgebung</figcaption>
       </figure>
       <figure style="align:middle;">
-        <img src="images/youtube_oer_suche2.svg" alt="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen" title="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen"/>
+        <a href="images/youtube_oer_suche2.svg" target="_blank"><img src="images/youtube_oer_suche2.svg" alt="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen" title="Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 23: Screenshot der Youtube Lizenz-Filteroptionen</figcaption>
       </figure>
     </p>
@@ -208,14 +208,14 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
         </p>
       </div>
       <figure style="align:middle;">
-        <img src="images/pixabay_suche_pixabay_license.svg" alt="Abb. 24: Screenshot der Pixabay Suchumgebung" title="Abb. 24: Screenshot der Pixabay Suchumgebung"/>
+        <a href="images/pixabay_suche_pixabay_license.svg" target="_blank"><img src="images/pixabay_suche_pixabay_license.svg" alt="Abb. 24: Screenshot der Pixabay Suchumgebung" title="Abb. 24: Screenshot der Pixabay Suchumgebung"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 24: Screenshot der Pixabay Suchumgebung</figcaption>
       </figure>
       <h4>Flickr</h4><br>
       Bei Flickr handelt es sich um ein Bilderportal, auf dem mitunter auch offen lizenzierte Bildmaterialien zur Verfügung gestellt werden. Nachdem Sie Ihren Suchbegriff eingegeben und Ihre Suche gestartet haben, können Sie den Filter "Beliebige Lizenz" nutzen, um CC-lizenzierte Bilder zu finden.
       <a aria-describedby="Link zum Flickr Portal" href="https://www.flickr.com/" target="_blank">https://www.flickr.com/</a>
       <figure style="align:middle;">
-        <img src="images/flickr_OER_suche.svg" alt="Abb. 25: Screenshot der Flickr Lizenz-Filteroptionen" title="Abb. 25: Screenshot der Flickr Lizenz-Filteroptionen"/>
+        <a href="images/flickr_OER_suche.svg" target="_blank"><img src="images/flickr_OER_suche.svg" alt="Abb. 25: Screenshot der Flickr Lizenz-Filteroptionen" title="Abb. 25: Screenshot der Flickr Lizenz-Filteroptionen"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 25: Screenshot der Flickr Lizenz-Filteroptionen</figcaption>
       </figure>
     </p>
@@ -237,7 +237,7 @@ Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frag
 <b>Prüfen Sie gründlich, ob die Lizenz die von Ihnen geplante Nutzung des Materials erlaubt.</b> Folgender Lizenzcheck (s. Abb. 14) soll Ihnen einfach und schnell helfen. Gehen Sie das Diagramm anhand der Leitfragen  durch. Finden Sie die Lizenz des Materials, das Sie gern nutzen möchten, in der Liste am Ende des Diagramms, steht Ihrer Planung nichts im Wege.
 
 <figure style="align:middle;">
-  <img src="images/Lizenzcheck.svg" alt="Abb. 26: Lizenzcheck für die Nachnutzung fremder OER" title="Abb. 26: Lizenzcheck für die Nachnutzung fremder OER"/>
+  <a href="images/Lizenzcheck.svg" target="_blank"><img src="images/Lizenzcheck.svg" alt="Abb. 26: Lizenzcheck für die Nachnutzung fremder OER" title="Abb. 26: Lizenzcheck für die Nachnutzung fremder OER"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 26: Lizenzcheck für die Nachnutzung fremder OER</figcaption>
 </figure>
 
@@ -351,7 +351,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
   <button class="accordion"><b>Erläuterungen zu den Lösungen</b></button>
   <div class="panel">
     <figure style="align:middle;">
-      <img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
+      <a href="images/Falsch1.svg" target="_blank"><img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/></a>
       <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
     </figure>
     <p>
@@ -361,7 +361,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
     </p>
     <hr style="height: 2px; background-color: #0B2161; border: 0;" /> 
     <figure style="align:middle;">
-      <img src="images/richtig.svg" alt="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel" title="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel"/>
+      <a href="images/richtig.svg" target="_blank"><img src="images/richtig.svg" alt="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel" title="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel"/></a>
       <figcaption style="text-align:center;font-size:14px;">Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel</figcaption>
     </figure>
     <p>
@@ -375,7 +375,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
     </p>
     <hr style="height: 2px; background-color: #0B2161; border: 0;" /> 
     <figure style="align:middle;">
-      <img src="images/falsch2.svg" alt="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/>
+      <a href="images/falsch2.svg" target="_blank"><img src="images/falsch2.svg" alt="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/></a>
       <figcaption style="text-align:center;font-size:14px;">Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
     </figure>
     <p>
