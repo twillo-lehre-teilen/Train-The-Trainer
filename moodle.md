@@ -46,18 +46,18 @@ Beachten Sie bei den Aufnahmen (Screencast oder Screenshots), dass weder Daten d
 
 <b>Dateigröße Maximal 640 MB</b>
 
-<figure style="align:middle;height:1000px;">
+<figure style="align:middle;">
   <img src="images/moodle_Sicherung.svg" alt="Abb. 70: Screenshot moodle Sicherungsfunktion" title="Abb. 70: Screenshot moodle Sicherungsfunktion"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 70: Screenshot moodle Sicherungsfunktion</figcaption>
 </figure>
 
 <figure style="align:middle;">
-  <img src="images/moodle_Sicherung_Einstellungen1.svg" alt="Abb. 71: Screenshot moodle Sicherungsdialog 1" title="Abb. 71: Screenshot moodle Sicherungsdialog 1" style="height:1000px;"/>
+  <a href="images/moodle_Sicherung_Einstellungen1.svg"><img src="images/moodle_Sicherung_Einstellungen1.svg" alt="Abb. 71: Screenshot moodle Sicherungsdialog 1" title="Abb. 71: Screenshot moodle Sicherungsdialog 1"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 71: Screenshot moodle Sicherungsdialog 1</figcaption>
 </figure>
 
 <figure style="align:middle;">
-  <img src="images/moodle_Sicherung_Einstellungen2.svg" alt="Abb. 72: Screenshot moodle Sicherungsdialog 2" title="Abb. 72: Screenshot moodle Sicherungsdialog 2" style="height:150%;"/>
+  <a href="images/moodle_Sicherung_Einstellungen2.svg" target="_blank"><img src="images/moodle_Sicherung_Einstellungen2.svg" alt="Abb. 72: Screenshot moodle Sicherungsdialog 2" title="Abb. 72: Screenshot moodle Sicherungsdialog 2"/></a>
   <figcaption style="text-align:center;font-size:14px;">Abb. 72: Screenshot moodle Sicherungsdialog 2</figcaption>
 </figure>
 
