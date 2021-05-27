@@ -17,7 +17,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/korb_orange.svg" alt="kleinteiliges Lehrmaterial" title="kleinteiliges Lehrmaterial" width="40%" height="40%"/>
+        <img src="images/korb_orange.svg" alt="Abb. 30: Kleinteiliges Lehrmaterial" title="Abb. 30: Kleinteiliges Lehrmaterial" width="40%" height="40%"/>
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
@@ -27,7 +27,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/korb_green.svg" alt="aufgabenorientiertes Material" title="aufgabenorientiertes Material" width="55%" height="55%"/>
+        <img src="images/korb_green.svg" alt="Abb. 31: Aufgabenorientiertes Materialien" title="Abb. 31: Aufgabenorientiertes Materialien" width="55%" height="55%"/>
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
@@ -37,7 +37,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/korb_red.svg" alt="Lektion" title="Lektion" width="70%" height="70%"/>
+        <img src="images/korb_red.svg" alt="Abb. 32: Lektionen" title="Abb. 32: Lektionen" width="70%" height="70%"/>
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
@@ -47,7 +47,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/korb_blue.svg" alt="Kurs" title="Kurs" width="85%" height="85%"/>
+        <img src="images/korb_blue.svg" alt="Abb. 33: Kurs2" title="Abb. 33: Kurs2" width="85%" height="85%"/>
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
@@ -217,7 +217,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
   <tr>
     <td width="20%">
       <figure>
-        <a href="images/offene_lizenz.svg" target="_blank"><img src="images/offene_lizenz.svg" alt="Offene Lizenz" title="Offene Lizenz" width="90%" height="90%"></a>
+        <a href="images/offene_lizenz.svg" target="_blank"><img src="images/offene_lizenz.svg" alt="Abb. 34: Offene Lizenz" title="Abb. 34: Offene Lizenz" width="90%" height="90%"></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 34: Offene Lizenz</figcaption>
       </figure>
     </td>
@@ -231,7 +231,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
   <tr>
     <td width="20%">
       <figure>
-        <a href="images/offenes_format.svg" target="_blank"><img src="images/offenes_format.svg" alt="Offenes Dateiformat" title="Offenes Dateiformat" width="90%" height="90%"></a>
+        <a href="images/offenes_format.svg" target="_blank"><img src="images/offenes_format.svg" alt="Abb. 35: Offenes Dateiformat" title="Abb. 35: Offenes Dateiformat" width="90%" height="90%"></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 35: Offenes Dateiformat</figcaption>
       </figure>
     </td>
