@@ -300,7 +300,7 @@ Die Grundlagen zum Nachlesen:
       <b><font size="10">+B</font></b>
     </td>
     <td valign="middle" text-align="left" width="90%">
-      Haben Sie eine <b>Bearbeitung</b>  an dem Material vorgenommen, muss dies ebenfalls kenntlich gemacht werden.
+      Haben Sie eine <b>BEARBEITUNG</b> an dem Material vorgenommen, muss dies ebenfalls kenntlich gemacht werden.
     </td>
   </tr>
 </table>
