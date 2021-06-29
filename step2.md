@@ -297,15 +297,15 @@ Die Grundlagen zum Nachlesen:
   </tr>
   <tr>
     <td valign="middle" text-align="middle" width="10%">
-      <b><font size="10">+V</font></b>
+      <b><font size="10">+B</font></b>
     </td>
     <td valign="middle" text-align="left" width="90%">
-      Haben Sie eine <b>VERÄNDERUNG</b>  an dem Material vorgenommen, muss dies ebenfalls kenntlich gemacht werden.
+      Haben Sie eine <b>Bearbeitung</b>  an dem Material vorgenommen, muss dies ebenfalls kenntlich gemacht werden.
     </td>
   </tr>
 </table>
 
-<font size="3">Tabelle TULLU+V von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font>
+<font size="3">Tabelle TULLU+B von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font>
 
 <b>Ausnahmen und Sonderfälle</b>
 <div>
