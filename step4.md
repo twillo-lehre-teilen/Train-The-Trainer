@@ -246,7 +246,14 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
   <button class="accordion">8. Gemeinsam an einem Kurs arbeiten</button>
   <div class="panel">
     <p>
-  </p>
+      Sie möchten Ihren LiaScript Kurs nicht allein, sondern zusammen mit anderen Personen bearbeiten? Kein Problem. Zwar lässt sich das Einladen weiterer Mitarbeiterinnen nicht in Atom erledigen, über GitHub ist dies aber einfach möglich. Der Dienst ist hervorragend für die Zusammenarbeit mehrerer Personen an einem Projekt geeignet.
+    </p>
+    <div class="warningbox">
+      <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
+        <br><br>
+        Damit Sie anderen Personen Zugriff auf Ihren Kurs ermöglichen können, müssen diese bei GitHub angemeldet sein. Alle Informationen zum Einrichten eines GitHub Accounts finden Sie unter Punkt 4 "Verbindung zu GitHub herstellen".
+      </p>
+    </div>
   </div>
 </div>
 
