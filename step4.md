@@ -257,8 +257,21 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       <b>8.1 Wie Sie andere Personen zur Mitarbeit einladen</b>
 
-Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg\*innen einladen möchten und gehen Sie auf den Reiter Settings.
+Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg\*innen einladen möchten und gehen Sie auf den Reiter <b>Settings<b>.
     </p>
+    <br><br>
+      <figure style="align:middle;">
+        <a href="images/atom_add_contributors1.svg" target="_blank"><img src="images/file_settings.svg" alt="Abbildung: Screenshot Repository Settings in GitHub" title="Abbildung: Screenshot Repository Settings in GitHub"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Repository Settings in GitHub</figcaption>
+      </figure>
+      <br>
+      Wechseln Sie hier nun in den Abschnitt <b>Manage access</b>.
+      <br><br>
+      <figure style="align:middle;">
+        <a href="images/atom_add_contributors2.svg" target="_blank"><img src="images/file_settings.svg" alt="Abbildung: Screenshot Repository Settings in GitHub" title="Abbildung: Screenshot Repository Settings in GitHub"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Repository Settings in GitHub</figcaption>
+      </figure>
+      <br>
   </div>
 </div>
 
