@@ -298,8 +298,7 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       <br>
       <p>
         Hurra! Sie haben Ihre\*n Mitarbeite\r*in erfolgreich zu Ihrem Repository hinzugefügt.
-        
-        <b>8.2 Wie Sie vorgehen, wenn Sie zur Mitarbeit an einem Repository eingelanden wurden</b>
+        <br><b>8.2 Wie Sie vorgehen, wenn Sie zur Mitarbeit an einem Repository eingelanden wurden</b>
         
         Wurde der Zugang zu einem Repository für Sie als Mitarbeiter\*in freigeschaltet, erhalten Sie automatisch eine Einladung per Mail. Warten Sie nicht zu lange, damit die Einladung zu bestätigen. Der Einladungslink in der E-Mail ist nur für einen Zeitraum von 7 Tagen gültig.
       </p>
