@@ -272,6 +272,45 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
       </figure>
       <br>
+      <p>
+        Dort angekommen können Sie mit einem Klick auf den Button <b>Invite a collaborator</b> eine\*n Mitarbeiter\*in hinzufügen.
+      </p>
+      <figure style="align:middle;">
+        <a href="images/git_add_contributors3.svg" target="_blank"><img src="images/git_add_contributors3.svg" alt="Abbildung: Screenshot Mitarbeiter\*innen zu einem auf GitHub Repository einladen" title="Abbildung: Screenshot Mitarbeiter\*innen zu einem auf GitHub Repository einladen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
+      </figure>
+      <br>
+      <p>
+        Sie haben hierbei die Möglichkeit Ihre Mitarbeitenden via GitHub Usernamen, echten Namen oder E-Mail Addresse zu finden.
+      </p>
+      <figure style="align:middle;">
+        <a href="images/git_add_contributors4.svg" target="_blank"><img src="images/git_add_contributors4.svg" alt="Abbildung: Screenshot Mitarbeiter*innen finden" title="Abbildung: Screenshot Mitarbeiter*innen finden"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
+      </figure>
+      <br>
+      <p>
+        Wählen Sie die\*den gewünschte\*n Mitarbeitende\*n aus und klicken Sie anschließend auf <b>Add <Username> to this repository</b>. Selbstverständlich können Sie auch mehr als nur eine Person zur Mitarbeit an Ihrem Repository einladen.
+      </p>
+      <figure style="align:middle;">
+        <a href="images/git_add_contributors5.svg" target="_blank"><img src="images/git_add_contributors5.svg" alt="Abbildung: Screenshot Mitarbeiter\*innen hinzufügen" title="Abbildung: Screenshot Mitarbeiter\*innen hinzufügen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
+      </figure>
+      <br>
+      <p>
+        Hurra! Sie haben Ihre*n Mitarbeiter*in erfolgreich zu Ihrem Repository hinzugefügt.
+        
+        <b>8.2 Wie Sie vorgehen, wenn Sie zur Mitarbeit an einem Repository eingelanden wurden</b>
+        
+        Wurde der Zugang zu einem Repository für Sie als Mitarbeiter*in freigeschaltet, erhalten Sie automatisch eine Einladung per Mail. Warten Sie nicht zu lange, damit die Einladung zu bestätigen. Der Einladungslink in der E-Mail ist nur für einen Zeitraum von 7 Tagen gültig.
+      </p>
+      <figure style="align:middle;">
+        <a href="images/invitation_mail.svg" target="_blank"><img src="images/invitation_mail.svg" alt="Abbildung: Screenshot Einladung zu einem GitHub Repository" title="Abbildung: Screenshot Einladung zu einem GitHub Repository"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
+      </figure>
+      <br>
+      <p>
+        Über den Button View invitation werden Sie zu GitHub weitergeleitet. Dort können Sie nach dem Login auf den Button Accept invitation klicken, um die Einladung anzunehmen. Anschließend sind Sie als Collaborator in das Repository eingetragen, d.h. sie können direkt im GitHub Repository Inhalte erstellen und verändern. 
+      </p>
   </div>
 </div>
 
