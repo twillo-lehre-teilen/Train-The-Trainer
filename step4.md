@@ -284,7 +284,7 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
         Sie haben hierbei die Möglichkeit Ihre Mitarbeitenden via GitHub Usernamen, echten Namen oder E-Mail Addresse zu finden.
       </p>
       <figure style="align:middle;">
-        <a href="images/git_add_contributors4.svg" target="_blank"><img src="images/git_add_contributors4.svg" alt="Abbildung: Screenshot Mitarbeiter*innen finden" title="Abbildung: Screenshot Mitarbeiter*innen finden"/></a>
+        <a href="images/git_add_contributors4.svg" target="_blank"><img src="images/git_add_contributors4.svg" alt="Abbildung: Screenshot Mitarbeiter\*innen finden" title="Abbildung: Screenshot Mitarbeiter\*innen finden"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter*innen finden</figcaption>
       </figure>
       <br>
