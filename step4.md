@@ -257,7 +257,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       <b>8.1 Wie Sie andere Personen zur Mitarbeit einladen</b>
 
-Geben Sie Ihren Mitarbeiter*innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg*innen einladen möchten und gehen Sie auf den Reiter Settings.
+Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg\*innen einladen möchten und gehen Sie auf den Reiter Settings.
     </p>
   </div>
 </div>
