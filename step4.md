@@ -243,6 +243,11 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       </figure>
     </p>
   </div>
+  <button class="accordion">8. Gemeinsam an einem Kurs arbeiten</button>
+  <div class="panel">
+    <p>
+  </p>
+  </div>
 </div>
 
 ---
