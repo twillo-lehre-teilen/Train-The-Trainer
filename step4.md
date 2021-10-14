@@ -307,7 +307,7 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       </figure>
       <br>
       <p>
-        Über den Button View invitation werden Sie zu GitHub weitergeleitet. Dort können Sie nach dem Login auf den Button Accept invitation klicken, um die Einladung anzunehmen. Anschließend sind Sie als Collaborator in das Repository eingetragen, d.h. sie können direkt im GitHub Repository Inhalte erstellen und verändern. 
+        Über den Button <b>View invitation</b> werden Sie zu GitHub weitergeleitet. Dort können Sie nach dem Login auf den Button <b>Accept invitation</b> klicken, um die Einladung anzunehmen. Anschließend sind Sie als <b>Collaborator</b> in das Repository eingetragen, d.h. sie können direkt im GitHub Repository Inhalte erstellen und verändern. 
       </p>
   </div>
 </div>
