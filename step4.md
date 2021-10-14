@@ -277,7 +277,7 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       </p>
       <figure style="align:middle;">
         <a href="images/git_add_contributors3.svg" target="_blank"><img src="images/git_add_contributors3.svg" alt="Abbildung: Screenshot Mitarbeiter\*innen zu einem auf GitHub Repository einladen" title="Abbildung: Screenshot Mitarbeiter\*innen zu einem auf GitHub Repository einladen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter\*innen zu einem auf GitHub Repository einladen</figcaption>
       </figure>
       <br>
       <p>
@@ -285,7 +285,7 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       </p>
       <figure style="align:middle;">
         <a href="images/git_add_contributors4.svg" target="_blank"><img src="images/git_add_contributors4.svg" alt="Abbildung: Screenshot Mitarbeiter*innen finden" title="Abbildung: Screenshot Mitarbeiter*innen finden"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter*innen finden</figcaption>
       </figure>
       <br>
       <p>
@@ -293,19 +293,19 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       </p>
       <figure style="align:middle;">
         <a href="images/git_add_contributors5.svg" target="_blank"><img src="images/git_add_contributors5.svg" alt="Abbildung: Screenshot Mitarbeiter\*innen hinzufügen" title="Abbildung: Screenshot Mitarbeiter\*innen hinzufügen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter\*innen hinzufügen</figcaption>
       </figure>
       <br>
       <p>
-        Hurra! Sie haben Ihre*n Mitarbeiter*in erfolgreich zu Ihrem Repository hinzugefügt.
+        Hurra! Sie haben Ihre\*n Mitarbeite\r*in erfolgreich zu Ihrem Repository hinzugefügt.
         
         <b>8.2 Wie Sie vorgehen, wenn Sie zur Mitarbeit an einem Repository eingelanden wurden</b>
         
-        Wurde der Zugang zu einem Repository für Sie als Mitarbeiter*in freigeschaltet, erhalten Sie automatisch eine Einladung per Mail. Warten Sie nicht zu lange, damit die Einladung zu bestätigen. Der Einladungslink in der E-Mail ist nur für einen Zeitraum von 7 Tagen gültig.
+        Wurde der Zugang zu einem Repository für Sie als Mitarbeiter\*in freigeschaltet, erhalten Sie automatisch eine Einladung per Mail. Warten Sie nicht zu lange, damit die Einladung zu bestätigen. Der Einladungslink in der E-Mail ist nur für einen Zeitraum von 7 Tagen gültig.
       </p>
       <figure style="align:middle;">
         <a href="images/invitation_mail.svg" target="_blank"><img src="images/invitation_mail.svg" alt="Abbildung: Screenshot Einladung zu einem GitHub Repository" title="Abbildung: Screenshot Einladung zu einem GitHub Repository"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Einladung zu einem GitHub Repository</figcaption>
       </figure>
       <br>
       <p>
