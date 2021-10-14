@@ -261,14 +261,14 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
     </p>
     <br><br>
       <figure style="align:middle;">
-        <a href="images/atom_add_contributors1.svg" target="_blank"><img src="images/file_settings.svg" alt="Abbildung: Screenshot Repository Settings in GitHub" title="Abbildung: Screenshot Repository Settings in GitHub"/></a>
+        <a href="images/atom_add_contributors1.svg" target="_blank"><img src="images/atom_add_contributors1.svg" alt="Abbildung: Screenshot Repository Settings in GitHub" title="Abbildung: Screenshot Repository Settings in GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Repository Settings in GitHub</figcaption>
       </figure>
       <br>
       Wechseln Sie hier nun in den Abschnitt <b>Manage access</b>.
       <br><br>
       <figure style="align:middle;">
-        <a href="images/atom_add_contributors2.svg" target="_blank"><img src="images/file_settings.svg" alt="Abbildung: Screenshot Zugriff verwalten in GitHub" title="Abbildung: Screenshot Zugriff verwalten in GitHub"/></a>
+        <a href="images/atom_add_contributors2.svg" target="_blank"><img src="images/atom_add_contributors2.svg" alt="Abbildung: Screenshot Zugriff verwalten in GitHub" title="Abbildung: Screenshot Zugriff verwalten in GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
       </figure>
       <br>
