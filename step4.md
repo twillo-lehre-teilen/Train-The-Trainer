@@ -309,12 +309,24 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       <p>
         Über den Button <b>View invitation</b> werden Sie zu GitHub weitergeleitet. Dort können Sie nach dem Login auf den Button <b>Accept invitation</b> klicken, um die Einladung anzunehmen. Anschließend sind Sie als <b>Collaborator</b> in das Repository eingetragen, d.h. sie können direkt im GitHub Repository Inhalte erstellen und verändern.
         <br><br>
-        Um nun auch über Atom an der für Sie freigegebenen Kursdatei arbeiten zu können, müssen Sie den Kurs auf ihrem Rechner lokal klonen. Dafür gehen Sie in GitHub auf das Repository, an dem Sie mitarbeiten wollen. Anschließend und kopieren Sie den Link, der Ihnen angezeigt wird wenn Sie auf den grünen Code-Button klicken. Wichtig hierbei ist, dass oben HTTPS ausgewählt ist. Dies entspricht auch der automatischen Voreinstellung.
+        Um nun auch über Atom an der für Sie freigegebenen Kursdatei arbeiten zu können, müssen Sie den Kurs auf ihrem Rechner lokal <b>klonen</b>. Dafür gehen Sie in GitHub auf das Repository, an dem Sie mitarbeiten wollen. Anschließend und kopieren Sie den Link, der Ihnen angezeigt wird wenn Sie auf den grünen <b>Code</b>-Button klicken. Wichtig hierbei ist, dass oben <b>HTTPS</b> ausgewählt ist. Dies entspricht auch der automatischen Voreinstellung.
       </p>
       <figure style="align:middle;">
         <a href="images/copy_repo_link.svg" target="_blank"><img src="images/git_add_contributors5.svg" alt="Abbildung: Screenshot Kopieren eines Repository Links in GitHub" title="Abbildung: Screenshot Kopieren eines Repository Links in GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Kopieren eines Repository Links in GitHub</figcaption>
       </figure>
+      <p>
+        Öffnen Sie nun Atom und klicken unten rechts auf das Feld <b>GitHub (1)</b>. Wählen Sie in dem sich daraufhin öffnenden Reiter die Option <b>Clone an existing GitHub Repository (2)</b> aus und fügen Sie den kopierten Link unter <b>Clone from (3)</b> ein. In dem Feld darunter, <b>To directory (4)</b>, können Sie den Pfad zu dem Ort auf ihrem PC angeben, an dem das Repository gespeichert werden soll. Für das Repository wird dabei automatisch ein eigener Ordner angelegt, der alle zugehörigen Dateien enthält. Um den Klonvorgang abzuschließen, klicken Sie auf <b>Clone (5)</b>.
+      </p>
+      <figure style="align:middle;">
+        <a href="images/open_repo_in_atom.svg" target="_blank"><img src="images/open_repo_in_atom.svg" alt="Abbildung: Screenshot GitHub Repository mit Atom verknüpfen" title="Abbildung: Screenshot GitHub Repository mit Atom verknüpfen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Repository mit Atom verknüpfen</figcaption>
+      </figure>
+      <p>
+        Sie können nun unter <b>file → open file...</b> die Kursdatei (Endung .md) auswählen und daran arbeiten. Wie das funktioniert ist unter Punkt 3 "Kurs strukturieren, Inhalte einfügen" dieses Workflows beschrieben.
+<br><br>
+Viel Spaß beim Erstellen vielfältiger Lehrmaterialen mit LiaScript! 
+      </p>
   </div>
 </div>
 
