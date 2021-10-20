@@ -324,7 +324,7 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       <p>
         Sie können nun unter <b>file → open file...</b> die Kursdatei (Endung .md) auswählen und daran arbeiten. Wie das funktioniert ist unter Punkt 3 "Kurs strukturieren, Inhalte einfügen" dieses Workflows beschrieben.
 <br><br>
-Viel Spaß beim Erstellen vielfältiger Lehrmaterialen mit LiaScript! 
+        <center>Viel Spaß beim Erstellen vielfältiger Lehrmaterialen mit LiaScript!</center>
       </p>
   </div>
 </div>
