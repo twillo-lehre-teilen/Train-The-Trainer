@@ -331,7 +331,6 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       </p>
       <div class="infobox">
       <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Wichtige Hinweise zum gemeinsamen Arbeiten in Git:</b>
-      <br><br>
         <ul>
           <li>Damit Sie immer an der aktuellsten Fassung Ihres Kurses arbeiten, müssen Sie vor Beginn der Arbeit an dem Kursdokument unbedingt den Button fetch klicken</li>
           <li>Pushen Sie lieber öfter kleine Änderungen, anstatt einmalig einer großen</li>
