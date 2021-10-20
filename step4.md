@@ -305,7 +305,6 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
         <a href="images/invitation_mail.svg" target="_blank"><img src="images/invitation_mail.svg" alt="Abbildung: Screenshot Einladung zu einem GitHub Repository" title="Abbildung: Screenshot Einladung zu einem GitHub Repository"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Einladung zu einem GitHub Repository</figcaption>
       </figure>
-      <br>
       <p>
         Über den Button <b>View invitation</b> werden Sie zu GitHub weitergeleitet. Dort können Sie nach dem Login auf den Button <b>Accept invitation</b> klicken, um die Einladung anzunehmen. Anschließend sind Sie als <b>Collaborator</b> in das Repository eingetragen, d.h. sie können direkt im GitHub Repository Inhalte erstellen und verändern.
         <br><br>
