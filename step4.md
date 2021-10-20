@@ -307,8 +307,14 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       </figure>
       <br>
       <p>
-        Über den Button <b>View invitation</b> werden Sie zu GitHub weitergeleitet. Dort können Sie nach dem Login auf den Button <b>Accept invitation</b> klicken, um die Einladung anzunehmen. Anschließend sind Sie als <b>Collaborator</b> in das Repository eingetragen, d.h. sie können direkt im GitHub Repository Inhalte erstellen und verändern. 
+        Über den Button <b>View invitation</b> werden Sie zu GitHub weitergeleitet. Dort können Sie nach dem Login auf den Button <b>Accept invitation</b> klicken, um die Einladung anzunehmen. Anschließend sind Sie als <b>Collaborator</b> in das Repository eingetragen, d.h. sie können direkt im GitHub Repository Inhalte erstellen und verändern.
+        <br><br>
+        Um nun auch über Atom an der für Sie freigegebenen Kursdatei arbeiten zu können, müssen Sie den Kurs auf ihrem Rechner lokal klonen. Dafür gehen Sie in GitHub auf das Repository, an dem Sie mitarbeiten wollen. Anschließend und kopieren Sie den Link, der Ihnen angezeigt wird wenn Sie auf den grünen Code-Button klicken. Wichtig hierbei ist, dass oben HTTPS ausgewählt ist. Dies entspricht auch der automatischen Voreinstellung.
       </p>
+      <figure style="align:middle;">
+        <a href="images/copy_repo_link.svg" target="_blank"><img src="images/git_add_contributors5.svg" alt="Abbildung: Screenshot Kopieren eines Repository Links in GitHub" title="Abbildung: Screenshot Kopieren eines Repository Links in GitHub"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Kopieren eines Repository Links in GitHub</figcaption>
+      </figure>
   </div>
 </div>
 
