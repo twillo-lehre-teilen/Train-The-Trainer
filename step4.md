@@ -254,6 +254,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         Damit Sie anderen Personen Zugriff auf Ihren Kurs ermöglichen können, müssen diese bei GitHub angemeldet sein. Alle Informationen zum Einrichten eines GitHub Accounts finden Sie unter Punkt 4 "Verbindung zu GitHub herstellen".
       </p>
     </div>
+    <b>Beachten Sie bei der Arbeit mit mehreren Personen an einem Git-Projekt unbedingt die Hinweise im Infokasten am Ende dieses Schrittes!</b>
     <p>
       <b>8.1 Wie Sie andere Personen zur Mitarbeit einladen</b>
 
