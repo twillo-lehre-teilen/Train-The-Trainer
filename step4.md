@@ -326,6 +326,16 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
 <br><br>
         <center>Viel Spaß beim Erstellen vielfältiger Lehrmaterialen mit LiaScript!</center>
       </p>
+     <div class="warningbox">
+      <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtige Hinweise zum gemeinsamen Arbeiten in Git</b>
+    <br><br>
+        <ul>
+        <li>Damit Sie immer an der aktuellsten Fassung Ihres Kurses arbeiten, müssen Sie vor Beginn der Arbeit an dem Kursdokument unbedingt den Button fetch klicken</li>
+        <li>Pushen Sie lieber öfter kleine Änderungen, anstatt einmalig einer großen</li>
+        <li>Um Versionskollisionen zu vermeiden, klicken Sie unbedingt auch einmal den Button fetch bevor Sie etwas pushen!</li>
+        </ul>
+      </p>
+    </div>
   </div>
 </div>
 
