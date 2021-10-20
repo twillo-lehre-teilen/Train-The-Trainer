@@ -285,7 +285,7 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       </p>
       <figure style="align:middle;">
         <a href="images/git_add_contributors4.svg" target="_blank"><img src="images/git_add_contributors4.svg" alt="Abbildung: Screenshot Mitarbeiter\*innen finden" title="Abbildung: Screenshot Mitarbeiter\*innen finden"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter*innen finden</figcaption>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter\*innen finden</figcaption>
       </figure>
       <br>
       <p>
