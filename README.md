@@ -7,8 +7,8 @@ Diese <b>OER Challenge</b> soll Sie Schritt für Schritt bei der Digitalisierung
 Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroom angelegt. Zwei Webinartermine und ein Praxisworkshop dienen als Rahmung einer selbstgesteuerten, praxsorientierten E-Learning-Phase.  Im folgenden erhalten Sie einen Überblick, über Ziele und Inhalte der einzelnen Lerneinheiten des Weiterbildungsangebots.
 
 <figure>
-    <a href="images/AdvanceOrganizer_TraintheTrainer.svg" target="_blank"><img src="images/AdvanceOrganizer_TraintheTrainer.svg" alt="Abb. 1: OER Challenge" title="Abb. 1: OER Challenge"/></a>
-    <figcaption style="text-align:center;font-size:14px;">Abb. 1: OER Challenge</figcaption>
+    <a href="images/AdvanceOrganizer_TraintheTrainer.svg" target="_blank"><img src="images/AdvanceOrganizer_TraintheTrainer.svg" alt="Abbildung: OER Challenge" title="Abbildung: OER Challenge"/></a>
+    <figcaption style="text-align:center;font-size:14px;">Abbildung: OER Challenge</figcaption>
 </figure>
 </center>
 
@@ -76,6 +76,6 @@ Das abschließende Webinar stellt eine Lessons Learned Einheit dar, in der die z
     </b>
 </center>
 <figure>
-    <img src="images/lineart_person_with_hand_up.svg" alt="Abb. 2: Person with hand up von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. 2: Person with hand up von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
-    <figcaption style="text-align:center;font-size:14px;">Abb. 2: Person with hand up von Merle Zander und twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY (4.0)</a></figcaption>
+    <img src="images/lineart_person_with_hand_up.svg" alt="Abbildung: Person with hand up von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abbildung: Person with hand up von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
+    <figcaption style="text-align:center;font-size:14px;">Abbildung: Person with hand up von Merle Zander und twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY (4.0)</a></figcaption>
 </figure>
