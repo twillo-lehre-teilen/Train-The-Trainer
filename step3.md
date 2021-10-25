@@ -17,7 +17,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/korb_orange.svg" alt="Abb. 30: Kleinteiliges Lehrmaterial" title="Abb. 30: Kleinteiliges Lehrmaterial" width="40%" height="40%"/>
+        <img src="images/korb_orange.svg" alt="Abbildung: Kleinteiliges Lehrmaterial" title="Abbildung: Kleinteiliges Lehrmaterial" width="40%" height="40%"/>
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
@@ -27,7 +27,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/korb_green.svg" alt="Abb. 31: Aufgabenorientiertes Materialien" title="Abb. 31: Aufgabenorientiertes Materialien" width="55%" height="55%"/>
+        <img src="images/korb_green.svg" alt="Abbildung: Aufgabenorientiertes Materialien" title="Abbildung: Aufgabenorientiertes Materialien" width="55%" height="55%"/>
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
@@ -37,7 +37,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/korb_red.svg" alt="Abb. 32: Lektionen" title="Abb. 32: Lektionen" width="70%" height="70%"/>
+        <img src="images/korb_red.svg" alt="Abbildung: Lektionen" title="Abbildung: Lektionen" width="70%" height="70%"/>
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
@@ -47,7 +47,7 @@ Bei der Erstellung komplexer Lektionen oder Kurse kann ein vorab erstellter Fahr
   <tr>
     <td valign="middle" text-align="left" width="60%">
       <figure style="float:left;align:middle;">
-        <img src="images/korb_blue.svg" alt="Abb. 33: Kurs2" title="Abb. 33: Kurs2" width="85%" height="85%"/>
+        <img src="images/korb_blue.svg" alt="Abbildung: Kurs2" title="Abbildung: Kurs2" width="85%" height="85%"/>
       </figure>
     </td>
     <td valign="left" text-align="left" width="40%">
