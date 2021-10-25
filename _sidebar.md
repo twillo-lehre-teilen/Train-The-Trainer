@@ -12,11 +12,9 @@
 
 * [4: OER in Systemen abbilden](step4.md)
 
-   * [Ilias](ilias.md)
+   * [Ilias](step4.1.md)
    
-   * [Moodle](moodle.md)
-   
-   * [Courseware](courseware.md)
+   * [Moodle](step4.2.md)
 
 * [5: OER teilen](step5.md)
 
