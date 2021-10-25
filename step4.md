@@ -31,15 +31,15 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       Öffnen Sie Atom und wählen Sie in der Menüleiste oben unter <b>File</b> den Reiter <b>Settings</b>.
       <br><br>
       <figure style="align:middle;">
-        <a href="images/file_settings.svg" target="_blank"><img src="images/file_settings.svg" alt="Abb. 36: Screenshot der Atom Einstellungen" title="Abb. 36: Screenshot der Atom Einstellungen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 36: Screenshot der Atom Einstellungen</figcaption>
+        <a href="images/file_settings.svg" target="_blank"><img src="images/file_settings.svg" alt="Abbildung: Screenshot der Atom Einstellungen" title="Abbildung: Screenshot der Atom Einstellungen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot der Atom Einstellungen</figcaption>
       </figure>
       <br>
       In dem folgenden Fenster wählen Sie die Option <b>+Install</b> an und geben Sie <b>liascript-preview</b> in das Suchfeld ein. Erscheint das Plugin in den Suchergebnisse, starten Sie die Installation mit einem Klick auf den Button <b>install</b>.
       <br><br>
       <figure style="align:middle;">
-        <a href="images/install_plugin.svg" target="_blank"><img src="images/install_plugin.svg" alt="Abb. 37: Screenshot der Installation des LiaScript-Plugins in Atom" title="Abb. 37: Screenshot der Installation des LiaScript-Plugins in Atom"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 37: Screenshot der Installation des LiaScript-Plugins in Atom</figcaption>
+        <a href="images/install_plugin.svg" target="_blank"><img src="images/install_plugin.svg" alt="Abbildung: Screenshot der Installation des LiaScript-Plugins in Atom" title="Abbildung: Screenshot der Installation des LiaScript-Plugins in Atom"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot der Installation des LiaScript-Plugins in Atom</figcaption>
       </figure>
     </p>
   </div>
@@ -48,14 +48,14 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       Um ein neues Lernmodul anzulegen, öffnen Sie den Reiter <b>File</b> und wählen Sie <b>New file</b> aus <b>oder</b> drücken Sie die Tastenkombination Strg und N. Auf der rechten Seite der Atom Umgebung öffnet sich nun ein Eingabefeld.  Hier geben Sie eine Überschrift zu Ihrem Lernmodul ein. <b>Wichtig:</b> Da in der Anwendung mit Markdown gearbeitet werden muss, vergessen Sie bitte nicht einen Hashtag vor Ihre Überschrift zu setzen. Beispiel: <b># Mein LiaScript Kurs</b>. Speichern Sie das Dokument anschließend unter <b>File</b> und <b>Save</b> oder durch die Tastenkombination <b>Strg und S</b>. Es öffnet sich ein Fenster mit dem Sie einen Dateinamen bestimmen und einen Speicheroft für das Dokument auswählen können.
       <figure style="align:middle;">
-        <a href="images/new_file.svg" target="_blank"><img src="images/new_file.svg" alt="Abb. 38: Screenshot Erstellung eines Dokuments in Atom" title="Abb. 38: Screenshot Erstellung eines Dokuments in Atom"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 38: Screenshot Erstellung eines Dokuments in Atom</figcaption>
+        <a href="images/new_file.svg" target="_blank"><img src="images/new_file.svg" alt="Abbildung: Screenshot Erstellung eines Dokuments in Atom" title="Abbildung: Screenshot Erstellung eines Dokuments in Atom"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Dokuments in Atom</figcaption>
       </figure>
       <br>
       Aktivieren Sie nun das LiaScript Plugin. Wählen Sie unter <b>Packages</b> im Kopfmenü den Reiter <b>liascript-preview</b> und dann <b>Toggle</b>. Rehts neben dem Eingabefeld erscheint nun eine Vorschau Ihres Kurses. Bei jedem Speichern (<b>File</b> und <b>Save</b> im Kopfmenü oder Tastenkombination Strg und S) aktualisiert sich die Vorschau automatisch. Um die Ansicht zu vergrößern, können Sie die <b>Welcome-Registerkarte</b> schließen.
       <figure style="align:middle;">
-        <a href="images/atom_preview.svg" target="_blank"><img src="images/atom_preview.svg" alt="Abb. 39: Screenshot LiaScript Vorschau in Atom" title="Abb. 39: Screenshot LiaScript Vorschau in Atom"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 39: Screenshot LiaScript Vorschau in Atom</figcaption>
+        <a href="images/atom_preview.svg" target="_blank"><img src="images/atom_preview.svg" alt="Abbildung: Screenshot LiaScript Vorschau in Atom" title="Abbildung: Screenshot LiaScript Vorschau in Atom"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaScript Vorschau in Atom</figcaption>
       </figure>
     </p>
   </div>
@@ -67,8 +67,8 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <h6>Anlegen von Kapiteln:</h6>
       Zur Strukturierung Ihres Kurses in Kapitel und Unterkapitel legen Sie Überschriften und Unterüberschriften an. In Markdown wird eine Hauptüberschrift mit einem Hashtag, eine Überschrift zweiter Ordnung mit zwei Hashtags usw. gekennzeichnet. Hier ein kleines Beispiel, wie man Überschriften hinzufügt:
       <figure style="align:middle;">
-        <a href="images/lia_beispiel_unterueberschrift.svg" target="_blank"><img src="images/lia_beispiel_unterueberschrift.svg" alt="Abb. 40. Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs" title="Abb. 40. Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 40. Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs</figcaption>
+        <a href="images/lia_beispiel_unterueberschrift.svg" target="_blank"><img src="images/lia_beispiel_unterueberschrift.svg" alt="Abbildung: Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs" title="Abbildung: Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Anlage von Kapiteln und Unterkapiteln für Ihren LiaScript Kurs</figcaption>
       </figure>
       <br>
       <h6>Hinzufügen und Formatieren von Texten:</h6>
@@ -82,8 +82,8 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <li>Sie möchten eine Liste einfügen? Zeichnen Sie die Aufzählung wie folgt aus:</li>
       </ul>    
       <figure style="align:middle;">
-        <a href="images/lia_beispiel_liste.svg" target="_blank"><img src="images/lia_beispiel_liste.svg" alt="Abb. 41: Screenshot Anlegen einer Liste in Markdown" title="Abb. 41: Screenshot Anlegen einer Liste in Markdown"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 41: Screenshot Anlegen einer Liste in Markdown</figcaption>
+        <a href="images/lia_beispiel_liste.svg" target="_blank"><img src="images/lia_beispiel_liste.svg" alt="Abbildung: Screenshot Anlegen einer Liste in Markdown" title="Abbildung: Screenshot Anlegen einer Liste in Markdown"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Anlegen einer Liste in Markdown</figcaption>
       </figure>
       <div class="infobox">
         <p>
@@ -100,8 +100,8 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <br><br>
       Hier ein Beispiel, in dem eine Quizfrage (mit Hinweisen + Erklärung) nach Vorgave des Handbuchs erstellt werden kann.
       <figure style="align:middle;">
-        <a href="images/lia_beispiel_quiz.svg" target="_blank"><img src="images/lia_beispiel_quiz.svg" alt="Abb. 42: Screenshot Erstellung eines Quiz mit LiaScript" title="Abb. 42: Screenshot Erstellung eines Quiz mit LiaScript"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 42: Screenshot Erstellung eines Quiz mit LiaScript</figcaption>
+        <a href="images/lia_beispiel_quiz.svg" target="_blank"><img src="images/lia_beispiel_quiz.svg" alt="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript" title="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Quiz mit LiaScript</figcaption>
       </figure>    
     </p>
   </div>
@@ -117,8 +117,8 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <br><br>
       Zum Abschluss müssen Sie nun lediglich noch Ihre E-Mail-Adresse <b>verifizieren</b>. Dafür erhalten Sie eine E-Mail von GitHub mit dem Betreff <b>[GitHub] Please verify your email address</b>. Dort klicken Sie auf den Button <b>Verify email address</b>. Nun werden Sie auf eine Seite geführt, die die Verifizierung Ihres Accounts bestätigt.
       <figure style="align:middle;">
-        <a href="images/github_acc_1.svg" target="_blank"><img src="images/github_acc_1.svg" alt="Abb. 43: Screenshot GitHub Verified Email Address" title="Abb. 43: Screenshot GitHub Verified Email Address"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 43: Screenshot GitHub Verified Email Address</figcaption>
+        <a href="images/github_acc_1.svg" target="_blank"><img src="images/github_acc_1.svg" alt="Abbildung: Screenshot GitHub Verified Email Address" title="Abbildung: Screenshot GitHub Verified Email Address"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Verified Email Address</figcaption>
       </figure>
       <br>    
       <h6>Verknüpfung von GitHub mit Atom</h6>
@@ -126,22 +126,22 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <br><br>
       Öffnen Sie Atom. Das Git-Package ist hier vorinstalliert, sodass es einfach direkt über die Reiter <b>packages → GitHub → Toggle GitHub</b> ausgewählt werden kann. Wählen Sie zunächst <b>Toggle GitHub</b> aus.
       <figure style="align:middle;">
-        <a href="images/screenshotToggleGitHub.svg" target="_blank"><img src="images/screenshotToggleGitHub.svg" alt="Abb. 44: Screenshot der Verknüpfung von GitHub" title="Abb. 44: Screenshot der Verknüpfung von GitHub"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 44: Screenshot der Verknüpfung von GitHub</figcaption>
+        <a href="images/screenshotToggleGitHub.svg" target="_blank"><img src="images/screenshotToggleGitHub.svg" alt="Abbildung: Screenshot der Verknüpfung von GitHub" title="Abbildung: Screenshot der Verknüpfung von GitHub"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot der Verknüpfung von GitHub</figcaption>
       </figure>
       <br>
       Nun öffnet sich der Reiter <b>GitHub</b>. Klicken Sie auf den angezeigten Link, um ein <b>Token</b> (also quasi einen Authentifizierungscode) zu generieren, welches ihren GitHub Account mit Atom verknüpft. Geben Sie das Token in das dafür vorgesehene Feld ein.
       <figure style="align:middle;">
-        <a href="images/connectToGitHub.svg" target="_blank"><img src="images/connectToGitHub.svg" alt="Abb. 45: Screenshot Generierung eines Tokens" title="Abb. 45: Screenshot Generierung eines Tokens"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 45: Screenshot Generierung eines Tokens</figcaption>
+        <a href="images/connectToGitHub.svg" target="_blank"><img src="images/connectToGitHub.svg" alt="Abbildung: Screenshot Generierung eines Tokens" title="Abbildung: Screenshot Generierung eines Tokens"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Generierung eines Tokens</figcaption>
       </figure>
       <figure style="align:middle;">
-        <a href="images/atom_auth.svg" target="_blank"><img src="images/atom_auth.svg" alt=">Abb. 46: Screenshot Authorisieren von GitHub in Atom" title=">Abb. 46: Screenshot Authorisieren von GitHub in Atom"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 46: Screenshot Authorisieren von GitHub in Atom</figcaption>
+        <a href="images/atom_auth.svg" target="_blank"><img src="images/atom_auth.svg" alt=">Abbildung: Screenshot Authorisieren von GitHub in Atom" title=">Abbildung: Screenshot Authorisieren von GitHub in Atom"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Authorisieren von GitHub in Atom</figcaption>
       </figure>
       <figure style="align:middle;">
-        <a href="images/generateToken.svg" target="_blank"><img src="images/generateToken.svg" alt="Abb. 47: Screenshot Eingabe des GitHub-Token" title="Abb. 47: Screenshot Eingabe des GitHub-Token"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 47: Screenshot Eingabe des GitHub-Token</figcaption>
+        <a href="images/generateToken.svg" target="_blank"><img src="images/generateToken.svg" alt="Abbildung: Screenshot Eingabe des GitHub-Token" title="Abbildung: Screenshot Eingabe des GitHub-Token"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Eingabe des GitHub-Token</figcaption>
       </figure>
     </p>
   </div>
@@ -150,8 +150,8 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       In dem Reiter <b>GitHub</b> in Atom können Sie nun durch Klicken auf <b>initialize and publish on GitHub</b> ein neues Repository für ihren Kurs anlegen. Ein Repository ist der Ablageort für ihre Kursdateien auf Git im Internet.
       <figure style="align:middle;">
-        <a href="images/createRepository.svg" target="_blank"><img src="images/createRepository.svg" alt="Abb. 48: Repository anlegen" title="Abb. 48: Repository anlegen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 48: Repository anlegen</figcaption>
+        <a href="images/createRepository.svg" target="_blank"><img src="images/createRepository.svg" alt="Abbildung: Repository anlegen" title="Abbildung: Repository anlegen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Repository anlegen</figcaption>
       </figure>
       Nach dem Anlegen des Repositorys müssen über Atom noch zwei kleine Schritte getätigt werden (<b>commit</b> und <b>push</b>), um auch Ihre Kursdatei erfolgreich im Repository abzulegen.
       <br><br>
@@ -161,23 +161,23 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <br><br><br>
       Hier müssten Sie, wie in Abb. 45 erkennbar, Ihre Kursdatei unter dem Reiter <b>Unstaged Changes</b> sehen. Klicken Sie nun zuerst auf den Button <b>Stage All</b>, den Sie an der rechten Seite finden.
       <figure style="align:middle;">
-        <a href="images/atom_git_stage.svg" target="_blank"><img src="images/atom_git_stage.svg" alt="Abb. 49: Screenshot Ablage der Kursdatei unter Unstaged Changes" title="Abb. 49: Screenshot Ablage der Kursdatei unter Unstaged Changes"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 49: Screenshot Ablage der Kursdatei unter Unstaged Changes</figcaption>
+        <a href="images/atom_git_stage.svg" target="_blank"><img src="images/atom_git_stage.svg" alt="Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes" title="Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes</figcaption>
       </figure>
       Nach der Wahl des Buttons <b>Stage All</b> wechselt Ihre Datei weiter unten in den Bereich <b>Staged Changes</b> (vgl. Abb. 46). Schreiben Sie als nächstes einen <b>kleinen Kommentar</b> ins untere Textfeld, mit dem Sie den Commit beschreiben (z.B. Neuerungen, Veränderungen, Korrekturen). Klicken Sie anschließend auf <b>Create detached commit</b> (bzw. <b>Commit to branch</b>), um den Commit fertig zu stellen.
       <figure style="align:middle;">
-        <a href="images/atom_git_stage2.svg" target="_blank"><img src="images/atom_git_stage2.svg" alt="Abb. 50: Screenshot Anzeige der Kursdatei unter Staged Changes" title="Abb. 50: Screenshot Anzeige der Kursdatei unter Staged Changes"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 50: Screenshot Anzeige der Kursdatei unter Staged Changes</figcaption>
+        <a href="images/atom_git_stage2.svg" target="_blank"><img src="images/atom_git_stage2.svg" alt="Abbildung: Screenshot Anzeige der Kursdatei unter Staged Changes" title="Abb. 50: Screenshot Anzeige der Kursdatei unter Staged Changes"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Anzeige der Kursdatei unter Staged Changes</figcaption>
       </figure>
         Nun können Sie unten in der Fußleiste auf <b>Push</b> klicken, um all Ihre Änderungen mit Ihrem Repository zu synchronisieren - ergo, sie im Netz sichtbar zu machen.
       <figure style="align:middle;">
-        <a href="images/atom_git_push.svg" target="_blank"><img src="images/atom_git_push.svg" alt="Abb. 51: Screenshot Pushen der Änderungen" title="Abb. 51: Screenshot Pushen der Änderungen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 51: Screenshot Pushen der Änderungen</figcaption>
+        <a href="images/atom_git_push.svg" target="_blank"><img src="images/atom_git_push.svg" alt="Abbildung: Screenshot Pushen der Änderungen" title="Abbildung: Screenshot Pushen der Änderungen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Pushen der Änderungen</figcaption>
       </figure>
     Überprüfen Sie, ob alles geklappt hat, indem Sie im Browser Ihr GitHub Profil aufrufen und dort Ihren Kurs auswählen. Hier sollte Ihr Repository nun wie folgt aussehen.
       <figure style="align:middle;">
-        <a href="images/atom_git_repo.svg" target="_blank"><img src="images/atom_git_repo.svg" alt="Abb. 52: Screenshot Anzeige Ihres Repositories auf GitHub" title="Abb. 52: Screenshot Anzeige Ihres Repositories auf GitHub"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 52: Screenshot Anzeige Ihres Repositories auf GitHub</figcaption>
+        <a href="images/atom_git_repo.svg" target="_blank"><img src="images/atom_git_repo.svg" alt="Abbildung: Screenshot Anzeige Ihres Repositories auf GitHub" title="Abbildung: Screenshot Anzeige Ihres Repositories auf GitHub"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Anzeige Ihres Repositories auf GitHub</figcaption>
       </figure>
     </p>
   </div>
@@ -186,8 +186,8 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       Das schwierigste haben Sie geschafft! Wenn Sie ihren Kurs nun weiter bearbeiten, aktualisieren oder generell verändern wollen, können Sie dies bequem in Atom tun. Wenn Sie ihren Kurs in Atom öffnen, klicken Sie bitte jedes Mal bevor sie etwas ändern auf <b>fetch</b> (rechts unten in der Ecke). Hierdurch wird wird sichergestellt, dass Sie immer mit der neuesten Version Ihres Kurses weiterarbeiten.
       <figure style="align:middle;">
-        <a href="images/atom_fetch.svg" target="_blank"><img src="images/atom_fetch.svg" alt="Abb. 53: Screenshot Funktion Fetch" title="Abb. 53: Screenshot Funktion Fetch"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 53: Screenshot Funktion Fetch</figcaption>
+        <a href="images/atom_fetch.svg" target="_blank"><img src="images/atom_fetch.svg" alt="Abbildung: Screenshot Funktion Fetch" title="Abbildung: Screenshot Funktion Fetch"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Funktion Fetch</figcaption>
       </figure>
       Haben Sie eine Änderung vorgenommen und gespeichert, wird Ihnen diese zunächst in der LiaScript-Vorschau angezeigt. Sind sie zufrieden mit dem Ergebnis und möchten die Änderung in den Kurs übernehmen, müssen Sie erneut die Schritte <b>commit</b> und <b>push</b> ausführen. Gehen Sie hierbei wie folgt vor:
       <br><br>
@@ -195,18 +195,18 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <br><br>
       2. Die Änderung sollte im Reiter <b>Git</b> nun bereits im Berech <b>Unstaged Changes</b> angezeigt werden. Überführen Sie alle Änderungen in den Bereich <b>Staged changes</b>, indem Sie <b>Stage all</b> anklicken.
       <figure style="align:middle;">
-        <a href="images/atom_stage3.svg" target="_blank"><img src="images/atom_stage3.svg" alt="Abb. 54: Screenshot Unstaged Changes in Staged Changes überführen" title="Abb. 54: Screenshot Unstaged Changes in Staged Changes überführen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 54: Screenshot Unstaged Changes in Staged Changes überführen</figcaption>
+        <a href="images/atom_stage3.svg" target="_blank"><img src="images/atom_stage3.svg" alt="Abbildung: Screenshot Unstaged Changes in Staged Changes überführen" title="Abbildung: Screenshot Unstaged Changes in Staged Changes überführen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Unstaged Changes in Staged Changes überführen</figcaption>
       </figure>
       3. Schreiben Sie erneut einen kleinn Kommentar in das Eingabefeld, durch den Sie beschreiben, welche Äderungen Sie vorgenommen haben. Auf diese Weise behalten Sie Überblick über die Versionshistorie.
       <figure style="align:middle;">
-        <a href="images/atom_commit.svg" target="_blank"><img src="images/atom_commit.svg" alt="Abb. 55: Screenshot beispielhafter Kommentar" title="Abb. 55: Screenshot beispielhafter Kommentar"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 55: Screenshot beispielhafter Kommentar</figcaption>
+        <a href="images/atom_commit.svg" target="_blank"><img src="images/atom_commit.svg" alt="Abbildung: Screenshot beispielhafter Kommentar" title="Abbildung: Screenshot beispielhafter Kommentar"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot beispielhafter Kommentar</figcaption>
       </figure>
       4. Klicken Sie auf <b>Commit</b> und dann auf <b>Push</b>.
       <figure style="align:middle;">
-        <a href="images/atom_push2.svg" target="_blank"><img src="images/atom_push2.svg" alt="Abb. 56: Screenshot der Reiter Commit und Push" title="Abb. 56: Screenshot der Reiter Commit und Push"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 56: Screenshot der Reiter Commit und Push</figcaption>
+        <a href="images/atom_push2.svg" target="_blank"><img src="images/atom_push2.svg" alt="Abbildung: Screenshot der Reiter Commit und Push" title="Abbildung: Screenshot der Reiter Commit und Push"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot der Reiter Commit und Push</figcaption>
       </figure>
       <center>
         <b>Hurra! Ihre Änderungen wurden in Ihr Repository übernommen!</b>
@@ -218,15 +218,15 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       Um eine URL für den Kurs mit LiaScript zu erstellen, die Sie dann mit Lernenden oder Kolleg*innen teilen können, wird der <b>Link zu Ihrem Repository</b> benötigt. Gehen Sie in Ihrem Browser auf Ihr Profil in GitHub. Wählen Sie dort Ihren Kurs aus und klicken Sie anschließend mit einem Rechtsklick auf die <b>.md</b> Datei Ihres Kurses. Hier können Sie die Option <b>Adresse des Links kopieren</b> auswählen.
       <figure style="align:middle;">
-        <a href="images/git_link_kopieren.svg" target="_blank"><img src="images/git_link_kopieren.svg" alt="Abb. 57: Screenshot Kopieren des des Repository-Links" title="Abb. 57: Screenshot Kopieren des des Repository-Links"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 57: Screenshot Kopieren des des Repository-Links</figcaption>
+        <a href="images/git_link_kopieren.svg" target="_blank"><img src="images/git_link_kopieren.svg" alt="Abbildung: Screenshot Kopieren des des Repository-Links" title="Abbildung: Screenshot Kopieren des des Repository-Links"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Kopieren des des Repository-Links</figcaption>
       </figure>
       Besuchen Sie anschließend die LiaScript-Website: <a aria-describedby="Link zur LiaScript Seite" href="https://liascript.github.io/">https://liascript.github.io/</a>.
       <br><br>
       Hier fügen Sie den kopierten Link in das Eingabefeld ein und klicken zum Abschluss auf <b>Load Course</b>. Der Kurs wird nun von LiaScript erstellt und die Kursseite sollte sich in kürze automatisch öffnen. <b>Unter der obigen URL ist der Kurs nun jederzeit aufrufbar</b>.
       <figure style="align:middle;">
-        <a href="images/liascript_2.svg" target="_blank"><img src="images/liascript_2.svg" alt="Abb. 58: Screenshot LiaScript Startseite" title="Abb. 58: Screenshot LiaScript Startseite"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 58: Screenshot LiaScript Startseite</figcaption>
+        <a href="images/liascript_2.svg" target="_blank"><img src="images/liascript_2.svg" alt="Abbildung: Screenshot LiaScript Startseite" title="Abbildung: Screenshot LiaScript Startseite"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaScript Startseite</figcaption>
       </figure>
       <center>
         <b>Herzlichen Glückwunsch! Sie haben Ihren ersten eigenen Kurs erfolgreich mit LiaScript erstellt.</b>
