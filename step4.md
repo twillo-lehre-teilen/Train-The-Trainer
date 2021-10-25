@@ -332,6 +332,10 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Wichtige Hinweise zum gemeinsamen Arbeiten in Git:</b>
         <ul>
           <li>Damit Sie immer an der aktuellsten Fassung Ihres Kurses arbeiten, müssen Sie vor Beginn der Arbeit an dem Kursdokument unbedingt den Button fetch klicken</li>
+          <figure style="align:middle;">
+          <a href="images/fetch_button.svg" target="_blank"><img src="images/fetch_button.svg" alt="Abbildung: fetch-Button" title="Abbildung: fetch-Button"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: fetch-Button</figcaption>
+      </figure>
           <li>Pushen Sie lieber öfter kleine Änderungen, anstatt einmalig einer großen</li>
           <li>Um Versionskollisionen zu vermeiden, klicken Sie unbedingt auch einmal den Button fetch bevor Sie etwas pushen!</li>
         </ul>
