@@ -23,8 +23,8 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
   <tr>
     <td valign="middle" text-align="left" width="30%">
       <figure style="float:left;align:middle;">
-        <img src="images/offene_lizenz.svg" alt="Abb. 3: Offene Lizenz" title="Abb. 3: Offene Lizenz"/>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 3: Offene Lizenz</figcaption>
+        <img src="images/offene_lizenz.svg" alt="Abbildung: Offene Lizenz" title="Abbildung: Offene Lizenz"/>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Offene Lizenz</figcaption>
       </figure></td>
     <td valign="middle" text-align="left" width="70%">
       Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der*dem Urheber*in:
@@ -44,8 +44,8 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
 Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber\*innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
 
 <figure>
-  <img src="images/CC_Lizenzmodule.svg" alt="Abb. 4: CC-Lizenzmodule" title="Abb. 4: CC-Lizenzmodule"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 4: CC-Lizenzmodule</figcaption>
+  <img src="images/CC_Lizenzmodule.svg" alt="Abbildung: CC-Lizenzmodule" title="Abbildung: CC-Lizenzmodule"/>
+  <figcaption style="text-align:center;font-size:14px;">Abbildung: CC-Lizenzmodule</figcaption>
 </figure>
 
 Die Lizenzierung wird dadurch vereinfacht, dass eine Vielzahl vorformulierter Lizenzen (mit bestimmten Modulkombinationen) gewählt werden können, die sich erheblich voneinander unterscheiden. So können Urheber\*innen mit ihrer Wahl einer CC-Lizenz die Nutzung ihrer Inhalte entweder relativ stark einschränken oder umfassend ermöglichen. Die u.s Liste gibt einen Überblick über gängige CC-Lizenzen.
@@ -124,8 +124,8 @@ Liste <i>Bedingungen von Creative Commons-Lizenzen</i> von twillo, lizenziert un
       Die Lizenzen des gelben Bereichs ermöglichen keine Veränderung am Material. Lediglich das Teilen, Weitergeben ist hier erlaubt.
       <br>
       <figure>
-        <a href="images/licence_skala.svg" target="_blank"><img src="images/licence_skala.svg" alt="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)" title="Abb. 5: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 5: <a aria-describedby="Link zur Quelle der Abbildung 5" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg">Creative Commons License Spectrum</a> von Shaddim, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
+        <a href="images/licence_skala.svg" target="_blank"><img src="images/licence_skala.svg" alt="Abbildung: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)" title="Abbildung: Creative Commons License Spectrum von Shaddim, lizenziert unter CC BY (4.0)"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: <a aria-describedby="Link zur Quelle der Abbildung 5" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg">Creative Commons License Spectrum</a> von Shaddim, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
       </figure>
     </td>
   </tr>
