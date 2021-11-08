@@ -42,7 +42,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <br>
       Aktivieren Sie nun das LiaScript Plugin. Wählen Sie unter <b>Packages</b> im Kopfmenü den Reiter <b>liascript-preview</b> und dann <b>Toggle</b>. Rehts neben dem Eingabefeld erscheint nun eine Vorschau Ihres Kurses. Bei jedem Speichern (<b>File</b> und <b>Save</b> im Kopfmenü oder Tastenkombination Strg und S) aktualisiert sich die Vorschau automatisch. Um die Ansicht zu vergrößern, können Sie die <b>Welcome-Registerkarte</b> schließen.
       <figure style="align:middle;">
-        <a href="images/atom_preview.svg" target="_blank"><img src="images/atom_preview.svg" alt="Abbildung: Screenshot LiaScript Vorschau in Atom" title="Abbildung: Screenshot LiaScript Vorschau in Atom"/></a>
+        <a href="images/preview_toggle.svg" target="_blank"><img src="images/atom_preview.svg" alt="Abbildung: Screenshot LiaScript Vorschau in Atom" title="Abbildung: Screenshot LiaScript Vorschau in Atom"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaScript Vorschau in Atom</figcaption>
       </figure>
     </p>
