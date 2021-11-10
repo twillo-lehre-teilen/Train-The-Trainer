@@ -22,4 +22,4 @@
 
 * [Quellen](/licenses/sources.md)
 
-* [Kontakt](/contact/index)
+* [Kontakt](/contact/index.md)
