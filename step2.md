@@ -336,7 +336,9 @@ Die Grundlagen zum Nachlesen:
     <p>
       Materialien, die unter einer Lizenz stehen, die das Modul <b>NC</b> (Non-Commercial) enthalten dürfen nicht kommerziell genutzt werden. Wichtig ist, dass sich diese Angabe <b>nicht auf die*den Nutzer*in</b>, sondern auf den <b>Zweck der Nutzung</b> bezieht.
       <br><br>
-      Werden Sie z.B. im Rahmen eines Lehrauftrags an einer staatlichen Hochschule dafür bezahlt, eine Lehrveranstaltung für Studierende eines bestimmten Studiengangs durchzuführen, dürfen Sie NC lizenziertes Material in diesem Kontext nutzen. Diese Lehrveranstaltung ist kein kommerzieller Zweck. Möchten Sie ein CC-lizenzierten Text z.B. in ein Buch integrieren und es anschließend verkaufen, ist dies mit NC lizenzierten Materialien nicht erlaubt. Auch ein Werbeflyer für eine private Hochschule oder ein Unternehmen darf keine NC-lizenzierten Materialien enthalten.
+      Werden Sie z.B. im Rahmen eines Lehrauftrags an einer staatlichen Hochschule dafür bezahlt, eine Lehrveranstaltung für Studierende eines bestimmten Studiengangs durchzuführen, dürfen Sie NC lizenziertes Material in diesem Kontext nutzen. Diese Lehrveranstaltung ist kein kommerzieller Zweck. Sind Sie hingegen Lehrperson in einem zahlungspflichtigen Kontexten (z.B. kostenpflichtige Studiengänge, Trainings oder Weiterbildungsangebote), dürfen Sie NC lizenzierte Materialien nicht nutzen.
+![grafik](https://user-images.githubusercontent.com/79264921/141783816-6b4c61eb-41c7-4bde-9230-d539a067532a.png)
+ Möchten Sie einen NC lizenzierten Text z.B. in ein Buch integrieren und es anschließend verkaufen, ist dies nicht erlaubt. Auch ein Werbeflyer für eine private Hochschule oder ein Unternehmen darf keine NC-lizenzierten Materialien enthalten.
     </p>
   </div>
 </div>
