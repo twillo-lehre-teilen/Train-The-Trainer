@@ -1,4 +1,5 @@
 <h2>LiaScript</h2>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 Bei LiaScript handelt es sich um eine <b>Open-Source Anwendung zur Erstellung von Online-Kursen</b> mit <b>interaktiven Inhalten</b> (z.B. Animationen, mathematischer Formeln, Quizze). Die Nutzung der Anwendung ist <b>kostenlos</b> und steht grundsätzlich allen Personen offen: Für die Erstellung eigener Kurse wird lediglich ein Browser oder Texteditor benötigt. Durch eine Bereitstellung erstellter Lerneinheiten über GitHub, können Urheber\*innen anderen Lehrenden und Lernenenden umfassende Möglichkeiten zur Nachnutzung ihrer gesamten Kursstruktur einräumen. 
 
@@ -90,7 +91,12 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <figure style="align:middle;">
         <a href="images/lia_beispiel_quiz.svg" target="_blank"><img src="images/lia_beispiel_quiz.svg" alt="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript" title="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Quiz mit LiaScript</figcaption>
-      </figure>    
+      </figure>
+      <div class="infobox">
+        <p>
+          <i class="fa fa-lightbulb-o fa-lg"></i> <b>Hinweis:</b> Neben interaktiven Lernobjekten wie Quizfragen bietet LiaScript noch viele weitere Features an, um Ihren Kurs individuell zu gestalten. In dem sich ständig erweiternden <a aria-describedby="Link zu LiaScript Handbuch" href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1">LiaScript Handbuch</a> finden Sie alle zur Verfügung stehenden Features mit Erklärungen, wie Sie diese in Ihren Kurs integrieren können.
+        </p>
+      </div>
     </p>
   </div>
   <button class="accordion">4. Verbindung zu GitHub herstellen</button>
