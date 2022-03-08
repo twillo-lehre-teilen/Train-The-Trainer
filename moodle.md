@@ -5,7 +5,7 @@
 In Moodle hochgeladene Dateien können mit Metadaten und Lizenzhinweisen angereichert werden. Moodle arbeitet hierfür mit dem Creative Commons Lizenzsystem und vereinfacht Ihnen die Anbringung eines Lizenzhinweises am eigenem Material. Sobald Sie eine Datei hochladen haben, wird eine Eingabemaske mit den folgenden Metadaten-Abfragen sichtbar:
 
 <b>Speichern unter</b> (Freitextfeld für den Titel der Datei)<br>
-<b>Autor\*in</b> (Freitextfeld für die Urheberangabe) sowie<br>
+<b>Autor:in</b> (Freitextfeld für die Urheberangabe) sowie<br>
 <b>Lizenz</b> (ein dropdown-Menü <b>für die</b> Lizenzauswahl)<br>
 
 Auch die Materialien, die nicht von Ihnen stammen, können hier mit den jeweiligen korrekten Daten angereichert werden.
@@ -28,7 +28,7 @@ Auch die Materialien, die nicht von Ihnen stammen, können hier mit den jeweilig
 
 ---
 <h2>Öffentliche Zugänglichkeit schaffen</h2>
-Um interessierten Personen die Möglichkeit zu geben, Ihre in moodle angelegten Inhalte einzusehen oder bspw. ein Selbstlernmodul zu durchlaufen, besteht grundsätzlich die Möglichkeit sie <b>öffentlich</b> zu schalten. Hierfür ist jedoch in der Regel der <b>Administrator\*innenstatus</b> notwendig, ein einfacher Dozierendenaccount bietet Ihnen den Zugriff auf die nötigen Funktionen i.d.R. nicht. Einen öffentlichen Bereich, auf dem Kurse von externen Nutzer*innen durchlaufen werden können, bietet auch nicht jede Hochschule an. Bitte setzen Sie sich mit den Verantwortlichen Ihrer Hochschule (Hochschulrechenzentrum oder zuständigen Supporteinrichtungen) in Verbindung und erfragen Sie Ihre Optionen. 
+Um interessierten Personen die Möglichkeit zu geben, Ihre in moodle angelegten Inhalte einzusehen oder bspw. ein Selbstlernmodul zu durchlaufen, besteht grundsätzlich die Möglichkeit sie <b>öffentlich</b> zu schalten. Hierfür ist jedoch in der Regel der <b>Administrator:innenstatus</b> notwendig, ein einfacher Dozierendenaccount bietet Ihnen den Zugriff auf die nötigen Funktionen i.d.R. nicht. Einen öffentlichen Bereich, auf dem Kurse von externen Nutzer:innen durchlaufen werden können, bietet auch nicht jede Hochschule an. Bitte setzen Sie sich mit den Verantwortlichen Ihrer Hochschule (Hochschulrechenzentrum oder zuständigen Supporteinrichtungen) in Verbindung und erfragen Sie Ihre Optionen. 
 
 Um anderen Personen, trotz der Geschlossenheit der LMS, einen Einblick in Ihren OER-Kurs bzw. Teile des Kurses zu ermöglichen, bietet sich an, ein Dokument auf Basis von Screenshots oder ein Screencast mit den abgebildetet Inhalten samt Erklärungen zusätzlich bereitzustellen. Diese Einsicht Ihres Kurses erleichtert die Nachnutzung enorm: Dritte können sich vor einem Upload Ihre angelegten Strukturen und Inhalte ansehen und entscheiden, ob sie auch für ihre eigenes Lehr-Lernsetting geeignet wären.
 
@@ -38,7 +38,7 @@ Um anderen Personen, trotz der Geschlossenheit der LMS, einen Einblick in Ihren 
 
 Beispiel für eine Kurseinsicht über Screenshots im pdf Dateiformat.
 
-Beachten Sie bei den Aufnahmen (Screencast oder Screenshots), dass weder Daten der Teilnehmer\*innen etwa personenbezogene Daten noch erzeugte Inhalte (etwa Chat- oder Forenbeiträge) enthalten sind. Es ist dringend zu empfehlen den moodle-Kurs lediglich als <b>Ansichtsobjekt</b> zu behandeln. Geben Sie außerdem für potentielle Nutzer*innen an, um welche moodle-Version es sich bei Ihrer Umgebung handelt und ob in Ihrem Kurs weitere Funktionen, die nicht standardmäßig bei moodle vorhanden sind, sondern über Plugins angebunden sind, vorliegen. (z.B. BigBlueButton, H5P,  Formeleditoren etc.)
+Beachten Sie bei den Aufnahmen (Screencast oder Screenshots), dass weder Daten der Teilnehmer:innen etwa personenbezogene Daten noch erzeugte Inhalte (etwa Chat- oder Forenbeiträge) enthalten sind. Es ist dringend zu empfehlen den moodle-Kurs lediglich als <b>Ansichtsobjekt</b> zu behandeln. Geben Sie außerdem für potentielle Nutzer:innen an, um welche moodle-Version es sich bei Ihrer Umgebung handelt und ob in Ihrem Kurs weitere Funktionen, die nicht standardmäßig bei moodle vorhanden sind, sondern über Plugins angebunden sind, vorliegen. (z.B. BigBlueButton, H5P,  Formeleditoren etc.)
 
 ---
 <h2>Exportdatei bereitstellen</h2>
@@ -110,7 +110,7 @@ Fügen Sie die lokal gespeicherte mbz-Datei ein oder ziehen Sie die Datei per Dr
   <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot moodle Upload-Dialog aufrufen</figcaption>
 </figure>
 
-Beim Upload können Sie die Metadaten des OER- Kurses einfügen (Titel der OER, Autor*in und CC Lizenz). Bestätigen Sie den Vorgang mit <b>Datei hochladen</b>.
+Beim Upload können Sie die Metadaten des OER- Kurses einfügen (Titel der OER, Autor:in und CC Lizenz). Bestätigen Sie den Vorgang mit <b>Datei hochladen</b>.
 
 <figure style="align:middle;">
   <a href="images/moodle_import5.svg" target="_blank"><img src="images/moodle_import5.svg" alt="Abbildung: Screenshot moodle Datei beschreiben und hochladen" title="Abbildung: Screenshot moodle Datei beschreiben und hochladen"/></a>
