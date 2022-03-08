@@ -38,7 +38,7 @@ Neben dem Kriterium des Fundortes kann, wie in der Wissenschaftspraxis auch, z.B
     <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>englischen</b> Begriffen
   </li><br>
   <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Lizenz, Quelle, Institution, Autor*in, Materialart, Fach- und Sachgebiet, etc.)
+    <i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Lizenz, Quelle, Institution, Autor:in, Materialart, Fach- und Sachgebiet, etc.)
   </li>
 </ul>
 
@@ -266,7 +266,7 @@ Die Grundlagen zum Nachlesen:
       <b><font size="10">U</font></b>
     </td>
     <td valign="middle" text-align="left" width="85%">
-      Nennen Sie den/die <b>URHEBER*IN(NEN)</b>/Rechteinhaber*in(nen). Auch Gruppen, Organisationen oder Institutionen können hier genannt werden. Orientieren Sie sich bei der Angabe daran, wie der*die Urheber*in(nen) in dem Material bezeichnet ist/sind.
+      Nennen Sie den/die <b>URHEBER:IN(NEN)</b>/Rechteinhaber:in(nen). Auch Gruppen, Organisationen oder Institutionen können hier genannt werden. Orientieren Sie sich bei der Angabe daran, wie der:die Urheber:in(nen) in dem Material bezeichnet ist/sind.
     </td>
   </tr>
   <tr>
@@ -292,7 +292,7 @@ Die Grundlagen zum Nachlesen:
       <b><font size="10">U</font></b>
     </td>
     <td valign="middle" text-align="left" width="90%">
-      Machen Sie eine Angabe zu dem <b>URSPRUNGSORT</b>, d.h. verlinken Sie z.B. die Internetseite, auf der Sie das Material gefunden haben. Ein solcher Hinweis ermöglicht es Nachnutzer*innen z.B. den Kontext des Originalwerks nachzuvollziehen.
+      Machen Sie eine Angabe zu dem <b>URSPRUNGSORT</b>, d.h. verlinken Sie z.B. die Internetseite, auf der Sie das Material gefunden haben. Ein solcher Hinweis ermöglicht es Nachnutzer:innen z.B. den Kontext des Originalwerks nachzuvollziehen.
     </td>
   </tr>
   <tr>
@@ -312,7 +312,7 @@ Die Grundlagen zum Nachlesen:
   <button class="accordion">Wissenswertes zu der Lizenz <b>CC 0</b></button>
   <div class="panel">
     <p>
-      Möchten Sie Material nutzen, dass CC 0 freigegeben ist, <b>müssen</b> Sie bei der Nachnutzung <b>nicht</b> darauf hinweisen, dass es sich um Fremdmaterial handelt. Im Sinne der <b>guten wissenschaftlichen Praxis sollten</b> Sie den*die Urheber*(in)nen jedoch nennen.
+      Möchten Sie Material nutzen, dass CC 0 freigegeben ist, <b>müssen</b> Sie bei der Nachnutzung <b>nicht</b> darauf hinweisen, dass es sich um Fremdmaterial handelt. Im Sinne der <b>guten wissenschaftlichen Praxis sollten</b> Sie den:die Urheber:(in)nen jedoch nennen.
     </p>
   </div>
   <button class="accordion">Die Besonderheiten des Lizenzmoduls <b>SA</b></button>
@@ -334,7 +334,7 @@ Die Grundlagen zum Nachlesen:
   <button class="accordion">Besonderheiten des Lizenzmoduls <b>NC</b></button>
   <div class="panel">
     <p>
-      Materialien, die unter einer Lizenz stehen, die das Modul <b>NC</b> (Non-Commercial) enthalten dürfen nicht kommerziell genutzt werden. Wichtig ist, dass sich diese Angabe <b>nicht auf die*den Nutzer*in</b>, sondern auf den <b>Zweck der Nutzung</b> bezieht.
+      Materialien, die unter einer Lizenz stehen, die das Modul <b>NC</b> (Non-Commercial) enthalten dürfen nicht kommerziell genutzt werden. Wichtig ist, dass sich diese Angabe <b>nicht auf die:den Nutzer:in</b>, sondern auf den <b>Zweck der Nutzung</b> bezieht.
       <br><br>
       Werden Sie z.B. im Rahmen eines Lehrauftrags an einer staatlichen Hochschule dafür bezahlt, eine Lehrveranstaltung für Studierende eines bestimmten Studiengangs durchzuführen, dürfen Sie NC lizenziertes Material in diesem Kontext nutzen. Diese Lehrveranstaltung ist kein kommerzieller Zweck. Sind Sie hingegen Lehrperson in einem zahlungspflichtigen Kontexten (z.B. kostenpflichtige Studiengänge, Trainings oder Weiterbildungsangebote), dürfen Sie NC lizenzierte Materialien nicht nutzen. Möchten Sie einen NC lizenzierten Text z.B. in ein Buch integrieren und es anschließend verkaufen, ist dies nicht erlaubt. Auch ein Werbeflyer für eine private Hochschule oder ein Unternehmen darf keine NC-lizenzierten Materialien enthalten.
     </p>
@@ -391,7 +391,7 @@ Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
     <br><br>
-    Die Anwendungsfälle bei der Nachnutzung von OER sind oftmals sehr individuell. Sollten Sie sich unsicher sein, zögern Sie nicht, die*den Urheber*in anzusprechen oder schreiben Sie eine Mail an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Die Welt der OER steht für ein kollaboratives Miteinander - wir helfen Ihnen gern. <br>
+    Die Anwendungsfälle bei der Nachnutzung von OER sind oftmals sehr individuell. Sollten Sie sich unsicher sein, zögern Sie nicht, die:den Urheber:in anzusprechen oder schreiben Sie eine Mail an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Die Welt der OER steht für ein kollaboratives Miteinander - wir helfen Ihnen gern. <br>
     <br>Kennen Sie schon unseren twillo-thursday? Im Rahmen dieser offenen (digitalen) Sprechstunde stehen wir Ihnen immer donnerstags von 11.45-12.30 Uhr mit Rat und Tat zur Seite.<br><br>
     Sie finden uns <a aria-describedby="Link zum Big Blue Button Raum für die Sprechstunde" href="https://big.elan-ev.de/b/nor-eye-xhz-6us">hier</a>. Hop in, hop off - eine Anmeldung ist nicht nötig!
   </p>
