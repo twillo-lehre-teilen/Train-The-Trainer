@@ -223,7 +223,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
     </td>
     <td text-align="left" width="80%">
       <h5>Merkmal: Offene Lizenz</h5>
-      OER sind freie Bildungsmaterialien, die mit einer offenen Lizenz versehen sind, die Dritten explizit Nutzungsrechte einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.
+      OER sind freie Bildungsmaterialien, die mit einer offenen Lizenz versehen sind, die Dritten explizit Nutzungsrechte einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber:innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.
       <br><br>
       Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
     </td>
@@ -266,7 +266,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
       <div class="infobox">
         <p>
           <i class="fa fa-lightbulb-o fa-lg"></i> <b>Hinweis:</b> 
-          Bei der Erstellung von Materialien mit Softwareanwendungen und Diensten ist im Hinblick auf OER besondere Aufmerksamkeit geboten: Werden Elemente (z.B. Designs, Grafiken, Animationen) aus der Software/dem Dienst in einem damit erstellten Werk sichtbar, muss geprüft werden, ob das Werk unter einer CC-Lizenz gestellt werden darf. Oftmals sind die genannten Elemente Eigentum der Software-Anbieter*innen oder deren Lizenzgeber*innen und somit urheber- oder markenrechtlich geschützt. Das heißt, dass ausschließlich die jeweiligen Rechteinhaber*innen - nicht aber die Endnutzer*innen - über eine Weiterlizenzierung entscheden dürfen.
+          Bei der Erstellung von Materialien mit Softwareanwendungen und Diensten ist im Hinblick auf OER besondere Aufmerksamkeit geboten: Werden Elemente (z.B. Designs, Grafiken, Animationen) aus der Software/dem Dienst in einem damit erstellten Werk sichtbar, muss geprüft werden, ob das Werk unter einer CC-Lizenz gestellt werden darf. Oftmals sind die genannten Elemente Eigentum der Software-Anbieter:innen oder deren Lizenzgeber:innen und somit urheber- oder markenrechtlich geschützt. Das heißt, dass ausschließlich die jeweiligen Rechteinhaber:innen - nicht aber die Endnutzer:innen - über eine Weiterlizenzierung entscheden dürfen.
         </p>
       </div>
       <br>
@@ -282,7 +282,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
     <p>
       Überlegen Sie, welche Lizenz zu Ihrem Werk passt. Bringen Sie einen Lizenzhinweis an Ihrem Material an. Beachten Sie dabei die Regeln zur korrekten Lizenzierung eigener Materialien. Der Lizenzhinweis <b>muss</b> mindestens eine Information zu der gewählten <b>Lizenz</b> und der <b>Lizenzversion</b> enthalten. Sollten Inhalte in Ihrem Material enthalten sein, die unter einer anderen Lizenz stehen, weisen Sie unbedingt darauf hin.
       <br><br>
-      Ein ausführlicher Lizenzhinweis (mit <b>Lizenzicon</b>, <b>Urheber*innenangabe</b> und <b>Verlinkung des Lizenztexts</b>) erleichtert Dritten die Nachnutzung Ihrer Materialien und schafft Sicherheit. An folgendem Beispiel für einen ausführlichen Lizenzhinweis können Sie sich bei der Lizenzierung Ihrer eigenen Materialien orientieren.
+      Ein ausführlicher Lizenzhinweis (mit <b>Lizenzicon</b>, <b>Urheber:innenangabe</b> und <b>Verlinkung des Lizenztexts</b>) erleichtert Dritten die Nachnutzung Ihrer Materialien und schafft Sicherheit. An folgendem Beispiel für einen ausführlichen Lizenzhinweis können Sie sich bei der Lizenzierung Ihrer eigenen Materialien orientieren.
       <br><br>
       <table id="invisible">
         <tr>
@@ -313,13 +313,13 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
   <button class="accordion">Muss ich immer eine Lizenz angeben?</button>
   <div class="panel">
     <p>
-      Bildungsmaterialien mit einer offen Lizenz stellen ein eindeutiges Indiz für OER dar. Erst durch den Lizenzhinweis können andere Nutzer*innen einschätzen, ob und wie sie die jeweiligen Materialien nutzen dürfen.
+      Bildungsmaterialien mit einer offen Lizenz stellen ein eindeutiges Indiz für OER dar. Erst durch den Lizenzhinweis können andere Nutzer:innen einschätzen, ob und wie sie die jeweiligen Materialien nutzen dürfen.
     </p>
   </div>
   <button class="accordion">Muss ich wirklich jedes einzelne Material mit einer CC-Lizenz versehen, obwohl mein gesamter Kurs unter einer CC Lizenz steht?</button>
   <div class="panel">
     <p>
-      Gerade wenn komplexere Bildungsmaterialien (etwa Kurse oder thematisch geschlossene Einheiten) zur Verfügung gestellt werden, ist es sinnvoll die einzelnen Inhalte und Medienobjekte jeweils für sich mit einer Lizenz zu versehen. Dies erleichtert anderen Nutzer*innen den Umgang mit Ihrem Material z.B. wenn nur Teile des Kurses verwenden werden.
+      Gerade wenn komplexere Bildungsmaterialien (etwa Kurse oder thematisch geschlossene Einheiten) zur Verfügung gestellt werden, ist es sinnvoll die einzelnen Inhalte und Medienobjekte jeweils für sich mit einer Lizenz zu versehen. Dies erleichtert anderen Nutzer:innen den Umgang mit Ihrem Material z.B. wenn nur Teile des Kurses verwenden werden.
     </p>
   </div>
   <button class="accordion">Kann ich fremde Inhalte oder Materialien von der Lizenz, die ich ausgewählt habe, ausnehmen?</button>
@@ -353,10 +353,10 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
       <table id="normal">
         <tr>
           <th width="60%">
-            Für Ersteller*innen eines Materials gilt:
+            Für Ersteller:innen eines Materials gilt:
           </th>
           <th width="40%">
-            Für Nutzer*innen eines fremden Materials gilt:
+            Für Nutzer:innen eines fremden Materials gilt:
           </th>
         </tr>
         <tr>
@@ -375,7 +375,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
             <br>
             <ul>
               <li><b>T</b>itel bei der Lizenzversion 3.0</li>
-              <li><b>U</b>rheber*in (Bei Lizenzen mit dem Modul BY)</li>
+              <li><b>U</b>rheber:in (Bei Lizenzen mit dem Modul BY)</li>
               <li><b>L</b>izenz und Lizenzversion</li>
               <li><b>L</b>ink zum Lizenztext</li>
               <li><b>U</b>rsprungsort (Link zum Original oder URL der Ursprungsquelle)</li>
@@ -391,17 +391,17 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
     <p>
       Zu dieser Frage gibt es noch keine Rechtsprechung. Deshalb erfolgt hier die Beantwortung nach allgemeinen Regeln zur Auslegung von Verträgen.
       <br><br>
-      Hat der*die Lizenzgeber*in vergessen, die Lizenzversion anzugeben, ist die Lizenz nicht etwa unwirksam. Sie muss vielmehr ausgelegt werden. Die Bereitstellung eines Werks unter einer Lizenz ist ein Angebot zum Abschluss eines Lizenzvertrags. Ein Angebot ist eine Willenserklärung. Willenserklärungen werden nach §§ 133, 157 BGB aus der Sicht eines objektiven Empfängers ausgelegt. Entscheidend ist, wie der Empfänger (=Lizenznehmer*in) die Erklärung unter Berücksichtigung objektiver Umstände und der Verkehrssitte verstehen darf.
+      Hat der:die Lizenzgeber:in vergessen, die Lizenzversion anzugeben, ist die Lizenz nicht etwa unwirksam. Sie muss vielmehr ausgelegt werden. Die Bereitstellung eines Werks unter einer Lizenz ist ein Angebot zum Abschluss eines Lizenzvertrags. Ein Angebot ist eine Willenserklärung. Willenserklärungen werden nach §§ 133, 157 BGB aus der Sicht eines objektiven Empfängers ausgelegt. Entscheidend ist, wie der Empfänger (=Lizenznehmer:in) die Erklärung unter Berücksichtigung objektiver Umstände und der Verkehrssitte verstehen darf.
       <br><br>
       <b>Lizenztext</b>
       <ul>
-        <li>Setzt der*die Lizenzgeber*in einen Link zum Lizenztext, dann geht klar aus diesem Link hervor, welche Lizenzversion gemeint ist.</li>
+        <li>Setzt der:die Lizenzgeber:in einen Link zum Lizenztext, dann geht klar aus diesem Link hervor, welche Lizenzversion gemeint ist.</li>
       </ul>
       <br>
       <b>Jahr der Lizenzierung</b><br>
       <ul>
         <li>Fehlt ein solcher Link, kann man objektive Umstände zur Auslegung heranziehen. Dabei könnte man <b>auf das Jahr der Lizenzierung abstellen</b>. Bei älteren Lizenzierungen liegt es nah, dass die alte Version 3.0 oder älter gemeint ist - je nachdem, welche Version in welchem Jahr galt. Bei neueren Lizenzierungen ist vermutlich die neue Version gewollt.</li>
-        <li>Es ist zu empfehlen bei der*dem <b>Lizenzgeber*in nachzufragen</b>.</li>
+        <li>Es ist zu empfehlen bei der:dem <b>Lizenzgeber:in nachzufragen</b>.</li>
       </ul>
       <br>
       <u><b>Fall 1:</b></u> A erstellt eine Grafik und vergisst die Lizenzversion anzugeben. B übernimmt die Grafik. Was folgt rechtlich?
@@ -445,7 +445,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
   <button class="accordion">In meinem Material befinden sich Design-Elemente einer (kostenpflichtigen) Software. Darf ich das Material nun unter eine CC-Lizenz stellen?</button>
   <div class="panel">
     <p>
-      Elemente (Grafiken, Sounds, Animationen, Designs etc.) aus Software und Diensten sind in der Regel Eigentum der Anbieter*innen und/oder deren Lizenzgeber*innen. Sie sind von daher ggf. urheberrechtlich geschützt. Die Anbieter*innen gewähren ihren Nutzer*innen lediglich bestimmte Nutzungsrechte, die sich je nach (gebuchtem) Tarif unterscheiden. Eine CC-Lizenzierung von Werken, die Elemente der Dienste enthalten, ist oftmals nicht zulässig. Informationen erhalten Sie in der Regel in den Nutzungsbedingungen der jeweiligen Dienste oder Anwendungen. Wenden Sie sich im Zweifelsfalls an den Support der Anbieter*innen oder schreiben Sie uns <a aria-describedby="Twillo Kontakt E-Mail Adresse" href="mailto:support.oer-nds@tin.eu">support.oer-nds@tib.eu</a>.
+      Elemente (Grafiken, Sounds, Animationen, Designs etc.) aus Software und Diensten sind in der Regel Eigentum der Anbieter:innen und/oder deren Lizenzgeber:innen. Sie sind von daher ggf. urheberrechtlich geschützt. Die Anbieter:innen gewähren ihren Nutzer:innen lediglich bestimmte Nutzungsrechte, die sich je nach (gebuchtem) Tarif unterscheiden. Eine CC-Lizenzierung von Werken, die Elemente der Dienste enthalten, ist oftmals nicht zulässig. Informationen erhalten Sie in der Regel in den Nutzungsbedingungen der jeweiligen Dienste oder Anwendungen. Wenden Sie sich im Zweifelsfalls an den Support der Anbieter:innen oder schreiben Sie uns <a aria-describedby="Twillo Kontakt E-Mail Adresse" href="mailto:support.oer-nds@tin.eu">support.oer-nds@tib.eu</a>.
     </p>
   </div>
 </div>
