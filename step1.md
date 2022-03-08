@@ -27,7 +27,7 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Offene Lizenz</figcaption>
       </figure></td>
     <td valign="middle" text-align="left" width="70%">
-      Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der*dem Urheber*in:
+      Durch eine offene Lizenz werden Dritten explizit <b>Nutzungsrechte</b> an Materialien eingeräumt. <b>Damit stellt die offene Lizenz das zentrale Merkmal von OER dar.</b> Die Entscheidung darüber, welche Verwendung eines Werks erlaubt werden soll, liegt allein bei der:dem Urheber:in:
     <br><br>
     <ul style="list-style-type:none">
       <li><i class="fa fa-check-circle" style="color:green"></i> bewahren, sprich lokal oder cloudbasiert speichern</li>
@@ -41,14 +41,14 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
   </tr>
 </table>
 
-Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber\*innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
+Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber:innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
 
 <figure>
   <img src="images/CC_Lizenzmodule.svg" alt="Abbildung: CC-Lizenzmodule" title="Abbildung: CC-Lizenzmodule"/>
   <figcaption style="text-align:center;font-size:14px;">Abbildung: CC-Lizenzmodule</figcaption>
 </figure>
 
-Die Lizenzierung wird dadurch vereinfacht, dass eine Vielzahl vorformulierter Lizenzen (mit bestimmten Modulkombinationen) gewählt werden können, die sich erheblich voneinander unterscheiden. So können Urheber\*innen mit ihrer Wahl einer CC-Lizenz die Nutzung ihrer Inhalte entweder relativ stark einschränken oder umfassend ermöglichen. Die u.s Liste gibt einen Überblick über gängige CC-Lizenzen.
+Die Lizenzierung wird dadurch vereinfacht, dass eine Vielzahl vorformulierter Lizenzen (mit bestimmten Modulkombinationen) gewählt werden können, die sich erheblich voneinander unterscheiden. So können Urheber:innen mit ihrer Wahl einer CC-Lizenz die Nutzung ihrer Inhalte entweder relativ stark einschränken oder umfassend ermöglichen. Die u.s Liste gibt einen Überblick über gängige CC-Lizenzen.
 
 <div>
    <button class="accordion"><img src="images/creative-commons_cc-zero.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC Zero Lizenz" title="CC Zero Lizenz" height="60"/> <a aria-describedby="Link zur CC Zero Lizenz" href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" target="_blank">zur Lizenz</a></button>
@@ -100,22 +100,22 @@ Liste <i>Bedingungen von Creative Commons-Lizenzen</i> von twillo, lizenziert un
     <th><b>Möglichkeiten offener Lizenzierung (am Beispiel Creative Commons)</b></th>
   </tr>
   <tr>
-    <td valign="top">Das Urheberrecht ist ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber*innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
+    <td valign="top">Das Urheberrecht ist ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber:innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
       <br><br>
       Die Schrankenbestimmung für Unterricht und Lehre in § 60a UrhG sieht Erleichterungen für Nutzungen eines Lernmaterials in der Hochschule bis zu einem bestimmten Umfang vor (15 % bei Druckwerken; 5 Min bei Videos und Musik).  Nach dem Gesetzestext darf die Nutzung erfolgen:
       <br>
       <ol>
         <li>für Lehrende und Teilnehmer der jeweiligen Veranstaltung,</li>
-        <li>für Lehrende und Prüfer*innen an derselben Bildungseinrichtung sowie</li>
+        <li>für Lehrende und Prüfer:innen an derselben Bildungseinrichtung sowie</li>
         <li>für Dritte, soweit dies der Präsentation des Unterrichts oder von Unterrichts- oder Lernergebnissen an der Bildungseinrichtung dient.</li>
       </ol>
       Damit ist der Kreis der begünstigten Personen zwar relativ weit. Eine Nutzung durch Dritte ist aber erst möglich, wenn das konkret in Rede stehende Werk bereits für den Unterricht an der Bildungseinrichtung verwendet worden ist. Ferner können nur Personen mit einem institutionellen Bezug zu einer Bildungseinrichtung von der Schranke des § 60a UrhG Gebrauch machen.
     </td>
     <td valign="top">OER sind offen lizenziert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf dem Portal twillo wird für eine offene Lizenzierung das standardisierte <b>Creative Commons - Lizenzsystem</b> empfohlen (vgl. u. a. <a aria-describedby="" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf">DUK 2015</a>, <a aria-describedby="" href="https://www.twillo.de/oer/legal.html">OER Portal Niedersachsen 2021</a>).
       <br><br>
-      Offene Lizenzen wurden entwickelt, um die Rechte von Urheber*innen zu schützen und gleichzeitig Dritten die (Weiter-)Verwendung und zum Teil sogar Anpassung und Änderung ihrer Inhalte und Materialien zu ermöglichen. Die Wahl einer bestimmten offenen Lizenz (und damit verbunden bestimmte Möglichkeiten der Nachnutzung ihrer Inhalte) liegt hierbei bei den Urheber*innen selbst. Auf diese Weise werden die Einschränkungen des Urheberrechts überwunden; Urheber*innen bleiben aber gleichzeitig als solche anerkannt. Dies ist im Bereich von Wissenschaft und Forschung von besonderer Relevanz.
+      Offene Lizenzen wurden entwickelt, um die Rechte von Urheber:innen zu schützen und gleichzeitig Dritten die (Weiter-)Verwendung und zum Teil sogar Anpassung und Änderung ihrer Inhalte und Materialien zu ermöglichen. Die Wahl einer bestimmten offenen Lizenz (und damit verbunden bestimmte Möglichkeiten der Nachnutzung ihrer Inhalte) liegt hierbei bei den Urheber:innen selbst. Auf diese Weise werden die Einschränkungen des Urheberrechts überwunden; Urheber:innen bleiben aber gleichzeitig als solche anerkannt. Dies ist im Bereich von Wissenschaft und Forschung von besonderer Relevanz.
       <br><br>
-      Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind Urheber*innen  rechtliche Möglichkeiten eröffnet, dagegen vorzugehen.
+      Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“. Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind Urheber:innen  rechtliche Möglichkeiten eröffnet, dagegen vorzugehen.
       <br><br>
       Die folgende Abbildung verdeutlicht die Offenheit von Materialien absteigend von der Lizenz CC 0 bis zum klassischen Urheberrechtsschutz (all rights reserved).  Auf der linken Seite wird dargestellt, welche Nachnutzungsmöglichkeiten die farbig hinterlegten Lizenzen bieten. Der dunkelgrüne Bereich stellt Lizenzen dar, die das Teilen und Verändern von Materialien für nicht-kommerzielle <b>und</b> kommerzielle Zwecke erlauben. Materialien unter CC0, CC BY und CC BY SA lassen sich somit den "freien kulturellen Werken" zuordnen.
       <br><br>
@@ -229,14 +229,14 @@ Liste <i>Bedingungen von Creative Commons-Lizenzen</i> von twillo, lizenziert un
         </label>
       </div>
       <div class="solution">Creative Commons Lizenzen</div>
-      <div class="explanation">Creative Commons-Lizenzen eignen sich für den Bildungskontext besonders gut, da die Urheber*innen durch unterschiedliche Lizenzmodule differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.</div>
+      <div class="explanation">Creative Commons-Lizenzen eignen sich für den Bildungskontext besonders gut, da die Urheber:innen durch unterschiedliche Lizenzmodule differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten.</div>
     </div>
     <div class="slide" title="single-choice">
       <div class="question">Was bedeutet bei Creative-Commons-Lizenzen das Kürzel "BY"?*</div>
       <div class="answers">
         <label title="A">
           <input type="radio" name="question6" value="A">
-          Die*der ursprüngliche Urheber*in muss bei Nutzung angegeben werden.
+          Die:Der ursprüngliche Urheber:in muss bei Nutzung angegeben werden.
         </label>
         <label title="B">
           <input type="radio" name="question6" value="B">
@@ -244,14 +244,14 @@ Liste <i>Bedingungen von Creative Commons-Lizenzen</i> von twillo, lizenziert un
         </label>
       </div>
       <div class="solution">A</div>
-      <div class="explanation">Das Modul <b>BY</b> bedeutet, dass die*der Urheber*in des Werkes angegeben werden muss. Der Zusatz wird im Deutschen mit "Namensnennung" bezeichnet.<br>Das Modul <b>ND</b> (engl. No Derivatives, dt. keine Veränderung) gibt an, dass das Material nur vollständig und unverändert genutzt werden darf.</div>
+      <div class="explanation">Das Modul <b>BY</b> bedeutet, dass die:der Urheber:in des Werkes angegeben werden muss. Der Zusatz wird im Deutschen mit "Namensnennung" bezeichnet.<br>Das Modul <b>ND</b> (engl. No Derivatives, dt. keine Veränderung) gibt an, dass das Material nur vollständig und unverändert genutzt werden darf.</div>
     </div>
     <div class="slide" title="multiple-choice">
       <div class="question">Was muss bei der Nutzung eines Bilds beachtet werden, welches unter der Creative-Commons-Lizenz "CC BY SA" steht?*</div>
       <div class="answers">
         <label title="A">
           <input type="checkbox" name="question7" value="A">
-          Urheber*inen müssen angeben werden
+          Urheber:innen müssen angeben werden
         </label>
         <label title="B">
           <input type="checkbox" name="question7" value="B">
@@ -263,10 +263,10 @@ Liste <i>Bedingungen von Creative Commons-Lizenzen</i> von twillo, lizenziert un
         </label>
       </div>
       <div class="solution">A,B,C</div>
-      <div class="explanation"><b>BY</b> steht für die Namensnennung der Urheber*innen, <b>SA</b> (Share Alike) verlangt eine Weitergabe abgeleiteter Werke unter der gleicher Lizenz. Die Lizenz muss bei bei allen CC-Lizenzierten Werken angegeben und ein Link zum Lizenztext gesetzt werden.</div>
+      <div class="explanation"><b>BY</b> steht für die Namensnennung der Urheber:innen, <b>SA</b> (Share Alike) verlangt eine Weitergabe abgeleiteter Werke unter der gleicher Lizenz. Die Lizenz muss bei bei allen CC-Lizenzierten Werken angegeben und ein Link zum Lizenztext gesetzt werden.</div>
     </div>
     <div class="slide" title="single-choice">
-      <div class="question">Verzichtet die*der Urheber*in durch eine offene Lizenz auf alle Rechte an ihrem*seinen Werk?*</div>
+      <div class="question">Verzichtet die:der Urheber:in durch eine offene Lizenz auf alle Rechte an ihrem:seinem Werk?*</div>
       <div class="answers">
         <label title="A">
           <input type="radio" name="question8" value="A">
@@ -278,7 +278,7 @@ Liste <i>Bedingungen von Creative Commons-Lizenzen</i> von twillo, lizenziert un
         </label>
       </div>
       <div class="solution">B</div>
-      <div class="explanation">Der*die Urheberin kann sich auch bei der Wahl einer offenen Lizenz bestimmte Rechte an ihrem*seinen Werk vorbehalten. Durch eine offene Lizenz werden lediglich Nutzungsrechte vergeben. Das Urheberrecht ist in seinem Kern (Urheberpersöhnlichkeitsrecht) unverzichtbar. Wählt die*der Urheber*in jedoch die Lizenz CC 0 (keine Rechte vorbehalten), verzichtet er*sie bewusst auf ihre*seine Rechte an dem Werk. (das deutsche Urheberrecht kennt keine Public Domain)</div>
+      <div class="explanation">Der:Die Urheber:in kann sich auch bei der Wahl einer offenen Lizenz bestimmte Rechte an ihrem:seinem Werk vorbehalten. Durch eine offene Lizenz werden lediglich Nutzungsrechte vergeben. Das Urheberrecht ist in seinem Kern (Urheberpersöhnlichkeitsrecht) unverzichtbar. Wählt die:der Urheber:in jedoch die Lizenz CC 0 (keine Rechte vorbehalten), verzichtet er:sie bewusst auf ihre:seine Rechte an dem Werk. (das deutsche Urheberrecht kennt keine Public Domain)</div>
     </div>
     <div class="slide" title="multiple-choice">
       <div class="question">Welche Vorteile haben offene Lernmaterialien gegenüber restriktiv geschützten?*</div>
