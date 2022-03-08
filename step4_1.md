@@ -1,9 +1,9 @@
 <h2>LiaScript</h2>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-Bei LiaScript handelt es sich um eine <b>Open-Source Anwendung zur Erstellung von Online-Kursen</b> mit <b>interaktiven Inhalten</b> (z.B. Animationen, mathematischer Formeln, Quizze). Die Nutzung der Anwendung ist <b>kostenlos</b> und steht grundsätzlich allen Personen offen: Für die Erstellung eigener Kurse wird lediglich ein Browser oder Texteditor benötigt. Durch eine Bereitstellung erstellter Lerneinheiten über GitHub, können Urheber\*innen anderen Lehrenden und Lernenenden umfassende Möglichkeiten zur Nachnutzung ihrer gesamten Kursstruktur einräumen. 
+Bei LiaScript handelt es sich um eine <b>Open-Source Anwendung zur Erstellung von Online-Kursen</b> mit <b>interaktiven Inhalten</b> (z.B. Animationen, mathematischer Formeln, Quizze). Die Nutzung der Anwendung ist <b>kostenlos</b> und steht grundsätzlich allen Personen offen: Für die Erstellung eigener Kurse wird lediglich ein Browser oder Texteditor benötigt. Durch eine Bereitstellung erstellter Lerneinheiten über GitHub, können Urheber:innen anderen Lehrenden und Lernenenden umfassende Möglichkeiten zur Nachnutzung ihrer gesamten Kursstruktur einräumen. 
 
-LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendung zielt sogar explizit darauf. Grundidee der Entwickler\*innen ist es, einen Beitrag zur <b>Gestaltung von offener und kollaborativer Bildung</b> zu leisten - international und für alle Bildungsbereiche (vgl. Dietrich 2019)
+LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendung zielt sogar explizit darauf. Grundidee der Entwickler:innen ist es, einen Beitrag zur <b>Gestaltung von offener und kollaborativer Bildung</b> zu leisten - international und für alle Bildungsbereiche (vgl. Dietrich 2019)
 
 <h2>LiaScript Workflow mit Atom</h2>
 
@@ -210,7 +210,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
   <button class="accordion">7. Link erstellen, um Kurs mit Lernenden zu teilen</button>
   <div class="panel">
     <p>
-      Um eine URL für den Kurs mit LiaScript zu erstellen, die Sie dann mit Lernenden oder Kolleg*innen teilen können, wird der <b>Link zu Ihrem Repository</b> benötigt. Gehen Sie in Ihrem Browser auf Ihr Profil in GitHub. Wählen Sie dort Ihren Kurs aus und klicken Sie anschließend mit einem Rechtsklick auf die <b>.md</b> Datei Ihres Kurses. Hier können Sie die Option <b>Adresse des Links kopieren</b> auswählen.
+      Um eine URL für den Kurs mit LiaScript zu erstellen, die Sie dann mit Lernenden oder Kolleg:innen teilen können, wird der <b>Link zu Ihrem Repository</b> benötigt. Gehen Sie in Ihrem Browser auf Ihr Profil in GitHub. Wählen Sie dort Ihren Kurs aus und klicken Sie anschließend mit einem Rechtsklick auf die <b>.md</b> Datei Ihres Kurses. Hier können Sie die Option <b>Adresse des Links kopieren</b> auswählen.
       <figure style="align:middle;">
         <a href="images/git_link_kopieren.svg" target="_blank"><img src="images/git_link_kopieren.svg" alt="Abbildung: Screenshot Kopieren des des Repository-Links" title="Abbildung: Screenshot Kopieren des des Repository-Links"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Kopieren des des Repository-Links</figcaption>
@@ -253,7 +253,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       <b>8.1 Wie Sie andere Personen zur Mitarbeit einladen</b>
 
-Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg\*innen einladen möchten und gehen Sie auf den Reiter <b>Settings</b>.
+Geben Sie Ihren Mitarbeiter:innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg:innen einladen möchten und gehen Sie auf den Reiter <b>Settings</b>.
     </p>
     <br><br>
       <figure style="align:middle;">
@@ -269,33 +269,33 @@ Geben Sie Ihren Mitarbeiter\*innen zunächst Zugriff auf das GitHub Repository, 
       </figure>
       <br>
       <p>
-        Dort angekommen können Sie mit einem Klick auf den Button <b>Invite a collaborator</b> eine\*n Mitarbeiter\*in hinzufügen.
+        Dort angekommen können Sie mit einem Klick auf den Button <b>Invite a collaborator</b> eine:n Mitarbeiter:in hinzufügen.
       </p>
       <figure style="align:middle;">
-        <a href="images/git_add_contributors3.svg" target="_blank"><img src="images/git_add_contributors3.svg" alt="Abbildung: Screenshot Mitarbeiter\*innen zu einem auf GitHub Repository einladen" title="Abbildung: Screenshot Mitarbeiter\*innen zu einem auf GitHub Repository einladen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter\*innen zu einem auf GitHub Repository einladen</figcaption>
+        <a href="images/git_add_contributors3.svg" target="_blank"><img src="images/git_add_contributors3.svg" alt="Abbildung: Screenshot Mitarbeiter:innen zu einem auf GitHub Repository einladen" title="Abbildung: Screenshot Mitarbeiter:innen zu einem auf GitHub Repository einladen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter:innen zu einem auf GitHub Repository einladen</figcaption>
       </figure>
       <br>
       <p>
         Sie haben hierbei die Möglichkeit Ihre Mitarbeitenden via GitHub Usernamen, echten Namen oder E-Mail Addresse zu finden.
       </p>
       <figure style="align:middle;">
-        <a href="images/git_add_contributors4.svg" target="_blank"><img src="images/git_add_contributors4.svg" alt="Abbildung: Screenshot Mitarbeiter\*innen finden" title="Abbildung: Screenshot Mitarbeiter\*innen finden"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter\*innen finden</figcaption>
+        <a href="images/git_add_contributors4.svg" target="_blank"><img src="images/git_add_contributors4.svg" alt="Abbildung: Screenshot Mitarbeiter:innen finden" title="Abbildung: Screenshot Mitarbeiter:innen finden"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter:innen finden</figcaption>
       </figure>
       <br>
       <p>
-        Wählen Sie die\*den gewünschte\*n Mitarbeitende\*n aus und klicken Sie anschließend auf <b>Add <Username> to this repository</b>. Selbstverständlich können Sie auch mehr als nur eine Person zur Mitarbeit an Ihrem Repository einladen.
+        Wählen Sie die:den gewünschte:n Mitarbeitende:n aus und klicken Sie anschließend auf <b>Add <Username> to this repository</b>. Selbstverständlich können Sie auch mehr als nur eine Person zur Mitarbeit an Ihrem Repository einladen.
       </p>
       <figure style="align:middle;">
-        <a href="images/git_add_contributors5.svg" target="_blank"><img src="images/git_add_contributors5.svg" alt="Abbildung: Screenshot Mitarbeiter\*innen hinzufügen" title="Abbildung: Screenshot Mitarbeiter\*innen hinzufügen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter\*innen hinzufügen</figcaption>
+        <a href="images/git_add_contributors5.svg" target="_blank"><img src="images/git_add_contributors5.svg" alt="Abbildung: Screenshot Mitarbeiter:innen hinzufügen" title="Abbildung: Screenshot Mitarbeiter:innen hinzufügen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter:innen hinzufügen</figcaption>
       </figure>
       <br>
       <p>
-        Hurra! Sie haben Ihre\*n Mitarbeiter\*in erfolgreich zu Ihrem Repository hinzugefügt.
+        Hurra! Sie haben Ihre:n Mitarbeiter:in erfolgreich zu Ihrem Repository hinzugefügt.
         <br><br><b>8.2 Wie Sie vorgehen, wenn Sie zur Mitarbeit an einem Repository eingelanden wurden</b>
-        <br><br>Wurde der Zugang zu einem Repository für Sie als Mitarbeiter\*in freigeschaltet, erhalten Sie automatisch eine Einladung per Mail. Warten Sie nicht zu lange, damit die Einladung zu bestätigen. Der Einladungslink in der E-Mail ist nur für einen Zeitraum von 7 Tagen gültig.
+        <br><br>Wurde der Zugang zu einem Repository für Sie als Mitarbeiter:in freigeschaltet, erhalten Sie automatisch eine Einladung per Mail. Warten Sie nicht zu lange, damit die Einladung zu bestätigen. Der Einladungslink in der E-Mail ist nur für einen Zeitraum von 7 Tagen gültig.
       </p>
       <figure style="align:middle;">
         <a href="images/invitation_mail.svg" target="_blank"><img src="images/invitation_mail.svg" alt="Abbildung: Screenshot Einladung zu einem GitHub Repository" title="Abbildung: Screenshot Einladung zu einem GitHub Repository"/></a>
