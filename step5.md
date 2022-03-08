@@ -30,7 +30,7 @@ Folgende Funktionen des Portals sind hervorzuheben:
   <br>
   <li><b>Support:</b> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo</li>
   <br>
-  <li><b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder einer anderen Institution</li>
+  <li><b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg:innen der gleichen oder einer anderen Institution</li>
 </ul>
 
 Der Workflow auf twillo umfasst vier Schritte:
@@ -55,7 +55,7 @@ Der Workflow auf twillo umfasst vier Schritte:
           Sollte Ihnen die Anmeldung über die Hochschschulauswahl nicht möglich sein, können Sie sich auch manuell einen Account einrichten lassen. Senden Sie hierfür eine formlose Nachricht mit Ihrem vollständigen Namen, Ihrer E-Mailadresse, Ihrem beruflichen Funktionskontext und Ihrer Institution an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Sie erhalten anschließend zeitnah eine Mail mit Ihren Zugangsdaten.
         </p>
       </div>
-      Nach der ersten Anmeldung im Portal werden Sie in Ihrem <b>Workspace</b> weitergeleitet. Dieser ist als Ordnerstruktur angelegt und bietet Ihnen die Möglichkeit, Ihre eigenen OER zu organisieren. Der Workspace ist Ihr persönlicher Bereich, andere Nutzer*innen haben keinen Zugriff.
+      Nach der ersten Anmeldung im Portal werden Sie in Ihrem <b>Workspace</b> weitergeleitet. Dieser ist als Ordnerstruktur angelegt und bietet Ihnen die Möglichkeit, Ihre eigenen OER zu organisieren. Der Workspace ist Ihr persönlicher Bereich, andere Nutzer:innen haben keinen Zugriff.
       <br><br>
       Um von Ihrem Workspace in die Suchumgebung oder den Bereich Sammlungen zu wechseln, öffnen Sie die <b>Bereichsauswahl</b> indem Sie auf den Reiter <b>Workspace</b> oben links klicken.
     </p>
@@ -64,7 +64,7 @@ Der Workflow auf twillo umfasst vier Schritte:
   <div class="panel">
     <p>Um Material auf twillo bereitzustellen, wählen Sie in Ihrem Workspace die Schaltfläche <b>+NEU</b> aus. Klicken Sie auf <b>Neues Material</b> und laden Sie Ihr Material per Drag and Drop hoch oder verlinken Sie es durch die Eingabe einer URL. Verlinkungen sind nur dann möglich, wenn das Material bereits auf anderen Plattformen (z.B. YouTube, AV-Portal, SlideWiki, GitHub/GitLab etc.) veröffentlicht ist.
       <br><br>
-      Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Material in Ihrem <b>Workspace</b>. Zunächst ist es nur für Sie allein sichtbar. Eine Freigabe für andere Nutzer * innen oder die Öffentlichkeit muss gesondert erfolgen (vgl. Punkt 4 - Freigabe).
+      Sobald Sie den Vorgang mit <b>OK</b> bestätigt haben, befindet sich das Material in Ihrem <b>Workspace</b>. Zunächst ist es nur für Sie allein sichtbar. Eine Freigabe für andere Nutzer:innen oder die Öffentlichkeit muss gesondert erfolgen (vgl. Punkt 4 - Freigabe).
     </p>
   </div>
   <button class="accordion">3. Beschreibung und Kontextualisierung </button>
@@ -78,7 +78,7 @@ Der Workflow auf twillo umfasst vier Schritte:
               <figcaption style="text-align:center;font-size:14px;">Abbildung: Automatische Auffindbarkeit</figcaption>
             </figure></td>
           <td valign="middle" text-align="left" width="70%">
-            Offene Bildungsmaterialien sollten möglichst einfach und mit wenig Rechercheaufwand gefunden werden und deshalb möglichst gut beschrieben sein. Hierfür sind prägnante Titel, Beschreibungen und Schlagworte, die Lizenzauszeichnung sowie die Namen der Autor*innen relevante Angaben. Diese Informationen werden auch Metadaten genannt und sorgen für die Möglichkeit der standardisierten, maschinellen Suche innerhalb von Portalen. 
+            Offene Bildungsmaterialien sollten möglichst einfach und mit wenig Rechercheaufwand gefunden werden und deshalb möglichst gut beschrieben sein. Hierfür sind prägnante Titel, Beschreibungen und Schlagworte, die Lizenzauszeichnung sowie die Namen der Autor:innen relevante Angaben. Diese Informationen werden auch Metadaten genannt und sorgen für die Möglichkeit der standardisierten, maschinellen Suche innerhalb von Portalen. 
           </td>
         </tr>
         <tr>
@@ -99,19 +99,19 @@ Der Workflow auf twillo umfasst vier Schritte:
       </figure>
       Die Metadaten-Eingabemaske des Portals gliedert sich in die Bereiche Allgemeine Infomationen, Lizenz, Klassifizierungen, Didaktik und technische Informationen. Zwar sind nur wenige Angaben verpflichtend, wir empfehlen Ihnen allerdings, den Dialog von oben bis unten durchzugehen und möglichst viele Angaben zu machen. Dies verinafacht anderen Personen das Finden und Nutzen Ihres Materials. Metadaten, die eines besonderen Augenmerks bedürfen, werden im folgenden genauer beschrieben.
       <br><br>
-      <b>Angabe von Urheber*innen und Beteiligten Personen</b>
+      <b>Angabe von Urheber:innen und Beteiligten Personen</b>
       <br><br>
-      Im Abschnitt <b>Allgemeine Informationen</b> geben Sie u.a. die Urheber*innen des Material an. Bitte wählen Sie hierfür den Reiter <b>Autoren & Beteiligte</b> aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit <b>mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber*innen</b> einzutragen oder <b>weitere an der Entwicklung des Materials beteiligte Personen</b> (z.B. Herausgeber*innen, Grafiker*innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter <b>weitere Beteiligte</b> unterhalb des Eingabefelds.
+      Im Abschnitt <b>Allgemeine Informationen</b> geben Sie u.a. die Urheber:innen des Material an. Bitte wählen Sie hierfür den Reiter <b>Autoren & Beteiligte</b> aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit <b>mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber:innen</b> einzutragen oder <b>weitere an der Entwicklung des Materials beteiligte Personen</b> (z.B. Herausgeber:innen, Grafiker:innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter <b>weitere Beteiligte</b> unterhalb des Eingabefelds.
       <figure>
-          <a href="images/Step_1.svg" target="_blank"><img src="images/Step_1.svg" alt="Abbildung: Screenshot Urheber*innenangaben twillo " title="Abbildung: Screenshot Urheber*innenangaben twillo "/></a>
-          <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Urheber*innenangaben twillo </figcaption>
+          <a href="images/Step_1.svg" target="_blank"><img src="images/Step_1.svg" alt="Abbildung: Screenshot Urheber:innenangaben twillo " title="Abbildung: Screenshot Urheber:innenangaben twillo "/></a>
+          <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Urheber:innenangaben twillo </figcaption>
       </figure>
       <br>
       Wählen Sie im Bereich <b>Beteiligte am Objekt</b> nun den Button <b>Hinzufügen</b>. Es öffnet sich eine neue Eingabemaske, in der Sie alle beteiligten Personen - und/oder Organisation - sowie deren Rolle benennen können. Tragen Sie einen Namen in die Eingabemaske ein und wählen Sie anschließend über das Dropdownmenü im Bereich <b>Tätig als</b> eine passende Funktion an. Speichern Sie Ihre Eingabe mit <b>Übernehmen</b>. Um weitere Beteiligte hinzuzufügen wiederholen Sie die vorangegangenen Schritte.
       <br>
       <figure>
-          <a href="images/Step_3.svg" target="_blank"><img src="images/Step_3.svg" alt="Abbildung: Screenshot Urheber*innenangaben twillo " title="Abbildung: Screenshot Urheber*innenangaben twillo "/></a>
-          <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Urheber*innenangaben twillo </figcaption>
+          <a href="images/Step_3.svg" target="_blank"><img src="images/Step_3.svg" alt="Abbildung: Screenshot Urheber:innenangaben twillo " title="Abbildung: Screenshot Urheber:innenangaben twillo "/></a>
+          <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Urheber:innenangaben twillo </figcaption>
       </figure>
       <b>Lizenzangaben</b>
       <br><br>
@@ -142,7 +142,7 @@ Der Workflow auf twillo umfasst vier Schritte:
       </figure>
       <b>Didaktische Angaben</b>
       <br><br>
-      Im Abschnitt <b>Didaktik</b> können Sie Kontextinformationen für Nutzer* innen des Portals angeben - sofern diese Ihnen bekannt sind. Die hier ausgewählten Beschreibungskategorien sind insbesondere bei der zielgerichteten Materialsuche für den eigenen Lehrkontext hilfreich.
+      Im Abschnitt <b>Didaktik</b> können Sie Kontextinformationen für Nutzer:innen des Portals angeben - sofern diese Ihnen bekannt sind. Die hier ausgewählten Beschreibungskategorien sind insbesondere bei der zielgerichteten Materialsuche für den eigenen Lehrkontext hilfreich.
       <ul style="list-style-type:disc">
         <li>Geben Sie an, in welchem <b>Veranstaltungsformat</b> Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
         <li>Geben Sie an, für welche <b>Niveau</b>stufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
@@ -166,7 +166,7 @@ Der Workflow auf twillo umfasst vier Schritte:
       <br><br>
       <b>ODER</b>
       <br><br>
-      Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b>. Hier können Sie Ihr OER über den Schalter <b>Material öffentlich freigeben</b> veröffentlichen. Auch haben Sie die Möglichkeit, Ihr Material nur mit bestimmten Nutzer*innen des Portals zu teilen. Wählen Sie hierfür mit der Suchfunktion die gewünschten Personen aus und vergeben Sie über das Dropdownmenü eine Rolle. Vergessen Sie nicht, Ihre Freigabe mit dem Button <b>Einladen</b> zu bestätigen. Die Einladung von Personen kann nur erfolgen, wenn die betreffenden Personen einen twillo Account besitzen.
+      Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b>. Hier können Sie Ihr OER über den Schalter <b>Material öffentlich freigeben</b> veröffentlichen. Auch haben Sie die Möglichkeit, Ihr Material nur mit bestimmten Nutzer:innen des Portals zu teilen. Wählen Sie hierfür mit der Suchfunktion die gewünschten Personen aus und vergeben Sie über das Dropdownmenü eine Rolle. Vergessen Sie nicht, Ihre Freigabe mit dem Button <b>Einladen</b> zu bestätigen. Die Einladung von Personen kann nur erfolgen, wenn die betreffenden Personen einen twillo Account besitzen.
       <figure>
         <a href="images/Freigabe.svg" target="_blank"><img src="images/Freigabe.svg" alt="Abbildung: Screenshot Freigabe twillo" title="Abbildung: Screenshot Freigabe twillo"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Freigabe twillo</figcaption>
