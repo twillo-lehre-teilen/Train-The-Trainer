@@ -35,22 +35,21 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
   <button class="accordion">2. Lernmodul (Kursdokument) anlegen</button>
   <div class="panel">
     <p>
-      Um ein neues Lernmodul anzulegen, öffnen Sie oben in der Menüleiste den Reiter <b>File</b> und wählen Sie <b>New file</b> aus <b>oder</b> drücken Sie die Tastenkombination CTRL, ALT, Windows und N. In der mitte der Seite der Visual Studio Code Umgebung öffnet sich nun ein Eingabefeld. Hier geben Sie einen Dateinamen zu Ihrem Lernmodul ein. Daraufhin öffnet sich ein Fenster in dem Sie den Speicherot Ihres Lernmoduls festlegen. <b>Wichtig:</b> Beim auswählen des Speicherorts ist zu beachten, dass sich die Datei in einem neuen und leeren Ordner befinden muss. Erstellen Sie hierfür einfach einen neuen Ordner und legen Sie die Datei darin ab. Außerdem ist zu beachten, dass die Datei als Markdown-Datei abgespeichert wird. Hängen Sie hierfür die Endung <b>.md</b> an ihren Dateinamen an. Nach dem speichern schließt sich wieder das Fenster und die leere Datei wird im Editor geöffnet.
+      Um ein neues Lernmodul anzulegen, öffnen Sie oben in der Menüleiste den Reiter <b>File</b> und wählen Sie <b>New file</b> aus <b>oder</b> drücken Sie die Tastenkombination CTRL, ALT, Windows und N. In der mitte der Seite der Visual Studio Code Umgebung öffnet sich nun ein Eingabefeld. Hier geben Sie einen Dateinamen zu Ihrem Lernmodul ein. Daraufhin öffnet sich ein Fenster in dem Sie den Speicherot Ihres Lernmoduls festlegen.
       <figure style="align:middle;">
         <a href="images/vsc_newfile.svg" target="_blank"><img src="images/vsc_newfile.svg" alt="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (1)" title="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (1)"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (1)</figcaption>
       </figure>
-      <br>
       <figure style="align:middle;">
         <a href="images/new_vsc_newfile_namefile.svg" target="_blank"><img src="images/vsc_newfile_name.svg" alt="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (2)" title="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (2)"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (2)</figcaption>
       </figure>
       <br>
+      <b>Wichtig:</b> Beim auswählen des Speicherorts ist zu beachten, dass sich die Datei in einem neuen und leeren Ordner befinden muss. Erstellen Sie hierfür einfach einen neuen Ordner und legen Sie die Datei darin ab. Außerdem ist zu beachten, dass die Datei als Markdown-Datei abgespeichert wird. Hängen Sie hierfür die Endung <b>.md</b> an ihren Dateinamen an. Nach dem speichern schließt sich wieder das Fenster und die leere Datei wird im Editor geöffnet.
       <figure style="align:middle;">
         <a href="images/vsc_create_projectfolder.svg" target="_blank"><img src="images/vsc_create_projectfolder.svg" alt="Abbildung: Screenshot Erstellung eines Projektordners in Visual Studio Code" title="Abbildung: Screenshot Erstellung eines Projektordners in Visual Studio Code"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Projektordners in Visual Studio Code</figcaption>
       </figure>
-      <br>
       <figure style="align:middle;">
         <a href="images/vsc_newfile_md.svg" target="_blank"><img src="images/vsc_newfile_md.svg" alt="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (3)" title="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (3)"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (3)</figcaption>
@@ -61,12 +60,10 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <a href="images/vsc_explorer.svg" target="_blank"><img src="images/vsc_explorer.svg" alt="Abbildung: Screenshot Explorer in Visual Studio Code" title="Abbildung: Screenshot Explorer in Visual Studio Code"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Explorer in Visual Studio Code</figcaption>
       </figure>
-      <br>
       <figure style="align:middle;">
         <a href="images/vsc_select_projectfolder.svg" target="_blank"><img src="images/vsc_select_projectfolder.svg" alt="Abbildung: Screenshot Projektordner auswählen" title="Abbildung: Screenshot Projektordner auswählen"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Projektordner auswählen</figcaption>
       </figure>
-      <br>
       <figure style="align:middle;">
         <a href="images/vsc_explorer2.svg" target="_blank"><img src="images/vsc_explorer2.svg" alt="Abbildung: Screenshot Explorer in Visual Studio Code mit geöffnetem Projekt" title="Abbildung: Screenshot Explorer in Visual Studio Code mit geöffnetem Projekt"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Explorer in Visual Studio Code mit geöffnetem Projekt</figcaption>
@@ -75,10 +72,9 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       Aktivieren Sie nun das LiaScript Plugin. Drücken Sie die Tastenkombination STRG, SHIFT und P, um die Kommandozeile von Visual Studio Code zu öffnen.
       Geben Sie in dieser Kommandozeile <b>liascript</b> ein. Es werden Ihnen daraufhin alle möglichen Befehle der installierten LiaScript Plugins angezeigt. Wählen Sie davon den Befehl <b>LiaScript: Preview your course in live mode (start DevServer)</b> aus. Es öffnet sich nun innerhalb Ihres Browsers ein neues Fenster in dem eine Vorschau Ihres Lernmoduls erscheint. Nach jedem Speichern (<b>File</b> und <b>Save</b> im Kopfmenü oder die Tastenkombination STRG und S) kann mit neu laden des Browserfensters (<b>F5</b>) die aktualisierte Vorschau angeschaut werden. Allerdings befindet sich aktuell noch kein Inhalt in Ihrem Lernmodul. Fügen Sie zunächst eine Überschrift ihrem Lernmodul hinzu. <b>Wichtig:</b> Da in der Anwendung mit Markdown gearbeitet werden muss, vergessen Sie bitte nicht einen Hashtag vor Ihre Überschrift zu setzen. Beispiel: <b># Mein LiaScript Kurs</b>. Speichern Sie das Dokument anschließend und laden Sie das Browserfenster neu, um Ihre neuen Inhalte zu begutachten.
       <figure style="align:middle;">
-        <a href="images/vsc_commandopalette2.svg" target="_blank"><img src="images/vsc_commandopalette2.svg" alt="Abbildung: Screenshot Kommandozeile in Visual Studio Code" title="Abbildung: Screenshot Kommandozeile in Visual Studio Code"/></a>
+        <a href="images/vsc_commandpalette2.svg" target="_blank"><img src="images/vsc_commandpalette2.svg" alt="Abbildung: Screenshot Kommandozeile in Visual Studio Code" title="Abbildung: Screenshot Kommandozeile in Visual Studio Code"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Kommandozeile in Visual Studio Code</figcaption>
       </figure>
-      <br>
       <figure style="align:middle;">
         <a href="images/vsc_liapreview.svg" target="_blank"><img src="images/vsc_liapreview.svg" alt="Abbildung: Screenshot LiaPreview PlugIn in Visual Studio Code" title="Abbildung: Screenshot LiaPreview PlugIn in Visual Studio Code"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaPreview PlugIn in Visual Studio Code</figcaption>
@@ -109,7 +105,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <li>Sie möchten eine Liste einfügen? Zeichnen Sie die Aufzählung wie folgt aus:</li>
       </ul>    
       <figure style="align:middle;">
-        <a href="images/vsc_liapreview_list.svg" target="_blank"><img src="images/vsc:liapreview_list.svg" alt="Abbildung: Screenshot Anlegen einer Liste in Markdown" title="Abbildung: Screenshot Anlegen einer Liste in Markdown"/></a>
+        <a href="images/vsc_liapreview_list.svg" target="_blank"><img src="images/vsc_liapreview_list.svg" alt="Abbildung: Screenshot Anlegen einer Liste in Markdown" title="Abbildung: Screenshot Anlegen einer Liste in Markdown"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Anlegen einer Liste in Markdown</figcaption>
       </figure>
       <div class="infobox">
@@ -125,7 +121,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <h6>Hinzufügen weiterer Elemente:</h6>
       LiaScript ist insbesondere dafür geeignet, interaktive Lernobjekte in Ihren Kursstruktur zu integrieren. <b>Kopieren Sie die Syntax, die Sie dafür benötigen aus dem digitalen <a aria-describedby="Link zu LiaScript Handbuch" href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1">LiaScript Handbuch</a> von André Dietrich, Sebastian Zug, Karl Fessel und Steve Rehm</b>. Das Handbuch ist explizit dafür vorgesehen, Ihnen bei der Integration von Elementen in LiaScript zu helfen.
       <br><br>
-      Hier ein Beispiel, in dem eine Quizfrage (mit Hinweisen + Erklärung) nach Vorgave des Handbuchs erstellt werden kann.
+      Hier ein Beispiel, in dem eine Quizfrage (mit Hinweisen + Erklärung) nach Vorgabe des Handbuchs erstellt werden kann.
       <figure style="align:middle;">
         <a href="images/vsc_liapreview_quiz_hints3.svg" target="_blank"><img src="images/vsc_liapreview_quiz_hints3.svg" alt="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript" title="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Quiz mit LiaScript</figcaption>
@@ -159,61 +155,53 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       </figure>
       <br>    
       <h6>Verknüpfung von GitHub mit Visual Studio Code</h6>
-      Visual Studio Code stellt ein Bindeglied zwischen LiaScript und GitHub dar. Mit einer Verbindung von Visual Studio Code mit GitHUb wird Ihnen die Möglichkeit gegeben, Inhalte durch Visual Studio Code in Ihren Kurs  einzubinden und über GitHub zu veröffentlichen. D.h. durch das LiaScript Plugin und die Verbindung mit GitHub wird Visual Studio Code zu einem Werkzeug, mit dem Sie einerseits Ihren Kurs  gestalten können während Sie eine Vorschau erhalten und andererseits auch eine Veröffentlichung im Internet vornehmen können.
+      Visual Studio Code stellt ein Bindeglied zwischen LiaScript und GitHub dar. Mit einer Verbindung von Visual Studio Code mit GitHub wird Ihnen die Möglichkeit gegeben, Inhalte durch Visual Studio Code in Ihren Kurs einzubinden und über GitHub zu veröffentlichen. D.h. durch das LiaScript Plugin und die Verbindung mit GitHub wird Visual Studio Code zu einem Werkzeug, mit dem Sie einerseits Ihren Kurs gestalten können während Sie eine Vorschau erhalten und andererseits auch eine Veröffentlichung im Internet vornehmen können.
       <br><br>
-      Öffnen Sie Visual Studio Code. Das Git-Package ist hier vorinstalliert, sodass es einfach direkt über die Reiter <b>packages → GitHub → Toggle GitHub</b> ausgewählt werden kann. Wählen Sie zunächst <b>Toggle GitHub</b> aus.
+      Öffnen Sie Visual Studio Code. Das Git-Package ist hier vorinstalliert, sodass es einfach direkt über die Sidebar aufgerufen werden kann. Wählen Sie unter dem Reiter<b>Accounts</b> die Option <b>Sign in with GitHub</b> aus. Daraufhin werden Sie zu GitHub weitergeleitet um sich dort mit Ihrem GitHub Account anzumelden und Visual Studio Code zu authorisieren.
       <figure style="align:middle;">
-        <a href="images/screenshotToggleGitHub.svg" target="_blank"><img src="images/screenshotToggleGitHub.svg" alt="Abbildung: Screenshot der Verknüpfung von GitHub" title="Abbildung: Screenshot der Verknüpfung von GitHub"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot der Verknüpfung von GitHub</figcaption>
+        <a href="images/vsc_github_login.svg" target="_blank"><img src="images/vsc_github_login.svg" alt="Abbildung: Screenshot Verknüpfung mit GitHub" title="Abbildung: Screenshot Verknüpfung mit GitHub"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Verknüpfung mit GitHub</figcaption>
       </figure>
       <br>
-      Nun öffnet sich der Reiter <b>GitHub</b>. Klicken Sie auf den angezeigten Link, um ein <b>Token</b> (also quasi einen Authentifizierungscode) zu generieren, welches ihren GitHub Account mit Visual Studio Code verknüpft. Geben Sie das Token in das dafür vorgesehene Feld ein.
-      <figure style="align:middle;">
-        <a href="images/connectToGitHub.svg" target="_blank"><img src="images/connectToGitHub.svg" alt="Abbildung: Screenshot Generierung eines Tokens" title="Abbildung: Screenshot Generierung eines Tokens"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Generierung eines Tokens</figcaption>
-      </figure>
-      <figure style="align:middle;">
-        <a href="images/Visual Studio Code_auth.svg" target="_blank"><img src="images/Visual Studio Code_auth.svg" alt=">Abbildung: Screenshot Authorisieren von GitHub in Visual Studio Code" title=">Abbildung: Screenshot Authorisieren von GitHub in Visual Studio Code"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Authorisieren von GitHub in Visual Studio Code</figcaption>
-      </figure>
-      <figure style="align:middle;">
-        <a href="images/generateToken.svg" target="_blank"><img src="images/generateToken.svg" alt="Abbildung: Screenshot Eingabe des GitHub-Token" title="Abbildung: Screenshot Eingabe des GitHub-Token"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Eingabe des GitHub-Token</figcaption>
-      </figure>
     </p>
   </div>
   <button class="accordion">5. Ablageort für Ihren Kurs im Internet anlegen</button>
   <div class="panel">
     <p>
-      In dem Reiter <b>GitHub</b> in Visual Studio Code können Sie nun durch Klicken auf <b>initialize and publish on GitHub</b> ein neues Repository für ihren Kurs anlegen. Ein Repository ist der Ablageort für ihre Kursdateien auf Git im Internet.
+      In dem Reiter <b>Source Control</b> in Visual Studio Code können Sie nun durch Klicken auf <b>Initialize Repository</b> ein neues Repository auf GitHub für ihren Kurs anlegen. Ein Repository ist der Ablageort für ihre Kursdateien auf Git im Internet.
       <figure style="align:middle;">
-        <a href="images/createRepository.svg" target="_blank"><img src="images/createRepository.svg" alt="Abbildung: Repository anlegen" title="Abbildung: Repository anlegen"/></a>
+        <a href="images/vsc_init_repo.svg" target="_blank"><img src="images/vsc_init_repo.svg" alt="Abbildung: Repository anlegen" title="Abbildung: Repository anlegen"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Repository anlegen</figcaption>
       </figure>
       Nach dem Anlegen des Repositorys müssen über Visual Studio Code noch zwei kleine Schritte getätigt werden (<b>commit</b> und <b>push</b>), um auch Ihre Kursdatei erfolgreich im Repository abzulegen.
       <br><br>
       Was hat es mit diesen Schritten auf sich? Wenn Sie in Visual Studio Code an Ihrem Kurs arbeiten und die Änderungen <b>speichern</b>, änderen Sie nur das Kursdokument, das lokal auf Ihrem Computer abgelegt ist. Mit <b>commit</b> informieren Sie quasi den Dienst GitHub über die Änderungen und weisen an, dass auch Git die Änderungen übernehmen soll. Mit <b>push</b> setzen Sie die Änderungen dann öffentlich.
       <br><br>
-      Um die Schritte <b>commit</b> und <b>push</b> das erste mal auszuführen, wechseln Sie in Visual Studio Code zunächst in den Reiter <b>Git</b> (direkt neben dem Reiter GitHub).
+      Um die Schritte <b>commit</b> und <b>push</b> das erste mal auszuführen, bleiben Sie in Visual Studio Code im Reiter <b>Source Control</b>.
       <br><br><br>
-      Hier müssten Sie, wie in Abb. 45 erkennbar, Ihre Kursdatei unter dem Reiter <b>Unstaged Changes</b> sehen. Klicken Sie nun zuerst auf den Button <b>Stage All</b>, den Sie an der rechten Seite finden.
+      Hier müssten Sie, wie in folgender Abbildung erkennbar, Ihre Kursdatei unter dem Abschnitt <b>(Unstaged) Changes</b> sehen. Klicken Sie nun zuerst auf den Button <b>Stage All Changes</b>, den Sie an der rechten Seite des Reiters, auf höhe des Abschnittes <b>Changes</b> finden. Der Button hat die Form eines Pluszeichen.
       <figure style="align:middle;">
-        <a href="images/Visual Studio Code_git_stage.svg" target="_blank"><img src="images/Visual Studio Code_git_stage.svg" alt="Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes" title="Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes"/></a>
+        <a href="images/vsc_sc_unstaged.svg" target="_blank"><img src="images/vsc_sc_unstaged.svg" alt="Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes" title="Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes</figcaption>
       </figure>
-      Nach der Wahl des Buttons <b>Stage All</b> wechselt Ihre Datei weiter unten in den Bereich <b>Staged Changes</b> (vgl. Abb. 46). Schreiben Sie als nächstes einen <b>kleinen Kommentar</b> ins untere Textfeld, mit dem Sie den Commit beschreiben (z.B. Neuerungen, Veränderungen, Korrekturen). Klicken Sie anschließend auf <b>Create detached commit</b> (bzw. <b>Commit to branch</b>), um den Commit fertig zu stellen.
+      Nach der Wahl des Buttons <b>Stage All Changes</b> wechselt Ihre Datei weiter nach oben in den Bereich <b>Staged Changes</b>. Schreiben Sie als nächstes noch einen <b>kleinen Kommentar</b> ins obere Textfeld, mit dem Sie den Commit beschreiben (z.B. Neuerungen, Veränderungen, Korrekturen). Klicken Sie anschließend auf <b>Commit</b>, um den Commit fertig zu stellen.
       <figure style="align:middle;">
-        <a href="images/Visual Studio Code_git_stage2.svg" target="_blank"><img src="images/Visual Studio Code_git_stage2.svg" alt="Abbildung: Screenshot Anzeige der Kursdatei unter Staged Changes" title="Abb. 50: Screenshot Anzeige der Kursdatei unter Staged Changes"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Anzeige der Kursdatei unter Staged Changes</figcaption>
+        <a href="images/vsc_sc_staged.svg" target="_blank"><img src="images/vsc_sc_staged.svg" alt="Abbildung: Screenshot Anzeige der Kursdatei unter Staged Changes mit Commit Kommentar" title="Abb. 50: Screenshot Anzeige der Kursdatei unter Staged Changes mit Commit Kommentar"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Anzeige der Kursdatei unter Staged Changes mit Commit Kommentar</figcaption>
       </figure>
-        Nun können Sie unten in der Fußleiste auf <b>Push</b> klicken, um all Ihre Änderungen mit Ihrem Repository zu synchronisieren - ergo, sie im Netz sichtbar zu machen.
+      Nun sollte sich an selber Stelle der Button <b>Publish Branch</b> befinden. Klicken Sie ihn, um all Ihre Änderungen mit Ihrem Repository zu synchronisieren - ergo, sie im Netz sichtbar zu machen.
       <figure style="align:middle;">
-        <a href="images/Visual Studio Code_git_push.svg" target="_blank"><img src="images/Visual Studio Code_git_push.svg" alt="Abbildung: Screenshot Pushen der Änderungen" title="Abbildung: Screenshot Pushen der Änderungen"/></a>
+        <a href="images/vsc_sc_commited.svg" target="_blank"><img src="images/vsc_sc_commited.svg" alt="Abbildung: Screenshot Pushen der Änderungen" title="Abbildung: Screenshot Pushen der Änderungen"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Pushen der Änderungen</figcaption>
       </figure>
-    Überprüfen Sie, ob alles geklappt hat, indem Sie im Browser Ihr GitHub Profil aufrufen und dort Ihren Kurs auswählen. Hier sollte Ihr Repository nun wie folgt aussehen.
+      Da dieser Commit allerdings der aller erste Commit ist und das Repository aktuell auch noch nur lokal existiert öffnet sich ein kleines Eingabefenster. In diesem soll der Name und die Sichtbarkeit (<b>public</b> oder <b>private</b>) des Repositorys festgelegt werden. <b>Wichtig:</b> Bei der Sichtbarkeit müssen Sie <b>public</b> auswählen, damit der Kurs über LiaScript veröffentlicht werden kann.
       <figure style="align:middle;">
-        <a href="images/Visual Studio Code_git_repo.svg" target="_blank"><img src="images/Visual Studio Code_git_repo.svg" alt="Abbildung: Screenshot Anzeige Ihres Repositories auf GitHub" title="Abbildung: Screenshot Anzeige Ihres Repositories auf GitHub"/></a>
+        <a href="images/vsc_sc_publish.svg" target="_blank"><img src="images/vsc_sc_publish.svg" alt="Abbildung: Screenshot Repository veröffentlichen" title="Abbildung: Screenshot Repository veröffentlichen"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Repository veröffentlichen</figcaption>
+      </figure>
+      Überprüfen Sie, ob alles geklappt hat, indem Sie im Browser Ihr GitHub Profil aufrufen und dort Ihren Kurs auswählen. Hier sollte Ihr Repository nun wie folgt aussehen.
+      <figure style="align:middle;">
+        <a href="images/vsc_gh_repo.svg" target="_blank"><img src="images/vsc_gh_repo.svg" alt="Abbildung: Screenshot Anzeige Ihres Repositories auf GitHub" title="Abbildung: Screenshot Anzeige Ihres Repositories auf GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Anzeige Ihres Repositories auf GitHub</figcaption>
       </figure>
     </p>
@@ -255,14 +243,14 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       Um eine URL für den Kurs mit LiaScript zu erstellen, die Sie dann mit Lernenden oder Kolleg:innen teilen können, wird der <b>Link zu Ihrem Repository</b> benötigt. Gehen Sie in Ihrem Browser auf Ihr Profil in GitHub. Wählen Sie dort Ihren Kurs aus und klicken Sie anschließend mit einem Rechtsklick auf die <b>.md</b> Datei Ihres Kurses. Hier können Sie die Option <b>Adresse des Links kopieren</b> auswählen.
       <figure style="align:middle;">
-        <a href="images/git_link_kopieren.svg" target="_blank"><img src="images/git_link_kopieren.svg" alt="Abbildung: Screenshot Kopieren des des Repository-Links" title="Abbildung: Screenshot Kopieren des des Repository-Links"/></a>
+        <a href="images/vsc_gh_copy_link.svg" target="_blank"><img src="images/vsc_gh_copy_link.svg" alt="Abbildung: Screenshot Kopieren des des Repository-Links" title="Abbildung: Screenshot Kopieren des des Repository-Links"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Kopieren des des Repository-Links</figcaption>
       </figure>
       Besuchen Sie anschließend die LiaScript-Website: <a aria-describedby="Link zur LiaScript Seite" href="https://liascript.github.io/">https://liascript.github.io/</a>.
       <br><br>
       Hier fügen Sie den kopierten Link in das Eingabefeld ein und klicken zum Abschluss auf <b>Load Course</b>. Der Kurs wird nun von LiaScript erstellt und die Kursseite sollte sich in kürze automatisch öffnen. <b>Unter der obigen URL ist der Kurs nun jederzeit aufrufbar</b>.
       <figure style="align:middle;">
-        <a href="images/liascript_2.svg" target="_blank"><img src="images/liascript_2.svg" alt="Abbildung: Screenshot LiaScript Startseite" title="Abbildung: Screenshot LiaScript Startseite"/></a>
+        <a href="images/vsc_lia_loadcourse.svg" target="_blank"><img src="images/vsc_lia_loadcourse.svg" alt="Abbildung: Screenshot LiaScript Startseite" title="Abbildung: Screenshot LiaScript Startseite"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaScript Startseite</figcaption>
       </figure>
       <center>
@@ -294,9 +282,8 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       </p>
     </div>
     <p>
-      <b>8.1 Wie Sie andere Personen zur Mitarbeit einladen</b>
-
-Geben Sie Ihren Mitarbeiter:innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg:innen einladen möchten und gehen Sie auf den Reiter <b>Settings</b>.
+      <b>8.1 Wie Sie andere Personen zur Mitarbeit einladen</b><br>
+      Geben Sie Ihren Mitarbeiter:innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg:innen einladen möchten und gehen Sie auf den Reiter <b>Settings</b>.
     </p>
     <br><br>
       <figure style="align:middle;">
