@@ -13,8 +13,10 @@
 * [4: OER in Systemen abbilden](step4.md)
 
    * [4.1: LiaScript](step4_1.md)
+
+   * [4.2: Visual Studio Code](step4_2.md)
    
-   * [4.2: Lernmanagementsysteme (Ilias, Moodle, Stud.IP Courseware)](step4_2.md)
+   * [4.3: Lernmanagementsysteme (Ilias, Moodle, Stud.IP Courseware)](step4_3.md)
 
 * [5: OER teilen](step5.md)
 
