@@ -126,7 +126,6 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <a href="images/vsc_liapreview_quiz_hints3.svg" target="_blank"><img src="images/vsc_liapreview_quiz_hints3.svg" alt="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript" title="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Quiz mit LiaScript</figcaption>
       </figure>
-      <br>
       <figure style="align:middle;">
         <a href="images/vsc_liapreview_quiz_solution.svg" target="_blank"><img src="images/vsc_liapreview_quiz_solution.svg" alt="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript" title="Abbildung: Screenshot Erstellung eines Quiz mit LiaScript"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Quiz mit LiaScript</figcaption>
@@ -157,12 +156,11 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <h6>Verknüpfung von GitHub mit Visual Studio Code</h6>
       Visual Studio Code stellt ein Bindeglied zwischen LiaScript und GitHub dar. Mit einer Verbindung von Visual Studio Code mit GitHub wird Ihnen die Möglichkeit gegeben, Inhalte durch Visual Studio Code in Ihren Kurs einzubinden und über GitHub zu veröffentlichen. D.h. durch das LiaScript Plugin und die Verbindung mit GitHub wird Visual Studio Code zu einem Werkzeug, mit dem Sie einerseits Ihren Kurs gestalten können während Sie eine Vorschau erhalten und andererseits auch eine Veröffentlichung im Internet vornehmen können.
       <br><br>
-      Öffnen Sie Visual Studio Code. Das Git-Package ist hier vorinstalliert, sodass es einfach direkt über die Sidebar aufgerufen werden kann. Wählen Sie unter dem Reiter<b>Accounts</b> die Option <b>Sign in with GitHub</b> aus. Daraufhin werden Sie zu GitHub weitergeleitet um sich dort mit Ihrem GitHub Account anzumelden und Visual Studio Code zu authorisieren.
+      Öffnen Sie Visual Studio Code. Das Git-Package ist hier vorinstalliert, sodass es einfach direkt über die Sidebar aufgerufen werden kann. Wählen Sie unter dem Reiter <b>Accounts</b> die Option <b>Sign in with GitHub</b> aus. Daraufhin werden Sie zu GitHub weitergeleitet um sich dort mit Ihrem GitHub Account anzumelden und Visual Studio Code zu authorisieren.
       <figure style="align:middle;">
         <a href="images/vsc_github_login.svg" target="_blank"><img src="images/vsc_github_login.svg" alt="Abbildung: Screenshot Verknüpfung mit GitHub" title="Abbildung: Screenshot Verknüpfung mit GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Verknüpfung mit GitHub</figcaption>
       </figure>
-      <br>
     </p>
   </div>
   <button class="accordion">5. Ablageort für Ihren Kurs im Internet anlegen</button>
@@ -173,12 +171,12 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <a href="images/vsc_init_repo.svg" target="_blank"><img src="images/vsc_init_repo.svg" alt="Abbildung: Repository anlegen" title="Abbildung: Repository anlegen"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Repository anlegen</figcaption>
       </figure>
-      Nach dem Anlegen des Repositorys müssen über Visual Studio Code noch zwei kleine Schritte getätigt werden (<b>commit</b> und <b>push</b>), um auch Ihre Kursdatei erfolgreich im Repository abzulegen.
+      Nach dem Anlegen des Repositorys müssen über Visual Studio Code noch zwei kleine Schritte getätigt werden (<b>commit</b> und <b>sync changes (push)</b>), um auch Ihre Kursdatei erfolgreich im Repository abzulegen.
       <br><br>
-      Was hat es mit diesen Schritten auf sich? Wenn Sie in Visual Studio Code an Ihrem Kurs arbeiten und die Änderungen <b>speichern</b>, änderen Sie nur das Kursdokument, das lokal auf Ihrem Computer abgelegt ist. Mit <b>commit</b> informieren Sie quasi den Dienst GitHub über die Änderungen und weisen an, dass auch Git die Änderungen übernehmen soll. Mit <b>push</b> setzen Sie die Änderungen dann öffentlich.
+      Was hat es mit diesen Schritten auf sich? Wenn Sie in Visual Studio Code an Ihrem Kurs arbeiten und die Änderungen <b>speichern</b>, änderen Sie nur das Kursdokument, das lokal auf Ihrem Computer abgelegt ist. Mit <b>commit</b> informieren Sie quasi den Dienst GitHub über die Änderungen und weisen an, dass auch Git die Änderungen übernehmen soll. Mit <b>sync changes</b> setzen Sie die Änderungen dann öffentlich.
       <br><br>
-      Um die Schritte <b>commit</b> und <b>push</b> das erste mal auszuführen, bleiben Sie in Visual Studio Code im Reiter <b>Source Control</b>.
-      <br><br><br>
+      Um die Schritte <b>commit</b> und <b>sync changes</b> das erste mal auszuführen, bleiben Sie in Visual Studio Code im Reiter <b>Source Control</b>.
+      <br><br>
       Hier müssten Sie, wie in folgender Abbildung erkennbar, Ihre Kursdatei unter dem Abschnitt <b>(Unstaged) Changes</b> sehen. Klicken Sie nun zuerst auf den Button <b>Stage All Changes</b>, den Sie an der rechten Seite des Reiters, auf höhe des Abschnittes <b>Changes</b> finden. Der Button hat die Form eines Pluszeichen.
       <figure style="align:middle;">
         <a href="images/vsc_sc_unstaged.svg" target="_blank"><img src="images/vsc_sc_unstaged.svg" alt="Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes" title="Abbildung: Screenshot Ablage der Kursdatei unter Unstaged Changes"/></a>
@@ -209,30 +207,27 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
   <button class="accordion">6. Kursinhalte ändern oder weiterbearbeiten</button>
   <div class="panel">
     <p>
-      Das schwierigste haben Sie geschafft! Wenn Sie ihren Kurs nun weiter bearbeiten, aktualisieren oder generell verändern wollen, können Sie dies bequem in Visual Studio Code tun. Wenn Sie ihren Kurs in Visual Studio Code öffnen, klicken Sie bitte jedes Mal bevor sie etwas ändern auf <b>fetch</b> (rechts unten in der Ecke). Hierdurch wird wird sichergestellt, dass Sie immer mit der neuesten Version Ihres Kurses weiterarbeiten.
+      Das schwierigste haben Sie geschafft! Wenn Sie ihren Kurs nun weiter bearbeiten, aktualisieren oder generell verändern wollen, können Sie dies bequem in Visual Studio Code tun. Wenn Sie ihren Kurs in Visual Studio Code öffnen, klicken Sie bitte jedes Mal bevor sie etwas ändern auf <b>Fetch</b>. Diesen Button finden Sie im ausgeklappten <b>Source Control</b> Reiter oben rechts, versteckt hinter den drei kleinen Punkten. Hierdurch wird sichergestellt, dass Sie immer mit der neuesten Version Ihres Kurses weiterarbeiten. 
       <figure style="align:middle;">
-        <a href="images/Visual Studio Code_fetch.svg" target="_blank"><img src="images/Visual Studio Code_fetch.svg" alt="Abbildung: Screenshot Funktion Fetch" title="Abbildung: Screenshot Funktion Fetch"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Funktion Fetch</figcaption>
+        <a href="images/vsc_clone_fetch.svg" target="_blank"><img src="images/vsc_clone_fetch.svg" alt="Abbildung: Screenshot Fetch Button" title="Abbildung: Screenshot Fetch Button"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Fetch Button</figcaption>
       </figure>
-      Haben Sie eine Änderung vorgenommen und gespeichert, wird Ihnen diese zunächst in der LiaScript-Vorschau angezeigt. Sind sie zufrieden mit dem Ergebnis und möchten die Änderung in den Kurs übernehmen, müssen Sie erneut die Schritte <b>commit</b> und <b>push</b> ausführen. Gehen Sie hierbei wie folgt vor:
+      Ist nämlich Ihre lokale Version nicht mehr auf dem aktuellsten Stand, dann verändert sich nach dem klicken von <b>Fetch</b> der <b>Commit</b>-Button. An selber Stelle ist dann <b>Sync Changes</b> zu lesen. Dies bedeutet, dass die lokale Version Ihres Kurses nicht mehr die aktuellste ist und es eine neuere Version online auf GitHub gibt. Der Grund dafür könnte zum Beispiel sein, dass ein Arbeitskollege Veränderungen am Kurs vorgenommen hat oder man selbst auf einem anderen Gerät weitergearbeitet hatte. Mit einem klick auf <b>Sync Changes</b> können jedenfalls dann die neuesten Änderungen heruntergeladen und in die lokale Version integriert werden. Dies sollte auch aufjedenfall gemacht werden, da es ansonsten zu <b>Konflikten</b> kommen kann beim hochladen der neuesten Version.
+      <figure style="align:middle;">
+        <a href="images/vsc_clone_sync.svg" target="_blank"><img src="images/vsc_clone_sync.svg" alt="Abbildung: Screenshot Sync Changes Button" title="Abbildung: Screenshot Sync Changes Button"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Sync Changes Button</figcaption>
+      </figure>
+      Haben Sie eine Änderung vorgenommen und gespeichert, wird Ihnen diese zunächst in der LiaScript-Vorschau angezeigt. Sind sie zufrieden mit dem Ergebnis und möchten die Änderung in den Kurs übernehmen, müssen Sie erneut die Schritte <b>commit</b> und <b>sync changes</b> ausführen. Gehen Sie hierbei wie folgt vor:
       <br><br>
       1. <b>Fetch</b> anklicken: Um Komplikationen mit verschiedenen Versionen zu vermeiden, sollten Sie dies an dieser Stelle immer noch einmal tun.
       <br><br>
-      2. Die Änderung sollte im Reiter <b>Git</b> nun bereits im Berech <b>Unstaged Changes</b> angezeigt werden. Überführen Sie alle Änderungen in den Bereich <b>Staged changes</b>, indem Sie <b>Stage all</b> anklicken.
+      2. Die Änderung sollte im Reiter <b>Source Control</b> nun bereits im Berech <b>Changes</b> angezeigt werden. Überführen Sie alle Änderungen in den Bereich <b>Staged changes</b>, indem Sie <b>Stage All Changes</b> anklicken.
+      3. Schreiben Sie erneut einen kleinen Kommentar in das Eingabefeld, durch den Sie beschreiben, welche Änderungen Sie vorgenommen haben. Auf diese Weise behalten Sie Überblick über die Versionshistorie.
       <figure style="align:middle;">
-        <a href="images/Visual Studio Code_stage3.svg" target="_blank"><img src="images/Visual Studio Code_stage3.svg" alt="Abbildung: Screenshot Unstaged Changes in Staged Changes überführen" title="Abbildung: Screenshot Unstaged Changes in Staged Changes überführen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Unstaged Changes in Staged Changes überführen</figcaption>
+        <a href="images/vsc_newcommit.svg" target="_blank"><img src="images/vsc_newcommit.svg" alt="Abbildung: Screenshot Neuer Commit" title="Abbildung: Screenshot Neuer Commit"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Neuer Commit</figcaption>
       </figure>
-      3. Schreiben Sie erneut einen kleinn Kommentar in das Eingabefeld, durch den Sie beschreiben, welche Äderungen Sie vorgenommen haben. Auf diese Weise behalten Sie Überblick über die Versionshistorie.
-      <figure style="align:middle;">
-        <a href="images/Visual Studio Code_commit.svg" target="_blank"><img src="images/Visual Studio Code_commit.svg" alt="Abbildung: Screenshot beispielhafter Kommentar" title="Abbildung: Screenshot beispielhafter Kommentar"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot beispielhafter Kommentar</figcaption>
-      </figure>
-      4. Klicken Sie auf <b>Commit</b> und dann auf <b>Push</b>.
-      <figure style="align:middle;">
-        <a href="images/Visual Studio Code_push2.svg" target="_blank"><img src="images/Visual Studio Code_push2.svg" alt="Abbildung: Screenshot der Reiter Commit und Push" title="Abbildung: Screenshot der Reiter Commit und Push"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot der Reiter Commit und Push</figcaption>
-      </figure>
+      4. Klicken Sie auf <b>Commit</b> und dann auf <b>Sync Changes</b>.
       <center>
         <b>Hurra! Ihre Änderungen wurden in Ihr Repository übernommen!</b>
       </center>
@@ -282,19 +277,20 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       </p>
     </div>
     <p>
-      <b>8.1 Wie Sie andere Personen zur Mitarbeit einladen</b><br>
+      <b>8.1 Wie Sie andere Personen zur Mitarbeit einladen</b>
+      <br>
       Geben Sie Ihren Mitarbeiter:innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg:innen einladen möchten und gehen Sie auf den Reiter <b>Settings</b>.
     </p>
     <br><br>
       <figure style="align:middle;">
-        <a href="images/Visual Studio Code_add_contributors1.svg" target="_blank"><img src="images/Visual Studio Code_add_contributors1.svg" alt="Abbildung: Screenshot Repository Settings in GitHub" title="Abbildung: Screenshot Repository Settings in GitHub"/></a>
+        <a href="images/atom_add_contributors1.svg" target="_blank"><img src="images/Visual Studio Code_add_contributors1.svg" alt="Abbildung: Screenshot Repository Settings in GitHub" title="Abbildung: Screenshot Repository Settings in GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Repository Settings in GitHub</figcaption>
       </figure>
       <br>
       Wechseln Sie hier nun in den Abschnitt <b>Manage access</b>.
       <br><br>
       <figure style="align:middle;">
-        <a href="images/Visual Studio Code_add_contributors2.svg" target="_blank"><img src="images/Visual Studio Code_add_contributors2.svg" alt="Abbildung: Screenshot Zugriff verwalten in GitHub" title="Abbildung: Screenshot Zugriff verwalten in GitHub"/></a>
+        <a href="images/atom_add_contributors2.svg" target="_blank"><img src="images/Visual Studio Code_add_contributors2.svg" alt="Abbildung: Screenshot Zugriff verwalten in GitHub" title="Abbildung: Screenshot Zugriff verwalten in GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
       </figure>
       <br>
@@ -323,9 +319,13 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       </figure>
       <br>
       <p>
-        Hurra! Sie haben Ihre:n Mitarbeiter:in erfolgreich zu Ihrem Repository hinzugefügt.
-        <br><br><b>8.2 Wie Sie vorgehen, wenn Sie zur Mitarbeit an einem Repository eingelanden wurden</b>
-        <br><br>Wurde der Zugang zu einem Repository für Sie als Mitarbeiter:in freigeschaltet, erhalten Sie automatisch eine Einladung per Mail. Warten Sie nicht zu lange, damit die Einladung zu bestätigen. Der Einladungslink in der E-Mail ist nur für einen Zeitraum von 7 Tagen gültig.
+        <center>
+          Hurra! Sie haben Ihre:n Mitarbeiter:in erfolgreich zu Ihrem Repository hinzugefügt.
+        </center>
+        <br><br>
+        <b>8.2 Wie Sie vorgehen, wenn Sie zur Mitarbeit an einem Repository eingeladen wurden</b>
+        <br>
+        Wurde der Zugang zu einem Repository für Sie als Mitarbeiter:in freigeschaltet, erhalten Sie automatisch eine Einladung per Mail. Warten Sie nicht zu lange, damit die Einladung zu bestätigen. Der Einladungslink in der E-Mail ist nur für einen Zeitraum von 7 Tagen gültig.
       </p>
       <figure style="align:middle;">
         <a href="images/invitation_mail.svg" target="_blank"><img src="images/invitation_mail.svg" alt="Abbildung: Screenshot Einladung zu einem GitHub Repository" title="Abbildung: Screenshot Einladung zu einem GitHub Repository"/></a>
@@ -334,34 +334,39 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <p>
         Über den Button <b>View invitation</b> werden Sie zu GitHub weitergeleitet. Dort können Sie nach dem Login auf den Button <b>Accept invitation</b> klicken, um die Einladung anzunehmen. Anschließend sind Sie als <b>Collaborator</b> in das Repository eingetragen, d.h. sie können direkt im GitHub Repository Inhalte erstellen und verändern.
         <br><br>
-        Um nun auch über Visual Studio Code an der für Sie freigegebenen Kursdatei arbeiten zu können, müssen Sie den Kurs auf ihrem Rechner lokal <b>klonen</b>. Dafür gehen Sie in GitHub auf das Repository, an dem Sie mitarbeiten wollen. Anschließend und kopieren Sie den Link, der Ihnen angezeigt wird wenn Sie auf den grünen <b>Code</b>-Button klicken. Wichtig hierbei ist, dass oben <b>HTTPS</b> ausgewählt ist. Dies entspricht auch der automatischen Voreinstellung.
+        Um nun auch über Visual Studio Code an der für Sie freigegebenen Kursdatei arbeiten zu können, müssen Sie den Kurs auf ihrem Rechner lokal <b>klonen</b>. Dafür gehen Sie in GitHub auf das Repository, an dem Sie mitarbeiten wollen, und kopieren den Link, der Ihnen angezeigt wird wenn Sie auf den grünen <b>Code</b>-Button klicken. Wichtig hierbei ist, dass oben <b>HTTPS</b> ausgewählt ist. Dies entspricht auch der automatischen Voreinstellung.
       </p>
       <figure style="align:middle;">
         <a href="images/copy_repo_link.svg" target="_blank"><img src="images/copy_repo_link.svg" alt="Abbildung: Screenshot Kopieren eines Repository Links in GitHub" title="Abbildung: Screenshot Kopieren eines Repository Links in GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Kopieren eines Repository Links in GitHub</figcaption>
       </figure>
       <p>
-        Öffnen Sie nun Visual Studio Code und klicken unten rechts auf das Feld <b>GitHub (1)</b>. Wählen Sie in dem sich daraufhin öffnenden Reiter die Option <b>Clone an existing GitHub Repository (2)</b> aus und fügen Sie den kopierten Link unter <b>Clone from (3)</b> ein. In dem Feld darunter, <b>To directory (4)</b>, können Sie den Pfad zu dem Ort auf ihrem PC angeben, an dem das Repository gespeichert werden soll. Für das Repository wird dabei automatisch ein eigener Ordner angelegt, der alle zugehörigen Dateien enthält. Um den Klonvorgang abzuschließen, klicken Sie auf <b>Clone (5)</b>.
+        Öffnen Sie nun in Visual Studio Code die Kommandozeile (<b>STRG + SHIFT + P</b>) und geben sie <b>git clone</b> ein. Der Befehl <b>Git: Clone</b> sollte nun zu sehen sein. Wählen Sie ihn aus öffnet sich ein weiteres Eingabefeld, in dem Sie den HTTPS-Link einfügen und das klonen mit Enter bestätigen können. Als nächstes sollen Sie nur noch den lokalen Speicherort des zu klonenden Repository festlegen, bevor das herunterladen beginnt.
       </p>
       <figure style="align:middle;">
-        <a href="images/open_repo_in_Visual Studio Code.svg" target="_blank"><img src="images/open_repo_in_Visual Studio Code.svg" alt="Abbildung: Screenshot GitHub Repository mit Visual Studio Code verknüpfen" title="Abbildung: Screenshot GitHub Repository mit Visual Studio Code verknüpfen"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Repository mit Visual Studio Code verknüpfen</figcaption>
+        <a href="images/vsc_clone_command.svg" target="_blank"><img src="images/vsc_clone_command.svg" alt="Abbildung: Screenshot Visual Studio Code Kommandozeile" title="Abbildung: Screenshot Visual Studio Code Kommandozeile"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Visual Studio Code Kommandozeile</figcaption>
       </figure>
       <p>
-        Sie können nun unter <b>file → open file...</b> die Kursdatei (Endung .md) auswählen und daran arbeiten. Wie das funktioniert ist unter Punkt 3 "Kurs strukturieren, Inhalte einfügen" dieses Workflows beschrieben.
-<br><br>
-        <center>Viel Spaß beim Erstellen vielfältiger Lehrmaterialen mit LiaScript!</center>
+        Sie können nun unter <b>File → Open File...</b> die Kursdatei (Endung .md) auswählen und daran arbeiten. Wie das funktioniert ist unter Punkt 3 "Kurs strukturieren, Inhalte einfügen" dieses Workflows beschrieben.
+        <br><br>
+        <b>8.3 Visual Studio Code Erweiterung: Live Share</b>
+        <br>
+        Visual Studio Code bietet auch noch die Möglichkeit an mit Arbeitskollegen gleichzeitig im selben Dokument zu arbeiten, sodass alle Änderungen in Echtzeit beim Kollegen aktualisiert und übernommen werden. Möglich ist dies mithilfe der Erweiterung <b>Live Share</b>. Vorstellen kann man sich das wie beim kollaborativen open-source Editor HedgeDoc oder dem neuen LiaScript LiveEditor <a aria-describedby="Link zu LiaEdit" href="https://liascript.github.io/LiveEditor/examples.html" target="_blank">LiaEdit</a>.
+        <br>
+      	Möchten Sie mehr darüber erfahren, dann empfehlen wir Ihnen im Reiter <b>Extensions</b> nach dem PlugIn <b>Live Share</b> zu suchen und sich die Beschreibung und Anleitung dazu durch zu lesen.  
+        <br><br>
+        <center>
+          Viel Spaß beim Erstellen vielfältiger Lehrmaterialen mit LiaScript!
+        </center>
       </p>
       <div class="infobox">
-      <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Wichtige Hinweise zum gemeinsamen Arbeiten in Git:</b>
+      <p><i class="fa fa-info-circle" style="color:blue"></i>  
+        <b>Wichtige Hinweise zum gemeinsamen Arbeiten in Git:</b>
         <ul>
-          <li>Damit Sie immer an der aktuellsten Fassung Ihres Kurses arbeiten, müssen Sie vor Beginn der Arbeit an dem Kursdokument unbedingt den Button fetch klicken</li>
-          <figure style="align:middle;">
-          <a href="images/fetch_button.svg" target="_blank"><img src="images/fetch_button.svg" alt="Abbildung: fetch-Button" title="Abbildung: fetch-Button"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: fetch-Button</figcaption>
-      </figure>
-          <li>Pushen Sie lieber öfter kleine Änderungen, anstatt einmalig einer großen</li>
-          <li>Um Versionskollisionen zu vermeiden, klicken Sie unbedingt auch einmal den Button fetch bevor Sie etwas pushen!</li>
+          <li>Damit Sie immer an der aktuellsten Fassung Ihres Kurses arbeiten, müssen Sie vor Beginn der Arbeit an dem Kursdokument unbedingt den Button <b>Fetch</b> klicken</li>
+          <li>Pushen/Syncen Sie lieber öfter kleine Änderungen, anstatt einmalig einer großen</li>
+          <li>Um Versionskollisionen zu vermeiden, klicken Sie unbedingt auch einmal den Button Fetch bevor Sie etwas pushen!</li>
         </ul>
       </p>
       </div>
