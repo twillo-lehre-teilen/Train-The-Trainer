@@ -35,16 +35,16 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
   <button class="accordion">2. Lernmodul (Kursdokument) anlegen</button>
   <div class="panel">
     <p>
-      Um ein neues Lernmodul anzulegen, öffnen Sie oben in der Menüleiste den Reiter <b>File</b> und wählen Sie <b>New file</b> aus <b>oder</b> drücken Sie die Tastenkombination CTRL, ALT, Windows und N. In der mitte der Seite der Visual Studio Code Umgebung öffnet sich nun ein Eingabefeld. Hier geben Sie einen Dateinamen zu Ihrem Lernmodul ein. Daraufhin öffnet sich ein Fenster in dem Sie den Speicherot Ihres Lernmoduls festlegen.
+      Um ein neues Lernmodul anzulegen, öffnen Sie oben in der Menüleiste den Reiter <b>File</b> und wählen Sie <b>New file</b> aus <b>oder</b> drücken Sie die Tastenkombination <b>CTRL</b>, <b>ALT</b>, <b>Windows</b> und <b>N</b>.
       <figure style="align:middle;">
         <a href="images/vsc_newfile.svg" target="_blank"><img src="images/vsc_newfile.svg" alt="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (1)" title="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (1)"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (1)</figcaption>
       </figure>
+      In der mitte der Seite der Visual Studio Code Umgebung öffnet sich nun ein Eingabefeld. Hier geben Sie einen Dateinamen zu Ihrem Lernmodul ein. Daraufhin öffnet sich ein Fenster in dem Sie den Speicherot Ihres Lernmoduls festlegen.
       <figure style="align:middle;">
         <a href="images/new_vsc_newfile_namefile.svg" target="_blank"><img src="images/vsc_newfile_name.svg" alt="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (2)" title="Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (2)"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Erstellung eines Dokuments in Visual Studio Code (2)</figcaption>
       </figure>
-      <br>
       <b>Wichtig:</b> Beim auswählen des Speicherorts ist zu beachten, dass sich die Datei in einem neuen und leeren Ordner befinden muss. Erstellen Sie hierfür einfach einen neuen Ordner und legen Sie die Datei darin ab. Außerdem ist zu beachten, dass die Datei als Markdown-Datei abgespeichert wird. Hängen Sie hierfür die Endung <b>.md</b> an ihren Dateinamen an. Nach dem speichern schließt sich wieder das Fenster und die leere Datei wird im Editor geöffnet.
       <figure style="align:middle;">
         <a href="images/vsc_create_projectfolder.svg" target="_blank"><img src="images/vsc_create_projectfolder.svg" alt="Abbildung: Screenshot Erstellung eines Projektordners in Visual Studio Code" title="Abbildung: Screenshot Erstellung eines Projektordners in Visual Studio Code"/></a>
@@ -69,12 +69,14 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Explorer in Visual Studio Code mit geöffnetem Projekt</figcaption>
       </figure>
       <br>
-      Aktivieren Sie nun das LiaScript Plugin. Drücken Sie die Tastenkombination STRG, SHIFT und P, um die Kommandozeile von Visual Studio Code zu öffnen.
-      Geben Sie in dieser Kommandozeile <b>liascript</b> ein. Es werden Ihnen daraufhin alle möglichen Befehle der installierten LiaScript Plugins angezeigt. Wählen Sie davon den Befehl <b>LiaScript: Preview your course in live mode (start DevServer)</b> aus. Es öffnet sich nun innerhalb Ihres Browsers ein neues Fenster in dem eine Vorschau Ihres Lernmoduls erscheint. Nach jedem Speichern (<b>File</b> und <b>Save</b> im Kopfmenü oder die Tastenkombination STRG und S) kann mit neu laden des Browserfensters (<b>F5</b>) die aktualisierte Vorschau angeschaut werden. Allerdings befindet sich aktuell noch kein Inhalt in Ihrem Lernmodul. Fügen Sie zunächst eine Überschrift ihrem Lernmodul hinzu. <b>Wichtig:</b> Da in der Anwendung mit Markdown gearbeitet werden muss, vergessen Sie bitte nicht einen Hashtag vor Ihre Überschrift zu setzen. Beispiel: <b># Mein LiaScript Kurs</b>. Speichern Sie das Dokument anschließend und laden Sie das Browserfenster neu, um Ihre neuen Inhalte zu begutachten.
+      Aktivieren Sie nun das LiaScript Plugin. Drücken Sie die Tastenkombination <b>STRG</b>, <b>SHIFT</b> und <b>P</b>, um die Kommandozeile von Visual Studio Code zu öffnen.
+      Geben Sie in dieser Kommandozeile <b>liascript</b> ein. Es werden Ihnen daraufhin alle möglichen Befehle der installierten LiaScript Plugins angezeigt. Wählen Sie davon den Befehl <b>LiaScript: Preview your course in live mode (start DevServer)</b> aus. Es öffnet sich nun innerhalb Ihres Browsers ein neues Fenster in dem eine Vorschau Ihres Lernmoduls erscheint. Nach jedem Speichern (<b>File</b> und <b>Save</b> im Kopfmenü oder die Tastenkombination <b>STRG</b> und <b>S</b>) kann mit neu laden des Browserfensters (<b>F5</b>) die aktualisierte Vorschau angeschaut werden.
       <figure style="align:middle;">
         <a href="images/vsc_commandpalette2.svg" target="_blank"><img src="images/vsc_commandpalette2.svg" alt="Abbildung: Screenshot Kommandozeile in Visual Studio Code" title="Abbildung: Screenshot Kommandozeile in Visual Studio Code"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Kommandozeile in Visual Studio Code</figcaption>
       </figure>
+      <br>
+      Allerdings befindet sich aktuell noch kein Inhalt in Ihrem Lernmodul. Fügen Sie zunächst eine Überschrift ihrem Lernmodul hinzu. <b>Wichtig:</b> Da in der Anwendung mit Markdown gearbeitet werden muss, vergessen Sie bitte nicht einen Hashtag vor Ihre Überschrift zu setzen. Beispiel: <b># Mein LiaScript Kurs</b>. Speichern Sie das Dokument anschließend und laden Sie das Browserfenster neu, um Ihre neuen Inhalte zu begutachten.
       <figure style="align:middle;">
         <a href="images/vsc_liapreview.svg" target="_blank"><img src="images/vsc_liapreview.svg" alt="Abbildung: Screenshot LiaPreview PlugIn in Visual Studio Code" title="Abbildung: Screenshot LiaPreview PlugIn in Visual Studio Code"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaPreview PlugIn in Visual Studio Code</figcaption>
@@ -228,6 +230,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Neuer Commit</figcaption>
       </figure>
       4. Klicken Sie auf <b>Commit</b> und dann auf <b>Sync Changes</b>.
+      <br>
       <center>
         <b>Hurra! Ihre Änderungen wurden in Ihr Repository übernommen!</b>
       </center>
@@ -266,7 +269,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
   <button class="accordion">8. Gemeinsam an einem Kurs arbeiten</button>
   <div class="panel">
     <p>
-      Sie möchten Ihren LiaScript Kurs nicht allein, sondern zusammen mit anderen Personen bearbeiten? Kein Problem. Zwar lässt sich das Einladen weiterer Mitarbeiterinnen nicht in Visual Studio Code erledigen, über GitHub ist dies aber einfach möglich. Der Dienst ist hervorragend für die Zusammenarbeit mehrerer Personen an einem Projekt geeignet.
+      Sie möchten Ihren LiaScript Kurs nicht allein, sondern zusammen mit anderen Personen bearbeiten? Kein Problem. Zwar lässt sich das Einladen weiterer Mitarbeiter:innen nicht in Visual Studio Code erledigen, über GitHub ist dies aber einfach möglich. Der Dienst ist hervorragend für die Zusammenarbeit mehrerer Personen an einem Projekt geeignet.
     </p>
     <div class="warningbox">
       <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
@@ -279,18 +282,18 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
     <p>
       <b>8.1 Wie Sie andere Personen zur Mitarbeit einladen</b>
       <br>
-      Geben Sie Ihren Mitarbeiter:innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (https://github.com/) ein. Wählen sie das Repository aus, zu dem sie Kolleg:innen einladen möchten und gehen Sie auf den Reiter <b>Settings</b>.
+      Geben Sie Ihren Mitarbeiter:innen zunächst Zugriff auf das GitHub Repository, in dem sich Ihre Kursdatei befindet. Loggen sie sich hierfür über einen Browser bei GitHub (<a aria-describedby="Link zur GitHub Homepage" href="https://github.com/">https://github.com/</a>) ein. Wählen sie das Repository aus, zu dem sie Kolleg:innen einladen möchten und gehen Sie auf den Reiter <b>Settings</b>.
     </p>
     <br><br>
       <figure style="align:middle;">
-        <a href="images/atom_add_contributors1.svg" target="_blank"><img src="images/Visual Studio Code_add_contributors1.svg" alt="Abbildung: Screenshot Repository Settings in GitHub" title="Abbildung: Screenshot Repository Settings in GitHub"/></a>
+        <a href="images/atom_add_contributors1.svg" target="_blank"><img src="images/atom_add_contributors1.svg" alt="Abbildung: Screenshot Repository Settings in GitHub" title="Abbildung: Screenshot Repository Settings in GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Repository Settings in GitHub</figcaption>
       </figure>
       <br>
       Wechseln Sie hier nun in den Abschnitt <b>Manage access</b>.
       <br><br>
       <figure style="align:middle;">
-        <a href="images/atom_add_contributors2.svg" target="_blank"><img src="images/Visual Studio Code_add_contributors2.svg" alt="Abbildung: Screenshot Zugriff verwalten in GitHub" title="Abbildung: Screenshot Zugriff verwalten in GitHub"/></a>
+        <a href="images/atom_add_contributors2.svg" target="_blank"><img src="images/atom_add_contributors2.svg" alt="Abbildung: Screenshot Zugriff verwalten in GitHub" title="Abbildung: Screenshot Zugriff verwalten in GitHub"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Zugriff verwalten in GitHub</figcaption>
       </figure>
       <br>
@@ -301,7 +304,6 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <a href="images/git_add_contributors3.svg" target="_blank"><img src="images/git_add_contributors3.svg" alt="Abbildung: Screenshot Mitarbeiter:innen zu einem auf GitHub Repository einladen" title="Abbildung: Screenshot Mitarbeiter:innen zu einem auf GitHub Repository einladen"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter:innen zu einem auf GitHub Repository einladen</figcaption>
       </figure>
-      <br>
       <p>
         Sie haben hierbei die Möglichkeit Ihre Mitarbeitenden via GitHub Usernamen, echten Namen oder E-Mail Addresse zu finden.
       </p>
@@ -309,7 +311,6 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <a href="images/git_add_contributors4.svg" target="_blank"><img src="images/git_add_contributors4.svg" alt="Abbildung: Screenshot Mitarbeiter:innen finden" title="Abbildung: Screenshot Mitarbeiter:innen finden"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Mitarbeiter:innen finden</figcaption>
       </figure>
-      <br>
       <p>
         Wählen Sie die:den gewünschte:n Mitarbeitende:n aus und klicken Sie anschließend auf <b>Add <Username> to this repository</b>. Selbstverständlich können Sie auch mehr als nur eine Person zur Mitarbeit an Ihrem Repository einladen.
       </p>
@@ -320,7 +321,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <br>
       <p>
         <center>
-          Hurra! Sie haben Ihre:n Mitarbeiter:in erfolgreich zu Ihrem Repository hinzugefügt.
+          <b>Hurra! Sie haben Ihre:n Mitarbeiter:in erfolgreich zu Ihrem Repository hinzugefügt.</b>
         </center>
         <br><br>
         <b>8.2 Wie Sie vorgehen, wenn Sie zur Mitarbeit an einem Repository eingeladen wurden</b>
@@ -341,7 +342,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Kopieren eines Repository Links in GitHub</figcaption>
       </figure>
       <p>
-        Öffnen Sie nun in Visual Studio Code die Kommandozeile (<b>STRG + SHIFT + P</b>) und geben sie <b>git clone</b> ein. Der Befehl <b>Git: Clone</b> sollte nun zu sehen sein. Wählen Sie ihn aus öffnet sich ein weiteres Eingabefeld, in dem Sie den HTTPS-Link einfügen und das klonen mit Enter bestätigen können. Als nächstes sollen Sie nur noch den lokalen Speicherort des zu klonenden Repository festlegen, bevor das herunterladen beginnt.
+        Öffnen Sie nun in Visual Studio Code die Kommandozeile (<b>STRG + SHIFT + P</b>) und geben sie <b>git clone</b> ein. Der Befehl <b>Git: Clone</b> sollte nun zu sehen sein. Wählen Sie ihn aus öffnet sich ein weiteres Eingabefeld, in dem Sie den HTTPS-Link einfügen und das klonen mit Enter bestätigen können. Als nächstes legen Sie noch den lokalen Speicherort des zu klonenden Repository fest, bevor das herunterladen beginnt.
       </p>
       <figure style="align:middle;">
         <a href="images/vsc_clone_command.svg" target="_blank"><img src="images/vsc_clone_command.svg" alt="Abbildung: Screenshot Visual Studio Code Kommandozeile" title="Abbildung: Screenshot Visual Studio Code Kommandozeile"/></a>
@@ -357,7 +358,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       	Möchten Sie mehr darüber erfahren, dann empfehlen wir Ihnen im Reiter <b>Extensions</b> nach dem PlugIn <b>Live Share</b> zu suchen und sich die Beschreibung und Anleitung dazu durch zu lesen.  
         <br><br>
         <center>
-          Viel Spaß beim Erstellen vielfältiger Lehrmaterialen mit LiaScript!
+          <b>Viel Spaß beim Erstellen vielfältiger Lehrmaterialen mit LiaScript!</b>
         </center>
       </p>
       <div class="infobox">
