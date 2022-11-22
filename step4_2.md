@@ -143,7 +143,7 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
   <div class="panel">
     <p>
       Bisher ist Ihr Kurs nur lokal gespeichert, liegt also auf Ihrem Computer. Um Ihren LiaScript Kurs nun auch im Internet öffentlich bereitzustellen zu können, empfehlen wir Ihnen die Plattform <b>GitHub</b>. Hier können Sie ihren erstellten Kurs <b>kostenfrei</b> ablegen, um anschließend mit LiaScript einen Link zu Ihrem Kurs zu generieren.
-      <br><br>     
+      <br>  
       <h6>GitHub Anmeldung</h6>
       Zuallererst müssen Sie sich dafür einen GitHub Account erstellen. Besuchen Sie hierfür die Seite www.github.com und klicken Sie oben rechts auf <b>Sign Up</b>.
       <br><br>
@@ -158,11 +158,41 @@ LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendun
       <h6>Verknüpfung von GitHub mit Visual Studio Code</h6>
       Visual Studio Code stellt ein Bindeglied zwischen LiaScript und GitHub dar. Mit einer Verbindung von Visual Studio Code mit GitHub wird Ihnen die Möglichkeit gegeben, Inhalte durch Visual Studio Code in Ihren Kurs einzubinden und über GitHub zu veröffentlichen. D.h. durch das LiaScript Plugin und die Verbindung mit GitHub wird Visual Studio Code zu einem Werkzeug, mit dem Sie einerseits Ihren Kurs gestalten können während Sie eine Vorschau erhalten und andererseits auch eine Veröffentlichung im Internet vornehmen können.
       <br><br>
-      Öffnen Sie Visual Studio Code. Das Git-Package ist hier vorinstalliert, sodass es einfach direkt über die Sidebar aufgerufen werden kann. Wählen Sie unter dem Reiter <b>Accounts</b> die Option <b>Sign in with GitHub</b> aus. Daraufhin werden Sie zu GitHub weitergeleitet um sich dort mit Ihrem GitHub Account anzumelden und Visual Studio Code zu authorisieren.
+      Öffnen Sie Visual Studio Code, um als nächstes die Erweiterung <b>GitHub Pull Requests and Issues</b> zu installieren. Diese finden Sie unter dem Reiter <b>Extensions</b>, wenn Sie nach dem Begriff <b>GitHub</b> suchen. Ist dies erledigt, kann die Erweiterung über die Sidebar aufgerufen werden. 
       <figure style="align:middle;">
-        <a href="images/vsc_github_login.svg" target="_blank"><img src="images/vsc_github_login.svg" alt="Abbildung: Screenshot Verknüpfung mit GitHub" title="Abbildung: Screenshot Verknüpfung mit GitHub"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Verknüpfung mit GitHub</figcaption>
+        <a href="images/vsc_gh_extension.svg" target="_blank"><img src="images/vsc_gh_extension.svg" alt="Abbildung: Screenshot GitHub Extension" title="Abbildung: Screenshot GitHub Extension"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Extension</figcaption>
       </figure>
+      <br>
+      Bevor wir gie GitHub Erweiterung allerdings verwenden können, müssen Sie sich noch mit Ihrem eigenem GitHub Account in Visual Studio Code anmelden und den Zugriff von Visual Studio Code auf Ihren GitHub Account authorisieren. Erledigen Sie dafür die beiden folgenden Schritte:
+      <ol>
+        <li>
+          Wählen Sie unter dem Reiter <b>Accounts</b> die Option <b>Turn on Edit Sessions..</b> (<i>ODER</i>: <b>Sign in with GitHub</b>) und in der sich daraufhin öffnenden Kommandozeile <b>Sign in with GitHub</b> aus. Nun werden Sie zu GitHub weitergeleitet um sich dort mit Ihrem GitHub Account anzumelden und Visual Studio Code zu authorisieren.
+          <figure style="align:middle;">
+            <a href="images/vsc_gh_sign1.svg" target="_blank"><img src="images/vsc_gh_sign1.svg" alt="Abbildung: Screenshot Turn on Edit Sessions" title="Abbildung: Screenshot Turn on Edit Sessions"/></a>
+            <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Turn on Edit Sessions</figcaption>
+          </figure>
+          <figure style="align:middle;">
+            <a href="images/vsc_gh_select.svg" target="_blank"><img src="images/vsc_gh_select.svg" alt="Abbildung: Screenshot Sign in with GitHub" title="Abbildung: Screenshot Sign in with GitHub"/></a>
+            <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Sign in with GitHub</figcaption>
+          </figure>
+          <figure style="align:middle;">
+            <a href="images/vsc_gh_auth1.svg" target="_blank"><img src="images/vsc_gh_auth1.svg" alt="Abbildung: Screenshot Verknüpfung mit GitHub" title="Abbildung: Screenshot Verknüpfung mit GitHub"/></a>
+            <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Verknüpfung mit GitHub</figcaption>
+          </figure>
+        </li>
+        <li>
+          Als zweites müssen Sie der gerade heruntergeladenen GitHub Erweiterung (<b>GitHub Pull Requests and Issues</b>) noch zusätzliche Berechtigungen auf GitHub erlauben. Dafür wählen Sie unter dem Reiter <b>Accounts</b> die Option <b>Sign in with GitHub to use GitHub Pull Requests and Issues</b> aus, woraufhin Sie erneut zu GitHub weitergeleitet werden, um die zusätzlichen Berechtigungen zu authorisieren.
+          <figure style="align:middle;">
+            <a href="images/vsc_gh_sign2.svg" target="_blank"><img src="images/vsc_gh_sign2.svg" alt="Abbildung: Screenshot Sign in with GitHub to use GitHub Pull Requests and Issues" title="Abbildung: Screenshot Sign in with GitHub to use GitHub Pull Requests and Issues"/></a>
+            <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Sign in with GitHub to use GitHub Pull Requests and Issues</figcaption>
+          </figure>
+          <figure style="align:middle;">
+            <a href="images/vsc_gh_auth2.svg" target="_blank"><img src="images/vsc_gh_auth2.svg" alt="Abbildung: Screenshot Verknüpfung mit GitHub " title="Abbildung: Screenshot Verknüpfung mit GitHub 2"/></a>
+            <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Verknüpfung mit GitHub 2</figcaption>
+          </figure>
+        </li>
+      </ol>
     </p>
   </div>
   <button class="accordion">5. Ablageort für Ihren Kurs im Internet anlegen</button>
