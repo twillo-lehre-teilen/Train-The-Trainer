@@ -1,24 +1,6 @@
 <h2>LiaScript Workflow mit LiaEdit</h2>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
----
-
-<b>TODO</b>
-
-- FAQ:
-  - wieso LiaEdit gut, wieso schlecht
-  - für wen empfehlenswert, für wen nicht
-  - was gitbs zu beachten
-- GitGist
-  - was ist das/unterschied zu normalem git (zweckentfremdet)
-- später weiterarbeiten?
-  - einmal note gelöscht nicht weiterbearbeitbar -> man müsste neue note+gist erstellen
-- Medien einbetten (only online)?
-  - nur online medien
-  - für lokale bräuchte man wieder ein richtiges github repo oder anderen ablageort im internet
-  
----
-
 <div>
   <button class="accordion">1. Getting Started: Installation</button>
   <div class="panel">
@@ -194,28 +176,67 @@
       <br>
     </p>
   </div>
-  <button class="accordion">6. Link erstellen, um Kurs mit Lernenden zu teilen</button>
+  <button class="accordion">6. Kurs veröffentlichen und teilen</button>
   <div class="panel">
     <p>
+      Um Ihren Kurs zu veröffentlichen und um eine URL zu erzeugen, die Sie dann mit Lernenden oder Kolleg:innen teilen können, muss durch die Hilfe des LiaScript LivEditors nichts mehr viel getan werden. Mit dem exportieren des Kursdokuments zu GitHub Gist in Schritt 5 wurde eine neue Option im Menü von LiaEdit freigeschaltet. Die neue Option lautet <b>Share course via... GitHub gist link</b>. 
       <figure style="align:middle;">
         <a href="images/le_gh_gist_link.svg" target="_blank"><img src="images/le_gh_gist_link.svg" alt="Abbildung: Screenshot LiaEdit GitHub Gist published link" title="Abbildung: Screenshot LiaEdit GitHub Gist published link"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit GitHub Gist published link</figcaption>
       </figure>
       <br>
+      Wählt man diese Option aus, so wird aus dem Kursdokument auf GitHub Gist ein LiaScript Kurs generiert und gleichzeitig Veröffentlicht. Zu diesem wird man dann sogleich auch weitergeleitet. <b>Unter der obigen URL ist der Kurs nun jederzeit aufrufbar</b>.
       <figure style="align:middle;">
         <a href="images/le_published.svg" target="_blank"><img src="images/le_published.svg" alt="Abbildung: Screenshot published course" title="Abbildung: Screenshot published course"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot published course</figcaption>
       </figure>
       <br>
+      <center>
+        <b>Herzlichen Glückwunsch! Sie haben Ihren ersten eigenen Kurs erfolgreich mit LiaScript erstellt.</b>
+      </center>
+      <br><br>
+      <div class="infobox">
+        <p>
+          <i class="fa fa-lightbulb-o fa-lg"></i> <b>Hinweis</b>: LiaScript hat es Ihnen angetan? Das folgende Video gibt Ihnen umfassende, weiterführende Informationen rund um die Funktionen des Dienstes
+        </p>
+      </div>
     </p>
   </div>
   <button class="accordion">7. Gemeinsam an einem Kurs arbeiten</button>
   <div class="panel">
     <p>
-      Possible, but not easily.
+      Möchten Sie gemeinsam mit Arbeitskollegen am Kurs arbeiten, dann ist dies auch mit dem LiaScript LiveEditor ganz einfach möglich. Die im Menü zu findende Option <b>Share course... collaboration link</b> ermöglicht es einem gleichzeitig, in Echtzeit aktualisiert, mit Arbeitskollegen am Dokument zu arbeiten. Der Besitzer, oder auch Host genannt, des Dokuments muss dafür auch nicht online sein. Arbeitskollegen können also gleichzeitig oder alleine (<b>synchron oder asynchron</b>) am Dokument weiterarbeiten. Dafür muss lediglich der Link geteilt werden, den man in dem sich öffnenden Fenster erhält, wenn man die oben genannte Menüoption auswählt.
+      <figure style="align:middle;">
+        <a href="images/le_collab1.svg" target="_blank"><img src="images/le_collab1.svg" alt="Abbildung: Screenshot collaboration option" title="Abbildung: Screenshot collaboration option"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot collaboration option</figcaption>
+      </figure>
+      <figure style="align:middle;">
+        <a href="images/le_collab2.svg" target="_blank"><img src="images/le_collab2.svg" alt="Abbildung: Screenshot collaboration link" title="Abbildung: Screenshot collaboration link"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot collaboration link</figcaption>
+      </figure>
     </p>
   </div>
 </div>
+
+---
+
+<h3>F.A.Q.</h3>
+
+- Vorteile von LiaEdit
+- Nachteile von LiaEdit
+  - wieso LiaEdit gut, wieso schlecht
+  - für wen empfehlenswert, für wen nicht
+  - was gibts zu beachten
+- GitGist, was ist das?
+  - was ist das/unterschied zu normalem git (zweckentfremdet)
+- Können eigene Medien eingebettet werden?
+  - online medien (link) ohne probleme
+  - für eigene/lokale bräuchte man wieder ein richtiges github repo oder anderen ablageort im internet
+- Ist Kollaboratives arbeiten möglich?
+  - synchron/asynchron
+- Späteres weiterarbeiten?
+  - einmal note gelöscht nicht weiterbearbeitbar -> man müsste neue note+gist erstellen
+
 
 <script>
   /* accordion script */
