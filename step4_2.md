@@ -1,11 +1,5 @@
-<h2>Visual Studio Code</h2>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-Bei LiaScript handelt es sich um eine <b>Open-Source Anwendung zur Erstellung von Online-Kursen</b> mit <b>interaktiven Inhalten</b> (z.B. Animationen, mathematischer Formeln, Quizze). Die Nutzung der Anwendung ist <b>kostenlos</b> und steht grundsätzlich allen Personen offen: Für die Erstellung eigener Kurse wird lediglich ein Browser oder Texteditor benötigt. Durch eine Bereitstellung erstellter Lerneinheiten über GitHub, können Urheber:innen anderen Lehrenden und Lernenenden umfassende Möglichkeiten zur Nachnutzung ihrer gesamten Kursstruktur einräumen. 
-
-LiaScript ist somit nicht nur für die Erstellung von OER geeignet, die Anwendung zielt sogar explizit darauf. Grundidee der Entwickler:innen ist es, einen Beitrag zur <b>Gestaltung von offener und kollaborativer Bildung</b> zu leisten - international und für alle Bildungsbereiche (vgl. Dietrich 2019)
-
 <h2>LiaScript Workflow mit Visual Studio Code</h2>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div>
   <button class="accordion">1. Getting Started: Installation</button>

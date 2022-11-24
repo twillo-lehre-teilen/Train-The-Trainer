@@ -12,7 +12,7 @@
 
 * [4: OER in Systemen abbilden](step4.md)
 
-   * [4.1: LiaScript](step4_1.md)
+   * [4.1: Atom](step4_1.md)
 
    * [4.2: Visual Studio Code](step4_2.md)
 
