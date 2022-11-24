@@ -24,8 +24,8 @@
   <div class="panel">
     <p>
       Der <b>LiaScript LiveEditor</b>, der auch <b>LiaEdit</b> genannt wird, ist ein kostenloser webbasierter und kollaborativer online Editor von LiaScript. Mit diesem Editor ist es möglich LiaScript Kurse <i>(Markdown-Dateien)</i> direkt im Browser zu erstellen und zu veröffentlichen, ohne etwas herunterladen und installieren zu müssen. Einzig allein ein eigener GitHub Account wird benötigt, um die Kurse später zu veröffentlichen. Genaueres gibt es dazu noch später.
-      <br>
-  	  Dadurch, dass LiaEdit im jedem beliebigen Browser benutzt werden kann, brauchen wir auch nichts zu installieren. Wir müssen lediglich die Website des Editors aufrufen um loszulegen. Den LiaScript LiveEditor "LiaEdit" finden Sie unter folgendem Link: https://liascript.github.io/LiveEditor/. 
+      <br><br>
+  	  Dadurch, dass LiaEdit im jedem beliebigen Browser benutzt werden kann, brauchen wir auch nichts zu installieren. Wir müssen lediglich die Website des Editors aufrufen um loszulegen. Den LiaScript LiveEditor "LiaEdit" finden Sie unter folgendem Link: <a href="https://liascript.github.io/LiveEditor/="" target="_blank">https://liascript.github.io/LiveEditor/</a>.
     </p>
   </div>
   <button class="accordion">2. Lernmodul (Kursdokument) anlegen</button>
@@ -76,7 +76,7 @@
         <li>Sie möchten eine Liste einfügen? Zeichnen Sie die Aufzählung wie folgt aus:</li>
       </ul>    
       <figure style="align:middle;">
-        <a href="images/le_list.svg" target="_blank"><img src="images/le_list.svg" alt="Abbildung: Screenshot Anlegen einer Liste in Markdown" title="Abbildung: Screenshot Anlegen einer Liste in Markdown"/></a>
+        <a href="images/le_liste.svg" target="_blank"><img src="images/le_liste.svg" alt="Abbildung: Screenshot Anlegen einer Liste in Markdown" title="Abbildung: Screenshot Anlegen einer Liste in Markdown"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Anlegen einer Liste in Markdown</figcaption>
       </figure>
       <div class="infobox">
@@ -125,7 +125,7 @@
       </figure>
       <br>    
       Haben Sie sich einen GitHub Account erstellt, so können wir mit öffentlichen Ablegen des Kurses weitermachen. Der LiaScript LiveEditor verwendet zum Ablegen und Veröffentlichen die GitHub Funktion <b>GitHub Gist</b>.
-      <br>
+      <br><br>
       <div class="infobox">
         <p>
           <i class="fa fa-lightbulb-o fa-lg"></i> <b>GitHub Gist</b> ist eine Subdomäne von GitHub auf der <b>Gists</b> erstellt werden können. Mit Gists können schnell und einfach kleine Code Schnipsel oder Texte online gespeichert werden, welche alleine kein umfassendes Repository rechtfertigen. Sie sind eine hervorragende, leichtgewichtige Option, wenn Sie nur schnell etwas Code oder Text austauschen wollen. Die Besonderheit an GitHub Gist ist die, dass du zusätzlich die für GitHub typische Git Versionsverwaltung hast.
@@ -143,7 +143,6 @@
         <a href="images/le_gh_auth.svg" target="_blank"><img src="images/le_gh_auth.svg" alt="Abbildung: Screenshot LiaEdit GitHub Gist authorization" title="Abbildung: Screenshot LiaEdit GitHub Gist authorization"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit GitHub Gist authorization</figcaption>
       </figure>
-      <br>
       <figure style="align:middle;">
         <a href="images/le_gh_gist2.svg" target="_blank"><img src="images/le_gh_gist2.svg" alt="Abbildung: Screenshot GitHub Gist " title="Abbildung: Screenshot  GitHub Gist "/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot  GitHub Gist </figcaption>
@@ -160,7 +159,7 @@
       </div>
     </p>
   </div>
-  <button class="accordion">6. Kursinhalte ändern oder weiterbearbeiten</button>
+  <button class="accordion">5. Kursinhalte ändern oder weiterbearbeiten</button>
   <div class="panel">
     <p>
       <figure style="align:middle;">
@@ -195,7 +194,7 @@
       <br>
     </p>
   </div>
-  <button class="accordion">7. Link erstellen, um Kurs mit Lernenden zu teilen</button>
+  <button class="accordion">6. Link erstellen, um Kurs mit Lernenden zu teilen</button>
   <div class="panel">
     <p>
       <figure style="align:middle;">
@@ -210,7 +209,7 @@
       <br>
     </p>
   </div>
-  <button class="accordion">8. Gemeinsam an einem Kurs arbeiten</button>
+  <button class="accordion">7. Gemeinsam an einem Kurs arbeiten</button>
   <div class="panel">
     <p>
       Possible, but not easily.
