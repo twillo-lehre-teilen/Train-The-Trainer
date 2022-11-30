@@ -239,7 +239,8 @@
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit Fork the external source</figcaption>
       </figure>
       <br>
-      Haben Sie dies getan können Sie mit dem bearbeiten endlich loslegen. Von hier an funktioniert alles so wie bei einer neu erstellten <i>note</i>. Wenn Sie diese <i>note</i> nun wieder erneut exportieren, dann würde eine neue Gist auf GitHub erstellt werden. Dies ist im folgendem Bild nochmals dargestellt. <b>Oben</b> die neue Gist mit dem <b>importierten</b> Kursdokument und <b>unten</b> die Gist welche aus dem <b>originalem</b> Dokument erstellt wurde.
+      <h5>Schritt 2: Kursinhalte bearbeiten</h5>
+      Haben Sie dies getan können Sie mit dem bearbeiten endlich anfangen. Von hier an funktioniert alles so wie bei einer neu erstellten <i>note</i>. Wenn Sie diese <i>note</i> nun wieder erneut exportieren, dann würde eine neue Gist auf GitHub erstellt werden. Dies ist im folgendem Bild nochmals dargestellt. <b>Oben</b> die neue Gist mit dem <b>importierten</b> Kursdokument und <b>unten</b> die Gist welche aus dem <b>originalem</b> Dokument erstellt wurde.
       <figure style="align:middle;">
         <a href="images/le_fork2.svg" target="_blank"><img src="images/le_fork2.svg" alt="Abbildung: Screenshot GitHub Gist comparison original and forked" title="Abbildung: Screenshot GitHub Gist comparison original and forked"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Gist comparison original and forked</figcaption>
