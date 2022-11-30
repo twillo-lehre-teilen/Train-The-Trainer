@@ -212,7 +212,7 @@
       <br>
       Die URL Ihres Kursdokuments finden Sie beim zugehörigem GitHub Gist. Wechseln Sie also zu GitHub und wählen Sie im Menü (oben rechts hinter Ihrem Profilbild) die Option <b>Your gists</b> aus. Bei Ihren Gists angekommen wählen Sie das richtige aus und klicken Sie auf der folgenden Seite den Buton <b>RAW</b> aus. Dieser ist oben rechts beim Kursdokument zu finden und leitet Sie zur RAW Ansicht des Dokumentes weiter. Kopieren Sie nun den Link oben aus der Adressleiste heraus und fügen Sie ihn bei LiaEdit in das erwähnte Eingabefeld ein.
       <br>
-      INSERT FIGURE
+                                                                  INSERT FIGURE
       <br>
       <figure style="align:middle;">
         <a href="images/le_external.svg" target="_blank"><img src="images/le_external.svg" alt="Abbildung: Screenshot LiaEdit load external source" title="Abbildung: Screenshot LiaEdit load external source"/></a>
@@ -260,23 +260,27 @@
   </div>
 </div>
 
-<h3>F.A.Q.</h3>
-
-- Vorteile von LiaEdit
-- Nachteile von LiaEdit
-  - wieso LiaEdit gut, wieso schlecht
-  - für wen empfehlenswert, für wen nicht
-  - was gibts zu beachten
-- GitGist, was ist das?
-  - was ist das/unterschied zu normalem git (zweckentfremdet)
-- Können eigene Medien eingebettet werden?
-  - online medien (link) ohne probleme
-  - für eigene/lokale bräuchte man wieder ein richtiges github repo oder anderen ablageort im internet
-- Ist Kollaboratives arbeiten möglich?
-  - synchron/asynchron
-- Späteres weiterarbeiten?
-  - einmal note gelöscht nicht weiterbearbeitbar -> man müsste neue note+gist erstellen
-
+<div>
+  <button class="accordion">F.A.Q.</button>
+  <div class="panel">
+    <p>
+      - Vorteile von LiaEdit
+      - Nachteile von LiaEdit
+        - wieso LiaEdit gut, wieso schlecht
+        - für wen empfehlenswert, für wen nicht
+        - was gibts zu beachten
+      - GitGist, was ist das?
+        - was ist das/unterschied zu normalem git (zweckentfremdet)
+      - Können eigene Medien eingebettet werden?
+        - online medien (link) ohne probleme
+        - für eigene/lokale bräuchte man wieder ein richtiges github repo oder anderen ablageort im internet
+      - Ist Kollaboratives arbeiten möglich?
+        - synchron/asynchron
+      - Späteres weiterarbeiten?
+        - einmal note gelöscht nicht weiterbearbeitbar -> man müsste neue note+gist erstellen
+      </p>
+  </div>
+</div>
 
 <script>
   /* accordion script */
