@@ -115,11 +115,12 @@
       </div>
       <br>
       <div class="warningbox">
-        <p><i class="fa fa-exclamation-triangle" style="color:black"></i>  <b>Hinweis!</b>
+        <p><i class="fa fa-exclamation-triangle" style="color:black"></i>  <b>Achtung!</b>
+          <br><br>
           Nur beim <b>erstmaligen</b> exportieren des Kursdokuments zu GitHub Gist wird automatisch ein LiaScript Kurs aus dem <b>RAW-File</b> generiert. Späteres erneutes exportieren, was hier mit speichern zu vergleichen ist, aktualisiert lediglich den Gist, aber leider nicht den daraus generierten Kurs. Dies liegt daran, dass mit einer Aktualisierung des Gist der GitHub RAW-File nicht mit aktualisiert wird, sondern ein komplett neuer RAW-File erstellt wird. Dadurch ändert sich auch die Internetadresse des GitHub RAW-Files, wodurch der LiaScript Kurs die Änderungen nicht mehr mitbekommt.
-          <br> 
+          <br><br>
           Das hat nun schlussendlich die Folge, dass man <b>bei späteren Änderungen</b> am Kursdokument <b>selbstständig</b> den Kurs mithilfe des neuen GitHub RAW-Files <b>neu generieren</b> muss. Das ist zwar kein großer Aufwand, jedoch sollte einem bewusst sein, dass sich dadurch zwangsläufig auch die Internetadresse des LiaScript Kurses verändert. Falls man diesen zusätzlichen Schritt vermeiden möchte, exportieren Sie Ihren Kurs erst zum Abschluss nach dem vollständigen eintragen aller Inhalte.
-          <br>
+          <br><br>
           Mehr dazu weiter unten im Punkt 5: Kursinhalte ändern oder weiterbearbeiten.
         </p>
       </div>
@@ -187,6 +188,7 @@
       <br><br>
       <h5>Schritt 1: Das Kursdokument öffnen</h5>
       Wenn Sie <a href="https://liascript.github.io/LiveEditor/" target="_blank">LiaEdit</a> in ihrem Browser öffnen, dann sollte Sie eine <b>Übersichtsseite</b> erwarten, welche all ihre bisherigen <i><b>notes</b></i> (Kursdokumente) zeigt. Im folgenden Bild ist solch eine Übersichtsseite zu sehen. In diesem Beispiel wurde bislang nur eine <i>note</i> mit LiaEdit erstellt. Hier ist auch gut zu erkennen, ob die <i>note</i> schon veröffentlicht und nach GitHub Gist exportiert wurde. Und zwar wird im Falle eines Exports der GitHub Gist Link in der Übersicht mit angezeigt.
+      <br>
       <div class="infobox">
         <p>
           <i class="fa fa-lightbulb-o fa-lg"></i> <b>Hinweis:</b> Sollten Sie Probleme haben innerhalb des LiaScript LiveEditors die Übersichtsseite zu finden (z.B. wenn Sie eine <i>note</i> geöffnet haben und Sie sich im Editor befinden), dann kann ich Sie beruhigen, denn die Übersichtsseite ist <b>immer</b> über den <b>LiaEdit Schriftzug</b>, oben links in der Ecke der Seite, zu erreichen.
@@ -200,16 +202,17 @@
       <br>
       <div class="warningbox">
         <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Achtung!</b>
+          <br><br>
           Es ist zu empfehlen die <i>notes</i> von der Übersichtsseite <b>nicht zu löschen</b>. Gleiches gilt für die <b>Browser Cookies</b> von LiaScript, da mit dem Löschen der Cookies auch alle <i>notes</i> im Editor gelöscht werden.
-          <br>
-          Das löschen der <b>schon veröffentlichten</b> <i>notes</i> sorgt zwar <b>nicht</b> dafür, dass der dazugehörige Gist inklusive Veröffentlichung gelöscht wird, <b>jedoch erschwert</b> das Löschen der <i>notes</i> das anschließende weiterarbeiten an den Dateien.
-          <br>
+          <br><br>
+          Das löschen der <b>schon veröffentlichten <i>notes</i></b> sorgt zwar <b>nicht</b> dafür, dass der dazugehörige Gist inklusive Veröffentlichung gelöscht wird, jedoch erschwert das Löschen der <i>notes</i> das anschließende weiterarbeiten an den Dateien.
+          <br><br>
           Ist die <i>note</i> einmal gelöscht, so verschwindet auch die Verknüpfung vom Gist zur <i>note</i>. Der Kurs kann zwar nun mithilfe des GitHub Gist links bei LiaEdit neu importiert werden. Anschließend vorgenommene Änderungen werden aber nun nichtmehr automatisch mit dem GitHub Gist synchronisiert. Es wird stattdessen ein komplett neuer GitHub Gist erstellt.
       </div>
       <br>
       <h6>Sonderfall: Gelöschte LiaEdit note</h6>
       Wurde die LiaEdit note gelöscht muss das Kursdokument erstmal neu importiert werden. Öffnen Sie dafür eine neue oder bereits bestehende LiaEdit note und wählen Sie anschließend im <b>Menü</b> die Option <b>Share editor... external resource</b> aus. Daraufhin öffnet sich in der Mitte des Bildschirms ein kleineres Fenster in dem sich ein Eingabefeld befindet. In diesem soll der Link (die URL) zum zu importierenden Dokument eingetragen werden.
-      <br>
+      <br><br>
       Die URL Ihres Kursdokuments finden Sie beim zugehörigem GitHub Gist. Wechseln Sie also zu GitHub und wählen Sie im Menü (oben rechts hinter Ihrem Profilbild) die Option <b>Your gists</b> aus. Bei Ihren Gists angekommen wählen Sie das richtige aus und klicken Sie auf der folgenden Seite den Buton <b>RAW</b> aus. Dieser ist oben rechts beim Kursdokument zu finden und leitet Sie zur RAW Ansicht des Dokumentes weiter. Kopieren Sie nun den Link oben aus der Adressleiste heraus und fügen Sie ihn bei LiaEdit in das erwähnte Eingabefeld ein.
       <br>
                                                                   INSERT FIGURE
@@ -236,7 +239,7 @@
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit Fork the external source</figcaption>
       </figure>
       <br>
-      Haben Sie dies getan können Sie mit dem bearbeiten endlich loslegen. Von hier an funktioniert alles so wie bei einer neu erstellten <i>note</i>. Wenn Sie diese <i>note</i> nun wieder erneut exportieren, dann würde eine neue Gist auf GitHub erstellt werden. Dies ist im folgendem Bild nochmals dargestellt. Oben die neue Gist mit dem importierten Kursdokument und unten die Gist welche aus dem originalem Dokument erstellt wurde.
+      Haben Sie dies getan können Sie mit dem bearbeiten endlich loslegen. Von hier an funktioniert alles so wie bei einer neu erstellten <i>note</i>. Wenn Sie diese <i>note</i> nun wieder erneut exportieren, dann würde eine neue Gist auf GitHub erstellt werden. Dies ist im folgendem Bild nochmals dargestellt. <b>Oben</b> die neue Gist mit dem <b>importierten</b> Kursdokument und <b>unten</b> die Gist welche aus dem <b>originalem</b> Dokument erstellt wurde.
       <figure style="align:middle;">
         <a href="images/le_fork2.svg" target="_blank"><img src="images/le_fork2.svg" alt="Abbildung: Screenshot GitHub Gist comparison original and forked" title="Abbildung: Screenshot GitHub Gist comparison original and forked"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Gist comparison original and forked</figcaption>
@@ -259,6 +262,8 @@
     </p>
   </div>
 </div>
+
+<br><br>
 
 <div>
   <button class="accordion">F.A.Q.</button>
