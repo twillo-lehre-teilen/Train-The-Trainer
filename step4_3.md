@@ -200,7 +200,7 @@
       <br>
       <div class="warningbox">
         <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Achtung!</b>
-          Es ist zu empfehlen die <i>notes</i> von der Übersichtsseite <b>nicht zu löschen</b>. Gleiches gilt für die <b>Browser Cookies</b> von LiaScript, da mit dem Löschen der Cookies auch alle</i>notes<i> im Editor gelöscht werden.
+          Es ist zu empfehlen die <i>notes</i> von der Übersichtsseite <b>nicht zu löschen</b>. Gleiches gilt für die <b>Browser Cookies</b> von LiaScript, da mit dem Löschen der Cookies auch alle <i>notes</i> im Editor gelöscht werden.
           <br>
           Das löschen der <b>schon veröffentlichten</b> <i>notes</i> sorgt zwar <b>nicht</b> dafür, dass der dazugehörige Gist inklusive Veröffentlichung gelöscht wird, <b>jedoch erschwert</b> das Löschen der <i>notes</i> das anschließende weiterarbeiten an den Dateien.
           <br>
