@@ -7,7 +7,7 @@
     <p>
       Der <b>LiaScript LiveEditor</b>, der auch <b>LiaEdit</b> genannt wird, ist ein kostenloser webbasierter und kollaborativer online Editor von LiaScript. Mit diesem Editor ist es möglich LiaScript Kurse <i>(Markdown-Dateien)</i> direkt im Browser zu erstellen und zu veröffentlichen, ohne etwas herunterladen und installieren zu müssen. Einzig allein ein eigener GitHub Account wird benötigt, um die Kurse später zu veröffentlichen. Genaueres gibt es dazu noch später.
       <br><br>
-  	  Dadurch, dass LiaEdit im jedem beliebigen Browser benutzt werden kann, brauchen wir auch nichts zu installieren. Wir müssen lediglich die Website des Editors aufrufen um loszulegen. Den LiaScript LiveEditor "LiaEdit" finden Sie unter folgendem Link: <a href="https://liascript.github.io/LiveEditor/="" target="_blank">https://liascript.github.io/LiveEditor/</a>.
+  	  Dadurch, dass LiaEdit im jedem beliebigen Browser benutzt werden kann, brauchen wir auch nichts zu installieren. Wir müssen lediglich die Website des Editors aufrufen um loszulegen. Den LiaScript LiveEditor "LiaEdit" finden Sie unter folgendem Link: <a href="https://liascript.github.io/LiveEditor/" target="_blank">https://liascript.github.io/LiveEditor/</a>.
     </p>
   </div>
   <button class="accordion">2. Lernmodul (Kursdokument) anlegen</button>
@@ -90,7 +90,7 @@
       </div>
     </p>
   </div>
-  <button class="accordion">4. Kurs online ablegen und veröffentlichen</button>
+  <button class="accordion">4. Kurs online ablegen</button>
   <div class="panel">
     <p>
       Damit aus Ihrem Dokument ein LiaScript Kurs generiert, veröffentlicht und geteilt werden kann, muss das Kursdokument <i>(Markdown-datei)</i> irgendwo <b>öffentlich</b> im Internet abgelegt sein. Dies kann auf vielen verschiedenen Plattformen passieren. Der LiaScript LiveEditor benutzt zum Veröffentlichen der Liascript Kurse die Plattform <b>GitHub</b>. Das heißt, um alle Funktionen von LiaEdit vollständig nutzen zu können benötigt man einen <b>kostenfreien</b> GitHub Account. Falls Sie den Editor nur zum erstellen der Markdown-Datei nutzen möchten und Ihren Kurs woanders veröffentlichen wollen, dann brauchen Sie sich auch keinen GitHub Account erstellen. Mehr dazu weiter unten in der Infobox. 
@@ -114,6 +114,15 @@
         </p>
       </div>
       <br>
+      <div class="warningbox">
+        <p><i class="fa fa-exclamation-triangle" style="color:black"></i>  <b>Hinweis!</b>
+          Nur beim <b>erstmaligen</b> exportieren des Kursdokuments zu GitHub Gist wird automatisch ein LiaScript Kurs aus dem <b>RAW-File</b> generiert. Späteres erneutes exportieren, was hier mit speichern zu vergleichen ist, aktualisiert lediglich den Gist, aber leider nicht den daraus generierten Kurs. Dies liegt daran, dass mit einer Aktualisierung des Gist der GitHub RAW-File nicht mit aktualisiert wird, sondern ein komplett neuer RAW-File erstellt wird. Dadurch ändert sich auch die Internetadresse des GitHub RAW-Files, wodurch der LiaScript Kurs die Änderungen nicht mehr mitbekommt.
+          <br> 
+          Das hat nun schlussendlich die Folge, dass man <b>bei späteren Änderungen</b> am Kursdokument <b>selbstständig</b> den Kurs mithilfe des neuen GitHub RAW-Files <b>neu generieren</b> muss. Das ist zwar kein großer Aufwand, jedoch sollte einem bewusst sein, dass sich dadurch zwangsläufig auch die Internetadresse des LiaScript Kurses verändert. Falls man diesen zusätzlichen Schritt vermeiden möchte, exportieren Sie Ihren Kurs erst zum Abschluss nach dem vollständigen eintragen aller Inhalte.
+          <br>
+          Mehr dazu weiter unten im Punkt 5: Kursinhalte ändern oder weiterbearbeiten.
+        </p>
+      </div>
       Um den eigenen Kurs nun bei GitHub Gist öffentlich abzulegen wählen Sie zunächst oben rechts das <b>Menü</b> aus und anschließend in dem sich öffnenden Reiter die Option <b>Export to... GitHub Gists</b>. 
       <figure style="align:middle;">
         <a href="images/le_gh_gist.svg" target="_blank"><img src="images/le_gh_gist.svg" alt="Abbildung: Screenshot LiaEdit GitHub Gist" title="Abbildung: Screenshot LiaEdit GitHub Gist"/></a>
@@ -141,51 +150,16 @@
       </div>
     </p>
   </div>
-  <button class="accordion">5. Kursinhalte ändern oder weiterbearbeiten</button>
+  <button class="accordion">5. Kurs veröffentlichen und teilen</button>
   <div class="panel">
     <p>
-      <figure style="align:middle;">
-        <a href="images/le_home2.svg" target="_blank"><img src="images/le_home2.svg" alt="Abbildung: Screenshot LiaEdit Startseite 2" title="Abbildung: Screenshot  LiaEdit Startseite 2"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit Startseite 2</figcaption>
-      </figure>
-      <br>
-      <figure style="align:middle;">
-        <a href="images/le_external.svg" target="_blank"><img src="images/le_external.svg" alt="Abbildung: Screenshot LiaEdit load external source" title="Abbildung: Screenshot LiaEdit load external source"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit load external source</figcaption>
-      </figure>
-      <br>
-      <figure style="align:middle;">
-        <a href="images/le_external2.svg" target="_blank"><img src="images/le_external2.svg" alt="Abbildung: Screenshot LiaEdit load external source 2" title="Abbildung: Screenshot LiaEdit load external source 2"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit load external source 2</figcaption>
-      </figure>
-      <br>
-      <figure style="align:middle;">
-        <a href="images/le_fork_info.svg" target="_blank"><img src="images/le_fork_info.svg" alt="Abbildung: Screenshot LiaEdit Fork information" title="Abbildung: Screenshot LiaEdit Fork information"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit Fork information</figcaption>
-      </figure>
-      <br>
-      <figure style="align:middle;">
-        <a href="images/le_fork.svg" target="_blank"><img src="images/le_fork.svg" alt="Abbildung: Screenshot LiaEdit Fork the external source" title="Abbildung: Screenshot LiaEdit Fork the external source"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit Fork the external source</figcaption>
-      </figure>
-      <br>
-      <figure style="align:middle;">
-        <a href="images/le_fork2.svg" target="_blank"><img src="images/le_fork.svg" alt="Abbildung: Screenshot GitHub Gist comparison original and forked" title="Abbildung: Screenshot GitHub Gist comparison original and forked"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Gist comparison original and forked</figcaption>
-      </figure>
-      <br>
-    </p>
-  </div>
-  <button class="accordion">6. Kurs veröffentlichen und teilen</button>
-  <div class="panel">
-    <p>
-      Um Ihren Kurs zu veröffentlichen und um eine URL zu erzeugen, die Sie dann mit Lernenden oder Kolleg:innen teilen können, muss durch die Hilfe des LiaScript LivEditors nichts mehr viel getan werden. Mit dem exportieren des Kursdokuments zu GitHub Gist in Schritt 5 wurde eine neue Option im Menü von LiaEdit freigeschaltet. Die neue Option lautet <b>Share course via... GitHub gist link</b>. 
+      Um Ihren Kurs zu veröffentlichen und um eine URL zu erzeugen, die Sie dann mit Lernenden oder Kolleg:innen teilen können, muss durch die Hilfe des LiaScript LivEditors nicht mehr viel getan werden. Mit dem exportieren des Kursdokuments zu GitHub Gist in Schritt 4 wurde gleichzeitig ein LiaScript Kurs aus dem Dokument generiert und eine neue Option im Menü von LiaEdit freigeschaltet. Die neue Option lautet <b>Share course via... GitHub gist link</b>. 
       <figure style="align:middle;">
         <a href="images/le_gh_gist_link.svg" target="_blank"><img src="images/le_gh_gist_link.svg" alt="Abbildung: Screenshot LiaEdit GitHub Gist published link" title="Abbildung: Screenshot LiaEdit GitHub Gist published link"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit GitHub Gist published link</figcaption>
       </figure>
       <br>
-      Wählt man diese Option aus, so wird aus dem Kursdokument auf GitHub Gist ein LiaScript Kurs generiert und gleichzeitig Veröffentlicht. Zu diesem wird man dann sogleich auch weitergeleitet. <b>Unter der obigen URL ist der Kurs nun jederzeit aufrufbar</b>.
+      Wählt man diese Option aus, so wird man zu dem bereits generierten LiaScript Kurs weitergeleitet. <b>Unter der obigen URL ist der Kurs nun jederzeit aufrufbar</b>.
       <figure style="align:middle;">
         <a href="images/le_published.svg" target="_blank"><img src="images/le_published.svg" alt="Abbildung: Screenshot published course" title="Abbildung: Screenshot published course"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot published course</figcaption>
@@ -202,10 +176,78 @@
       </div>
     </p>
   </div>
+  <button class="accordion">6. Kursinhalte ändern oder weiterbearbeiten</button>
+  <div class="panel">
+    <p>
+      Wenn Sie ihren Kurs nun weiter <b>bearbeiten</b>, <b>aktualisieren</b> oder generell <b>verändern</b> wollen, können Sie dies direkt im LiaScript LiveEditor tun. Das bearbeiten des Kurses ist mit LiaEdit allerdings nicht ganz so leicht als im Vergleich mit anderen Editoren wie zum Beispiel Visual Studio Code. Denn das weiterbearbeiten des Kursinhalts bringt leider unerwünschte zusätzliche Hürden mit sich:
+      <br><br>
+      Wie schon zuvor erwähnt (Warnbox in Punkt 4) hat späteres bearbeiten des Kursdokuments die Folge, dass der LiaScript Kurs <b>neu generiert</b> werden muss, wodurch sich leider auch die Internetadresse des endgültigen Kurses ändert. Der "alte" Kurs bleibt zwar bestehen, jedoch werden dort die Neuerungen nicht übernommen. Bei Veränderungen müsste der Kurs dann also an alle Schüler, Studenten, Mitarbeitern, etc. neu verteilt und auf allen Seiten, Portalen, etc. neu verlinkt werden.
+      <br>
+      Neben diesem Punkt müssen zusätzliche Schritte absolviert werden um den Kurs zu bearbeiten, falls die entsprechende <i>note</i> bei LiaEdit gelöscht wurde. Ist dies der Fall, dann muss das Kursdokument von GitHub Gist neu importiert werden. Wie das geht zeigen wir ihnen nun.
+      <br><br>
+      <h5>Schritt 1: Das Kursdokument öffnen</h5>
+      Wenn Sie <a href="https://liascript.github.io/LiveEditor/" target="_blank">LiaEdit</a> in ihrem Browser öffnen, dann sollte Sie eine <b>Übersichtsseite</b> erwarten, welche all ihre bisherigen <i><b>notes</b></i> (Kursdokumente) zeigt. Im folgenden Bild ist solch eine Übersichtsseite zu sehen. In diesem Beispiel wurde bislang nur eine <i>note</i> mit LiaEdit erstellt. Hier ist auch gut zu erkennen, ob die <i>note</i> schon veröffentlicht und nach GitHub Gist exportiert wurde. Und zwar wird im Falle eines Exports der GitHub Gist Link in der Übersicht mit angezeigt.
+      <div class="infobox">
+        <p>
+          <i class="fa fa-lightbulb-o fa-lg"></i> <b>Hinweis:</b> Sollten Sie Probleme haben innerhalb des LiaScript LiveEditors die Übersichtsseite zu finden (z.B. wenn Sie eine <i>note</i> geöffnet haben und Sie sich im Editor befinden), dann kann ich Sie beruhigen, denn die Übersichtsseite ist <b>immer</b> über den <b>LiaEdit Schriftzug</b>, oben links in der Ecke der Seite, zu erreichen.
+        </p>
+      </div>
+      Haben sie Ihr Kursdokument auf der Übersichtsseite gefunden, dann können Sie auf den blauen <b>Edit</b> Button klicken, um zum Editor zu gelangen und mit dem bearbeiten des Kurses zu beginnen.
+      <figure style="align:middle;">
+        <a href="images/le_home2.svg" target="_blank"><img src="images/le_home2.svg" alt="Abbildung: Screenshot LiaEdit Startseite 2" title="Abbildung: Screenshot  LiaEdit Startseite 2"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit Startseite 2</figcaption>
+      </figure>
+      <br>
+      <div class="warningbox">
+        <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Achtung!</b>
+          Es ist zu empfehlen die <i>notes</i> von der Übersichtsseite <b>nicht zu löschen</b>. Gleiches gilt für die <b>Browser Cookies</b> von LiaScript, da mit dem Löschen der Cookies auch alle</i>notes<i> im Editor gelöscht werden.
+          <br>
+          Das löschen der <b>schon veröffentlichten</b> <i>notes</i> sorgt zwar <b>nicht</b> dafür, dass der dazugehörige Gist inklusive Veröffentlichung gelöscht wird, <b>jedoch erschwert</b> das Löschen der <i>notes</i> das anschließende weiterarbeiten an den Dateien.
+          <br>
+          Ist die <i>note</i> einmal gelöscht, so verschwindet auch die Verknüpfung vom Gist zur <i>note</i>. Der Kurs kann zwar nun mithilfe des GitHub Gist links bei LiaEdit neu importiert werden. Anschließend vorgenommene Änderungen werden aber nun nichtmehr automatisch mit dem GitHub Gist synchronisiert. Es wird stattdessen ein komplett neuer GitHub Gist erstellt.
+      </div>
+      <br>
+      <h6>Sonderfall: Gelöschte LiaEdit note</h6>
+      Wurde die LiaEdit note gelöscht muss das Kursdokument erstmal neu importiert werden. Öffnen Sie dafür eine neue oder bereits bestehende LiaEdit note und wählen Sie anschließend im <b>Menü</b> die Option <b>Share editor... external resource</b> aus. Daraufhin öffnet sich in der Mitte des Bildschirms ein kleineres Fenster in dem sich ein Eingabefeld befindet. In diesem soll der Link (die URL) zum zu importierenden Dokument eingetragen werden.
+      <br>
+      Die URL Ihres Kursdokuments finden Sie beim zugehörigem GitHub Gist. Wechseln Sie also zu GitHub und wählen Sie im Menü (oben rechts hinter Ihrem Profilbild) die Option <b>Your gists</b> aus. Bei Ihren Gists angekommen wählen Sie das richtige aus und klicken Sie auf der folgenden Seite den Buton <b>RAW</b> aus. Dieser ist oben rechts beim Kursdokument zu finden und leitet Sie zur RAW Ansicht des Dokumentes weiter. Kopieren Sie nun den Link oben aus der Adressleiste heraus und fügen Sie ihn bei LiaEdit in das erwähnte Eingabefeld ein.
+      <br>
+      INSERT FIGURE
+      <br>
+      <figure style="align:middle;">
+        <a href="images/le_external.svg" target="_blank"><img src="images/le_external.svg" alt="Abbildung: Screenshot LiaEdit load external source" title="Abbildung: Screenshot LiaEdit load external source"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit load external source</figcaption>
+      </figure>
+      <br>
+      Nachdem Sie den Link bestätigt haben sollte folgendes Fenster erscheinen. Wählen Sie in diesem Fenster den blau markierten Link aus, um zu einer neuen <i>note</i> mit Ihren nun importierten Kursinhalten zu gelangen.
+      <figure style="align:middle;">
+        <a href="images/le_external2.svg" target="_blank"><img src="images/le_external2.svg" alt="Abbildung: Screenshot LiaEdit load external source 2" title="Abbildung: Screenshot LiaEdit load external source 2"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit load external source 2</figcaption>
+      </figure>
+      <br>
+      Dort angekommen können Sie aber noch nicht sofort loslegen. Ein Schritt fehlt noch. Sie müssen die LiaEdit <i>note</i> zunächst noch kopieren (Fork). Dafür müssen Sie den Button <b>Fork</b>, welcher oben rechts zu finden ist, auswählen. Ein Hinweistext unten rechts macht Sie auch auf selbiges aufmerksam. 
+      <figure style="align:middle;">
+        <a href="images/le_fork_info.svg" target="_blank"><img src="images/le_fork_info.svg" alt="Abbildung: Screenshot LiaEdit Fork information" title="Abbildung: Screenshot LiaEdit Fork information"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit Fork information</figcaption>
+      </figure>
+      <br>
+      <figure style="align:middle;">
+        <a href="images/le_fork.svg" target="_blank"><img src="images/le_fork.svg" alt="Abbildung: Screenshot LiaEdit Fork the external source" title="Abbildung: Screenshot LiaEdit Fork the external source"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit Fork the external source</figcaption>
+      </figure>
+      <br>
+      Haben Sie dies getan können Sie mit dem bearbeiten endlich loslegen. Von hier an funktioniert alles so wie bei einer neu erstellten <i>note</i>. Wenn Sie diese <i>note</i> nun wieder erneut exportieren, dann würde eine neue Gist auf GitHub erstellt werden. Dies ist im folgendem Bild nochmals dargestellt. Oben die neue Gist mit dem importierten Kursdokument und unten die Gist welche aus dem originalem Dokument erstellt wurde.
+      <figure style="align:middle;">
+        <a href="images/le_fork2.svg" target="_blank"><img src="images/le_fork2.svg" alt="Abbildung: Screenshot GitHub Gist comparison original and forked" title="Abbildung: Screenshot GitHub Gist comparison original and forked"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Gist comparison original and forked</figcaption>
+      </figure>
+      <br>
+    </p>
+  </div>
   <button class="accordion">7. Gemeinsam an einem Kurs arbeiten</button>
   <div class="panel">
     <p>
-      Möchten Sie gemeinsam mit Arbeitskollegen am Kurs arbeiten, dann ist dies auch mit dem LiaScript LiveEditor ganz einfach möglich. Die im Menü zu findende Option <b>Share course... collaboration link</b> ermöglicht es einem gleichzeitig, in Echtzeit aktualisiert, mit Arbeitskollegen am Dokument zu arbeiten. Der Besitzer, oder auch Host genannt, des Dokuments muss dafür auch nicht online sein. Arbeitskollegen können also gleichzeitig oder alleine (<b>synchron oder asynchron</b>) am Dokument weiterarbeiten. Dafür muss lediglich der Link geteilt werden, den man in dem sich öffnenden Fenster erhält, wenn man die oben genannte Menüoption auswählt.
+      Möchten Sie gemeinsam mit Arbeitskollegen am Kurs arbeiten, dann ist dies auch mit dem LiaScript LiveEditor ganz einfach möglich. Die im Menü zu findende Option <b>Share course... collaboration link</b> ermöglicht es einem gleichzeitig, in <b>Echtzeit</b> aktualisiert, mit Arbeitskollegen am Dokument zu arbeiten. Der Besitzer, oder auch Host genannt, des Dokuments muss dafür auch nicht online sein. Arbeitskollegen können also gleichzeitig oder alleine (<b>synchron oder asynchron</b>) am Dokument weiterarbeiten. Dafür muss lediglich der Link geteilt werden, den man in dem sich öffnenden Fenster erhält, wenn man die oben genannte Menüoption auswählt.
       <figure style="align:middle;">
         <a href="images/le_collab1.svg" target="_blank"><img src="images/le_collab1.svg" alt="Abbildung: Screenshot collaboration option" title="Abbildung: Screenshot collaboration option"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot collaboration option</figcaption>
@@ -217,8 +259,6 @@
     </p>
   </div>
 </div>
-
----
 
 <h3>F.A.Q.</h3>
 
