@@ -18,7 +18,7 @@
 
    * [4.3: LiaEdit](step4_3.md)
    
-   * [4.3: Lernmanagementsysteme (Ilias, Moodle, Stud.IP Courseware)](step4_4.md)
+   * [4.4: Lernmanagementsysteme (Ilias, Moodle, Stud.IP Courseware)](step4_4.md)
 
 * [5: OER teilen](step5.md)
 
