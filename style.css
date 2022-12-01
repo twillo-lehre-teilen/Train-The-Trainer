@@ -883,7 +883,7 @@ pre::after {
 }
 /* Add a background color to the button if it is clicked on (add the .activeA class with JS), and when you move the mouse over it (hover) */
 .activeA, .accordion:hover {
-  background-color: #D1D8E1;
+  background-color: #54B6B5;
 }
 /* Style the accordion panel. Note: hidden by default */
 .panel {
