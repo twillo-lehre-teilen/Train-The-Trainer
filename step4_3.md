@@ -281,11 +281,17 @@
     <p>
       <table>
         <tr>
+          <td>LiaScript LiveEditor aka LiaEdit</td>
+          <td>
+            LiaEdit ist ein <b>kostenloser webbasierter</b> und <b>kollaborativer online Editor</b> von LiaScript. Mit diesem Editor ist es möglich LiaScript Kurse <b>direkt im Browser</b> zu erstellen und zu veröffentlichen, <b>ohne</b> etwas herunterladen und installieren zu müssen. Einzig allein ein eigener GitHub Account wird benötigt, um die Kurse zu veröffentlichen. 
+          </td>
+        </tr>
+        <tr>
           <td>Vorteile</td>
           <td>
             <ul>
-              <li>Kostenloser Editor</li>
-              <li>Der Editor muss nicht installiert werden</li>
+              <li><b>Kostenloser</b> Editor</li>
+              <li>Der Editor muss <b>nicht</b> installiert werden</li>
               <li>Alles findet innerhalb des Browsers statt</li>
               <li>Kollaboratives arbeiten in <b>Echtzeit</b> möglich</li>
               <li>Direkte LiaScript Vorschau innerhalb des Editors</li>
@@ -295,35 +301,37 @@
             </ul>
           </td>
         </tr>
+          <td>Nachteile</td>
+          <td>
+            <ul>
+              <li>Kursdatei wird <b>nur</b> innerhalb des eigenen Browsers gespeichert (Cookies)</li>
+              <li>Eigene Medien können nur über Umwege eingefügt werden</li>
+              <li>Bearbeiten des Inhalts nach Veröffentlichung ist sehr <b>kompliziert</b></li>
+              <li>Bei Veränderungen am Kurs <b>verändert</b> sich auch die öffentliche <b>URL</b> unter dem der Kurs aufgerufen werden kann</li>
+              <li>Keine Git Versionsverwaltung innerhalb des Editors möglich</li>
+            </ul>
+          </td>
+        <tr>
+          <td>GitHub Gist</td>
+          <td>
+            GitHub Gist ist <b>eine Subdomäne von GitHub</b> auf der <b>Gists</b> erstellt werden können. Mit Gists können schnell und einfach kleine Code Schnipsel oder Texte online gespeichert werden, welche alleine kein umfassendes Repository rechtfertigen. Sie sind eine hervorragende, leichtgewichtige Option, wenn Sie nur schnell etwas Code oder Text austauschen wollen. Die Besonderheit an GitHub Gist ist die, dass du zusätzlich die für GitHub typische Git Versionsverwaltung hast.
+            <br><br>
+            In unserem Anwendungsfall <b>zweckentfremden</b> wir GitHub Gist wieder nur als <b>Ablageort</b>.
+          </td>
+        </tr>
+        <tr>
+          <td>Eigene Medien einbetten</td>
+          <td>
+            Online Medien können ohne Probleme im LiaScript LiveEditor wie gewohnt eingebettet werden. Bei eigenen lokalen Medien ist dies leider nicht so leicht möglich. Bevor eigene Medien (Bilder, Videos, Audios) eingefügt werden können müssen sie irgendwo online, z.B. in einem Git Repository, abgelegt bzw. hochgeladen werden.
+          </td>
+        </tr>
+        <tr>
+          <td>Kollaboratives arbeiten</td>
+          <td>
+            Kollaboratives arbeiten ist mit dem LiaScript LiveEditor sehr gut möglich. Arbeitskolleg:innen können ganz einfach <b>via Link</b> dazu eingeladen werden, um an der Kursdatei mit zu arbeiten. Das tolle an LiaEdit ist, dass Veränderungen in <b>Echtzeit</b>, d.h. sofort, an alle Kolleg:innen weitergegeben werden. Dadurch kann sehr gut vermieden werden, dass Inhalte doppelt erstellt werden. 
+          </td>
+        </tr>
       </table>
-      <ul>
-        <li>Vorteile</li>
-          <ul>
-            <li>Kostenloser Editor</li>
-            <li>Der Editor muss nicht installiert werden</li>
-            <li>Alles findet innerhalb des Browsers statt</li>
-            <li>Kollaboratives arbeiten in <b>Echtzeit</b> möglich</li>
-            <li>Direkte LiaScript Vorschau innerhalb des Editors</li>
-            <li>Per Knopfdruck online ablegen und veröffentlichen</li>
-            <li>Kursdatei (Markdown) kann heruntergeladen werden</li>
-            <li>LiaScript PlugIns automatisch installiert (liascript-preview, liascript-snippets)
-          </ul>
-        <li>Nachteile</li>
-          <ul>
-            <li>Kursdatei wird <b>nur</b> innerhalb des eigenen Browsers gespeichert (Cookies)</li>
-            <li>Eigene Medien können nur über Umwege eingefügt werden</li>
-            <li>Bearbeiten des Inhalts nach Veröffentlichung ist sehr kompliziert</li>
-            <li>Bei Veränderungen am Kurs verändert sich auch die öffentliche URL unter dem der Kurs aufgerufen werden kann</li>
-            <li>Keine Git Versionsverwaltung innerhalb des Editors möglich</li>
-          </ul>
-        <li>GitHub Gist</li>
-          GitHub Gist ist <b>eine Subdomäne von GitHub</b> auf der <b>Gists</b> erstellt werden können. Mit Gists können schnell und einfach kleine Code Schnipsel oder Texte online gespeichert werden, welche alleine kein umfassendes Repository rechtfertigen. Sie sind eine hervorragende, leichtgewichtige Option, wenn Sie nur schnell etwas Code oder Text austauschen wollen. Die Besonderheit an GitHub Gist ist die, dass du zusätzlich die für GitHub typische Git Versionsverwaltung hast.<br>
-          In unserem ANwendungsfall zweckentfremden wir GitHub Gist wieder nur als Ablageort.
-        <li>Eigene Medien einbetten</li>
-          Online Medien können ohne Probleme im LiaScript LiveEditor wie gewohnt eingebettet werden. Bei eigenen lokalen Medien ist dies leider nicht so leicht möglich. Bevor eigene Medien (Bilder, Videos, Audios) eingefügt werden können müssen sie irgendwo online, z.B. in einem Git Repository, abgelegt bzw. hochgeladen werden.
-        <li>Kollaboratives arbeiten</li>
-          Kollaboratives arbeiten ist mit dem LiaScript LiveEditor sehr gut möglich. Arbeitskolleg:innen können ganz einfach via Link dazu eingeladen werden, um an der Kursdatei mit zu arbeiten. Das tolle an LiaEdit ist, dass Veränderungen in <b>Echtzeit</b>, d.h. sofort, an alle Kolleg:innen weitergegeben werden. Dadurch kann sehr gut vermieden werden, dass Inhalte doppelt erstellt werden. 
-      </ul>
     </p>
   </div>
 </div>
