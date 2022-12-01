@@ -117,14 +117,14 @@
       <div class="warningbox">
         <p><i class="fa fa-exclamation-triangle" style="color:black"></i>  <b>Achtung!</b>
           <br><br>
-          Nur beim <b>erstmaligen</b> exportieren des Kursdokuments zu GitHub Gist wird automatisch ein LiaScript Kurs aus dem <b>RAW-File</b> generiert. Späteres erneutes exportieren, was hier mit speichern zu vergleichen ist, aktualisiert lediglich den Gist, aber leider nicht den daraus generierten Kurs. Dies liegt daran, dass mit einer Aktualisierung des Gist der GitHub RAW-File nicht mit aktualisiert wird, sondern ein komplett neuer RAW-File erstellt wird. Dadurch ändert sich auch die Internetadresse des GitHub RAW-Files, wodurch der LiaScript Kurs die Änderungen nicht mehr mitbekommt.
+          Nur beim <b>erstmaligen</b> exportieren des Kursdokuments zu GitHub Gist wird automatisch ein LiaScript Kurs aus dem <b>RAW-File</b> generiert. Späteres erneutes exportieren, was hier mit speichern zu vergleichen ist, aktualisiert lediglich den Gist, aber leider nicht den daraus generierten Kurs. Dies liegt daran, dass mit einer Aktualisierung des Gist der GitHub RAW-File nicht mit aktualisiert wird, sondern ein komplett neuer RAW-File erstellt wird. Dadurch ändert sich auch die Internetadresse des GitHub RAW-Files, wodurch der LiaScript Kurs die Änderungen nicht mitbekommt.
           <br><br>
           Das hat nun schlussendlich die Folge, dass man <b>bei späteren Änderungen</b> am Kursdokument <b>selbstständig</b> den Kurs mithilfe des neuen GitHub RAW-Files <b>neu generieren</b> muss. Das ist zwar kein großer Aufwand, jedoch sollte einem bewusst sein, dass sich dadurch zwangsläufig auch die Internetadresse des LiaScript Kurses verändert. Falls man diesen zusätzlichen Schritt vermeiden möchte, exportieren Sie Ihren Kurs erst zum Abschluss nach dem vollständigen eintragen aller Inhalte.
           <br><br>
           Mehr dazu weiter unten im Punkt 5: Kursinhalte ändern oder weiterbearbeiten.
         </p>
       </div>
-      Um den eigenen Kurs nun bei GitHub Gist öffentlich abzulegen wählen Sie zunächst oben rechts das <b>Menü</b> aus und anschließend in dem sich öffnenden Reiter die Option <b>Export to... GitHub Gists</b>. 
+      Um den eigenen Kurs nun bei GitHub Gist öffentlich abzulegen, wählen Sie zunächst oben rechts das <b>Menü</b> aus und anschließend in dem sich öffnenden Reiter die Option <b>Export to... GitHub Gists</b>. 
       <figure style="align:middle;">
         <a href="images/le_gh_gist.svg" target="_blank"><img src="images/le_gh_gist.svg" alt="Abbildung: Screenshot LiaEdit GitHub Gist" title="Abbildung: Screenshot LiaEdit GitHub Gist"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit GitHub Gist</figcaption>
@@ -154,7 +154,7 @@
   <button class="accordion">5. Kurs veröffentlichen und teilen</button>
   <div class="panel">
     <p>
-      Um Ihren Kurs zu veröffentlichen und um eine URL zu erzeugen, die Sie dann mit Lernenden oder Kolleg:innen teilen können, muss durch die Hilfe des LiaScript LivEditors nicht mehr viel getan werden. Mit dem exportieren des Kursdokuments zu GitHub Gist in Schritt 4 wurde gleichzeitig ein LiaScript Kurs aus dem Dokument generiert und eine neue Option im Menü von LiaEdit freigeschaltet. Die neue Option lautet <b>Share course via... GitHub gist link</b>. 
+      Um Ihren Kurs zu veröffentlichen und um eine URL zu erzeugen, die Sie dann mit Lernenden oder Kolleg:innen teilen können, muss durch die Hilfe des LiaScript LiveEditors nicht mehr viel getan werden. Mit dem exportieren des Kursdokuments zu GitHub Gist in Schritt 4 wurde gleichzeitig ein LiaScript Kurs aus dem Dokument generiert und eine neue Option im Menü von LiaEdit freigeschaltet. Die neue Option lautet <b>Share course via... GitHub gist link</b>. 
       <figure style="align:middle;">
         <a href="images/le_gh_gist_link.svg" target="_blank"><img src="images/le_gh_gist_link.svg" alt="Abbildung: Screenshot LiaEdit GitHub Gist published link" title="Abbildung: Screenshot LiaEdit GitHub Gist published link"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit GitHub Gist published link</figcaption>
@@ -180,11 +180,11 @@
   <button class="accordion">6. Kursinhalte ändern oder weiterbearbeiten</button>
   <div class="panel">
     <p>
-      Wenn Sie ihren Kurs nun weiter <b>bearbeiten</b>, <b>aktualisieren</b> oder generell <b>verändern</b> wollen, können Sie dies direkt im LiaScript LiveEditor tun. Das bearbeiten des Kurses ist mit LiaEdit allerdings nicht ganz so leicht als im Vergleich mit anderen Editoren wie zum Beispiel Visual Studio Code. Denn das weiterbearbeiten des Kursinhalts bringt leider unerwünschte zusätzliche Hürden mit sich:
+      Wenn Sie ihren Kurs nun weiter <b>bearbeiten</b>, <b>aktualisieren</b> oder generell <b>verändern</b> wollen, können Sie dies direkt im LiaScript LiveEditor tun. Das bearbeiten des Kurses ist mit LiaEdit allerdings nicht ganz so leicht als im Vergleich mit anderen Editoren (z.B. Visual Studio Code. Denn das weiterbearbeiten des Kursinhalts bringt leider unerwünschte zusätzliche Hürden mit sich.
       <br><br>
-      Wie schon zuvor erwähnt (Warnbox in Punkt 4) hat späteres bearbeiten des Kursdokuments die Folge, dass der LiaScript Kurs <b>neu generiert</b> werden muss, wodurch sich leider auch die Internetadresse des endgültigen Kurses ändert. Der "alte" Kurs bleibt zwar bestehen, jedoch werden dort die Neuerungen nicht übernommen. Bei Veränderungen müsste der Kurs dann also an alle Schüler, Studenten, Mitarbeitern, etc. neu verteilt und auf allen Seiten, Portalen, etc. neu verlinkt werden.
-      <br>
-      Neben diesem Punkt müssen zusätzliche Schritte absolviert werden um den Kurs zu bearbeiten, falls die entsprechende <i>note</i> bei LiaEdit gelöscht wurde. Ist dies der Fall, dann muss das Kursdokument von GitHub Gist neu importiert werden. Wie das geht zeigen wir ihnen nun.
+      Wie schon zuvor erwähnt (Warnbox in Punkt 4) hat späteres bearbeiten des Kursdokuments die Folge, dass der LiaScript Kurs <b>neu generiert</b> werden muss, wodurch sich leider auch die Internetadresse (URL) des endgültigen Kurses ändert. Der "alte" Kurs bleibt zwar bestehen, jedoch werden dort die Neuerungen nicht übernommen. Bei Veränderungen müsste der Kurs dann also an alle Lernenden und Lehrenden neu geteilt werden.
+      <br><br>
+      Neben diesem Punkt müssen zusätzliche Schritte absolviert werden um den Kurs zu bearbeiten, falls die entsprechende <i>note</i> bei LiaEdit gelöscht wurde. Ist dies der Fall, dann muss das Kursdokument von GitHub Gist neu importiert werden. Wie das alles geht zeigen wir ihnen nun.
       <br><br>
       <h5>Schritt 1: Das Kursdokument öffnen</h5>
       Wenn Sie <a href="https://liascript.github.io/LiveEditor/" target="_blank">LiaEdit</a> in ihrem Browser öffnen, dann sollte Sie eine <b>Übersichtsseite</b> erwarten, welche all ihre bisherigen <i><b>notes</b></i> (Kursdokumente) zeigt. Im folgenden Bild ist solch eine Übersichtsseite zu sehen. In diesem Beispiel wurde bislang nur eine <i>note</i> mit LiaEdit erstellt. Hier ist auch gut zu erkennen, ob die <i>note</i> schon veröffentlicht und nach GitHub Gist exportiert wurde. Und zwar wird im Falle eines Exports der GitHub Gist Link in der Übersicht mit angezeigt.
@@ -194,7 +194,7 @@
           <i class="fa fa-lightbulb-o fa-lg"></i> <b>Hinweis:</b> Sollten Sie Probleme haben innerhalb des LiaScript LiveEditors die Übersichtsseite zu finden (z.B. wenn Sie eine <i>note</i> geöffnet haben und Sie sich im Editor befinden), dann kann ich Sie beruhigen, denn die Übersichtsseite ist <b>immer</b> über den <b>LiaEdit Schriftzug</b>, oben links in der Ecke der Seite, zu erreichen.
         </p>
       </div>
-      Haben sie Ihr Kursdokument auf der Übersichtsseite gefunden, dann können Sie auf den blauen <b>Edit</b> Button klicken, um zum Editor zu gelangen und mit dem bearbeiten des Kurses zu beginnen.
+      Haben Sie Ihr Kursdokument auf der Übersichtsseite gefunden, dann können Sie auf den blauen <b>Edit</b> Button klicken, um zum Editor zu gelangen und mit dem bearbeiten des Kurses zu beginnen.
       <figure style="align:middle;">
         <a href="images/le_home2.svg" target="_blank"><img src="images/le_home2.svg" alt="Abbildung: Screenshot LiaEdit Startseite 2" title="Abbildung: Screenshot  LiaEdit Startseite 2"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit Startseite 2</figcaption>
@@ -210,19 +210,28 @@
           Ist die <i>note</i> einmal gelöscht, so verschwindet auch die Verknüpfung vom Gist zur <i>note</i>. Der Kurs kann zwar nun mithilfe des GitHub Gist links bei LiaEdit neu importiert werden. Anschließend vorgenommene Änderungen werden aber nun nichtmehr automatisch mit dem GitHub Gist synchronisiert. Es wird stattdessen ein komplett neuer GitHub Gist erstellt.
       </div>
       <br>
-      <h6>Sonderfall: Gelöschte LiaEdit note</h6>
-      Wurde die LiaEdit note gelöscht muss das Kursdokument erstmal neu importiert werden. Öffnen Sie dafür eine neue oder bereits bestehende LiaEdit note und wählen Sie anschließend im <b>Menü</b> die Option <b>Share editor... external resource</b> aus. Daraufhin öffnet sich in der Mitte des Bildschirms ein kleineres Fenster in dem sich ein Eingabefeld befindet. In diesem soll der Link (die URL) zum zu importierenden Dokument eingetragen werden.
-      <br><br>
-      Die URL Ihres Kursdokuments finden Sie beim zugehörigem GitHub Gist. Wechseln Sie also zu GitHub und wählen Sie im Menü (oben rechts hinter Ihrem Profilbild) die Option <b>Your gists</b> aus. Bei Ihren Gists angekommen wählen Sie das richtige aus und klicken Sie auf der folgenden Seite den Buton <b>RAW</b> aus. Dieser ist oben rechts beim Kursdokument zu finden und leitet Sie zur RAW Ansicht des Dokumentes weiter. Kopieren Sie nun den Link oben aus der Adressleiste heraus und fügen Sie ihn bei LiaEdit in das erwähnte Eingabefeld ein.
-      <br>
-                                                                  INSERT FIGURE
-      <br>
+      <h6>Sonderfall: Gelöschte LiaEdit <i>note</i></h6>
+      Wurde die LiaEdit <i>note</i> gelöscht muss das Kursdokument erstmal neu importiert werden. Öffnen Sie dafür eine neue oder bereits bestehende LiaEdit note und wählen Sie anschließend im <b>Menü</b> die Option <b>Share editor... external resource</b> aus. Daraufhin öffnet sich in der Mitte des Bildschirms ein kleineres Fenster in dem sich ein Eingabefeld befindet. In diesem soll der Link (die URL) zum zu importierenden Dokument eingetragen werden.
       <figure style="align:middle;">
         <a href="images/le_external.svg" target="_blank"><img src="images/le_external.svg" alt="Abbildung: Screenshot LiaEdit load external source" title="Abbildung: Screenshot LiaEdit load external source"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit load external source</figcaption>
       </figure>
       <br>
-      Nachdem Sie den Link bestätigt haben sollte folgendes Fenster erscheinen. Wählen Sie in diesem Fenster den blau markierten Link aus, um zu einer neuen <i>note</i> mit Ihren nun importierten Kursinhalten zu gelangen.
+      Die URL Ihres Kursdokuments finden Sie beim zugehörigem GitHub Gist. Wechseln Sie also zu GitHub und wählen Sie im Menü (oben rechts hinter Ihrem Profilbild) die Option <b>Your gists</b> aus. Bei Ihren Gists angekommen wählen Sie das richtige aus und klicken Sie auf der folgenden Seite den Button <b>RAW</b> aus. Dieser ist oben rechts beim Kursdokument zu finden und leitet Sie zur RAW Ansicht des Dokumentes weiter. 
+      <figure style="align:middle;">
+        <a href="images/le_gh_gists.svg" target="_blank"><img src="images/le_gh_gists.svg" alt="Abbildung: Screenshot GitHub Your Gists" title="Abbildung: Screenshot GitHub Your Gists"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Your Gists</figcaption>
+      </figure>
+      <figure style="align:middle;">
+        <a href="images/le_gh_raw.svg" target="_blank"><img src="images/le_gh_raw.svg" alt="Abbildung: Screenshot GitHub RAW Button" title="Abbildung: Screenshot GitHub RAW Button"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub RAW Button</figcaption>
+      </figure>
+      <figure style="align:middle;">
+        <a href="images/le_gh_raw_view.svg" target="_blank"><img src="images/le_gh_raw_view.svg" alt="Abbildung: Screenshot GitHub RAW File" title="Abbildung: Screenshot GitHub RAW File"/></a>
+        <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub RAW File</figcaption>
+      </figure>
+      <br>
+      Kopieren Sie nun den Link oben aus der Adressleiste heraus und fügen Sie ihn bei LiaEdit in das bereits erwähnte Eingabefeld ein. Nachdem Sie den Link bestätigt haben sollte folgendes Fenster erscheinen. Wählen Sie in diesem Fenster den blau markierten Link aus, um zu einer neuen <i>note</i> mit Ihren nun importierten Kursinhalten zu gelangen.
       <figure style="align:middle;">
         <a href="images/le_external2.svg" target="_blank"><img src="images/le_external2.svg" alt="Abbildung: Screenshot LiaEdit load external source 2" title="Abbildung: Screenshot LiaEdit load external source 2"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot LiaEdit load external source 2</figcaption>
@@ -264,7 +273,7 @@
   </div>
 </div>
 
-<br><br>
+<br>
 
 <div>
   <button class="accordion">F.A.Q.</button>
