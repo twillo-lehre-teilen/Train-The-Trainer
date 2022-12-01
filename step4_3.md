@@ -279,6 +279,23 @@
   <button class="accordion">F.A.Q.</button>
   <div class="panel">
     <p>
+      <table>
+        <tr>
+          <td>Vorteile</td>
+          <td>
+            <ul>
+              <li>Kostenloser Editor</li>
+              <li>Der Editor muss nicht installiert werden</li>
+              <li>Alles findet innerhalb des Browsers statt</li>
+              <li>Kollaboratives arbeiten in <b>Echtzeit</b> möglich</li>
+              <li>Direkte LiaScript Vorschau innerhalb des Editors</li>
+              <li>Per Knopfdruck online ablegen und veröffentlichen</li>
+              <li>Kursdatei (Markdown) kann heruntergeladen werden</li>
+              <li>LiaScript PlugIns automatisch installiert (liascript-preview, liascript-snippets)
+            </ul>
+          </td>
+        </tr>
+      </table>
       <ul>
         <li>Vorteile</li>
           <ul>
@@ -306,7 +323,6 @@
           Online Medien können ohne Probleme im LiaScript LiveEditor wie gewohnt eingebettet werden. Bei eigenen lokalen Medien ist dies leider nicht so leicht möglich. Bevor eigene Medien (Bilder, Videos, Audios) eingefügt werden können müssen sie irgendwo online, z.B. in einem Git Repository, abgelegt bzw. hochgeladen werden.
         <li>Kollaboratives arbeiten</li>
           Kollaboratives arbeiten ist mit dem LiaScript LiveEditor sehr gut möglich. Arbeitskolleg:innen können ganz einfach via Link dazu eingeladen werden, um an der Kursdatei mit zu arbeiten. Das tolle an LiaEdit ist, dass Veränderungen in <b>Echtzeit</b>, d.h. sofort, an alle Kolleg:innen weitergegeben werden. Dadurch kann sehr gut vermieden werden, dass Inhalte doppelt erstellt werden. 
-        <li></li>
       </ul>
     </p>
   </div>
