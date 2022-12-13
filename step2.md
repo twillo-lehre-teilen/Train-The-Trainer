@@ -226,15 +226,15 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
 <div class="warningbox">
   <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
     <br><br>
-    Unabhängig davon, ob Sie ein OER-Referatorium/-Repositorium oder eine allgemeine Plattform/Suchmaschine nutzen, um Material für Ihre Lehre zu finden, überprüfen Sie in jedem Fall ob die Lizenz des Materials die von Ihnen geplante Nutzung wirklich erlaubt.
+    Unabhängig davon, ob Sie ein OER-Referatorium/-Repositorium oder eine allgemeine Plattform/Suchmaschine nutzen, um Material für Ihre Lehre zu finden, überprüfen Sie in jedem Fall ob die Lizenz des Materiales die von Ihnen geplante Nutzung wirklich erlaubt.
   </p>
 </div>
 
 <h2 id="korrekteVerwendung">Korrekte Verwendung von OER</h2>
 
-Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frage, was Sie bei der Nachnutzung dieser beachten müssen. Der erste Blick sollte hier auf die Lizenz des Materials gerichtet werden.
+Haben Sie interessante CC-lizenzierte Materialien gefunden, stellt sich die Frage, was Sie bei der Nachnutzung dieser beachten müssen. Der erste Blick sollte hier auf die Lizenz des Materiales gerichtet werden.
 
-<b>Prüfen Sie gründlich, ob die Lizenz die von Ihnen geplante Nutzung des Materials erlaubt.</b> Folgender Lizenzcheck (s. Abb. 14) soll Ihnen einfach und schnell helfen. Gehen Sie das Diagramm anhand der Leitfragen  durch. Finden Sie die Lizenz des Materials, das Sie gern nutzen möchten, in der Liste am Ende des Diagramms, steht Ihrer Planung nichts im Wege.
+<b>Prüfen Sie gründlich, ob die Lizenz die von Ihnen geplante Nutzung des Materiales erlaubt.</b> Folgender Lizenzcheck (s. Abb. 14) soll Ihnen einfach und schnell helfen. Gehen Sie das Diagramm anhand der Leitfragen  durch. Finden Sie die Lizenz des Materiales, das Sie gern nutzen möchten, in der Liste am Ende des Diagramms, steht Ihrer Planung nichts im Wege.
 
 <figure style="align:middle;">
   <a href="images/Lizenzcheck.svg" target="_blank"><img src="images/Lizenzcheck.svg" alt="Abbildung: Lizenzcheck für die Nachnutzung fremder OER" title="Abbildung: Lizenzcheck für die Nachnutzung fremder OER"/></a>
@@ -284,7 +284,7 @@ Die Grundlagen zum Nachlesen:
       <b><font size="10">L</font></b>
     </td>
     <td valign="middle" text-align="left" width="90%">
-      Setzen Sie einen <b>LINK</b> zu dem Lizenztext. Sollte eine Verlinkung nicht möglch sein, muss der Link ausgeschrieben werden.
+      Setzen Sie einen <b>LINK</b> zu dem Lizenztext. Sollte eine Verlinkung nicht möglich sein, muss der Link ausgeschrieben werden.
     </td>
   </tr>
   <tr>

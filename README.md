@@ -14,7 +14,7 @@ Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroo
 
 <h2>Webinar 1 (W1):</h2>
 
-Das Train the Trainer Weiterbildungsangebot startet mit einem gemeinsamen Kick-Off. Das Webinar findet online statt und dient der Einführung in das Themenfeld. Ziel ist es, Ihnen die wichtigsten Grundlagen zu Open Educational Resources näher zu bringen und Sie auf die folgende Selbstlerneinheit vorzubereiten.
+Das Train the Trainer Weiterbildungsangebot startet mit einem gemeinsamen Kick-Off. Das Webinar findet online statt und dient der Einführung in das Themenfeld. Ziel ist es, Ihnen die wichtigsten Grundlagen zu Open Educational Resources näherzubringen und Sie auf die folgende Selbstlerneinheit vorzubereiten.
 
 <font color="#8b0000">
 <h3>Schritt 1: OER erkennen</h3>
@@ -31,22 +31,22 @@ Im zweiten Schritt erhalten Sie einen Überblick über bestehende Möglichkeiten
 <font color="#228b22">
 <h3>Schritt 3: Material aufbereiten</h3>
 
-Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting umzugestalten. Gleichzeitig geht es um die Überführung Ihres Materials in die Form von OER. Einen besonderen Schwerpunkt bilden Fragen der Lizenzierung eigener Materialien mit und ohne die Einbindung von Inhalten Dritter. Ziel dieser Einheit ist es, Ihnen die Aufbereitung eigener Materialien in Form von OER Schritt für Schritt näher zu bringen.
+Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting umzugestalten. Gleichzeitig geht es um die Überführung Ihres Materials in die Form von OER. Einen besonderen Schwerpunkt bilden Fragen der Lizenzierung eigener Materialien mit und ohne die Einbindung von Inhalten Dritter. Ziel dieser Einheit ist es, Ihnen die Aufbereitung eigener Materialien in Form von OER Schritt für Schritt näherzubringen.
 
 </font>
 
 <h2>Praxisworkshop (P):</h2>
 
-Der Praxisworkshop dient der Diskussion der Inhalte der Schritte 1-3 der Selbstlernphase und bietet Raum zur Klärung von Fragen. Inhaltlich steht die Vermittlung von Grundlagen zu dem Programm LiaScript zur Erstellung von offenen Lehr-/Lerneinheiten im Zentrum des Workshops. Ziel ist es, Ihnen die wichtigsten LiaScript-Funktionen sowie die Basics der Auszeichnungssprache Markdown näher zu bringen.
+Der Praxisworkshop dient der Diskussion der Inhalte der Schritte 1-3 der Selbstlernphase und bietet Raum zur Klärung von Fragen. Inhaltlich steht die Vermittlung von Grundlagen zu dem Programm LiaScript zur Erstellung von offenen Lehr-/Lerneinheiten im Zentrum des Workshops. Ziel ist es, Ihnen die wichtigsten LiaScript-Funktionen sowie die Basics der Auszeichnungssprache Markdown näherzubringen.
 
 <font color="#800080">
 <h3>Schritt 4: OER in Systemen abbilden</h3>
 
-Im vierten Schritt werden Sie durch die wichtigsten Funktionen der offenen Anwendung <b>LiaScript</b> geführt, in der Sie Ihre OER in eine Kursstruktur bringen und bereitstellen können. Sie erfahren zudem, wie sie die in offenen Systemen befindlichen Inhalte in Lernmanagementsysteme einbetten können.
+Im vierten Schritt werden Sie durch die wichtigsten Funktionen der offenen Anwendung <b>LiaScript</b> geführt, in der Sie Ihre OER in eine Kursstruktur bringen und bereitstellen können. Sie erfahren zudem, wie Sie die in offenen Systemen befindlichen Inhalte in Lernmanagementsysteme einbetten können.
 
 Darüber hinaus werden die Vor- und Nachteile von Lernmanagementsystemen (LMS) für die Erstellung von OER beleuchtet. Zudem werden Wege aufgezeigt, wie in LMS erstellte Kurse auch öffentlich bereitgestellt werden können.
 
-Ziel dieser Einheit ist es, Ihnen vielfältige Möglichkeiten zu vermitteln,  Lektions- oder Kursstruktur mit Hilfe von Webanwendung in Form von OER bereitszustellen.
+Ziel dieser Einheit ist es, Ihnen vielfältige Möglichkeiten zu vermitteln,  Lektions- oder Kursstruktur mit Hilfe von Webanwendung in Form von OER bereitzustellen.
 
 </font>
 <font color="#ff8c00">
@@ -63,7 +63,7 @@ Der letzte Schritt dient der Reflexion Ihrer individuellen Lernreise durch die W
 
 <h2>Webinar 2 (W2):</h2>
 
-Das abschließende Webinar stellt eine Lessons Learned Einheit dar, in der die zentralen Inhalte des Selbstlernphase noch einmal zusammengefasst werden. Darüber hinaus dient es der Reflexion des individuellen Lern- und Arbeitsprozesses und bietet Raum zur Klärung von Fragen.
+Das abschließende Webinar stellt eine Lessons Learned Einheit dar, in der die zentralen Inhalte der Selbstlernphase noch einmal zusammengefasst werden. Darüber hinaus dient es der Reflexion des individuellen Lern- und Arbeitsprozesses und bietet Raum zur Klärung von Fragen.
 
 <br>
 <br>

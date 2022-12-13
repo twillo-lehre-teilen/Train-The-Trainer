@@ -41,7 +41,7 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
   </tr>
 </table>
 
-Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber:innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
+Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber:innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an Ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
 
 <figure>
   <img src="images/CC_Lizenzmodule.svg" alt="Abbildung: CC-Lizenzmodule" title="Abbildung: CC-Lizenzmodule"/>
@@ -74,7 +74,7 @@ Die Lizenzierung wird dadurch vereinfacht, dass eine Vielzahl vorformulierter Li
    </div>
    <button class="accordion"><img src="images/creative-commons_cc-by-nc-sa.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC SA Lizenz" title="CC BY NC SA Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC SA Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">zur Lizenz</a></button>
    <div class="panel">
-      <p><b>CC BY NC SA = Namensnennung, nicht kommerziell und Weitergabe unter gleichen Bedingungen</b><br>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Materials unter derselben Lizenz zu veröffentlichen. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</p>
+      <p><b>CC BY NC SA = Namensnennung, nicht kommerziell und Weitergabe unter gleichen Bedingungen</b><br>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen e unter derselben Lizenz zu veröffentlichen. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</p>
    </div>
    <button class="accordion"><img src="images/creative-commons_cc-by-nc-nd.vg.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC ND Lizenz" title="CC BY NC ND Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC ND Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">zur Lizenz</a></button>
    <div class="panel">
@@ -87,7 +87,7 @@ Liste <i>Bedingungen von Creative Commons-Lizenzen</i> von twillo, lizenziert un
 <div class="warningbox">
   <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
     <br><br>
-    Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinnvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (<a aria-describedby="Link zur Twillo Seite: Rechtliches OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/">vgl. twillo 2021</a>) und damit dem OER-Gedanken im vollem Umfang enstsprechen.
+    Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinnvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (<a aria-describedby="Link zur Twillo Seite: Rechtliches OER nutzen, teilen & erstellen" href="https://www.twillo.de/oer/web/rechtliches/">vgl. twillo 2021</a>) und damit dem OER-Gedanken im vollem Umfang entsprechen.
   </p>
 </div>
 

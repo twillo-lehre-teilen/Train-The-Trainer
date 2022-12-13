@@ -42,7 +42,7 @@ Der Workflow auf twillo umfasst vier Schritte:
       <br><br>
       Angehörigen von Hochschulen, die <a aria-describedby="Zum Twillo Portal" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg in das OER-Portal möglich. Klicken Sie unterhalb der Anmeldemaske auf die Option <b>Zur Hochschulauswahl</b>. Wählen Sie in der folgenden Liste Ihre Einrichtung/Institution aus und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein.
       <br><br>
-      Das folgende Abbildung veranschaulicht den Prozess der Anmeldung per DFN:
+      Die folgende Abbildung veranschaulicht den Prozess der Anmeldung per DFN:
       <br>
       <figure>
         <a href="images/twillo-Login-per-DFN.svg" target="_blank"><img src="images/twillo-Login-per-DFN.svg" alt="Abbildung: Twillo-Zugang über DFN" title="Abbildung: Twillo-Zugang über DFN"/></a>
@@ -52,7 +52,7 @@ Der Workflow auf twillo umfasst vier Schritte:
       <div class="warningbox">
         <p><i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b>
           <br><br>
-          Sollte Ihnen die Anmeldung über die Hochschschulauswahl nicht möglich sein, können Sie sich auch manuell einen Account einrichten lassen. Senden Sie hierfür eine formlose Nachricht mit Ihrem vollständigen Namen, Ihrer E-Mailadresse, Ihrem beruflichen Funktionskontext und Ihrer Institution an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Sie erhalten anschließend zeitnah eine Mail mit Ihren Zugangsdaten.
+          Sollte Ihnen die Anmeldung über die Hochschulauswahl nicht möglich sein, können Sie sich auch manuell einen Account einrichten lassen. Senden Sie hierfür eine formlose Nachricht mit Ihrem vollständigen Namen, Ihrer E-Mailadresse, Ihrem beruflichen Funktionskontext und Ihrer Institution an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Sie erhalten anschließend zeitnah eine Mail mit Ihren Zugangsdaten.
         </p>
       </div>
       Nach der ersten Anmeldung im Portal werden Sie in Ihrem <b>Workspace</b> weitergeleitet. Dieser ist als Ordnerstruktur angelegt und bietet Ihnen die Möglichkeit, Ihre eigenen OER zu organisieren. Der Workspace ist Ihr persönlicher Bereich, andere Nutzer:innen haben keinen Zugriff.
@@ -88,20 +88,20 @@ Der Workflow auf twillo umfasst vier Schritte:
               <figcaption style="text-align:center;font-size:14px;">Abbildung: Didaktische Kontextualisierung</figcaption>
             </figure></td>
           <td valign="middle" text-align="left" width="70%">
-            Materialien, die für den Bildungskontext erstellt werden, sind für spezifische Zielgruppen und Lehrkontexte konzipiert. Diese Informationen sind häufig nur implizit in den Bildungsmaterialien enthalten, sind aber wichtig für eine erste Einschätzung des Materials von Seiten der Lehrenden, die sie nachnutzen möchten. Das Explizieren von Kontextinformationen für den Lehreinsatz erleichtert die Einschätzung der Passung der Bildungsmaterialien für den jeweiligen Lehrkontext. Damit erhalten Hochschullehrende einen Überblick über den didaktischen Gehalt der Bildungsmaterialien und können davon ausgehend die Verwendung in den eigenen Lehrkontext planen. 
+            Materialien, die für den Bildungskontext erstellt werden, sind für spezifische Zielgruppen und Lehrkontexte konzipiert. Diese Informationen sind häufig nur implizit in den Bildungsmaterialien enthalten, sind aber wichtig für eine erste Einschätzung des Materiales von Seiten der Lehrenden, die sie nachnutzen möchten. Das Explizieren von Kontextinformationen für den Lehreinsatz erleichtert die Einschätzung der Passung der Bildungsmaterialien für den jeweiligen Lehrkontext. Damit erhalten Hochschullehrende einen Überblick über den didaktischen Gehalt der Bildungsmaterialien und können davon ausgehend die Verwendung in den eigenen Lehrkontext planen. 
           </td>
         </tr>
       </table>
-      Twillo unterstützt Sie bei der Beschreibung des Material durch standardisierte Eingabefelder. Nachdem Sie - wie unter Punkt 2 beschrieben - neues Material hochgeladen oder verlinkt haben, öffnet sich der Metadatendialog automatisch. Auch können Sie ihn jederzeit aufrufen, indem Sie Ihr Material öffnen und im Menü oben rechts das Feld <b>Infos bearbeiten</b> auswählen. 
+      Twillo unterstützt Sie bei der Beschreibung des Materiales durch standardisierte Eingabefelder. Nachdem Sie - wie unter Punkt 2 beschrieben - neues Material hochgeladen oder verlinkt haben, öffnet sich der Metadatendialog automatisch. Auch können Sie ihn jederzeit aufrufen, indem Sie Ihr Material öffnen und im Menü oben rechts das Feld <b>Infos bearbeiten</b> auswählen. 
       <figure>
           <a href="images/Metadatendialog.svg" target="_blank"><img src="images/Metadatendialog.svg" alt="Abbildung: Screenshot des twillo Metadatendialogs" title="Abbildung: Screenshot des twillo Metadatendialogs"/></a>
           <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot des twillo Metadatendialogs</figcaption>
       </figure>
-      Die Metadaten-Eingabemaske des Portals gliedert sich in die Bereiche Allgemeine Infomationen, Lizenz, Klassifizierungen, Didaktik und technische Informationen. Zwar sind nur wenige Angaben verpflichtend, wir empfehlen Ihnen allerdings, den Dialog von oben bis unten durchzugehen und möglichst viele Angaben zu machen. Dies verinafacht anderen Personen das Finden und Nutzen Ihres Materials. Metadaten, die eines besonderen Augenmerks bedürfen, werden im folgenden genauer beschrieben.
+      Die Metadaten-Eingabemaske des Portals gliedert sich in die Bereiche Allgemeine Infomationen, Lizenz, Klassifizierungen, Didaktik und technische Informationen. Zwar sind nur wenige Angaben verpflichtend, wir empfehlen Ihnen allerdings, den Dialog von oben bis unten durchzugehen und möglichst viele Angaben zu machen. Dies vereinfacht anderen Personen das Finden und Nutzen Ihres Materials. Metadaten, die eines besonderen Augenmerks bedürfen, werden im folgenden genauer beschrieben.
       <br><br>
       <b>Angabe von Urheber:innen und Beteiligten Personen</b>
       <br><br>
-      Im Abschnitt <b>Allgemeine Informationen</b> geben Sie u.a. die Urheber:innen des Material an. Bitte wählen Sie hierfür den Reiter <b>Autoren & Beteiligte</b> aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit <b>mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber:innen</b> einzutragen oder <b>weitere an der Entwicklung des Materials beteiligte Personen</b> (z.B. Herausgeber:innen, Grafiker:innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter <b>weitere Beteiligte</b> unterhalb des Eingabefelds.
+      Im Abschnitt <b>allgemeine Informationen</b> geben Sie u.a. die Urheber:innen des Materiales an. Bitte wählen Sie hierfür den Reiter <b>Autoren & Beteiligte</b> aus und geben Sie den Vor- und Nachnamen der Autorin/des Autors ein. Sie haben auch die Möglichkeit <b>mehr als eine Person, eine Organisation/Institution/Gruppe als Urheber:innen</b> einzutragen oder <b>weitere an der Entwicklung des Materiales beteiligte Personen</b> (z.B. Herausgeber:innen, Grafiker:innen) sichtbar zu machen. Klicken Sie hierfür auf den Reiter <b>weitere Beteiligte</b> unterhalb des Eingabefelds.
       <figure>
           <a href="images/Step_1.svg" target="_blank"><img src="images/Step_1.svg" alt="Abbildung: Screenshot Urheber:innenangaben twillo " title="Abbildung: Screenshot Urheber:innenangaben twillo "/></a>
           <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot Urheber:innenangaben twillo </figcaption>
@@ -130,10 +130,10 @@ Der Workflow auf twillo umfasst vier Schritte:
       <br>
       Sie möchten nicht nur eine einzelne Datei/einen einzelnen Link hinterlegen? Hierfür steht Ihnen auf twillo die <b>Serienfunktion</b> zu Verfügung.  Bitte erstellen Sie nur dann eine Serie, wenn Sie zu einem Bildungsmaterial weitere Materialien ergänzen wollen, die untrennbar zusammengehören, z.B.:
       <ul>
-        <li>ein anderes Dateiformat des Materials</li>
+        <li>ein anderes Dateiformat des Materiales</li>
         <li>eine Musterlösung zu einem Arbeitsblatt</li>
         <li>eine Aufgabe zu einem Lehrvideo</li>
-        <li>eine detailierte Beschreibung für die Lehrpraxis</li>
+        <li>eine detaillierte Beschreibung für die Lehrpraxis</li>
       </ul>
       Gehen Sie in den Bereich <b>weitere Materialien</b> und ergänzen Sie Materialien über den Button <b>Hinzufügen</b>. Sofern Sie die Angaben nicht händisch anpassen, werden die bei dem Hauptmaterial hinterlegten Informationen inkl. gewählter Lizenz an das ergänzte Material übernommen.
       <figure>

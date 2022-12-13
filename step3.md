@@ -5,7 +5,7 @@
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
     <br><br>
-    Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting umzugestalten. Gleichzeitig geht es um die Überführung Ihres Materials in die Form von OER. Einen besonderen Schwerpunkt bilden Fragen der Lizenzierung eigener Materialien mit und ohne die Einbindung von Inhalten Dritter. Ziel dieser Einheit ist es, Ihnen die Aufbereitung eigener Materialien in Form von OER Schritt für Schritt näher zu bringen.
+    Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenzveranstaltungen entwickelt wurden, didaktisch für ein digitales Setting umzugestalten. Gleichzeitig geht es um die Überführung Ihres Materials in die Form von OER. Einen besonderen Schwerpunkt bilden Fragen der Lizenzierung eigener Materialien mit und ohne die Einbindung von Inhalten Dritter. Ziel dieser Einheit ist es, Ihnen die Aufbereitung eigener Materialien in Form von OER Schritt für Schritt näherzubringen.
   </p>
 </div>
 
@@ -209,7 +209,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
     <br>
     <ol>
       <li>Bei der Planung von <b>kleinteiligen Lehrmaterialien</b> kann die <a aria-describedby="OER PLanungshilfe" href="https://tibhannover.gitlab.io/oer/oer-wizard/html/wizard-modal.html">OER-Planungshilfe</a> verwendet werden. Ein Instrument, das Ihnen in wenigen Schritten einen Leitfaden generiert.</li>
-      <li>Bei der Erstellung von Kursen bzw. Einheiten können Sie die Vorlage <a aria-describedby="Link zur Vorlage" href="https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg">mooc-canvas</a> von Sandra Schön und Martin Ebner (lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>) zu Rate ziehen</li>
+      <li>Bei der Erstellung von Kursen bzw. Einheiten können Sie die Vorlage <a aria-describedby="Link zur Vorlage" href="https://sansch.files.wordpress.com/2017/06/mooc-canvas.jpg">MOOC-Canvas</a> von Sandra Schön und Martin Ebner (lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>) zu Rate ziehen</li>
     </ol>
   </p>
 </div>
@@ -237,7 +237,7 @@ Unter Berücksichtigung des erstellten Fahrplans werden nun die einzelnen Materi
     </td>
     <td text-align="left" width="80%">
       <h5>Merkmal Offenes Dateiformat</h5>
-      <b>Die Bereitstellung des Materials in einem möglichst offenen dateiformat:</b>
+      <b>Die Bereitstellung des Materiales in einem möglichst offenen Dateiformat:</b>
       <br><br>
       Neben dem Merkmal der offenen Lizenzierung, gibt es noch ein weiteres Merkmal, das hier als unspezifisch bezeichnet wird und somit grundlegend für eine einfache Handhabung im Sinne einer OER-Practices von Bedeutung ist. Unspezifisch meint hier, dass der Aspekt offenes Dateiformat nicht zwangsläufig erfüllt sein muss, um als OER zu gelten, es erleichtert jedoch mögliche Bearbeitungen und geringfügige Anpassungen an den Materialien.
       <br><br>

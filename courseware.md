@@ -4,7 +4,7 @@
 <h2>Öffentliche Zugänglichkeit schaffen</h2>
 Um interessierten Personen die Möglichkeit zu geben, Ihre mit Courseware in Stud.IP angelegten Inhalte (ohne vorherige Anmeldung) einzusehen oder bspw. ein Selbstlernmodul zu durchlaufen, bestünde theoretisch die Möglichkeit, die Veranstaltung, in der die Courseware eingebunden ist, weltweit <b>öffentlich</b> zu schalten. Bevor das getan wird, sollte allerdings Rücksprache gehalten werden: Einen öffentlichen Bereich, auf dem Kurse von allen durchlaufen werden können, bietet nicht jede Hochschule an. Bitte setzen Sie sich daher mit den Stud.IP-Verantwortlichen Ihrer Hochschule in Verbindung und erfragen Sie etwaige Optionen. 
 
-Die öffentliche Zugänglichkeit Ihres Kurses erleichtert die Nachnutzung enorm: Dritte können sich Ihre Strukturen und Inhalte ansehen und entscheiden, ob sie auch für ihre eigenes Lehr-Lernsetting geeignet wären. Auch besteht die Möglichkeit z.B. in einem Lernmodul abgelegte Arbeitsblätter oder Medienelemente herunterzuladen und direkt weiter zu verwenden. 
+Die öffentliche Zugänglichkeit Ihres Kurses erleichtert die Nachnutzung enorm: Dritte können sich Ihre Strukturen und Inhalte ansehen und entscheiden, ob sie auch für ihr eigenes Lehr-Lernsetting geeignet wären. Auch besteht die Möglichkeit z.B. in einem Lernmodul abgelegte Arbeitsblätter oder Medienelemente herunterzuladen und direkt weiter zu verwenden. 
 
 ---
 <h2>Exportieren von Courseware-Inhalten</h2>

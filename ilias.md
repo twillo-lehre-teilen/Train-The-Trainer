@@ -38,7 +38,7 @@ Im Präsentationsmodus sind die Metadaten und der Lizenzvermerk nun unter dem Re
 
 Um interessierten Personen die Möglichkeit zu geben, Ihre in Ilias angelegten Inhalte (ohne vorherige Anmeldung) einzusehen oder bspw. ein Selbstlernmodul zu durchlaufen, besteht grundsätzlich die Möglichkeit sie <b>öffentlich</b> zu schalten. Hierfür ist jedoch in der Regel der <b>Administrator:innenstatus</b> notwendig, ein einfacher Dozierendenaccount bietet Ihnen den Zugriff auf die nötigen Funktionen i.d.R. nicht. Einen öffentlichen Bereich, auf dem Kurse von jedermann durchlaufen werden können, bietet auch nicht jede Hochschule an. Bitte setzen Sie sich mit den Ilias-Verantwortlichen Ihrer Hochschule in Verbindung und erfragen Sie Ihre Optionen. Für die öffentliche Zugänglichkeit bietet sich vor allem <b>Ilias-Lernmoduls</b> an. Hier ist die Veröffentlichung am einfachsten möglich.
 
-Die öffentliche Zugänglichkeit Ihres Kurses erleichtert die Nachnutzung enorm: Dritte können sich Ihre Strukturen und Inhalte ansehen und entscheiden, ob sie auch für ihre eigenes Lehr-Lernsetting geeignet wären. Auch besteht die Möglichkeit z.B. in einem Lernmodul abgelegte Arbeitsblätter oder Medienelemente herunterzuladen und direkt weiter zu verwenden. 
+Die öffentliche Zugänglichkeit Ihres Kurses erleichtert die Nachnutzung enorm: Dritte können sich Ihre Strukturen und Inhalte ansehen und entscheiden, ob sie auch für ihr eigenes Lehr-Lernsetting geeignet wären. Auch besteht die Möglichkeit z.B. in einem Lernmodul abgelegte Arbeitsblätter oder Medienelemente herunterzuladen und direkt weiter zu verwenden. 
 
 ---
 <h3>Exportdatei bereitstellen</h3>
