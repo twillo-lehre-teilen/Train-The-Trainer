@@ -158,7 +158,7 @@
         <figcaption style="text-align:center;font-size:14px;">Abbildung: Screenshot GitHub Extension</figcaption>
       </figure>
       <br>
-      Bevor wir gie GitHub Erweiterung allerdings verwenden können, müssen Sie sich noch mit Ihrem eigenem GitHub Account in Visual Studio Code anmelden und den Zugriff von Visual Studio Code auf Ihren GitHub Account authorisieren. Erledigen Sie dafür die beiden folgenden Schritte:
+      Bevor wir die GitHub Erweiterung allerdings verwenden können, müssen Sie sich noch mit Ihrem eigenem GitHub Account in Visual Studio Code anmelden und den Zugriff von Visual Studio Code auf Ihren GitHub Account authorisieren. Erledigen Sie dafür die beiden folgenden Schritte:
       <ol>
         <li>
           Wählen Sie unter dem Reiter <b>Accounts</b> die Option <b>Turn on Edit Sessions..</b> (<i>ODER</i>: <b>Sign in with GitHub</b>) und in der sich daraufhin öffnenden Kommandozeile <b>Sign in with GitHub</b> aus. Nun werden Sie zu GitHub weitergeleitet um sich dort mit Ihrem GitHub Account anzumelden und Visual Studio Code zu authorisieren.
