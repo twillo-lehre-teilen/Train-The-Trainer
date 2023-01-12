@@ -41,7 +41,7 @@ Die folgenden wesentlichen Aspekte können in dieser Definition hervorgehoben we
   </tr>
 </table>
 
-Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber:innen durch kleinteilige Lizenzbausteine (sog. Lizenzmodule) differenziert entscheiden können, welche Rechte sie Dritten an Ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
+Im Bildungskontext wird insbesondere das <b>Creative Commons-Lizenzsystem</b> verwendet, da Urheber:innen durch kleinteilige Lizenzbausteine (sog. <b>Lizenzmodule</b>) differenziert entscheiden können, welche Rechte sie Dritten an Ihrem Bildungsmaterial einräumen möchten und unter welchen Bedingungen und/oder mit welchen Einschränkungen das entsprechende Werk genutzt werden darf.
 
 <figure>
   <img src="images/CC_Lizenzmodule.svg" alt="Abbildung: CC-Lizenzmodule" title="Abbildung: CC-Lizenzmodule"/>
